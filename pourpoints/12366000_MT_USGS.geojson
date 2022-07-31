@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12366000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-114.283316408149,48.3166634723662]}, "properties" : {"name" : "Whitefish R nr Kalispell", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12366000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.283316408149,
+      48.3166634723662
+    ]
+  },
+  "properties": {
+    "name": "Whitefish R nr Kalispell",
+    "source": "ref"
+  }
+}

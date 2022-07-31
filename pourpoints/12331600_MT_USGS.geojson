@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12331600:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.149987006902,46.6666634907323]}, "properties" : {"name" : "Clark Fk at Drummond", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12331600:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.149987006902,
+      46.6666634907323
+    ]
+  },
+  "properties": {
+    "name": "Clark Fk at Drummond",
+    "source": "ref"
+  }
+}

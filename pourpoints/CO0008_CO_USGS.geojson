@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0008:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.183419992503,38.4230337780324]}, "properties" : {"name" : "Fremont County Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0008:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.183419992503,
+      38.4230337780324
+    ]
+  },
+  "properties": {
+    "name": "Fremont County Ditch",
+    "source": "ref"
+  }
+}

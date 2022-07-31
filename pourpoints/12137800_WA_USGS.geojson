@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12137800:WA:USGS", "geometry" : {"type":"Point","coordinates":[-121.783315111908,47.949994305001]}, "properties" : {"name" : "Sultan River blw Diversion", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12137800:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.783315111908,
+      47.949994305001
+    ]
+  },
+  "properties": {
+    "name": "Sultan River blw Diversion",
+    "source": "ref"
+  }
+}

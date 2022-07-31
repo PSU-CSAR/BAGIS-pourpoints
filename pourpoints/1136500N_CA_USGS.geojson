@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1136500N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-122.166586421362,40.8333247966061]}, "properties" : {"name" : "Pit R nr Montgomery Creek Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1136500N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.166586421362,
+      40.8333247966061
+    ]
+  },
+  "properties": {
+    "name": "Pit R nr Montgomery Creek Ca (NWS)",
+    "source": "ref"
+  }
+}

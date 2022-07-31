@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06223500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-109.183318465645,43.2833234617656]}, "properties" : {"name" : "Willow Creek Near Crowheart", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06223500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.183318465645,
+      43.2833234617656
+    ]
+  },
+  "properties": {
+    "name": "Willow Creek Near Crowheart",
+    "source": "ref"
+  }
+}

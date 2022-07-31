@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "08271000:NM:USGS", "geometry" : {"type":"Point","coordinates":[-105.530950103158,36.50828407851]}, "properties" : {"name" : "Rio Lucero nr Arroyo Seco", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "08271000:NM:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.530950103158,
+      36.50828407851
+    ]
+  },
+  "properties": {
+    "name": "Rio Lucero nr Arroyo Seco",
+    "source": "ref"
+  }
+}

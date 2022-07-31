@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "159AC001:YK:USGS", "geometry" : {"type":"Point","coordinates":[-135.733307829029,60.8499960463996]}, "properties" : {"name" : "Takhini River Near Whitehorse", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "159AC001:YK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -135.733307829029,
+      60.8499960463996
+    ]
+  },
+  "properties": {
+    "name": "Takhini River Near Whitehorse",
+    "source": "ref"
+  }
+}

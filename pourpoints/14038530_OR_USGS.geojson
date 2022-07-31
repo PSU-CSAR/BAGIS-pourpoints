@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14038530:OR:USGS", "geometry" : {"type":"Point","coordinates":[-118.899986356934,44.4166642326254]}, "properties" : {"name" : "John Day nr John Day", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14038530:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.899986356934,
+      44.4166642326254
+    ]
+  },
+  "properties": {
+    "name": "John Day nr John Day",
+    "source": "ref"
+  }
+}

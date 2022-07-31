@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13182450:OR:USGS", "geometry" : {"type":"Point","coordinates":[-117.231886793663,43.6418941375724]}, "properties" : {"name" : "Div To North And South Canals Fr Owyhee", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13182450:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.231886793663,
+      43.6418941375724
+    ]
+  },
+  "properties": {
+    "name": "Div To North And South Canals Fr Owyhee",
+    "source": "ref"
+  }
+}

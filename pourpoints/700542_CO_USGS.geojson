@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "700542:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.246199831069,39.7515935973605]}, "properties" : {"name" : "Golden City Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "700542:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.246199831069,
+      39.7515935973605
+    ]
+  },
+  "properties": {
+    "name": "Golden City Ditch",
+    "source": "ref"
+  }
+}

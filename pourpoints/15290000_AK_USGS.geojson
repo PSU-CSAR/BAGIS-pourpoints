@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15290000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-149.231916595866,61.7097382849944]}, "properties" : {"name" : "Little Susitna R nr Palmer", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15290000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.231916595866,
+      61.7097382849944
+    ]
+  },
+  "properties": {
+    "name": "Little Susitna R nr Palmer",
+    "source": "ref"
+  }
+}

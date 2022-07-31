@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06050000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-111.066657663939,45.5666633921835]}, "properties" : {"name" : "Hyalite Ck nr Bozeman", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06050000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.066657663939,
+      45.5666633921835
+    ]
+  },
+  "properties": {
+    "name": "Hyalite Ck nr Bozeman",
+    "source": "ref"
+  }
+}

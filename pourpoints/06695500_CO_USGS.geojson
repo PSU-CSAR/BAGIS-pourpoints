@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06695500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.472769875278,38.905273729133]}, "properties" : {"name" : "South Platte R nr Lake George", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06695500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.472769875278,
+      38.905273729133
+    ]
+  },
+  "properties": {
+    "name": "South Platte R nr Lake George",
+    "source": "ref"
+  }
+}

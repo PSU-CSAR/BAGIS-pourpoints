@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14085200:OR:USGS", "geometry" : {"type":"Point","coordinates":[-120.728586069987,44.2994144176609]}, "properties" : {"name" : "Ochoco Feed Canal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14085200:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.728586069987,
+      44.2994144176609
+    ]
+  },
+  "properties": {
+    "name": "Ochoco Feed Canal",
+    "source": "ref"
+  }
+}

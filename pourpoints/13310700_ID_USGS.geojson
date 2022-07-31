@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13310700:ID:USGS", "geometry" : {"type":"Point","coordinates":[-115.72498682847,44.9869338833658]}, "properties" : {"name" : "SF Salmon R nr Krassel Ranger Station", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13310700:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.72498682847,
+      44.9869338833658
+    ]
+  },
+  "properties": {
+    "name": "SF Salmon R nr Krassel Ranger Station",
+    "source": "ref"
+  }
+}

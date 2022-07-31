@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06295113:MT:USGS", "geometry" : {"type":"Point","coordinates":[-106.983318614475,45.3666630421942]}, "properties" : {"name" : "Rosebud Ck at Reservation Boundary", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06295113:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.983318614475,
+      45.3666630421942
+    ]
+  },
+  "properties": {
+    "name": "Rosebud Ck at Reservation Boundary",
+    "source": "ref"
+  }
+}

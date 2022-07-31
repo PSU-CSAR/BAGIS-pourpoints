@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11501000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.849726195264,42.5845746426907]}, "properties" : {"name" : "Sprague R nr Chiloquin", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11501000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.849726195264,
+      42.5845746426907
+    ]
+  },
+  "properties": {
+    "name": "Sprague R nr Chiloquin",
+    "source": "ref"
+  }
+}

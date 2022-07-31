@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13050018:ID:USGS", "geometry" : {"type":"Point","coordinates":[-111.36491789134,43.9338835804572]}, "properties" : {"name" : "Discharge Crosscut Canal To Teton River", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13050018:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.36491789134,
+      43.9338835804572
+    ]
+  },
+  "properties": {
+    "name": "Discharge Crosscut Canal To Teton River",
+    "source": "ref"
+  }
+}

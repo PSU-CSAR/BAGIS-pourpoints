@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12NG0200:BC:USGS", "geometry" : {"type":"Point","coordinates":[-115.366655895877,49.4999935030761]}, "properties" : {"name" : "Bull R nr Wardner, BC", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12NG0200:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.366655895877,
+      49.4999935030761
+    ]
+  },
+  "properties": {
+    "name": "Bull R nr Wardner, BC",
+    "source": "ref"
+  }
+}

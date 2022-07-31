@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06135100:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.422707083514,48.9747230191717]}, "properties" : {"name" : "Milk R at Eastern Crossing Of Intl Bndry", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06135100:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.422707083514,
+      48.9747230191717
+    ]
+  },
+  "properties": {
+    "name": "Milk R at Eastern Crossing Of Intl Bndry",
+    "source": "ref"
+  }
+}

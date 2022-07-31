@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14078000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-119.049986405941,44.0166642776628]}, "properties" : {"name" : "Beaver Creek nr Paulina", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14078000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.049986405941,
+      44.0166642776628
+    ]
+  },
+  "properties": {
+    "name": "Beaver Creek nr Paulina",
+    "source": "ref"
+  }
+}

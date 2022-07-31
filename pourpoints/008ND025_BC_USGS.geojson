@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "008ND025:BC:USGS", "geometry" : {"type":"Point","coordinates":[-118.549984533612,52.0666637179462]}, "properties" : {"name" : "Columbia R at Mica Dam", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "008ND025:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.549984533612,
+      52.0666637179462
+    ]
+  },
+  "properties": {
+    "name": "Columbia R at Mica Dam",
+    "source": "ref"
+  }
+}

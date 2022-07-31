@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06191000:WY:USGS", "geometry" : {"type":"Point","coordinates":[-110.683317849846,44.9999934123348]}, "properties" : {"name" : "Gardner R nr Mammoth, Ynp", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06191000:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.683317849846,
+      44.9999934123348
+    ]
+  },
+  "properties": {
+    "name": "Gardner R nr Mammoth, Ynp",
+    "source": "ref"
+  }
+}

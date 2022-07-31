@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12347500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-114.233316867972,46.2666636314463]}, "properties" : {"name" : "Blodgett Ck nr Corvallis", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12347500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.233316867972,
+      46.2666636314463
+    ]
+  },
+  "properties": {
+    "name": "Blodgett Ck nr Corvallis",
+    "source": "ref"
+  }
+}

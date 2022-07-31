@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14034470:OR:USGS", "geometry" : {"type":"Point","coordinates":[-119.515836071619,45.3406742265107]}, "properties" : {"name" : "Willow Ck ab Willow Ck Lake nr Heppner", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14034470:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.515836071619,
+      45.3406742265107
+    ]
+  },
+  "properties": {
+    "name": "Willow Ck ab Willow Ck Lake nr Heppner",
+    "source": "ref"
+  }
+}

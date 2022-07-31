@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10366000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-119.962706582618,42.0721045112428]}, "properties" : {"name" : "Twentymile Ck nr Adel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10366000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.962706582618,
+      42.0721045112428
+    ]
+  },
+  "properties": {
+    "name": "Twentymile Ck nr Adel",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09174700:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.33331934849,37.9166640554428]}, "properties" : {"name" : "West Naturita Creek at Upper Station Nr", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09174700:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.33331934849,
+      37.9166640554428
+    ]
+  },
+  "properties": {
+    "name": "West Naturita Creek at Upper Station Nr",
+    "source": "ref"
+  }
+}

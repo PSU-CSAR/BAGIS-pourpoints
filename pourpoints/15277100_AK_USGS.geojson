@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15277100:AK:USGS", "geometry" : {"type":"Point","coordinates":[-149.558866888737,61.3077783126932]}, "properties" : {"name" : "Eagle R at Eagle River, AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15277100:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.558866888737,
+      61.3077783126932
+    ]
+  },
+  "properties": {
+    "name": "Eagle R at Eagle River, AK",
+    "source": "ref"
+  }
+}

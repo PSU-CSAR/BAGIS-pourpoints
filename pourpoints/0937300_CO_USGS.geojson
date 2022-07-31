@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "0937300:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.159889596111,39.9704936317047]}, "properties" : {"name" : "Big Lake Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "0937300:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.159889596111,
+      39.9704936317047
+    ]
+  },
+  "properties": {
+    "name": "Big Lake Ditch",
+    "source": "ref"
+  }
+}

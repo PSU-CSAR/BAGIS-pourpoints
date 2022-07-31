@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10020300:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.013878340925,41.5055538104819]}, "properties" : {"name" : "Bear R Below Reservoir, Near Woodruff, U", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10020300:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.013878340925,
+      41.5055538104819
+    ]
+  },
+  "properties": {
+    "name": "Bear R Below Reservoir, Near Woodruff, U",
+    "source": "ref"
+  }
+}

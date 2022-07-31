@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14400000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-124.18331592377,42.1166548863006]}, "properties" : {"name" : "Chetco R nr Brookings", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14400000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -124.18331592377,
+      42.1166548863006
+    ]
+  },
+  "properties": {
+    "name": "Chetco R nr Brookings",
+    "source": "ref"
+  }
+}

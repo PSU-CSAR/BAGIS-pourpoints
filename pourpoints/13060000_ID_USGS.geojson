@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13060000:ID:USGS", "geometry" : {"type":"Point","coordinates":[-112.134987818303,43.4130537005747]}, "properties" : {"name" : "Snake R nr Shelley", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13060000:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.134987818303,
+      43.4130537005747
+    ]
+  },
+  "properties": {
+    "name": "Snake R nr Shelley",
+    "source": "ref"
+  }
+}

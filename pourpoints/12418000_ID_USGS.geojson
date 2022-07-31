@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12418000:ID:USGS", "geometry" : {"type":"Point","coordinates":[-116.866656042005,47.6999937895924]}, "properties" : {"name" : "Rathdrum Prairie Canal at Heutter, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12418000:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.866656042005,
+      47.6999937895924
+    ]
+  },
+  "properties": {
+    "name": "Rathdrum Prairie Canal at Heutter, ID",
+    "source": "ref"
+  }
+}

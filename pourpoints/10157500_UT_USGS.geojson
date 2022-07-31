@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10157500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.471928389345,40.4608239643552]}, "properties" : {"name" : "Daniels Ck at Charleston", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10157500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.471928389345,
+      40.4608239643552
+    ]
+  },
+  "properties": {
+    "name": "Daniels Ck at Charleston",
+    "source": "ref"
+  }
+}

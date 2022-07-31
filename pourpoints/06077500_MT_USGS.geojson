@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06077500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-111.383317272217,47.1833232723759]}, "properties" : {"name" : "Smith R nr Eden", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06077500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.383317272217,
+      47.1833232723759
+    ]
+  },
+  "properties": {
+    "name": "Smith R nr Eden",
+    "source": "ref"
+  }
+}

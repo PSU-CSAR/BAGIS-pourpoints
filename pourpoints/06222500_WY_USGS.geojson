@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06222500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-109.299988432728,43.3333234663504]}, "properties" : {"name" : "Dry Creek Near Burris", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06222500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.299988432728,
+      43.3333234663504
+    ]
+  },
+  "properties": {
+    "name": "Dry Creek Near Burris",
+    "source": "ref"
+  }
+}

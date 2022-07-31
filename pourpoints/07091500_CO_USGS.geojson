@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "07091500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.010559791978,38.5458238156697]}, "properties" : {"name" : "Arkansas R at Salida", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "07091500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.010559791978,
+      38.5458238156697
+    ]
+  },
+  "properties": {
+    "name": "Arkansas R at Salida",
+    "source": "ref"
+  }
+}

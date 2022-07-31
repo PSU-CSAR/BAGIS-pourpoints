@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "150017:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.142986969533,39.1672647664316]}, "properties" : {"name" : "Lk Tahoe Net Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "150017:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.142986969533,
+      39.1672647664316
+    ]
+  },
+  "properties": {
+    "name": "Lk Tahoe Net Inflow",
+    "source": "ref"
+  }
+}

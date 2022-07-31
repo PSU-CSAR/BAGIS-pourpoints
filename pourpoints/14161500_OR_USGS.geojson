@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14161500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.249985846478,44.1999945726102]}, "properties" : {"name" : "Lookout Creek nr Blue River", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14161500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.249985846478,
+      44.1999945726102
+    ]
+  },
+  "properties": {
+    "name": "Lookout Creek nr Blue River",
+    "source": "ref"
+  }
+}

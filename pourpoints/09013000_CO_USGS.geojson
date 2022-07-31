@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09013000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.577389686234,40.3277935424898]}, "properties" : {"name" : "Alva B. Adams Tunnel at East Portal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09013000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.577389686234,
+      40.3277935424898
+    ]
+  },
+  "properties": {
+    "name": "Alva B. Adams Tunnel at East Portal",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09507580:AZ:USGS", "geometry" : {"type":"Point","coordinates":[-111.263049066067,34.4177747072419]}, "properties" : {"name" : "East Verde R Div", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09507580:AZ:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.263049066067,
+      34.4177747072419
+    ]
+  },
+  "properties": {
+    "name": "East Verde R Div",
+    "source": "ref"
+  }
+}

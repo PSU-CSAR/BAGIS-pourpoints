@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11292900:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.099067095955,38.1932448491245]}, "properties" : {"name" : "Mf Stanislaus R bl Beardsley Dam CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11292900:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.099067095955,
+      38.1932448491245
+    ]
+  },
+  "properties": {
+    "name": "Mf Stanislaus R bl Beardsley Dam CA",
+    "source": "ref"
+  }
+}

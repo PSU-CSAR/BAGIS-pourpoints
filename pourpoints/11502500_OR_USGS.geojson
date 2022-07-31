@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11502500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.879446193968,42.5648546465046]}, "properties" : {"name" : "Williamson R bl Sprague R nr Chiloquin", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11502500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.879446193968,
+      42.5648546465046
+    ]
+  },
+  "properties": {
+    "name": "Williamson R bl Sprague R nr Chiloquin",
+    "source": "ref"
+  }
+}

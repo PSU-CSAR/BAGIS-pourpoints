@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "07091000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.160009738709,38.7336037994125]}, "properties" : {"name" : "Chalk Ck nr Nathrop", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "07091000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.160009738709,
+      38.7336037994125
+    ]
+  },
+  "properties": {
+    "name": "Chalk Ck nr Nathrop",
+    "source": "ref"
+  }
+}

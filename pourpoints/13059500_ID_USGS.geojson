@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13059500:ID:USGS", "geometry" : {"type":"Point","coordinates":[-111.816657872566,43.4833236659011]}, "properties" : {"name" : "Div. Fm Snake R Bet Heise And Shelly Gag", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13059500:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.816657872566,
+      43.4833236659011
+    ]
+  },
+  "properties": {
+    "name": "Div. Fm Snake R Bet Heise And Shelly Gag",
+    "source": "ref"
+  }
+}

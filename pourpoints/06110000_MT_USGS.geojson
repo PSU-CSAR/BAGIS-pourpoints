@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06110000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.233317583269,46.8999931859058]}, "properties" : {"name" : "Judith R nr Utica", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06110000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.233317583269,
+      46.8999931859058
+    ]
+  },
+  "properties": {
+    "name": "Judith R nr Utica",
+    "source": "ref"
+  }
+}

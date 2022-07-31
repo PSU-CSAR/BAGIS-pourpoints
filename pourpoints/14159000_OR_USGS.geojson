@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14159000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.116655872663,44.1666645613072]}, "properties" : {"name" : "Mc Kenzie River at Mc Kenzie Bridge", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14159000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.116655872663,
+      44.1666645613072
+    ]
+  },
+  "properties": {
+    "name": "Mc Kenzie River at Mc Kenzie Bridge",
+    "source": "ref"
+  }
+}

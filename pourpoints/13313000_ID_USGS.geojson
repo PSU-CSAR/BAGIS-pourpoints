@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13313000:ID:USGS", "geometry" : {"type":"Point","coordinates":[-115.499986876449,44.9616638645906]}, "properties" : {"name" : "Johnson Ck at Yellow Pine", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13313000:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.499986876449,
+      44.9616638645906
+    ]
+  },
+  "properties": {
+    "name": "Johnson Ck at Yellow Pine",
+    "source": "ref"
+  }
+}

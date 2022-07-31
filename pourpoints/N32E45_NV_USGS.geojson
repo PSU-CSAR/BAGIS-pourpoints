@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "N32E45:NV:USGS", "geometry" : {"type":"Point","coordinates":[-116.515587427915,40.393594367753]}, "properties" : {"name" : "Usgs Gw 061 N32 E45 11daca1 Usgs", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "N32E45:NV:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.515587427915,
+      40.393594367753
+    ]
+  },
+  "properties": {
+    "name": "Usgs Gw 061 N32 E45 11daca1 Usgs",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09378100:UT:USGS", "geometry" : {"type":"Point","coordinates":[-109.349989137029,37.8666641294591]}, "properties" : {"name" : "North Creek abv Ranger Station", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09378100:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.349989137029,
+      37.8666641294591
+    ]
+  },
+  "properties": {
+    "name": "North Creek abv Ranger Station",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12323750:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.76665718441,46.1833234960243]}, "properties" : {"name" : "Silverbow Ck at Warm Springs", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12323750:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.76665718441,
+      46.1833234960243
+    ]
+  },
+  "properties": {
+    "name": "Silverbow Ck at Warm Springs",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15621000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-165.499975564304,64.5500012121134]}, "properties" : {"name" : "Snake R nr Nome AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15621000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -165.499975564304,
+      64.5500012121134
+    ]
+  },
+  "properties": {
+    "name": "Snake R nr Nome AK",
+    "source": "ref"
+  }
+}

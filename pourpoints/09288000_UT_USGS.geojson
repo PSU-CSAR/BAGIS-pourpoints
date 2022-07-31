@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09288000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.899988541615,40.1999939509258]}, "properties" : {"name" : "Currant Ck nr Fruitland, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09288000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.899988541615,
+      40.1999939509258
+    ]
+  },
+  "properties": {
+    "name": "Currant Ck nr Fruitland, UT",
+    "source": "ref"
+  }
+}

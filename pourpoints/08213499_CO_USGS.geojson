@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "08213499:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.283319596284,37.7166540137963]}, "properties" : {"name" : "Rio Grande Reservoir Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "08213499:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.283319596284,
+      37.7166540137963
+    ]
+  },
+  "properties": {
+    "name": "Rio Grande Reservoir Inflow",
+    "source": "ref"
+  }
+}

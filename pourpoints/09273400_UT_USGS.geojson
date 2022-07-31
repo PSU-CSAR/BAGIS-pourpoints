@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09273400:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.840088506834,40.5603739040519]}, "properties" : {"name" : "Hades Diversion", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09273400:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.840088506834,
+      40.5603739040519
+    ]
+  },
+  "properties": {
+    "name": "Hades Diversion",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14154500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.866655837771,43.7333246619277]}, "properties" : {"name" : "Row R ab Pitcher Ck nr Dorena", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14154500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.866655837771,
+      43.7333246619277
+    ]
+  },
+  "properties": {
+    "name": "Row R ab Pitcher Ck nr Dorena",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12333000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.366657074953,46.1166635600826]}, "properties" : {"name" : "EF Rock Ck blw  EF Rock Ck Resv", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12333000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.366657074953,
+      46.1166635600826
+    ]
+  },
+  "properties": {
+    "name": "EF Rock Ck blw  EF Rock Ck Resv",
+    "source": "ref"
+  }
+}

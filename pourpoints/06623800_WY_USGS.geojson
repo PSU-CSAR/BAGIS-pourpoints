@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06623800:WY:USGS", "geometry" : {"type":"Point","coordinates":[-106.816659317437,41.0166635434019]}, "properties" : {"name" : "Encampment R abv Hog Park Ck", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06623800:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.816659317437,
+      41.0166635434019
+    ]
+  },
+  "properties": {
+    "name": "Encampment R abv Hog Park Ck",
+    "source": "ref"
+  }
+}

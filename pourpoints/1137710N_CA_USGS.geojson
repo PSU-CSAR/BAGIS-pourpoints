@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1137710N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-122.183316498669,40.2833248395077]}, "properties" : {"name" : "Sacramento R ab Bend Bridge nr Red Bluff", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1137710N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.183316498669,
+      40.2833248395077
+    ]
+  },
+  "properties": {
+    "name": "Sacramento R ab Bend Bridge nr Red Bluff",
+    "source": "ref"
+  }
+}

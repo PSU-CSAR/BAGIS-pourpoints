@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1136800N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-122.216646396295,40.9499947918636]}, "properties" : {"name" : "Mccloud R ab Shasta Lk Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1136800N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.216646396295,
+      40.9499947918636
+    ]
+  },
+  "properties": {
+    "name": "Mccloud R ab Shasta Lk Ca (NWS)",
+    "source": "ref"
+  }
+}

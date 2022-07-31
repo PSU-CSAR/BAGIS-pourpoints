@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "159DD003:YK:USGS", "geometry" : {"type":"Point","coordinates":[-139.233305717968,63.2666666966742]}, "properties" : {"name" : "Stewart River at The Mouth", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "159DD003:YK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -139.233305717968,
+      63.2666666966742
+    ]
+  },
+  "properties": {
+    "name": "Stewart River at The Mouth",
+    "source": "ref"
+  }
+}

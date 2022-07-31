@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "385106106571000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.952769547547,38.8516638369784]}, "properties" : {"name" : "Slate R ab Baxter Gl  at Hwy 135", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "385106106571000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.952769547547,
+      38.8516638369784
+    ]
+  },
+  "properties": {
+    "name": "Slate R ab Baxter Gl  at Hwy 135",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0014:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.204089428827,37.3975941176248]}, "properties" : {"name" : "Long Park Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0014:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.204089428827,
+      37.3975941176248
+    ]
+  },
+  "properties": {
+    "name": "Long Park Ditch",
+    "source": "ref"
+  }
+}

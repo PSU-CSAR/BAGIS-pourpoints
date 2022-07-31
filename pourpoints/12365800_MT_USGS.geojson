@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12365800:MT:USGS", "geometry" : {"type":"Point","coordinates":[-114.433316338153,48.4833234755152]}, "properties" : {"name" : "Swift Ck nr Whitefish", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12365800:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.433316338153,
+      48.4833234755152
+    ]
+  },
+  "properties": {
+    "name": "Swift Ck nr Whitefish",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06233900:WY:USGS", "geometry" : {"type":"Point","coordinates":[-108.516658664642,42.9499934437546]}, "properties" : {"name" : "Popo Agie River nr Arapahoe", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06233900:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.516658664642,
+      42.9499934437546
+    ]
+  },
+  "properties": {
+    "name": "Popo Agie River nr Arapahoe",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13140800:ID:USGS", "geometry" : {"type":"Point","coordinates":[-114.319157395535,43.329163901179]}, "properties" : {"name" : "Big Wood R at Stanton Xing", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13140800:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.319157395535,
+      43.329163901179
+    ]
+  },
+  "properties": {
+    "name": "Big Wood R at Stanton Xing",
+    "source": "ref"
+  }
+}

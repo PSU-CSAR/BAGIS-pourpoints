@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06211500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-109.233318092197,45.4166632380963]}, "properties" : {"name" : "Willow Ck nr Boyd", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06211500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.233318092197,
+      45.4166632380963
+    ]
+  },
+  "properties": {
+    "name": "Willow Ck nr Boyd",
+    "source": "ref"
+  }
+}

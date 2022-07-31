@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12NG1200:BC:USGS", "geometry" : {"type":"Point","coordinates":[-115.84998577314,49.5999935499042]}, "properties" : {"name" : "St Mary R at Wycliffe, BC", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12NG1200:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.84998577314,
+      49.5999935499042
+    ]
+  },
+  "properties": {
+    "name": "St Mary R at Wycliffe, BC",
+    "source": "ref"
+  }
+}

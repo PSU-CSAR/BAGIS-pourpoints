@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14011000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-118.283316174243,45.8999940636049]}, "properties" : {"name" : "N F Walla Walla River nr Milton", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14011000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.283316174243,
+      45.8999940636049
+    ]
+  },
+  "properties": {
+    "name": "N F Walla Walla River nr Milton",
+    "source": "ref"
+  }
+}

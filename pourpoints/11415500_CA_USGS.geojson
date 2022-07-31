@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11415500:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.649986853838,39.433324783275]}, "properties" : {"name" : "Bowman Lake Near Graniteville, CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11415500:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.649986853838,
+      39.433324783275
+    ]
+  },
+  "properties": {
+    "name": "Bowman Lake Near Graniteville, CA",
+    "source": "ref"
+  }
+}

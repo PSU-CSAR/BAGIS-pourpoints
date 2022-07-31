@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14082550:OR:USGS", "geometry" : {"type":"Point","coordinates":[-120.582736087929,44.333964401141]}, "properties" : {"name" : "Ochoco Ck bl Marks Ck nr Prineville", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14082550:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.582736087929,
+      44.333964401141
+    ]
+  },
+  "properties": {
+    "name": "Ochoco Ck bl Marks Ck nr Prineville",
+    "source": "ref"
+  }
+}

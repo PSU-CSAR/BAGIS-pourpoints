@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "008NG005:BC:USGS", "geometry" : {"type":"Point","coordinates":[-115.416645907612,49.4166535142733]}, "properties" : {"name" : "Kootenay River at Wardner", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "008NG005:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.416645907612,
+      49.4166535142733
+    ]
+  },
+  "properties": {
+    "name": "Kootenay River at Wardner",
+    "source": "ref"
+  }
+}

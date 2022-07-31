@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12NG6500:BC:USGS", "geometry" : {"type":"Point","coordinates":[-115.633315811685,49.6166635242504]}, "properties" : {"name" : "Kootenai R nr Fort Steele, BC", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12NG6500:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.633315811685,
+      49.6166635242504
+    ]
+  },
+  "properties": {
+    "name": "Kootenai R nr Fort Steele, BC",
+    "source": "ref"
+  }
+}

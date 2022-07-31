@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13126500:ID:USGS", "geometry" : {"type":"Point","coordinates":[-113.649987421591,43.9499937832637]}, "properties" : {"name" : "Sharp Ditch Near Mackay, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13126500:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.649987421591,
+      43.9499937832637
+    ]
+  },
+  "properties": {
+    "name": "Sharp Ditch Near Mackay, ID",
+    "source": "ref"
+  }
+}

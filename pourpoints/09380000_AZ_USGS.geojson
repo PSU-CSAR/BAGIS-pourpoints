@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09380000:AZ:USGS", "geometry" : {"type":"Point","coordinates":[-111.583318781305,36.8666644047342]}, "properties" : {"name" : "Colorado River at Lees Ferry, AZ", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09380000:AZ:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.583318781305,
+      36.8666644047342
+    ]
+  },
+  "properties": {
+    "name": "Colorado River at Lees Ferry, AZ",
+    "source": "ref"
+  }
+}

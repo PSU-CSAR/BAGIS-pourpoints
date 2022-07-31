@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10047500:ID:USGS", "geometry" : {"type":"Point","coordinates":[-111.233318177078,42.3166637386669]}, "properties" : {"name" : "Montpelier Cr at Irr Weir nr Montpelier", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10047500:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.233318177078,
+      42.3166637386669
+    ]
+  },
+  "properties": {
+    "name": "Montpelier Cr at Irr Weir nr Montpelier",
+    "source": "ref"
+  }
+}

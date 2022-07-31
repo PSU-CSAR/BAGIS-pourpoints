@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "07208500:NM:USGS", "geometry" : {"type":"Point","coordinates":[-104.969280241911,36.3723340650324]}, "properties" : {"name" : "Rayado Ck nr Cimarron", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "07208500:NM:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.969280241911,
+      36.3723340650324
+    ]
+  },
+  "properties": {
+    "name": "Rayado Ck nr Cimarron",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12NK0500:BC:USGS", "geometry" : {"type":"Point","coordinates":[-115.116656019535,49.2166634956058]}, "properties" : {"name" : "Elk R at Phillips Bridge, BC", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12NK0500:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.116656019535,
+      49.2166634956058
+    ]
+  },
+  "properties": {
+    "name": "Elk R at Phillips Bridge, BC",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0023:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.232089426472,37.3704941228671]}, "properties" : {"name" : "Samson Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0023:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.232089426472,
+      37.3704941228671
+    ]
+  },
+  "properties": {
+    "name": "Samson Ditch",
+    "source": "ref"
+  }
+}

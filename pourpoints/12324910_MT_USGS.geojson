@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12324910:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.949987157044,46.1333235179011]}, "properties" : {"name" : "N. Fk Flint Ck nr Anaconda", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12324910:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.949987157044,
+      46.1333235179011
+    ]
+  },
+  "properties": {
+    "name": "N. Fk Flint Ck nr Anaconda",
+    "source": "ref"
+  }
+}

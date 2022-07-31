@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12303100:MT:USGS", "geometry" : {"type":"Point","coordinates":[-115.599986135765,48.3499936090807]}, "properties" : {"name" : "Flower Ck nr Libby", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12303100:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.599986135765,
+      48.3499936090807
+    ]
+  },
+  "properties": {
+    "name": "Flower Ck nr Libby",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14308990:OR:USGS", "geometry" : {"type":"Point","coordinates":[-123.124705959544,42.8233247442507]}, "properties" : {"name" : "Cow Creek Above Galesville Reservoir, OR", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14308990:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.124705959544,
+      42.8233247442507
+    ]
+  },
+  "properties": {
+    "name": "Cow Creek Above Galesville Reservoir, OR",
+    "source": "ref"
+  }
+}

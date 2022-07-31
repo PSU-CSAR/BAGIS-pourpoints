@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14034500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-119.533316066655,45.3499942277141]}, "properties" : {"name" : "Willow Ck at Heppner", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14034500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.533316066655,
+      45.3499942277141
+    ]
+  },
+  "properties": {
+    "name": "Willow Ck at Heppner",
+    "source": "ref"
+  }
+}

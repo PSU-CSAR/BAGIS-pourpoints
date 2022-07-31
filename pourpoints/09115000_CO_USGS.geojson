@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09115000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.24998975583,38.3832938544254]}, "properties" : {"name" : "Larkspur Ditch at Marshall Pass", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09115000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.24998975583,
+      38.3832938544254
+    ]
+  },
+  "properties": {
+    "name": "Larkspur Ditch at Marshall Pass",
+    "source": "ref"
+  }
+}

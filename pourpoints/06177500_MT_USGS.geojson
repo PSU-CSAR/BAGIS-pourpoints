@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06177500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-105.583318560802,47.4166626965088]}, "properties" : {"name" : "Redwater R at Circle", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06177500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.583318560802,
+      47.4166626965088
+    ]
+  },
+  "properties": {
+    "name": "Redwater R at Circle",
+    "source": "ref"
+  }
+}

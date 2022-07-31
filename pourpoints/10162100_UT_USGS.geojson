@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10162100:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.64216837288,40.3270939924753]}, "properties" : {"name" : "Salt Lake Aqueduct", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10162100:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.64216837288,
+      40.3270939924753
+    ]
+  },
+  "properties": {
+    "name": "Salt Lake Aqueduct",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0047:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.81518931569,39.225493846622]}, "properties" : {"name" : "Southside Canal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0047:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.81518931569,
+      39.225493846622
+    ]
+  },
+  "properties": {
+    "name": "Southside Canal",
+    "source": "ref"
+  }
+}

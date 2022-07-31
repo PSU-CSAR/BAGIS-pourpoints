@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1123021N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-118.916647391754,37.299994848483]}, "properties" : {"name" : "SF San Joaquin R L Hooper C nr Florence", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1123021N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.916647391754,
+      37.299994848483
+    ]
+  },
+  "properties": {
+    "name": "SF San Joaquin R L Hooper C nr Florence",
+    "source": "ref"
+  }
+}

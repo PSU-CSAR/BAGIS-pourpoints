@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10348850:NV:USGS", "geometry" : {"type":"Point","coordinates":[-119.857486991836,39.3544347278313]}, "properties" : {"name" : "Galena Ck at Galena Ck State Pk", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10348850:NV:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.857486991836,
+      39.3544347278313
+    ]
+  },
+  "properties": {
+    "name": "Galena Ck at Galena Ck State Pk",
+    "source": "ref"
+  }
+}

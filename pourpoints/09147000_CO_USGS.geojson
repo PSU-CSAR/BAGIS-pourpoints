@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09147000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.749989447285,38.1666639836329]}, "properties" : {"name" : "Dallas Creek nr Ridgway", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09147000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.749989447285,
+      38.1666639836329
+    ]
+  },
+  "properties": {
+    "name": "Dallas Creek nr Ridgway",
+    "source": "ref"
+  }
+}

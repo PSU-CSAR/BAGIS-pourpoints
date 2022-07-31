@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1131667N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.499987003878,38.4333248579576]}, "properties" : {"name" : "NF Mokelumne R bl Tiger C Res nr West Pt", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1131667N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.499987003878,
+      38.4333248579576
+    ]
+  },
+  "properties": {
+    "name": "NF Mokelumne R bl Tiger C Res nr West Pt",
+    "source": "ref"
+  }
+}

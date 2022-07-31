@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06102000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.699987185624,48.2666631086162]}, "properties" : {"name" : "Marias R nr Brinkman", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06102000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.699987185624,
+      48.2666631086162
+    ]
+  },
+  "properties": {
+    "name": "Marias R nr Brinkman",
+    "source": "ref"
+  }
+}

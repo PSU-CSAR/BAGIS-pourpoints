@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06258999:WY:USGS", "geometry" : {"type":"Point","coordinates":[-108.183318663658,43.4333233615241]}, "properties" : {"name" : "Boysen Reservoir Inflow-USBR", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06258999:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.183318663658,
+      43.4333233615241
+    ]
+  },
+  "properties": {
+    "name": "Boysen Reservoir Inflow-USBR",
+    "source": "ref"
+  }
+}

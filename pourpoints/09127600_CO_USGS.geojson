@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09127600:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.616649440706,38.4999939292274]}, "properties" : {"name" : "Gunnison - Crystal Res", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09127600:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.616649440706,
+      38.4999939292274
+    ]
+  },
+  "properties": {
+    "name": "Gunnison - Crystal Res",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06318500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-106.783318837329,44.3333231410601]}, "properties" : {"name" : "Clear Ck nr Buffalo", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06318500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.783318837329,
+      44.3333231410601
+    ]
+  },
+  "properties": {
+    "name": "Clear Ck nr Buffalo",
+    "source": "ref"
+  }
+}

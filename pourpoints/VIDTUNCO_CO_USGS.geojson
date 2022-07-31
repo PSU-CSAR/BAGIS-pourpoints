@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "VIDTUNCO:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.791539721414,39.622863653026]}, "properties" : {"name" : "Vidler Tunnel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "VIDTUNCO:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.791539721414,
+      39.622863653026
+    ]
+  },
+  "properties": {
+    "name": "Vidler Tunnel",
+    "source": "ref"
+  }
+}

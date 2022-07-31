@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12057500:WA:USGS", "geometry" : {"type":"Point","coordinates":[-123.21665501146,47.4166644900531]}, "properties" : {"name" : "Skokomish River nr Hoodsport", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12057500:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.21665501146,
+      47.4166644900531
+    ]
+  },
+  "properties": {
+    "name": "Skokomish River nr Hoodsport",
+    "source": "ref"
+  }
+}

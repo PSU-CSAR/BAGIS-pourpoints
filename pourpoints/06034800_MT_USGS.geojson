@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06034800:MT:USGS", "geometry" : {"type":"Point","coordinates":[-111.883317483769,45.599993464723]}, "properties" : {"name" : "SF Willow Ck nr Harrison", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06034800:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.883317483769,
+      45.599993464723
+    ]
+  },
+  "properties": {
+    "name": "SF Willow Ck nr Harrison",
+    "source": "ref"
+  }
+}

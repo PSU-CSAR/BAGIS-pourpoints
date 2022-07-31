@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15056210:AK:USGS", "geometry" : {"type":"Point","coordinates":[-135.344418720103,59.5119359540003]}, "properties" : {"name" : "Taiya R nr Skagway", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15056210:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -135.344418720103,
+      59.5119359540003
+    ]
+  },
+  "properties": {
+    "name": "Taiya R nr Skagway",
+    "source": "ref"
+  }
+}

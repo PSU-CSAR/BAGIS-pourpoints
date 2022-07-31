@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06193500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.616657700412,45.8833233191546]}, "properties" : {"name" : "Shields R at Clyde Park", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06193500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.616657700412,
+      45.8833233191546
+    ]
+  },
+  "properties": {
+    "name": "Shields R at Clyde Park",
+    "source": "ref"
+  }
+}

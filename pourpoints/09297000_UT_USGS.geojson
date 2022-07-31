@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09297000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.066658671822,40.5333238479346]}, "properties" : {"name" : "Uinta R nr Neola, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09297000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.066658671822,
+      40.5333238479346
+    ]
+  },
+  "properties": {
+    "name": "Uinta R nr Neola, UT",
+    "source": "ref"
+  }
+}

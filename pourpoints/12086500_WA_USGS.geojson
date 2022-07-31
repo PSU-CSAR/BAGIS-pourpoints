@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12086500:WA:USGS", "geometry" : {"type":"Point","coordinates":[-122.316655289154,46.8333244234628]}, "properties" : {"name" : "Nisqually R at Legrande", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12086500:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.316655289154,
+      46.8333244234628
+    ]
+  },
+  "properties": {
+    "name": "Nisqually R at Legrande",
+    "source": "ref"
+  }
+}

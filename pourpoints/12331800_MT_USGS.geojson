@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12331800:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.330766960564,46.7119035047658]}, "properties" : {"name" : "Clark Fork nr Drummond", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12331800:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.330766960564,
+      46.7119035047658
+    ]
+  },
+  "properties": {
+    "name": "Clark Fork nr Drummond",
+    "source": "ref"
+  }
+}

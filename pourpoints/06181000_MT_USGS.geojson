@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06181000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-105.183318505871,48.166662581146]}, "properties" : {"name" : "Poplar R nr Poplar", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06181000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.183318505871,
+      48.166662581146
+    ]
+  },
+  "properties": {
+    "name": "Poplar R nr Poplar",
+    "source": "ref"
+  }
+}

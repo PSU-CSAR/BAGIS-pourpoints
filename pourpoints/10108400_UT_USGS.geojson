@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10108400:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.749988156892,41.7333238444307]}, "properties" : {"name" : "Logan, Hyd Pk & Smithfld Canal at Head", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10108400:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.749988156892,
+      41.7333238444307
+    ]
+  },
+  "properties": {
+    "name": "Logan, Hyd Pk & Smithfld Canal at Head",
+    "source": "ref"
+  }
+}

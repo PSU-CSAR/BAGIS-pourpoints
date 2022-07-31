@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09378650:UT:USGS", "geometry" : {"type":"Point","coordinates":[-109.449989137164,37.666664162064]}, "properties" : {"name" : "Recapture Creek blw Johnson Creek", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09378650:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.449989137164,
+      37.666664162064
+    ]
+  },
+  "properties": {
+    "name": "Recapture Creek blw Johnson Creek",
+    "source": "ref"
+  }
+}

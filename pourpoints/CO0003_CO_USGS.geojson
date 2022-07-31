@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0003:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.801389571832,40.8343934919683]}, "properties" : {"name" : "Deadman Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0003:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.801389571832,
+      40.8343934919683
+    ]
+  },
+  "properties": {
+    "name": "Deadman Ditch",
+    "source": "ref"
+  }
+}

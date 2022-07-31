@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06136500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-109.949987278588,48.5999930035458]}, "properties" : {"name" : "Milk R Fresno Inflow nr Havre", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06136500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.949987278588,
+      48.5999930035458
+    ]
+  },
+  "properties": {
+    "name": "Milk R Fresno Inflow nr Havre",
+    "source": "ref"
+  }
+}

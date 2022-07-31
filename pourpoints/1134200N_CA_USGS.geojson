@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1134200N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-122.416646368446,40.9333248105489]}, "properties" : {"name" : "Sacramento R A Delta Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1134200N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.416646368446,
+      40.9333248105489
+    ]
+  },
+  "properties": {
+    "name": "Sacramento R A Delta Ca (NWS)",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10093000:ID:USGS", "geometry" : {"type":"Point","coordinates":[-111.683318111702,42.1333237960073]}, "properties" : {"name" : "Cub River Near Preston, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10093000:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.683318111702,
+      42.1333237960073
+    ]
+  },
+  "properties": {
+    "name": "Cub River Near Preston, ID",
+    "source": "ref"
+  }
+}

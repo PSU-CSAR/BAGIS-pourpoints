@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12NG0500:BC:USGS", "geometry" : {"type":"Point","coordinates":[-115.416655907601,49.4166635142019]}, "properties" : {"name" : "Kootenai R at Wardner, BC", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12NG0500:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.416655907601,
+      49.4166635142019
+    ]
+  },
+  "properties": {
+    "name": "Kootenai R at Wardner, BC",
+    "source": "ref"
+  }
+}

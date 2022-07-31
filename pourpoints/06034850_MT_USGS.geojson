@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06034850:MT:USGS", "geometry" : {"type":"Point","coordinates":[-111.883317483769,45.599993464723]}, "properties" : {"name" : "Willow Ck  NF +  SF nr Harrison", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06034850:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.883317483769,
+      45.599993464723
+    ]
+  },
+  "properties": {
+    "name": "Willow Ck  NF +  SF nr Harrison",
+    "source": "ref"
+  }
+}

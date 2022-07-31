@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11187000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-118.423407631691,35.7543949722068]}, "properties" : {"name" : "Kern R A Kernville CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11187000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.423407631691,
+      35.7543949722068
+    ]
+  },
+  "properties": {
+    "name": "Kern R A Kernville CA",
+    "source": "ref"
+  }
+}

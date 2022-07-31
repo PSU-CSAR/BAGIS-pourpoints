@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12343400:MT:USGS", "geometry" : {"type":"Point","coordinates":[-114.06665697997,45.8833236479676]}, "properties" : {"name" : "East Fk Bitterroot R nr Conner", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12343400:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.06665697997,
+      45.8833236479676
+    ]
+  },
+  "properties": {
+    "name": "East Fk Bitterroot R nr Conner",
+    "source": "ref"
+  }
+}

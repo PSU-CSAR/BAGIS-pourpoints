@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10147500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.683318410508,39.9666640367277]}, "properties" : {"name" : "Payson Ck abv Diversions nr Payson, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10147500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.683318410508,
+      39.9666640367277
+    ]
+  },
+  "properties": {
+    "name": "Payson Ck abv Diversions nr Payson, UT",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06744000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.761089618807,40.5305935285629]}, "properties" : {"name" : "Bob Creek Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06744000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.761089618807,
+      40.5305935285629
+    ]
+  },
+  "properties": {
+    "name": "Bob Creek Ditch",
+    "source": "ref"
+  }
+}

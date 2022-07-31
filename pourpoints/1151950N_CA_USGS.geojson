@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1151950N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-123.015026171064,41.6405848128426]}, "properties" : {"name" : "Scott R nr Fort Jones CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1151950N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.015026171064,
+      41.6405848128426
+    ]
+  },
+  "properties": {
+    "name": "Scott R nr Fort Jones CA",
+    "source": "ref"
+  }
+}

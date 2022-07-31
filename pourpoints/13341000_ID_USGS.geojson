@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13341000:ID:USGS", "geometry" : {"type":"Point","coordinates":[-116.31938641146,46.5043938206645]}, "properties" : {"name" : "NF Clearwater at Ahsahka", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13341000:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.31938641146,
+      46.5043938206645
+    ]
+  },
+  "properties": {
+    "name": "NF Clearwater at Ahsahka",
+    "source": "ref"
+  }
+}

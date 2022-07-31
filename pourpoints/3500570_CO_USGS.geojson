@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "3500570:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.383390048895,37.4274139346223]}, "properties" : {"name" : "Sdc-Trinchera Canal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "3500570:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.383390048895,
+      37.4274139346223
+    ]
+  },
+  "properties": {
+    "name": "Sdc-Trinchera Canal",
+    "source": "ref"
+  }
+}

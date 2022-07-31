@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10353000:NV:USGS", "geometry" : {"type":"Point","coordinates":[-117.58331700433,41.9833243102595]}, "properties" : {"name" : "EF Quinn R nr Mcdermitt, NV", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10353000:NV:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.58331700433,
+      41.9833243102595
+    ]
+  },
+  "properties": {
+    "name": "EF Quinn R nr Mcdermitt, NV",
+    "source": "ref"
+  }
+}

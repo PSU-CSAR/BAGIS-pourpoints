@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10132500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.405548306681,41.1763838781002]}, "properties" : {"name" : "Lost Ck nr Croyden", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10132500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.405548306681,
+      41.1763838781002
+    ]
+  },
+  "properties": {
+    "name": "Lost Ck nr Croyden",
+    "source": "ref"
+  }
+}

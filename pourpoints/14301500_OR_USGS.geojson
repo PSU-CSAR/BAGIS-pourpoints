@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14301500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-123.68331537264,45.4833246410462]}, "properties" : {"name" : "Wilson R nr Tillamook", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14301500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.68331537264,
+      45.4833246410462
+    ]
+  },
+  "properties": {
+    "name": "Wilson R nr Tillamook",
+    "source": "ref"
+  }
+}

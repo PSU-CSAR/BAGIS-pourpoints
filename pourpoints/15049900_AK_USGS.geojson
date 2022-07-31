@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15049900:AK:USGS", "geometry" : {"type":"Point","coordinates":[-134.388419511423,58.3068957843827]}, "properties" : {"name" : "Gold Ck nr Juneau", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15049900:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -134.388419511423,
+      58.3068957843827
+    ]
+  },
+  "properties": {
+    "name": "Gold Ck nr Juneau",
+    "source": "ref"
+  }
+}

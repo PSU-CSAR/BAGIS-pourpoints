@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09371000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.740819350958,37.0274942015002]}, "properties" : {"name" : "Mancos River Near Towaoc", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09371000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.740819350958,
+      37.0274942015002
+    ]
+  },
+  "properties": {
+    "name": "Mancos River Near Towaoc",
+    "source": "ref"
+  }
+}

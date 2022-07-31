@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06291200:MT:USGS", "geometry" : {"type":"Point","coordinates":[-107.766658497621,44.9999931516896]}, "properties" : {"name" : "Lodge Grass Ck at State Line", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06291200:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.766658497621,
+      44.9999931516896
+    ]
+  },
+  "properties": {
+    "name": "Lodge Grass Ck at State Line",
+    "source": "ref"
+  }
+}

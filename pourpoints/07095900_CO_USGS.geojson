@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "07095900:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.270959971789,38.4297637828931]}, "properties" : {"name" : "Canon City Hydraulic", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "07095900:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.270959971789,
+      38.4297637828931
+    ]
+  },
+  "properties": {
+    "name": "Canon City Hydraulic",
+    "source": "ref"
+  }
+}

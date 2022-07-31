@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14105700:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.17338573927,45.6073343762255]}, "properties" : {"name" : "Columbia R at The Dalles", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14105700:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.17338573927,
+      45.6073343762255
+    ]
+  },
+  "properties": {
+    "name": "Columbia R at The Dalles",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09185800:UT:USGS", "geometry" : {"type":"Point","coordinates":[-109.499989109273,37.833324144173]}, "properties" : {"name" : "Indian Creek Tunnel nr Monticello, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09185800:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.499989109273,
+      37.833324144173
+    ]
+  },
+  "properties": {
+    "name": "Indian Creek Tunnel nr Monticello, UT",
+    "source": "ref"
+  }
+}

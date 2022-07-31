@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14186100:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.55034575172,44.4481745862162]}, "properties" : {"name" : "Green Peter Lake Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14186100:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.55034575172,
+      44.4481745862162
+    ]
+  },
+  "properties": {
+    "name": "Green Peter Lake Inflow",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06033100:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.099987320833,46.1999934306222]}, "properties" : {"name" : "Little Boulder nr Boulder", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06033100:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.099987320833,
+      46.1999934306222
+    ]
+  },
+  "properties": {
+    "name": "Little Boulder nr Boulder",
+    "source": "ref"
+  }
+}

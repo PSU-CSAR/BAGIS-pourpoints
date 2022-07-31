@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10136499:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.830518225403,41.1348139162508]}, "properties" : {"name" : "Gateway Tunnel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10136499:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.830518225403,
+      41.1348139162508
+    ]
+  },
+  "properties": {
+    "name": "Gateway Tunnel",
+    "source": "ref"
+  }
+}

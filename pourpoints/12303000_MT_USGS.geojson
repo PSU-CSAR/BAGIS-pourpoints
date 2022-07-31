@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12303000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-115.549986133468,48.3999935999747]}, "properties" : {"name" : "Kootenai R at Libby", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12303000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.549986133468,
+      48.3999935999747
+    ]
+  },
+  "properties": {
+    "name": "Kootenai R at Libby",
+    "source": "ref"
+  }
+}

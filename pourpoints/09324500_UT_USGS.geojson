@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09324500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.133318609135,39.2666640785302]}, "properties" : {"name" : "Cottonwood Ck nr Orangeville", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09324500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.133318609135,
+      39.2666640785302
+    ]
+  },
+  "properties": {
+    "name": "Cottonwood Ck nr Orangeville",
+    "source": "ref"
+  }
+}

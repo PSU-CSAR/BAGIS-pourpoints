@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09274899:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.003598486813,40.4502739295691]}, "properties" : {"name" : "WF Duchesne R at Vat Diversion", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09274899:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.003598486813,
+      40.4502739295691
+    ]
+  },
+  "properties": {
+    "name": "WF Duchesne R at Vat Diversion",
+    "source": "ref"
+  }
+}

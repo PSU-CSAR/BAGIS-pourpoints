@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09272500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.001928468522,40.5924939126213]}, "properties" : {"name" : "Duchesne Tunnel Near Kamas, Utah", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09272500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.001928468522,
+      40.5924939126213
+    ]
+  },
+  "properties": {
+    "name": "Duchesne Tunnel Near Kamas, Utah",
+    "source": "ref"
+  }
+}

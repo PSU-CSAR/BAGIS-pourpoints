@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1120490N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-118.916647475977,36.4999949273142]}, "properties" : {"name" : "Tule R bl Success Dam Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1120490N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.916647475977,
+      36.4999949273142
+    ]
+  },
+  "properties": {
+    "name": "Tule R bl Success Dam Ca (NWS)",
+    "source": "ref"
+  }
+}

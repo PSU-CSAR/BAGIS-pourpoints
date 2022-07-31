@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11276500:CA:USGS", "geometry" : {"type":"Point","coordinates":[-119.79821717437,37.937414850675]}, "properties" : {"name" : "Tuolumne R nr Hetch Hetchy CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11276500:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.79821717437,
+      37.937414850675
+    ]
+  },
+  "properties": {
+    "name": "Tuolumne R nr Hetch Hetchy CA",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "150028:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.09557694809,39.3904047435947]}, "properties" : {"name" : "Boca Res Local Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "150028:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.09557694809,
+      39.3904047435947
+    ]
+  },
+  "properties": {
+    "name": "Boca Res Local Inflow",
+    "source": "ref"
+  }
+}

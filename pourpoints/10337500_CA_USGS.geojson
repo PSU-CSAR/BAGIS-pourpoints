@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10337500:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.149986968346,39.1666647668081]}, "properties" : {"name" : "Truckee R at Tahoe City, CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10337500:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.149986968346,
+      39.1666647668081
+    ]
+  },
+  "properties": {
+    "name": "Truckee R at Tahoe City, CA",
+    "source": "ref"
+  }
+}

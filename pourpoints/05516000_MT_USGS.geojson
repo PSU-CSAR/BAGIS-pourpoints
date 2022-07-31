@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "05516000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.516646444036,48.8333233522599]}, "properties" : {"name" : "Lake Sherburne Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "05516000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.516646444036,
+      48.8333233522599
+    ]
+  },
+  "properties": {
+    "name": "Lake Sherburne Inflow",
+    "source": "ref"
+  }
+}

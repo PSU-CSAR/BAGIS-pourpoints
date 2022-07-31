@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06274500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-109.149988340803,44.0999933699011]}, "properties" : {"name" : "Greybull R nr Pitchfork", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06274500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.149988340803,
+      44.0999933699011
+    ]
+  },
+  "properties": {
+    "name": "Greybull R nr Pitchfork",
+    "source": "ref"
+  }
+}

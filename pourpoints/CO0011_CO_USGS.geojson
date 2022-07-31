@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0011:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.67998956998,39.1999937717687]}, "properties" : {"name" : "Hunter Creek Diversion", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0011:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.67998956998,
+      39.1999937717687
+    ]
+  },
+  "properties": {
+    "name": "Hunter Creek Diversion",
+    "source": "ref"
+  }
+}

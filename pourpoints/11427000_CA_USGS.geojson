@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11427000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-121.023816857797,38.9360048546637]}, "properties" : {"name" : "NF American R A North Fork Dam CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11427000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.023816857797,
+      38.9360048546637
+    ]
+  },
+  "properties": {
+    "name": "NF American R A North Fork Dam CA",
+    "source": "ref"
+  }
+}

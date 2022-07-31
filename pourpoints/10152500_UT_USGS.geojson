@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10152500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.516658421132,40.1499940033802]}, "properties" : {"name" : "Hobble Ck nr Springville, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10152500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.516658421132,
+      40.1499940033802
+    ]
+  },
+  "properties": {
+    "name": "Hobble Ck nr Springville, UT",
+    "source": "ref"
+  }
+}

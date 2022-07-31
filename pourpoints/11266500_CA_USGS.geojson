@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11266500:CA:USGS", "geometry" : {"type":"Point","coordinates":[-119.666267221871,37.7168648614254]}, "properties" : {"name" : "Merced R A Pohono Bridge nr Yosemite CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11266500:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.666267221871,
+      37.7168648614254
+    ]
+  },
+  "properties": {
+    "name": "Merced R A Pohono Bridge nr Yosemite CA",
+    "source": "ref"
+  }
+}

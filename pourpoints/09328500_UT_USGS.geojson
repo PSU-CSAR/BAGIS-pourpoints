@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09328500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.366658815838,38.8499940739169]}, "properties" : {"name" : "San Rafael River Near Green River, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09328500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.366658815838,
+      38.8499940739169
+    ]
+  },
+  "properties": {
+    "name": "San Rafael River Near Green River, UT",
+    "source": "ref"
+  }
+}

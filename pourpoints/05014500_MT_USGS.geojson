@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "05014500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.649986424315,48.7999933693037]}, "properties" : {"name" : "Swiftcurrent Ck at Many Glacier", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "05014500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.649986424315,
+      48.7999933693037
+    ]
+  },
+  "properties": {
+    "name": "Swiftcurrent Ck at Many Glacier",
+    "source": "ref"
+  }
+}

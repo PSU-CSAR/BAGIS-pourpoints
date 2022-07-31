@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12388400:MT:USGS", "geometry" : {"type":"Point","coordinates":[-114.399986623041,47.2666635662059]}, "properties" : {"name" : "Revais Ck nr Dixon", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12388400:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.399986623041,
+      47.2666635662059
+    ]
+  },
+  "properties": {
+    "name": "Revais Ck nr Dixon",
+    "source": "ref"
+  }
+}

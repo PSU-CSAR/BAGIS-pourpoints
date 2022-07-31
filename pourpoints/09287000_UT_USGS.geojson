@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09287000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.04526849521,40.3241639476262]}, "properties" : {"name" : "Currant Ck bl Red Ledge Hollow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09287000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.04526849521,
+      40.3241639476262
+    ]
+  },
+  "properties": {
+    "name": "Currant Ck bl Red Ledge Hollow",
+    "source": "ref"
+  }
+}

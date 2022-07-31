@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06133500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.049986509876,48.9666632932652]}, "properties" : {"name" : "NF Milk R abv Canal nr Browning", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06133500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.049986509876,
+      48.9666632932652
+    ]
+  },
+  "properties": {
+    "name": "NF Milk R abv Canal nr Browning",
+    "source": "ref"
+  }
+}

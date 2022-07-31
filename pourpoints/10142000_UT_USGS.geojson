@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10142000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.866658236075,40.9999939344021]}, "properties" : {"name" : "Farmington Ck abv Div nr Farmington, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10142000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.866658236075,
+      40.9999939344021
+    ]
+  },
+  "properties": {
+    "name": "Farmington Ck abv Div nr Farmington, UT",
+    "source": "ref"
+  }
+}

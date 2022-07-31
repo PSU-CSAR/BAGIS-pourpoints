@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1128750N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.399987104982,37.6999949162724]}, "properties" : {"name" : "Don Pedro Reservoir Near La Grange, Ca (", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1128750N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.399987104982,
+      37.6999949162724
+    ]
+  },
+  "properties": {
+    "name": "Don Pedro Reservoir Near La Grange, Ca (",
+    "source": "ref"
+  }
+}

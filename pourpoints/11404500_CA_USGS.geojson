@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11404500:CA:USGS", "geometry" : {"type":"Point","coordinates":[-121.451896679172,39.7940448177731]}, "properties" : {"name" : "NF Feather R A Pulga CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11404500:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.451896679172,
+      39.7940448177731
+    ]
+  },
+  "properties": {
+    "name": "NF Feather R A Pulga CA",
+    "source": "ref"
+  }
+}

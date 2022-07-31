@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "07207500:NM:USGS", "geometry" : {"type":"Point","coordinates":[-104.946800228745,36.573684034043]}, "properties" : {"name" : "Ponil Ck nr Cimarron", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "07207500:NM:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.946800228745,
+      36.573684034043
+    ]
+  },
+  "properties": {
+    "name": "Ponil Ck nr Cimarron",
+    "source": "ref"
+  }
+}

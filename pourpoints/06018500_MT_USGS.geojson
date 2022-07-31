@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06018500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.449987406099,45.3833235387609]}, "properties" : {"name" : "Beaverhead R nr Twin Bridges", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06018500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.449987406099,
+      45.3833235387609
+    ]
+  },
+  "properties": {
+    "name": "Beaverhead R nr Twin Bridges",
+    "source": "ref"
+  }
+}

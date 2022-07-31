@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09127999:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.649189430397,38.5268939279907]}, "properties" : {"name" : "Gunnison Tunnel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09127999:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.649189430397,
+      38.5268939279907
+    ]
+  },
+  "properties": {
+    "name": "Gunnison Tunnel",
+    "source": "ref"
+  }
+}

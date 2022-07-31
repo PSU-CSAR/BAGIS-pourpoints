@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15294450:AK:USGS", "geometry" : {"type":"Point","coordinates":[-151.251917054785,61.1086085758974]}, "properties" : {"name" : "Chuitna R nr Tyonek", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15294450:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.251917054785,
+      61.1086085758974
+    ]
+  },
+  "properties": {
+    "name": "Chuitna R nr Tyonek",
+    "source": "ref"
+  }
+}

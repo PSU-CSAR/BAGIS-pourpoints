@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "159BC001:YK:USGS", "geometry" : {"type":"Point","coordinates":[-136.566646313415,62.8166662370157]}, "properties" : {"name" : "Pelly River at Pelly Crossing", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "159BC001:YK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -136.566646313415,
+      62.8166662370157
+    ]
+  },
+  "properties": {
+    "name": "Pelly River at Pelly Crossing",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "008NH126:BC:USGS", "geometry" : {"type":"Point","coordinates":[-116.933315384723,50.24999362941]}, "properties" : {"name" : "Duncan R bl Duncan Dam", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "008NH126:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.933315384723,
+      50.24999362941
+    ]
+  },
+  "properties": {
+    "name": "Duncan R bl Duncan Dam",
+    "source": "ref"
+  }
+}

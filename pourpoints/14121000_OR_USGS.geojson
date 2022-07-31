@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14121000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.499985667466,45.6999944039251]}, "properties" : {"name" : "Hood R nr Hood R", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14121000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.499985667466,
+      45.6999944039251
+    ]
+  },
+  "properties": {
+    "name": "Hood R nr Hood R",
+    "source": "ref"
+  }
+}

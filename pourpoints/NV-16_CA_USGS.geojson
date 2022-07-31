@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "NV-16:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.181676634753,41.5080445740875]}, "properties" : {"name" : "Deep Ck nr Cedarville", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "NV-16:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.181676634753,
+      41.5080445740875
+    ]
+  },
+  "properties": {
+    "name": "Deep Ck nr Cedarville",
+    "source": "ref"
+  }
+}

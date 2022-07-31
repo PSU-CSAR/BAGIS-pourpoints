@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09021500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.776389704434,39.7985936273644]}, "properties" : {"name" : "Berthoud Pass Ditch nr Berthoud Pass", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09021500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.776389704434,
+      39.7985936273644
+    ]
+  },
+  "properties": {
+    "name": "Berthoud Pass Ditch nr Berthoud Pass",
+    "source": "ref"
+  }
+}

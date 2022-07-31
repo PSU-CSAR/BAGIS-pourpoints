@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10147000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.752768402683,39.9222140471421]}, "properties" : {"name" : "Summit Ck nr Santaquin", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10147000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.752768402683,
+      39.9222140471421
+    ]
+  },
+  "properties": {
+    "name": "Summit Ck nr Santaquin",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1133500N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-121.333286863485,38.4999949142978]}, "properties" : {"name" : "Cosumnes R A Michigan Bar Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1133500N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.333286863485,
+      38.4999949142978
+    ]
+  },
+  "properties": {
+    "name": "Cosumnes R A Michigan Bar Ca (NWS)",
+    "source": "ref"
+  }
+}

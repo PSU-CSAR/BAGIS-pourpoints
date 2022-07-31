@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10205000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.949988490896,38.8666641852686]}, "properties" : {"name" : "Sevier R nr Sigurd, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10205000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.949988490896,
+      38.8666641852686
+    ]
+  },
+  "properties": {
+    "name": "Sevier R nr Sigurd, UT",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06071100:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.133317170894,46.8999933711676]}, "properties" : {"name" : "L Prickly Pear Ck at Sieben Rch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06071100:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.133317170894,
+      46.8999933711676
+    ]
+  },
+  "properties": {
+    "name": "L Prickly Pear Ck at Sieben Rch",
+    "source": "ref"
+  }
+}

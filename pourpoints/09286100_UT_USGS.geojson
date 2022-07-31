@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09286100:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.861928531728,40.3299939324395]}, "properties" : {"name" : "Red Ck ab Res nr Fruitland", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09286100:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.861928531728,
+      40.3299939324395
+    ]
+  },
+  "properties": {
+    "name": "Red Ck ab Res nr Fruitland",
+    "source": "ref"
+  }
+}

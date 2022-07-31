@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14078420:OR:USGS", "geometry" : {"type":"Point","coordinates":[-120.116656212376,44.0833243736416]}, "properties" : {"name" : "N F Crooked nr Paulina", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14078420:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.116656212376,
+      44.0833243736416
+    ]
+  },
+  "properties": {
+    "name": "N F Crooked nr Paulina",
+    "source": "ref"
+  }
+}

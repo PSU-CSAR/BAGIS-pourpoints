@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14316500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.53331596986,43.2833246587016]}, "properties" : {"name" : "North Umpqua River Near Tokatee Falls, O", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14316500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.53331596986,
+      43.2833246587016
+    ]
+  },
+  "properties": {
+    "name": "North Umpqua River Near Tokatee Falls, O",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15239000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-150.850537935121,59.7583284199082]}, "properties" : {"name" : "Bradley R nr Homer AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15239000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.850537935121,
+      59.7583284199082
+    ]
+  },
+  "properties": {
+    "name": "Bradley R nr Homer AK",
+    "source": "ref"
+  }
+}

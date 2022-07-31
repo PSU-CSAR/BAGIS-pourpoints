@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06297500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-107.304708628538,44.8530531274882]}, "properties" : {"name" : "Highline Ditch nr Dayton", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06297500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.304708628538,
+      44.8530531274882
+    ]
+  },
+  "properties": {
+    "name": "Highline Ditch nr Dayton",
+    "source": "ref"
+  }
+}

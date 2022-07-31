@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06136700:MT:USGS", "geometry" : {"type":"Point","coordinates":[-109.949987278588,48.5999930035458]}, "properties" : {"name" : "Milk R Bel Fresno Dam", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06136700:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.949987278588,
+      48.5999930035458
+    ]
+  },
+  "properties": {
+    "name": "Milk R Bel Fresno Dam",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12323100:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.499987260467,46.08332347929]}, "properties" : {"name" : "Moulton Resv Inflow nr Butte", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12323100:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.499987260467,
+      46.08332347929
+    ]
+  },
+  "properties": {
+    "name": "Moulton Resv Inflow nr Butte",
+    "source": "ref"
+  }
+}

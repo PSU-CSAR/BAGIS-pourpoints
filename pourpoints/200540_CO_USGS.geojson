@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "200540:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.245229830944,39.7523135968576]}, "properties" : {"name" : "Church Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "200540:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.245229830944,
+      39.7523135968576
+    ]
+  },
+  "properties": {
+    "name": "Church Ditch",
+    "source": "ref"
+  }
+}

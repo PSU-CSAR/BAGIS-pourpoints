@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14056500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.686926029337,43.6861045519796]}, "properties" : {"name" : "Wickiup Reservoir Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14056500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.686926029337,
+      43.6861045519796
+    ]
+  },
+  "properties": {
+    "name": "Wickiup Reservoir Inflow",
+    "source": "ref"
+  }
+}

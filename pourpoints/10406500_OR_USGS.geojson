@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10406500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-118.459326823808,42.1554443713424]}, "properties" : {"name" : "Trout Ck nr Denio", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10406500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.459326823808,
+      42.1554443713424
+    ]
+  },
+  "properties": {
+    "name": "Trout Ck nr Denio",
+    "source": "ref"
+  }
+}

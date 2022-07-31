@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11504500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.243796155612,42.4553446878033]}, "properties" : {"name" : "Fourmile Lake Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11504500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.243796155612,
+      42.4553446878033
+    ]
+  },
+  "properties": {
+    "name": "Fourmile Lake Inflow",
+    "source": "ref"
+  }
+}

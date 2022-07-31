@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06197500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.19998785468,45.5499933134682]}, "properties" : {"name" : "Boulder R nr Contact", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06197500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.19998785468,
+      45.5499933134682
+    ]
+  },
+  "properties": {
+    "name": "Boulder R nr Contact",
+    "source": "ref"
+  }
+}

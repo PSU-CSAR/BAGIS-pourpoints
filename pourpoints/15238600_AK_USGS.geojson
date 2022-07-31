@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15238600:AK:USGS", "geometry" : {"type":"Point","coordinates":[-149.4521977197,60.0694382172003]}, "properties" : {"name" : "Spruce Ck nr Seward", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15238600:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.4521977197,
+      60.0694382172003
+    ]
+  },
+  "properties": {
+    "name": "Spruce Ck nr Seward",
+    "source": "ref"
+  }
+}

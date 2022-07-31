@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10343000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.286096909032,39.4566647526616]}, "properties" : {"name" : "Independence Lk Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10343000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.286096909032,
+      39.4566647526616
+    ]
+  },
+  "properties": {
+    "name": "Independence Lk Inflow",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14337500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.683316055671,42.6499947145056]}, "properties" : {"name" : "Big Butte Creek nr Mcleod", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14337500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.683316055671,
+      42.6499947145056
+    ]
+  },
+  "properties": {
+    "name": "Big Butte Creek nr Mcleod",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09019500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.899989637378,40.1208235931834]}, "properties" : {"name" : "Colorado R nr Granby", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09019500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.899989637378,
+      40.1208235931834
+    ]
+  },
+  "properties": {
+    "name": "Colorado R nr Granby",
+    "source": "ref"
+  }
+}

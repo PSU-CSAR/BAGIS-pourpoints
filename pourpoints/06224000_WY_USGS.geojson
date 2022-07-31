@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06224000:WY:USGS", "geometry" : {"type":"Point","coordinates":[-109.199988477254,43.1833234742189]}, "properties" : {"name" : "Bull Lake Creek Above Bull Lake", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06224000:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.199988477254,
+      43.1833234742189
+    ]
+  },
+  "properties": {
+    "name": "Bull Lake Creek Above Bull Lake",
+    "source": "ref"
+  }
+}

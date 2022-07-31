@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13306500:ID:USGS", "geometry" : {"type":"Point","coordinates":[-114.383317029572,45.299993728461]}, "properties" : {"name" : "Panther Creek Near Shoup, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13306500:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.383317029572,
+      45.299993728461
+    ]
+  },
+  "properties": {
+    "name": "Panther Creek Near Shoup, ID",
+    "source": "ref"
+  }
+}

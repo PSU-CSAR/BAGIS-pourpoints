@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15348000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-141.402194668471,64.3091671094084]}, "properties" : {"name" : "Fortymile R nr Steele Creek AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15348000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -141.402194668471,
+      64.3091671094084
+    ]
+  },
+  "properties": {
+    "name": "Fortymile R nr Steele Creek AK",
+    "source": "ref"
+  }
+}

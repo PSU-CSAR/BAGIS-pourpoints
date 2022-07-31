@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06122000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-109.766657787581,46.3999931896637]}, "properties" : {"name" : "American Fk nr Harlowton", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06122000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.766657787581,
+      46.3999931896637
+    ]
+  },
+  "properties": {
+    "name": "American Fk nr Harlowton",
+    "source": "ref"
+  }
+}

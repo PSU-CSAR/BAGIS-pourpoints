@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09344300:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.737189785219,37.0302940756012]}, "properties" : {"name" : "Oso Diversion nr Chromo", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09344300:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.737189785219,
+      37.0302940756012
+    ]
+  },
+  "properties": {
+    "name": "Oso Diversion nr Chromo",
+    "source": "ref"
+  }
+}

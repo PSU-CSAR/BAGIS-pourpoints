@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09343200:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.809689752058,37.2035940557789]}, "properties" : {"name" : "Blanco Diversion nr Pagosa Springs", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09343200:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.809689752058,
+      37.2035940557789
+    ]
+  },
+  "properties": {
+    "name": "Blanco Diversion nr Pagosa Springs",
+    "source": "ref"
+  }
+}

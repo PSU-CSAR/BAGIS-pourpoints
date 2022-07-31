@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0043:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.549689350111,37.4507941326819]}, "properties" : {"name" : "Dolores Tunnel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0043:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.549689350111,
+      37.4507941326819
+    ]
+  },
+  "properties": {
+    "name": "Dolores Tunnel",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "UT0002:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.757188543065,40.4097939149967]}, "properties" : {"name" : "Farm Creek Canal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "UT0002:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.757188543065,
+      40.4097939149967
+    ]
+  },
+  "properties": {
+    "name": "Farm Creek Canal",
+    "source": "ref"
+  }
+}

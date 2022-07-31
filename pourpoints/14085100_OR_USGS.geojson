@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14085100:OR:USGS", "geometry" : {"type":"Point","coordinates":[-120.727766070141,44.2988844175558]}, "properties" : {"name" : "Ochoco Reservoir Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14085100:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.727766070141,
+      44.2988844175558
+    ]
+  },
+  "properties": {
+    "name": "Ochoco Reservoir Inflow",
+    "source": "ref"
+  }
+}

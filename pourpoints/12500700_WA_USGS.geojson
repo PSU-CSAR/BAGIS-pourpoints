@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12500700:WA:USGS", "geometry" : {"type":"Point","coordinates":[-120.799985606706,46.5166642807828]}, "properties" : {"name" : "North And South Forks Ahtanum Creek", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12500700:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.799985606706,
+      46.5166642807828
+    ]
+  },
+  "properties": {
+    "name": "North And South Forks Ahtanum Creek",
+    "source": "ref"
+  }
+}

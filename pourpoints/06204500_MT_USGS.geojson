@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06204500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-109.449988031303,45.4833232509977]}, "properties" : {"name" : "Rosebud Ck nr Absarokee", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06204500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.449988031303,
+      45.4833232509977
+    ]
+  },
+  "properties": {
+    "name": "Rosebud Ck nr Absarokee",
+    "source": "ref"
+  }
+}

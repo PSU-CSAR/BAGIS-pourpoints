@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11237000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-119.212607351218,37.2213248765006]}, "properties" : {"name" : "Big C bl Huntington Lk CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11237000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.212607351218,
+      37.2213248765006
+    ]
+  },
+  "properties": {
+    "name": "Big C bl Huntington Lk CA",
+    "source": "ref"
+  }
+}

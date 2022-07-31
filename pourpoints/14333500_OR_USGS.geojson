@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14333500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.426376073996,42.7777946820503]}, "properties" : {"name" : "Red Blanket Creek nr Prospect", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14333500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.426376073996,
+      42.7777946820503
+    ]
+  },
+  "properties": {
+    "name": "Red Blanket Creek nr Prospect",
+    "source": "ref"
+  }
+}

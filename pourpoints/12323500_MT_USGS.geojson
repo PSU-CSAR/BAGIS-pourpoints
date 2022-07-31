@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12323500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.783317214074,46.0166635126764]}, "properties" : {"name" : "German Gulch Ck nr Ramsay", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12323500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.783317214074,
+      46.0166635126764
+    ]
+  },
+  "properties": {
+    "name": "German Gulch Ck nr Ramsay",
+    "source": "ref"
+  }
+}

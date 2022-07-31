@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12324930:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.199987091621,46.1999935363465]}, "properties" : {"name" : "Silver Lk Pumping For Georgetown Lk", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12324930:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.199987091621,
+      46.1999935363465
+    ]
+  },
+  "properties": {
+    "name": "Silver Lk Pumping For Georgetown Lk",
+    "source": "ref"
+  }
+}

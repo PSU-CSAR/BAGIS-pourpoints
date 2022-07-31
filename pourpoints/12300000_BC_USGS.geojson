@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12300000:BC:USGS", "geometry" : {"type":"Point","coordinates":[-115.166656062612,48.9999935161853]}, "properties" : {"name" : "Kootenai R at Newgate, BC", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12300000:BC:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.166656062612,
+      48.9999935161853
+    ]
+  },
+  "properties": {
+    "name": "Kootenai R at Newgate, BC",
+    "source": "ref"
+  }
+}

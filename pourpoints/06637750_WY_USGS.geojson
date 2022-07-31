@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06637750:WY:USGS", "geometry" : {"type":"Point","coordinates":[-108.766658668926,42.5499935106749]}, "properties" : {"name" : "Rock Ck abv Rock Ck Resv", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06637750:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.766658668926,
+      42.5499935106749
+    ]
+  },
+  "properties": {
+    "name": "Rock Ck abv Rock Ck Resv",
+    "source": "ref"
+  }
+}

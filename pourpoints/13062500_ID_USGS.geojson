@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13062500:ID:USGS", "geometry" : {"type":"Point","coordinates":[-112.366657808759,43.1833237439986]}, "properties" : {"name" : "Snake River at Blackfoot ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13062500:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.366657808759,
+      43.1833237439986
+    ]
+  },
+  "properties": {
+    "name": "Snake River at Blackfoot ID",
+    "source": "ref"
+  }
+}

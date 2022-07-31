@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11483400:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.127356372585,42.2029146042395]}, "properties" : {"name" : "Gerber Reservoir Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11483400:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.127356372585,
+      42.2029146042395
+    ]
+  },
+  "properties": {
+    "name": "Gerber Reservoir Inflow",
+    "source": "ref"
+  }
+}

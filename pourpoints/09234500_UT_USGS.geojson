@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09234500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-109.422208758519,40.9083237547422]}, "properties" : {"name" : "Green R nr Greendale", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09234500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.422208758519,
+      40.9083237547422
+    ]
+  },
+  "properties": {
+    "name": "Green R nr Greendale",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14048000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-120.399985872346,45.5833242993242]}, "properties" : {"name" : "John Day R at Mcdonald Ferry", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14048000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.399985872346,
+      45.5833242993242
+    ]
+  },
+  "properties": {
+    "name": "John Day R at Mcdonald Ferry",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11210950:CA:USGS", "geometry" : {"type":"Point","coordinates":[-119.012587469423,36.4141149423821]}, "properties" : {"name" : "Kaweah R bl Terminus Dam CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11210950:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.012587469423,
+      36.4141149423821
+    ]
+  },
+  "properties": {
+    "name": "Kaweah R bl Terminus Dam CA",
+    "source": "ref"
+  }
+}

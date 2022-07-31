@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09146200:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.733319449555,38.1833239798194]}, "properties" : {"name" : "Uncompahgre R nr Ridgway", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09146200:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.733319449555,
+      38.1833239798194
+    ]
+  },
+  "properties": {
+    "name": "Uncompahgre R nr Ridgway",
+    "source": "ref"
+  }
+}

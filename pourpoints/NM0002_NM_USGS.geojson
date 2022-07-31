@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "NM0002:NM:USGS", "geometry" : {"type":"Point","coordinates":[-104.37329032202,36.983893937615]}, "properties" : {"name" : "Diversion From Lake MayoLa", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "NM0002:NM:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.37329032202,
+      36.983893937615
+    ]
+  },
+  "properties": {
+    "name": "Diversion From Lake MayoLa",
+    "source": "ref"
+  }
+}

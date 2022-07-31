@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13140900:ID:USGS", "geometry" : {"type":"Point","coordinates":[-114.324157395616,43.3227739027192]}, "properties" : {"name" : "Willow Creek nr Bellevue", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13140900:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.324157395616,
+      43.3227739027192
+    ]
+  },
+  "properties": {
+    "name": "Willow Creek nr Bellevue",
+    "source": "ref"
+  }
+}

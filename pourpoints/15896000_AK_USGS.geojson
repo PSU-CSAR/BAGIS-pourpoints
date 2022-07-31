@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15896000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-148.962757184854,70.2813888107712]}, "properties" : {"name" : "Kuparuk R nr Deadhorse", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15896000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.962757184854,
+      70.2813888107712
+    ]
+  },
+  "properties": {
+    "name": "Kuparuk R nr Deadhorse",
+    "source": "ref"
+  }
+}

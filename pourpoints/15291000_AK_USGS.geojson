@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15291000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-147.515805513289,63.1038880846007]}, "properties" : {"name" : "Susitna River Near Denali AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15291000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -147.515805513289,
+      63.1038880846007
+    ]
+  },
+  "properties": {
+    "name": "Susitna River Near Denali AK",
+    "source": "ref"
+  }
+}

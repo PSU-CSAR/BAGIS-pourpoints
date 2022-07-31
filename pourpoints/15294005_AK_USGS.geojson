@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15294005:AK:USGS", "geometry" : {"type":"Point","coordinates":[-149.884416549546,61.7808283962423]}, "properties" : {"name" : "Willow Creek Near Willow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15294005:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.884416549546,
+      61.7808283962423
+    ]
+  },
+  "properties": {
+    "name": "Willow Creek Near Willow",
+    "source": "ref"
+  }
+}

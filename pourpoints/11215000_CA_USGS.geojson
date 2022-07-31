@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11215000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-118.981207413438,36.9938248830356]}, "properties" : {"name" : "NF Kings R nr Cliff Camp CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11215000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.981207413438,
+      36.9938248830356
+    ]
+  },
+  "properties": {
+    "name": "NF Kings R nr Cliff Camp CA",
+    "source": "ref"
+  }
+}

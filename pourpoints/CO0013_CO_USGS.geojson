@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0013:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.257589419166,37.3785941231176]}, "properties" : {"name" : "Lee And Burke Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0013:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.257589419166,
+      37.3785941231176
+    ]
+  },
+  "properties": {
+    "name": "Lee And Burke Ditch",
+    "source": "ref"
+  }
+}

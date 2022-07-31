@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "NV-18:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.219046608292,41.6422445673541]}, "properties" : {"name" : "Mill Ck nr Cedarville", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "NV-18:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.219046608292,
+      41.6422445673541
+    ]
+  },
+  "properties": {
+    "name": "Mill Ck nr Cedarville",
+    "source": "ref"
+  }
+}

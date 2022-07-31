@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06281900:WY:USGS", "geometry" : {"type":"Point","coordinates":[-109.099988281702,44.5166633208852]}, "properties" : {"name" : "Heart Mtn Canal Diversion", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06281900:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.099988281702,
+      44.5166633208852
+    ]
+  },
+  "properties": {
+    "name": "Heart Mtn Canal Diversion",
+    "source": "ref"
+  }
+}

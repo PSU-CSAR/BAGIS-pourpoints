@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06291500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-107.599988512085,45.1333231223838]}, "properties" : {"name" : "Lodge Grass Ck nr WyoLa", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06291500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.599988512085,
+      45.1333231223838
+    ]
+  },
+  "properties": {
+    "name": "Lodge Grass Ck nr WyoLa",
+    "source": "ref"
+  }
+}

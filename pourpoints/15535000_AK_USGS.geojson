@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15535000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-147.551363674924,65.1499982163291]}, "properties" : {"name" : "Caribou C nr Chatanika AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15535000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -147.551363674924,
+      65.1499982163291
+    ]
+  },
+  "properties": {
+    "name": "Caribou C nr Chatanika AK",
+    "source": "ref"
+  }
+}

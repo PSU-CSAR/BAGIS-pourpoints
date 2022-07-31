@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09504420:AZ:USGS", "geometry" : {"type":"Point","coordinates":[-111.766648929549,34.8666546751643]}, "properties" : {"name" : "Oak Creek nr Sedona", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09504420:AZ:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.766648929549,
+      34.8666546751643
+    ]
+  },
+  "properties": {
+    "name": "Oak Creek nr Sedona",
+    "source": "ref"
+  }
+}

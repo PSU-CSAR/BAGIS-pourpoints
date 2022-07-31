@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12346500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.949986946213,46.1666636125575]}, "properties" : {"name" : "Skalkaho Ck nr Hamilton", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12346500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.949986946213,
+      46.1666636125575
+    ]
+  },
+  "properties": {
+    "name": "Skalkaho Ck nr Hamilton",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09466500:AZ:USGS", "geometry" : {"type":"Point","coordinates":[-110.216659370648,33.1833248245154]}, "properties" : {"name" : "Gila R at Calva", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09466500:AZ:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.216659370648,
+      33.1833248245154
+    ]
+  },
+  "properties": {
+    "name": "Gila R at Calva",
+    "source": "ref"
+  }
+}

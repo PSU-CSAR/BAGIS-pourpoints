@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14203000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-123.149985459757,45.4499945879879]}, "properties" : {"name" : "Scoggins Ck nr Gaston", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14203000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.149985459757,
+      45.4499945879879
+    ]
+  },
+  "properties": {
+    "name": "Scoggins Ck nr Gaston",
+    "source": "ref"
+  }
+}

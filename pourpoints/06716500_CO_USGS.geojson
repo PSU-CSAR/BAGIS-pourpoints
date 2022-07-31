@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06716500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.616659746733,39.7499936227422]}, "properties" : {"name" : "Clear Ck nr Lawson", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06716500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.616659746733,
+      39.7499936227422
+    ]
+  },
+  "properties": {
+    "name": "Clear Ck nr Lawson",
+    "source": "ref"
+  }
+}

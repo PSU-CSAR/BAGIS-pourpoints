@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09229500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-109.66665869273,41.0166637605312]}, "properties" : {"name" : "Henrys Fk nr Manila", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09229500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.66665869273,
+      41.0166637605312
+    ]
+  },
+  "properties": {
+    "name": "Henrys Fk nr Manila",
+    "source": "ref"
+  }
+}

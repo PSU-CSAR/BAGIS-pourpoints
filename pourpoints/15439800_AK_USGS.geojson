@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15439800:AK:USGS", "geometry" : {"type":"Point","coordinates":[-144.886913301197,65.5680577761803]}, "properties" : {"name" : "Boulder C nr Central AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15439800:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -144.886913301197,
+      65.5680577761803
+    ]
+  },
+  "properties": {
+    "name": "Boulder C nr Central AK",
+    "source": "ref"
+  }
+}

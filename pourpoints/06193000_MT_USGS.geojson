@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06193000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.583317655705,46.149993290496]}, "properties" : {"name" : "Shields R nr Wilsall", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06193000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.583317655705,
+      46.149993290496
+    ]
+  },
+  "properties": {
+    "name": "Shields R nr Wilsall",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14371500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-123.199985981007,42.633324762952]}, "properties" : {"name" : "Grave Ck at Pease Bridge", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14371500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.199985981007,
+      42.633324762952
+    ]
+  },
+  "properties": {
+    "name": "Grave Ck at Pease Bridge",
+    "source": "ref"
+  }
+}

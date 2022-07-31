@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06049300:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.94998770709,45.4666633908336]}, "properties" : {"name" : "WF Hyalite Ck nr Bozeman", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06049300:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.94998770709,
+      45.4666633908336
+    ]
+  },
+  "properties": {
+    "name": "WF Hyalite Ck nr Bozeman",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12302500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-115.583316150724,48.2999936110559]}, "properties" : {"name" : "Granite Ck nr Libby", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12302500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.583316150724,
+      48.2999936110559
+    ]
+  },
+  "properties": {
+    "name": "Granite Ck nr Libby",
+    "source": "ref"
+  }
+}

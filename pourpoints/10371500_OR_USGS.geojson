@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10371500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-120.001606557516,42.1890445046465]}, "properties" : {"name" : "Deep Ck ab Adel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10371500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.001606557516,
+      42.1890445046465
+    ]
+  },
+  "properties": {
+    "name": "Deep Ck ab Adel",
+    "source": "ref"
+  }
+}

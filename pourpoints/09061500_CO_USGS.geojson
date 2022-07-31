@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09061500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.227189650767,39.373593716648]}, "properties" : {"name" : "Columbine Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09061500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.227189650767,
+      39.373593716648
+    ]
+  },
+  "properties": {
+    "name": "Columbine Ditch",
+    "source": "ref"
+  }
+}

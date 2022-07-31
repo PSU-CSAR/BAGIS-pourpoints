@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12446500:WA:USGS", "geometry" : {"type":"Point","coordinates":[-119.733315316602,48.5333240458019]}, "properties" : {"name" : "Salmon Creek nr Conconully WA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12446500:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.733315316602,
+      48.5333240458019
+    ]
+  },
+  "properties": {
+    "name": "Salmon Creek nr Conconully WA",
+    "source": "ref"
+  }
+}

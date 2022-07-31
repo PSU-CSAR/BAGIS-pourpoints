@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09209400:WY:USGS", "geometry" : {"type":"Point","coordinates":[-110.16665841868,42.199993664383]}, "properties" : {"name" : "Green R nr La Barge", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09209400:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.16665841868,
+      42.199993664383
+    ]
+  },
+  "properties": {
+    "name": "Green R nr La Barge",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14332000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.383316093029,42.6999946833553]}, "properties" : {"name" : "South Fork Rogue nr Prospect", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14332000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.383316093029,
+      42.6999946833553
+    ]
+  },
+  "properties": {
+    "name": "South Fork Rogue nr Prospect",
+    "source": "ref"
+  }
+}

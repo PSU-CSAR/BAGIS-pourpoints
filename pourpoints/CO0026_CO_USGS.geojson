@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0026:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.210489428133,37.3918941184617]}, "properties" : {"name" : "Smouse Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0026:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.210489428133,
+      37.3918941184617
+    ]
+  },
+  "properties": {
+    "name": "Smouse Ditch",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14306500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-123.816655572709,44.3833247156659]}, "properties" : {"name" : "Alsea nr Tidewater", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14306500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.816655572709,
+      44.3833247156659
+    ]
+  },
+  "properties": {
+    "name": "Alsea nr Tidewater",
+    "source": "ref"
+  }
+}

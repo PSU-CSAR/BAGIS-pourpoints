@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0040:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.352489624852,39.3541937277732]}, "properties" : {"name" : "Wurtz Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0040:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.352489624852,
+      39.3541937277732
+    ]
+  },
+  "properties": {
+    "name": "Wurtz Ditch",
+    "source": "ref"
+  }
+}

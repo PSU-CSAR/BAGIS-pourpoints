@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "07216500:NM:USGS", "geometry" : {"type":"Point","coordinates":[-105.163610240653,35.8908641499876]}, "properties" : {"name" : "Mora R nr Golondrinas", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "07216500:NM:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.163610240653,
+      35.8908641499876
+    ]
+  },
+  "properties": {
+    "name": "Mora R nr Golondrinas",
+    "source": "ref"
+  }
+}

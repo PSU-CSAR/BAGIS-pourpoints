@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "UT0007:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.11338870367,40.2068938908549]}, "properties" : {"name" : "Myton Townsite Canal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "UT0007:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.11338870367,
+      40.2068938908549
+    ]
+  },
+  "properties": {
+    "name": "Myton Townsite Canal",
+    "source": "ref"
+  }
+}

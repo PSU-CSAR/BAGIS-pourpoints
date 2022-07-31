@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06076300:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.883317490567,46.6499932717005]}, "properties" : {"name" : "Newlan Ck nr White Sulphur Spr", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06076300:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.883317490567,
+      46.6499932717005
+    ]
+  },
+  "properties": {
+    "name": "Newlan Ck nr White Sulphur Spr",
+    "source": "ref"
+  }
+}

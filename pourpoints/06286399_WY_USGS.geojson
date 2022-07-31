@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06286399:WY:USGS", "geometry" : {"type":"Point","coordinates":[-107.916658407131,45.316653130486]}, "properties" : {"name" : "Bighorn Lake (Yellowtail) Inflow-USBR", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06286399:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.916658407131,
+      45.316653130486
+    ]
+  },
+  "properties": {
+    "name": "Bighorn Lake (Yellowtail) Inflow-USBR",
+    "source": "ref"
+  }
+}

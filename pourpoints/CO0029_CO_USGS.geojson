@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0029:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.158489601142,37.9394939748419]}, "properties" : {"name" : "Tabor Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0029:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.158489601142,
+      37.9394939748419
+    ]
+  },
+  "properties": {
+    "name": "Tabor Ditch",
+    "source": "ref"
+  }
+}

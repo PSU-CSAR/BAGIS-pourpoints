@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14011800:OR:USGS", "geometry" : {"type":"Point","coordinates":[-117.999986386653,45.0999940943132]}, "properties" : {"name" : "Couse Creek nr Milton-Freewater", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14011800:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.999986386653,
+      45.0999940943132
+    ]
+  },
+  "properties": {
+    "name": "Couse Creek nr Milton-Freewater",
+    "source": "ref"
+  }
+}

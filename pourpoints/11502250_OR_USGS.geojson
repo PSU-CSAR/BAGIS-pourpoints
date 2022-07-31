@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11502250:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.873476194512,42.5723046455776]}, "properties" : {"name" : "Upper Williamson R", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11502250:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.873476194512,
+      42.5723046455776
+    ]
+  },
+  "properties": {
+    "name": "Upper Williamson R",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06271000:WY:USGS", "geometry" : {"type":"Point","coordinates":[-107.383318745654,44.0499932234783]}, "properties" : {"name" : "Tensleep Ck nr Ten Sleep", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06271000:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.383318745654,
+      44.0499932234783
+    ]
+  },
+  "properties": {
+    "name": "Tensleep Ck nr Ten Sleep",
+    "source": "ref"
+  }
+}

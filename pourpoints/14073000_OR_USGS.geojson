@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14073000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.366656007524,44.0833244938593]}, "properties" : {"name" : "Tumalo Ck nr Bend", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14073000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.366656007524,
+      44.0833244938593
+    ]
+  },
+  "properties": {
+    "name": "Tumalo Ck nr Bend",
+    "source": "ref"
+  }
+}

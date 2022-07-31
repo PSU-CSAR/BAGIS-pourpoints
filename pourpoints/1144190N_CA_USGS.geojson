@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1144190N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.533316950414,38.8166548265173]}, "properties" : {"name" : "Silver C bl Camino Div Dam Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1144190N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.533316950414,
+      38.8166548265173
+    ]
+  },
+  "properties": {
+    "name": "Silver C bl Camino Div Dam Ca (NWS)",
+    "source": "ref"
+  }
+}

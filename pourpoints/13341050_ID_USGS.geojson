@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13341050:ID:USGS", "geometry" : {"type":"Point","coordinates":[-116.383316399571,46.4999938278204]}, "properties" : {"name" : "Clearwater River Near Peck, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13341050:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.383316399571,
+      46.4999938278204
+    ]
+  },
+  "properties": {
+    "name": "Clearwater River Near Peck, ID",
+    "source": "ref"
+  }
+}

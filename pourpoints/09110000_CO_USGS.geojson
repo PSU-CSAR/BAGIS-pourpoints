@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09110000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.833319597468,38.6499938565633]}, "properties" : {"name" : "Taylor - Almont", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09110000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.833319597468,
+      38.6499938565633
+    ]
+  },
+  "properties": {
+    "name": "Taylor - Almont",
+    "source": "ref"
+  }
+}

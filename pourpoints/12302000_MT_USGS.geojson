@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12302000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-115.28331622645,48.2333235839659]}, "properties" : {"name" : "Fisher R nr Jennings", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12302000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.28331622645,
+      48.2333235839659
+    ]
+  },
+  "properties": {
+    "name": "Fisher R nr Jennings",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06020600:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.116657500482,45.2499935201814]}, "properties" : {"name" : "Ruby R Bel Res nr Alder", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06020600:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.116657500482,
+      45.2499935201814
+    ]
+  },
+  "properties": {
+    "name": "Ruby R Bel Res nr Alder",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06647500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-105.849989317878,42.616663268294]}, "properties" : {"name" : "Box Elder Ck at Boxelder", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06647500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.849989317878,
+      42.616663268294
+    ]
+  },
+  "properties": {
+    "name": "Box Elder Ck at Boxelder",
+    "source": "ref"
+  }
+}

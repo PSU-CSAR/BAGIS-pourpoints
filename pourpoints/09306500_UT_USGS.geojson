@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09306500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-109.166658934677,39.966653849341]}, "properties" : {"name" : "White R nr Watson", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09306500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.166658934677,
+      39.966653849341
+    ]
+  },
+  "properties": {
+    "name": "White R nr Watson",
+    "source": "ref"
+  }
+}

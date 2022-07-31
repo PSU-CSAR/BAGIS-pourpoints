@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06628900:WY:USGS", "geometry" : {"type":"Point","coordinates":[-106.616659286451,41.5833234569452]}, "properties" : {"name" : "Pass Ck nr Elk Mountain", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06628900:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.616659286451,
+      41.5833234569452
+    ]
+  },
+  "properties": {
+    "name": "Pass Ck nr Elk Mountain",
+    "source": "ref"
+  }
+}

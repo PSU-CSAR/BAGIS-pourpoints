@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1141300N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.933316797455,39.5166547983691]}, "properties" : {"name" : "N Yuba R bl Goodyears Bar Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1141300N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.933316797455,
+      39.5166547983691
+    ]
+  },
+  "properties": {
+    "name": "N Yuba R bl Goodyears Bar Ca (NWS)",
+    "source": "ref"
+  }
+}

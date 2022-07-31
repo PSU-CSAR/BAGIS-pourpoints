@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10345999:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.034086952935,39.4269947356493]}, "properties" : {"name" : "Truckee R ab Farad Sidewater", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10345999:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.034086952935,
+      39.4269947356493
+    ]
+  },
+  "properties": {
+    "name": "Truckee R ab Farad Sidewater",
+    "source": "ref"
+  }
+}

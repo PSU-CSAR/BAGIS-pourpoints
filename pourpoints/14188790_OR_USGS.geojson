@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14188790:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.045815852335,44.3346645435338]}, "properties" : {"name" : "Smith R ab Smith Res nr Belknap Springs", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14188790:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.045815852335,
+      44.3346645435338
+    ]
+  },
+  "properties": {
+    "name": "Smith R ab Smith Res nr Belknap Springs",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06290500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-107.399988549509,45.1833230992138]}, "properties" : {"name" : "Little Bighorn R blw Pass Ck", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06290500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.399988549509,
+      45.1833230992138
+    ]
+  },
+  "properties": {
+    "name": "Little Bighorn R blw Pass Ck",
+    "source": "ref"
+  }
+}

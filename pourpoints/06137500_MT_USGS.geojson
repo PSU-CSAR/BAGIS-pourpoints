@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06137500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-110.083317349512,48.1499930574599]}, "properties" : {"name" : "Big Sandy Ck nr Big Sandy", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06137500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.083317349512,
+      48.1499930574599
+    ]
+  },
+  "properties": {
+    "name": "Big Sandy Ck nr Big Sandy",
+    "source": "ref"
+  }
+}

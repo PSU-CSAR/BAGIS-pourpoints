@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15908000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-148.819999106911,69.0146486963439]}, "properties" : {"name" : "Sagavanirktok R nr Pump Station 3", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15908000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.819999106911,
+      69.0146486963439
+    ]
+  },
+  "properties": {
+    "name": "Sagavanirktok R nr Pump Station 3",
+    "source": "ref"
+  }
+}

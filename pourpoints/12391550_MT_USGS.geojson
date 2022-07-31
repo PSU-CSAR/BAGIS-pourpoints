@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12391550:MT:USGS", "geometry" : {"type":"Point","coordinates":[-115.833316160092,48.0499936559115]}, "properties" : {"name" : "Bull R nr Noxon", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12391550:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.833316160092,
+      48.0499936559115
+    ]
+  },
+  "properties": {
+    "name": "Bull R nr Noxon",
+    "source": "ref"
+  }
+}

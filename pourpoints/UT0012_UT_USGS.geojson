@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "UT0012:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.863838617998,39.6456240136277]}, "properties" : {"name" : "Price Wellington Canal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "UT0012:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.863838617998,
+      39.6456240136277
+    ]
+  },
+  "properties": {
+    "name": "Price Wellington Canal",
+    "source": "ref"
+  }
+}

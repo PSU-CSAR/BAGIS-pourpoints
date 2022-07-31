@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "07099375:CO:USGS", "geometry" : {"type":"Point","coordinates":[-104.724790114804,38.2603937718861]}, "properties" : {"name" : "Bessemer Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "07099375:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.724790114804,
+      38.2603937718861
+    ]
+  },
+  "properties": {
+    "name": "Bessemer Ditch",
+    "source": "ref"
+  }
+}

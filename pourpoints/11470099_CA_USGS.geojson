@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11470099:CA:USGS", "geometry" : {"type":"Point","coordinates":[-121.077526424189,41.9283046203541]}, "properties" : {"name" : "Clear Lake Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11470099:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.077526424189,
+      41.9283046203541
+    ]
+  },
+  "properties": {
+    "name": "Clear Lake Inflow",
+    "source": "ref"
+  }
+}

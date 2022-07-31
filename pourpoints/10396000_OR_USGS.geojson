@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10396000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-118.867486650587,42.7908243555528]}, "properties" : {"name" : "Donner Und Blitzen R nr Frenchglen", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10396000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.867486650587,
+      42.7908243555528
+    ]
+  },
+  "properties": {
+    "name": "Donner Und Blitzen R nr Frenchglen",
+    "source": "ref"
+  }
+}

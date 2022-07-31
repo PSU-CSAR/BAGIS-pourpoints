@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06088500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-111.549987154293,47.5666632542958]}, "properties" : {"name" : "Muddy Ck at Vaughn", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06088500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.549987154293,
+      47.5666632542958
+    ]
+  },
+  "properties": {
+    "name": "Muddy Ck at Vaughn",
+    "source": "ref"
+  }
+}

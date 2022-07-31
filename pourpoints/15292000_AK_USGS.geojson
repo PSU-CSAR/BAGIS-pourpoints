@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15292000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-149.691085791627,62.7677784288717]}, "properties" : {"name" : "Susitna R at Gold Creek", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15292000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.691085791627,
+      62.7677784288717
+    ]
+  },
+  "properties": {
+    "name": "Susitna R at Gold Creek",
+    "source": "ref"
+  }
+}

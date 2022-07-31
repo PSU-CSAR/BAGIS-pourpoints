@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "08284160:NM:USGS", "geometry" : {"type":"Point","coordinates":[-106.671689816013,36.853294097289]}, "properties" : {"name" : "Azotea Tunnel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "08284160:NM:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.671689816013,
+      36.853294097289
+    ]
+  },
+  "properties": {
+    "name": "Azotea Tunnel",
+    "source": "ref"
+  }
+}

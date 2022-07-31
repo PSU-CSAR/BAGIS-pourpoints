@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15453500:AK:USGS", "geometry" : {"type":"Point","coordinates":[-149.720322949178,65.8750986420634]}, "properties" : {"name" : "Yukon R nr Stevens Village", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15453500:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.720322949178,
+      65.8750986420634
+    ]
+  },
+  "properties": {
+    "name": "Yukon R nr Stevens Village",
+    "source": "ref"
+  }
+}

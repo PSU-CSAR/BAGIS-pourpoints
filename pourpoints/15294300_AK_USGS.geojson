@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15294300:AK:USGS", "geometry" : {"type":"Point","coordinates":[-151.366646515371,61.8666686461887]}, "properties" : {"name" : "Skwentna R nr Skwentna AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15294300:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.366646515371,
+      61.8666686461887
+    ]
+  },
+  "properties": {
+    "name": "Skwentna R nr Skwentna AK",
+    "source": "ref"
+  }
+}

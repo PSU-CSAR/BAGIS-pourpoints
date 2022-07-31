@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12115000:WA:USGS", "geometry" : {"type":"Point","coordinates":[-121.625085277357,47.3701043192917]}, "properties" : {"name" : "Cedar R nr Cedar Falls", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12115000:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.625085277357,
+      47.3701043192917
+    ]
+  },
+  "properties": {
+    "name": "Cedar R nr Cedar Falls",
+    "source": "ref"
+  }
+}

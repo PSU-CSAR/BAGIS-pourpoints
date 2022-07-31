@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09286699:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.052208492294,40.3335939463221]}, "properties" : {"name" : "Currant Creek Diversion", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09286699:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.052208492294,
+      40.3335939463221
+    ]
+  },
+  "properties": {
+    "name": "Currant Creek Diversion",
+    "source": "ref"
+  }
+}

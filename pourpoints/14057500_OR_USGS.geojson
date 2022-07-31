@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14057500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.566646030162,43.78332453341]}, "properties" : {"name" : "Fall River Near La Pine, OR", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14057500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.566646030162,
+      43.78332453341
+    ]
+  },
+  "properties": {
+    "name": "Fall River Near La Pine, OR",
+    "source": "ref"
+  }
+}

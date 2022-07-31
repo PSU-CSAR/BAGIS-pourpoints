@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1140470N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-121.449986680529,39.7833248179858]}, "properties" : {"name" : "NF Feather R nr Big Bar NWS", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1140470N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.449986680529,
+      39.7833248179858
+    ]
+  },
+  "properties": {
+    "name": "NF Feather R nr Big Bar NWS",
+    "source": "ref"
+  }
+}

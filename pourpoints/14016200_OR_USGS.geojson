@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14016200:OR:USGS", "geometry" : {"type":"Point","coordinates":[-118.133316375096,45.0333241124491]}, "properties" : {"name" : "Pine Ck nr Weston", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14016200:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.133316375096,
+      45.0333241124491
+    ]
+  },
+  "properties": {
+    "name": "Pine Ck nr Weston",
+    "source": "ref"
+  }
+}

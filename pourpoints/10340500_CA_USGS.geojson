@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10340500:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.130546945179,39.3733247475441]}, "properties" : {"name" : "Prosser Ck Res Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10340500:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.130546945179,
+      39.3733247475441
+    ]
+  },
+  "properties": {
+    "name": "Prosser Ck Res Inflow",
+    "source": "ref"
+  }
+}

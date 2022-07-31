@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15292400:AK:USGS", "geometry" : {"type":"Point","coordinates":[-150.233865966092,62.5586085057969]}, "properties" : {"name" : "Chulitna R nr Talkeetna", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15292400:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.233865966092,
+      62.5586085057969
+    ]
+  },
+  "properties": {
+    "name": "Chulitna R nr Talkeetna",
+    "source": "ref"
+  }
+}

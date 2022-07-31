@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0030:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.793889676273,37.9924939442436]}, "properties" : {"name" : "Tarbell Ditch nr Cochetopa Pass", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0030:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.793889676273,
+      37.9924939442436
+    ]
+  },
+  "properties": {
+    "name": "Tarbell Ditch nr Cochetopa Pass",
+    "source": "ref"
+  }
+}

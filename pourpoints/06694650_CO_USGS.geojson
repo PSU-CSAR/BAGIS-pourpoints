@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06694650:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.894999768909,38.9931637455027]}, "properties" : {"name" : "South Platte R bl Antero Reservoir", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06694650:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.894999768909,
+      38.9931637455027
+    ]
+  },
+  "properties": {
+    "name": "South Platte R bl Antero Reservoir",
+    "source": "ref"
+  }
+}

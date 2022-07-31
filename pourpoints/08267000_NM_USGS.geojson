@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "08267000:NM:USGS", "geometry" : {"type":"Point","coordinates":[-105.699990051684,36.6499940671815]}, "properties" : {"name" : "Red River at Mouth Near Questa", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "08267000:NM:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.699990051684,
+      36.6499940671815
+    ]
+  },
+  "properties": {
+    "name": "Red River at Mouth Near Questa",
+    "source": "ref"
+  }
+}

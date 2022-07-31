@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06289000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-107.599988535432,44.9999931370867]}, "properties" : {"name" : "Little Bighorn R at State Line", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06289000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.599988535432,
+      44.9999931370867
+    ]
+  },
+  "properties": {
+    "name": "Little Bighorn R at State Line",
+    "source": "ref"
+  }
+}

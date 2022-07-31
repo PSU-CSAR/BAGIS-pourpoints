@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06040450:MT:USGS", "geometry" : {"type":"Point","coordinates":[-111.866657500312,45.5333234700374]}, "properties" : {"name" : "N Meadow Ck nr Mcallister", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06040450:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.866657500312,
+      45.5333234700374
+    ]
+  },
+  "properties": {
+    "name": "N Meadow Ck nr Mcallister",
+    "source": "ref"
+  }
+}

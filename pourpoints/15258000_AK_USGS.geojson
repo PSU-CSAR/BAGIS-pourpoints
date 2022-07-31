@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15258000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-149.809897448641,60.4921883007196]}, "properties" : {"name" : "Kenai R at Cooper Landing", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15258000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.809897448641,
+      60.4921883007196
+    ]
+  },
+  "properties": {
+    "name": "Kenai R at Cooper Landing",
+    "source": "ref"
+  }
+}

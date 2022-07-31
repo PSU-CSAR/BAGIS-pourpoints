@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "UT0011:UT:USGS", "geometry" : {"type":"Point","coordinates":[-110.860308618939,39.6424940138306]}, "properties" : {"name" : "Carbon Canal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "UT0011:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.860308618939,
+      39.6424940138306
+    ]
+  },
+  "properties": {
+    "name": "Carbon Canal",
+    "source": "ref"
+  }
+}

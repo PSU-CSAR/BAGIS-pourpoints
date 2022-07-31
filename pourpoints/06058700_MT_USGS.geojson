@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06058700:MT:USGS", "geometry" : {"type":"Point","coordinates":[-111.733317307775,46.6499933543483]}, "properties" : {"name" : "Missouri R Bel Canyon Ferry Dam", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06058700:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.733317307775,
+      46.6499933543483
+    ]
+  },
+  "properties": {
+    "name": "Missouri R Bel Canyon Ferry Dam",
+    "source": "ref"
+  }
+}

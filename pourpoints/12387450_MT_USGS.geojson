@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12387450:MT:USGS", "geometry" : {"type":"Point","coordinates":[-114.233316678196,47.1666635575108]}, "properties" : {"name" : "Valley Ck nr Arlee", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12387450:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.233316678196,
+      47.1666635575108
+    ]
+  },
+  "properties": {
+    "name": "Valley Ck nr Arlee",
+    "source": "ref"
+  }
+}

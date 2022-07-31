@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09212500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-109.283318552212,42.5833235486078]}, "properties" : {"name" : "Big Sandy R nr Big Sandy", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09212500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.283318552212,
+      42.5833235486078
+    ]
+  },
+  "properties": {
+    "name": "Big Sandy R nr Big Sandy",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12338500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.233316916147,47.0166634694657]}, "properties" : {"name" : "Blackfoot R nr Ovando", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12338500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.233316916147,
+      47.0166634694657
+    ]
+  },
+  "properties": {
+    "name": "Blackfoot R nr Ovando",
+    "source": "ref"
+  }
+}

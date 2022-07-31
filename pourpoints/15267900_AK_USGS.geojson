@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15267900:AK:USGS", "geometry" : {"type":"Point","coordinates":[-149.633307184118,60.8833282973687]}, "properties" : {"name" : "Resurrection C nr Hope AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15267900:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.633307184118,
+      60.8833282973687
+    ]
+  },
+  "properties": {
+    "name": "Resurrection C nr Hope AK",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11399500:CA:USGS", "geometry" : {"type":"Point","coordinates":[-121.09300668323,40.1682147580991]}, "properties" : {"name" : "NF Feather R nr Prattville CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11399500:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.09300668323,
+      40.1682147580991
+    ]
+  },
+  "properties": {
+    "name": "NF Feather R nr Prattville CA",
+    "source": "ref"
+  }
+}

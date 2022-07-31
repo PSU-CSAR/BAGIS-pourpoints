@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0039:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.778589567523,40.9085934800991]}, "properties" : {"name" : "Wilson Supply Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0039:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.778589567523,
+      40.9085934800991
+    ]
+  },
+  "properties": {
+    "name": "Wilson Supply Ditch",
+    "source": "ref"
+  }
+}

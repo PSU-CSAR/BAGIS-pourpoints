@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12301999:MT:USGS", "geometry" : {"type":"Point","coordinates":[-115.266656229943,48.2333235825074]}, "properties" : {"name" : "Wolf Ck nr Libby", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12301999:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.266656229943,
+      48.2333235825074
+    ]
+  },
+  "properties": {
+    "name": "Wolf Ck nr Libby",
+    "source": "ref"
+  }
+}

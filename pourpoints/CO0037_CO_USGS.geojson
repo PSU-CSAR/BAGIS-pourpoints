@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0037:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.217789622797,37.5999940256053]}, "properties" : {"name" : "Williams Creek-Squaw Pass Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0037:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.217789622797,
+      37.5999940256053
+    ]
+  },
+  "properties": {
+    "name": "Williams Creek-Squaw Pass Ditch",
+    "source": "ref"
+  }
+}

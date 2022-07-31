@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15485500:AK:USGS", "geometry" : {"type":"Point","coordinates":[-147.841284018738,64.7923382441458]}, "properties" : {"name" : "Tanana R at Fairbanks", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15485500:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -147.841284018738,
+      64.7923382441458
+    ]
+  },
+  "properties": {
+    "name": "Tanana R at Fairbanks",
+    "source": "ref"
+  }
+}

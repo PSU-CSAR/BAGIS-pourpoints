@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06426500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-104.98331926588,44.2999929936509]}, "properties" : {"name" : "Belle Fourche R blw Moorcroft", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06426500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.98331926588,
+      44.2999929936509
+    ]
+  },
+  "properties": {
+    "name": "Belle Fourche R blw Moorcroft",
+    "source": "ref"
+  }
+}

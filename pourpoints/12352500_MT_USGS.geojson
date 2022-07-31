@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12352500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-114.049986788098,46.8333235664423]}, "properties" : {"name" : "Bitterroot R nr MissouLa", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12352500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.049986788098,
+      46.8333235664423
+    ]
+  },
+  "properties": {
+    "name": "Bitterroot R nr MissouLa",
+    "source": "ref"
+  }
+}

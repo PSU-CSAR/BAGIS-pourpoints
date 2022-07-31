@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13250600:ID:USGS", "geometry" : {"type":"Point","coordinates":[-116.483316856438,44.0666640322529]}, "properties" : {"name" : "Big Willow Creek nr Emmett, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13250600:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.483316856438,
+      44.0666640322529
+    ]
+  },
+  "properties": {
+    "name": "Big Willow Creek nr Emmett, ID",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1143350N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.99998686425,38.9166548541781]}, "properties" : {"name" : "Mf American R nr Auburn Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1143350N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.99998686425,
+      38.9166548541781
+    ]
+  },
+  "properties": {
+    "name": "Mf American R nr Auburn Ca (NWS)",
+    "source": "ref"
+  }
+}

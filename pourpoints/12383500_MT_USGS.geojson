@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12383500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.966656736714,47.1499935317413]}, "properties" : {"name" : "Big Knife Ck nr Arlee", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12383500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.966656736714,
+      47.1499935317413
+    ]
+  },
+  "properties": {
+    "name": "Big Knife Ck nr Arlee",
+    "source": "ref"
+  }
+}

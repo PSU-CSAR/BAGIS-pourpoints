@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09347000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.999199673943,37.5724940153834]}, "properties" : {"name" : "Don La Font Ditches Combined", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09347000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.999199673943,
+      37.5724940153834
+    ]
+  },
+  "properties": {
+    "name": "Don La Font Ditches Combined",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0041:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.90640967872,39.7608636419611]}, "properties" : {"name" : "August P Gumlick Tunnel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0041:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.90640967872,
+      39.7608636419611
+    ]
+  },
+  "properties": {
+    "name": "August P Gumlick Tunnel",
+    "source": "ref"
+  }
+}

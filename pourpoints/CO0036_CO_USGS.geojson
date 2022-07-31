@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0036:CO:USGS", "geometry" : {"type":"Point","coordinates":[-107.321689592273,37.6791940215151]}, "properties" : {"name" : "Weminuche Pass Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0036:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.321689592273,
+      37.6791940215151
+    ]
+  },
+  "properties": {
+    "name": "Weminuche Pass Ditch",
+    "source": "ref"
+  }
+}

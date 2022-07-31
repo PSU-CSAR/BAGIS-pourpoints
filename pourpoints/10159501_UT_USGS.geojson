@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10159501:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.533318385504,40.3999939758196]}, "properties" : {"name" : "Deer Creek Resv Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10159501:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.533318385504,
+      40.3999939758196
+    ]
+  },
+  "properties": {
+    "name": "Deer Creek Resv Inflow",
+    "source": "ref"
+  }
+}

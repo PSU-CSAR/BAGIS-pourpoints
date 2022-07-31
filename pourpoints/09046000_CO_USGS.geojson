@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09046000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.967489705559,39.4105936932864]}, "properties" : {"name" : "Boreas Pass Ditch at Boreas Pass", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09046000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.967489705559,
+      39.4105936932864
+    ]
+  },
+  "properties": {
+    "name": "Boreas Pass Ditch at Boreas Pass",
+    "source": "ref"
+  }
+}

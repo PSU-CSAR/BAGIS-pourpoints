@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06296003:MT:USGS", "geometry" : {"type":"Point","coordinates":[-106.466658571228,46.2666628988397]}, "properties" : {"name" : "Rosebud Ck at Mouth nr Rosebud", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06296003:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.466658571228,
+      46.2666628988397
+    ]
+  },
+  "properties": {
+    "name": "Rosebud Ck at Mouth nr Rosebud",
+    "source": "ref"
+  }
+}

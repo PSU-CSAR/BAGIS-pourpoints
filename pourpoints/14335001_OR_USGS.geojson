@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14335001:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.693686052991,42.658824714734]}, "properties" : {"name" : "Lost Creek Lk Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14335001:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.693686052991,
+      42.658824714734
+    ]
+  },
+  "properties": {
+    "name": "Lost Creek Lk Inflow",
+    "source": "ref"
+  }
+}

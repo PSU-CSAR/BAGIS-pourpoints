@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09022500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.645789721031,39.9043936045569]}, "properties" : {"name" : "Moffat Water Tunnel at East Portal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09022500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.645789721031,
+      39.9043936045569
+    ]
+  },
+  "properties": {
+    "name": "Moffat Water Tunnel at East Portal",
+    "source": "ref"
+  }
+}

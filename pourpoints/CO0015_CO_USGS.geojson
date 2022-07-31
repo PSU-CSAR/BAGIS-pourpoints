@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0015:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.685599569625,39.1905937731764]}, "properties" : {"name" : "Midway Creek Diversion", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0015:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.685599569625,
+      39.1905937731764
+    ]
+  },
+  "properties": {
+    "name": "Midway Creek Diversion",
+    "source": "ref"
+  }
+}

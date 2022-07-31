@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10237000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-112.74998840352,38.2499943142046]}, "properties" : {"name" : "Beaver R at Adamsville", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10237000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.74998840352,
+      38.2499943142046
+    ]
+  },
+  "properties": {
+    "name": "Beaver R at Adamsville",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11418000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-121.274116781149,39.2351648486622]}, "properties" : {"name" : "Yuba R bl Englebright Dam nr Smartville", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11418000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.274116781149,
+      39.2351648486622
+    ]
+  },
+  "properties": {
+    "name": "Yuba R bl Englebright Dam nr Smartville",
+    "source": "ref"
+  }
+}

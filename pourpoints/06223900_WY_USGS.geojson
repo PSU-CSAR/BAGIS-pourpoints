@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06223900:WY:USGS", "geometry" : {"type":"Point","coordinates":[-109.024458506583,43.2448234530777]}, "properties" : {"name" : "Wind R ab Bull Lake Ck", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06223900:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.024458506583,
+      43.2448234530777
+    ]
+  },
+  "properties": {
+    "name": "Wind R ab Bull Lake Ck",
+    "source": "ref"
+  }
+}

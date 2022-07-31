@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12414900:ID:USGS", "geometry" : {"type":"Point","coordinates":[-116.483316235943,47.1666637876304]}, "properties" : {"name" : "St. Maries River Near Santa, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12414900:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.483316235943,
+      47.1666637876304
+    ]
+  },
+  "properties": {
+    "name": "St. Maries River Near Santa, ID",
+    "source": "ref"
+  }
+}

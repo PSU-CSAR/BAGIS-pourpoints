@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06211900:MT:USGS", "geometry" : {"type":"Point","coordinates":[-109.249988085261,45.433323237984]}, "properties" : {"name" : "Red Lodge + Willow Ck nr Boyd", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06211900:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.249988085261,
+      45.433323237984
+    ]
+  },
+  "properties": {
+    "name": "Red Lodge + Willow Ck nr Boyd",
+    "source": "ref"
+  }
+}

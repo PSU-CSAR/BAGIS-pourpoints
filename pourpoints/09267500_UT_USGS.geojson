@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09267500:UT:USGS", "geometry" : {"type":"Point","coordinates":[-109.883318701872,40.5999938264666]}, "properties" : {"name" : "Mosby Canal Near Lapoint, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09267500:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.883318701872,
+      40.5999938264666
+    ]
+  },
+  "properties": {
+    "name": "Mosby Canal Near Lapoint, UT",
+    "source": "ref"
+  }
+}

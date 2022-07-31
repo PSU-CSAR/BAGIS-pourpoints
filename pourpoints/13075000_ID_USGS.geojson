@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13075000:ID:USGS", "geometry" : {"type":"Point","coordinates":[-112.216657929094,42.6166637897988]}, "properties" : {"name" : "Marsh Creek Near Mccammon, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13075000:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.216657929094,
+      42.6166637897988
+    ]
+  },
+  "properties": {
+    "name": "Marsh Creek Near Mccammon, ID",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10360230:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.125206674148,41.3123945852595]}, "properties" : {"name" : "Eagle Ck nr Eagleville", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10360230:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.125206674148,
+      41.3123945852595
+    ]
+  },
+  "properties": {
+    "name": "Eagle Ck nr Eagleville",
+    "source": "ref"
+  }
+}

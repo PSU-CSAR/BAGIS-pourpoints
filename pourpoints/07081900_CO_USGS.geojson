@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "07081900:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.427789617587,39.2777937439055]}, "properties" : {"name" : "Boustead Tunnel", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "07081900:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.427789617587,
+      39.2777937439055
+    ]
+  },
+  "properties": {
+    "name": "Boustead Tunnel",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09037500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-106.183319587389,39.9999936294706]}, "properties" : {"name" : "Williams Fork nr Parshall", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09037500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.183319587389,
+      39.9999936294706
+    ]
+  },
+  "properties": {
+    "name": "Williams Fork nr Parshall",
+    "source": "ref"
+  }
+}

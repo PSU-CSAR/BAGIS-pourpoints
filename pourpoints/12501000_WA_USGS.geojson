@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12501000:WA:USGS", "geometry" : {"type":"Point","coordinates":[-120.899985594839,46.4999942928732]}, "properties" : {"name" : "So Fk Ahtanum Cr at Conrad Rnch N Tampic", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12501000:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.899985594839,
+      46.4999942928732
+    ]
+  },
+  "properties": {
+    "name": "So Fk Ahtanum Cr at Conrad Rnch N Tampic",
+    "source": "ref"
+  }
+}

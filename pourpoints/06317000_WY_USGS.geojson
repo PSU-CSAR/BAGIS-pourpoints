@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06317000:WY:USGS", "geometry" : {"type":"Point","coordinates":[-106.133318936174,44.6499930495328]}, "properties" : {"name" : "Powder R at Arvada", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06317000:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.133318936174,
+      44.6499930495328
+    ]
+  },
+  "properties": {
+    "name": "Powder R at Arvada",
+    "source": "ref"
+  }
+}

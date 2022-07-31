@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06062500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.249987225984,46.5166634163408]}, "properties" : {"name" : "Tenmile Ck nr Rimini", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06062500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.249987225984,
+      46.5166634163408
+    ]
+  },
+  "properties": {
+    "name": "Tenmile Ck nr Rimini",
+    "source": "ref"
+  }
+}

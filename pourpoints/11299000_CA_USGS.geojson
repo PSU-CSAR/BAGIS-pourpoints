@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11299000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.49998706037,37.9499949004118]}, "properties" : {"name" : "Melones Reservoir at Melones Dam, CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11299000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.49998706037,
+      37.9499949004118
+    ]
+  },
+  "properties": {
+    "name": "Melones Reservoir at Melones Dam, CA",
+    "source": "ref"
+  }
+}

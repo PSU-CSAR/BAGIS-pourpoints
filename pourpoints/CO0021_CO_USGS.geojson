@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0021:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.25978942124,37.3537941266724]}, "properties" : {"name" : "Ratliff And Root Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0021:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.25978942124,
+      37.3537941266724
+    ]
+  },
+  "properties": {
+    "name": "Ratliff And Root Ditch",
+    "source": "ref"
+  }
+}

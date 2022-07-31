@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15239500:AK:USGS", "geometry" : {"type":"Point","coordinates":[-151.349977982994,59.6999984949379]}, "properties" : {"name" : "Fritz Creek Near Homer", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15239500:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.349977982994,
+      59.6999984949379
+    ]
+  },
+  "properties": {
+    "name": "Fritz Creek Near Homer",
+    "source": "ref"
+  }
+}

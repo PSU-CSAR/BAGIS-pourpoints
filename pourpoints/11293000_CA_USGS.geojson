@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11293000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.142117090318,38.186584852745]}, "properties" : {"name" : "Mf Stanislaus R A Sbf nr Avery CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11293000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.142117090318,
+      38.186584852745
+    ]
+  },
+  "properties": {
+    "name": "Mf Stanislaus R A Sbf nr Avery CA",
+    "source": "ref"
+  }
+}

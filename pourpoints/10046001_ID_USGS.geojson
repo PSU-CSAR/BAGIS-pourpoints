@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10046001:ID:USGS", "geometry" : {"type":"Point","coordinates":[-111.299988173554,42.2499937512277]}, "properties" : {"name" : "West Fork Canal", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10046001:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.299988173554,
+      42.2499937512277
+    ]
+  },
+  "properties": {
+    "name": "West Fork Canal",
+    "source": "ref"
+  }
+}

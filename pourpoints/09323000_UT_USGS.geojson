@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09323000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.349988546155,39.4166540763438]}, "properties" : {"name" : "Spring City Tunnel Near Spring City, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09323000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.349988546155,
+      39.4166540763438
+    ]
+  },
+  "properties": {
+    "name": "Spring City Tunnel Near Spring City, UT",
+    "source": "ref"
+  }
+}

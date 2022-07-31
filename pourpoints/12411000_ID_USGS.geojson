@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12411000:ID:USGS", "geometry" : {"type":"Point","coordinates":[-115.966656215227,47.69999369458]}, "properties" : {"name" : "NF Coeur D'Alene R nr Prichard, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12411000:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.966656215227,
+      47.69999369458
+    ]
+  },
+  "properties": {
+    "name": "NF Coeur D'Alene R nr Prichard, ID",
+    "source": "ref"
+  }
+}

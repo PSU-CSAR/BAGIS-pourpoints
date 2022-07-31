@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15518000:AK:USGS", "geometry" : {"type":"Point","coordinates":[-148.933304895483,63.8333283698291]}, "properties" : {"name" : "Nenana R nr Healy AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15518000:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.933304895483,
+      63.8333283698291
+    ]
+  },
+  "properties": {
+    "name": "Nenana R nr Healy AK",
+    "source": "ref"
+  }
+}

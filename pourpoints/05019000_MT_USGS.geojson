@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "05019000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.066656503088,48.9833232937306]}, "properties" : {"name" : "St Mary Ca at Hudson Bay nr Browning", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "05019000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.066656503088,
+      48.9833232937306
+    ]
+  },
+  "properties": {
+    "name": "St Mary Ca at Hudson Bay nr Browning",
+    "source": "ref"
+  }
+}

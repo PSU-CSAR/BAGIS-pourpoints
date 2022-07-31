@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "DAVISCK:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.364116569158,41.7357345721858]}, "properties" : {"name" : "Davis Ck", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "DAVISCK:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.364116569158,
+      41.7357345721858
+    ]
+  },
+  "properties": {
+    "name": "Davis Ck",
+    "source": "ref"
+  }
+}

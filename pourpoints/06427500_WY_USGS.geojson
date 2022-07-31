@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06427500:WY:USGS", "geometry" : {"type":"Point","coordinates":[-104.766659304108,44.3833229663453]}, "properties" : {"name" : "Belle Fourche R blw Keyhole Resv", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06427500:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.766659304108,
+      44.3833229663453
+    ]
+  },
+  "properties": {
+    "name": "Belle Fourche R blw Keyhole Resv",
+    "source": "ref"
+  }
+}

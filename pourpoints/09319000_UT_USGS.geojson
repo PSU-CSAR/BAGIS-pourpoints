@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "09319000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.416658545494,39.3166540931066]}, "properties" : {"name" : "Ephraim Tunnel Near Ephraim, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "09319000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.416658545494,
+      39.3166540931066
+    ]
+  },
+  "properties": {
+    "name": "Ephraim Tunnel Near Ephraim, UT",
+    "source": "ref"
+  }
+}

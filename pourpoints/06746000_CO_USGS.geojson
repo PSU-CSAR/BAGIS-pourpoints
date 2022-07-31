@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06746000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.891689589746,40.5205935395073]}, "properties" : {"name" : "Michigan Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06746000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.891689589746,
+      40.5205935395073
+    ]
+  },
+  "properties": {
+    "name": "Michigan Ditch",
+    "source": "ref"
+  }
+}

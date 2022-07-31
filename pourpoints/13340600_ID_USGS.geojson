@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13340600:ID:USGS", "geometry" : {"type":"Point","coordinates":[-115.616656476316,46.8333237243652]}, "properties" : {"name" : "North Fork Clearwater R nr Canyon Rs, ID", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13340600:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.616656476316,
+      46.8333237243652
+    ]
+  },
+  "properties": {
+    "name": "North Fork Clearwater R nr Canyon Rs, ID",
+    "source": "ref"
+  }
+}

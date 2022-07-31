@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0031:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.256389420217,37.3744941241057]}, "properties" : {"name" : "Town Of Mancos Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0031:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.256389420217,
+      37.3744941241057
+    ]
+  },
+  "properties": {
+    "name": "Town Of Mancos Ditch",
+    "source": "ref"
+  }
+}

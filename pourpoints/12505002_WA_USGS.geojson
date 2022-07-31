@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12505002:WA:USGS", "geometry" : {"type":"Point","coordinates":[-120.433315675675,46.4833242446825]}, "properties" : {"name" : "Parker Local", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12505002:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.433315675675,
+      46.4833242446825
+    ]
+  },
+  "properties": {
+    "name": "Parker Local",
+    "source": "ref"
+  }
+}

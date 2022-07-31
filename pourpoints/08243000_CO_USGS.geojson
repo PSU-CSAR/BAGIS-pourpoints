@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "08243000:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.549990015736,37.3833239509825]}, "properties" : {"name" : "Trinchera Water Supply", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "08243000:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.549990015736,
+      37.3833239509825
+    ]
+  },
+  "properties": {
+    "name": "Trinchera Water Supply",
+    "source": "ref"
+  }
+}

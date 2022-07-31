@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1129900N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.49998706037,37.9499949004118]}, "properties" : {"name" : "Melones Reservoir at Melones Dam, Ca (Nw", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1129900N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.49998706037,
+      37.9499949004118
+    ]
+  },
+  "properties": {
+    "name": "Melones Reservoir at Melones Dam, Ca (Nw",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "CO0035:CO:USGS", "geometry" : {"type":"Point","coordinates":[-108.21058942746,37.3963941174742]}, "properties" : {"name" : "Weber Reservoir Inlet Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "CO0035:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.21058942746,
+      37.3963941174742
+    ]
+  },
+  "properties": {
+    "name": "Weber Reservoir Inlet Ditch",
+    "source": "ref"
+  }
+}

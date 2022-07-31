@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06216000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-108.533318246274,45.4333231731284]}, "properties" : {"name" : "Pryor Ck at Pryor", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06216000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.533318246274,
+      45.4333231731284
+    ]
+  },
+  "properties": {
+    "name": "Pryor Ck at Pryor",
+    "source": "ref"
+  }
+}

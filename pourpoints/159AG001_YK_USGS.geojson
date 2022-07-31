@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "159AG001:YK:USGS", "geometry" : {"type":"Point","coordinates":[-134.833307212593,61.8666659264584]}, "properties" : {"name" : "Big Salmon River nr Carmacks", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "159AG001:YK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -134.833307212593,
+      61.8666659264584
+    ]
+  },
+  "properties": {
+    "name": "Big Salmon River nr Carmacks",
+    "source": "ref"
+  }
+}

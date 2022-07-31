@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10378500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-119.923266531852,42.4248744799257]}, "properties" : {"name" : "Honey Ck nr Plush", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10378500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.923266531852,
+      42.4248744799257
+    ]
+  },
+  "properties": {
+    "name": "Honey Ck nr Plush",
+    "source": "ref"
+  }
+}

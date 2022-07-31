@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10108000:UT:USGS", "geometry" : {"type":"Point","coordinates":[-111.783318148749,41.7444338457325]}, "properties" : {"name" : "Utah Power And Light Tailrace", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10108000:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.783318148749,
+      41.7444338457325
+    ]
+  },
+  "properties": {
+    "name": "Utah Power And Light Tailrace",
+    "source": "ref"
+  }
+}

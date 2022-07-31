@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14097100:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.133315899049,44.8499944203936]}, "properties" : {"name" : "Warmsprings nr Kahneeta", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14097100:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.133315899049,
+      44.8499944203936
+    ]
+  },
+  "properties": {
+    "name": "Warmsprings nr Kahneeta",
+    "source": "ref"
+  }
+}

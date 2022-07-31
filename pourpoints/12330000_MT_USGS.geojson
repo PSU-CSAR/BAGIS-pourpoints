@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12330000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.233317031459,46.4666635162213]}, "properties" : {"name" : "Boulder Ck at Maxville", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12330000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.233317031459,
+      46.4666635162213
+    ]
+  },
+  "properties": {
+    "name": "Boulder Ck at Maxville",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "11370000:CA:USGS", "geometry" : {"type":"Point","coordinates":[-122.419976400058,40.7175648264134]}, "properties" : {"name" : "Shasta Lake Inflow, CA", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "11370000:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.419976400058,
+      40.7175648264134
+    ]
+  },
+  "properties": {
+    "name": "Shasta Lake Inflow, CA",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13106000:ID:USGS", "geometry" : {"type":"Point","coordinates":[-114.733317494104,42.2166640437266]}, "properties" : {"name" : "Salmon R. Canal Co. Canal nr Rogerson, I", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13106000:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.733317494104,
+      42.2166640437266
+    ]
+  },
+  "properties": {
+    "name": "Salmon R. Canal Co. Canal nr Rogerson, I",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14161100:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.249985842557,44.216664571102]}, "properties" : {"name" : "Blue River blw Tidbits Crk", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14161100:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.249985842557,
+      44.216664571102
+    ]
+  },
+  "properties": {
+    "name": "Blue River blw Tidbits Crk",
+    "source": "ref"
+  }
+}

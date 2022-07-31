@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12097500:WA:USGS", "geometry" : {"type":"Point","coordinates":[-121.634435330763,47.1333243331523]}, "properties" : {"name" : "Greenwater R at Greenwater", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12097500:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.634435330763,
+      47.1333243331523
+    ]
+  },
+  "properties": {
+    "name": "Greenwater R at Greenwater",
+    "source": "ref"
+  }
+}

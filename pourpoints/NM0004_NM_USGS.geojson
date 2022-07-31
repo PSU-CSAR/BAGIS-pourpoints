@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "NM0004:NM:USGS", "geometry" : {"type":"Point","coordinates":[-105.006430218905,36.5303140436798]}, "properties" : {"name" : "Philmont Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "NM0004:NM:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.006430218905,
+      36.5303140436798
+    ]
+  },
+  "properties": {
+    "name": "Philmont Ditch",
+    "source": "ref"
+  }
+}

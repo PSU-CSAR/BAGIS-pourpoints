@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06178500:MT:USGS", "geometry" : {"type":"Point","coordinates":[-105.416658268565,48.9999925196054]}, "properties" : {"name" : "E Poplar R at Intnl Boundary", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06178500:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.416658268565,
+      48.9999925196054
+    ]
+  },
+  "properties": {
+    "name": "E Poplar R at Intnl Boundary",
+    "source": "ref"
+  }
+}

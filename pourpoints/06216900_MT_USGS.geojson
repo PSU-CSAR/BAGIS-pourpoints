@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06216900:MT:USGS", "geometry" : {"type":"Point","coordinates":[-108.283318232654,45.8166631110137]}, "properties" : {"name" : "Pryor Ck nr Huntley", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06216900:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.283318232654,
+      45.8166631110137
+    ]
+  },
+  "properties": {
+    "name": "Pryor Ck nr Huntley",
+    "source": "ref"
+  }
+}

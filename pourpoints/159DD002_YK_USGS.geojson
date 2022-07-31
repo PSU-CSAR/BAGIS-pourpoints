@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "159DD002:YK:USGS", "geometry" : {"type":"Point","coordinates":[-136.666645858384,63.3666662708092]}, "properties" : {"name" : "Stewart River at Stewart Crossing", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "159DD002:YK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -136.666645858384,
+      63.3666662708092
+    ]
+  },
+  "properties": {
+    "name": "Stewart River at Stewart Crossing",
+    "source": "ref"
+  }
+}

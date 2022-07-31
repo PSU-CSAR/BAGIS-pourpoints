@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13056502:ID:USGS", "geometry" : {"type":"Point","coordinates":[-111.666657816893,43.9999936008886]}, "properties" : {"name" : "Sum Of Major Divs St Anthony To Rexburg", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13056502:ID:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.666657816893,
+      43.9999936008886
+    ]
+  },
+  "properties": {
+    "name": "Sum Of Major Divs St Anthony To Rexburg",
+    "source": "ref"
+  }
+}

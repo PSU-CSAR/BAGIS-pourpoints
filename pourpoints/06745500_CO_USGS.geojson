@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06745500:CO:USGS", "geometry" : {"type":"Point","coordinates":[-105.892189589514,40.5205935393076]}, "properties" : {"name" : "Cameron Pass Ditch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06745500:CO:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.892189589514,
+      40.5205935393076
+    ]
+  },
+  "properties": {
+    "name": "Cameron Pass Ditch",
+    "source": "ref"
+  }
+}

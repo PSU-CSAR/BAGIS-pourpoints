@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14314500:OR:USGS", "geometry" : {"type":"Point","coordinates":[-122.287246014081,43.2442846383793]}, "properties" : {"name" : "Clearwater R ab Trap nr Toketee Falls", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14314500:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.287246014081,
+      43.2442846383793
+    ]
+  },
+  "properties": {
+    "name": "Clearwater R ab Trap nr Toketee Falls",
+    "source": "ref"
+  }
+}

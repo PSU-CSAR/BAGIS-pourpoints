@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06638090:WY:USGS", "geometry" : {"type":"Point","coordinates":[-108.249988790929,42.4999934745059]}, "properties" : {"name" : "Sweetwater R nr Sweetwater Station", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06638090:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.249988790929,
+      42.4999934745059
+    ]
+  },
+  "properties": {
+    "name": "Sweetwater R nr Sweetwater Station",
+    "source": "ref"
+  }
+}

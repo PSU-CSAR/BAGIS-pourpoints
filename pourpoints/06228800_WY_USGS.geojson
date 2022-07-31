@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06228800:WY:USGS", "geometry" : {"type":"Point","coordinates":[-108.999988545081,43.0333234747361]}, "properties" : {"name" : "NF Little Wind River nr Fort Washakie", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06228800:WY:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.999988545081,
+      43.0333234747361
+    ]
+  },
+  "properties": {
+    "name": "NF Little Wind River nr Fort Washakie",
+    "source": "ref"
+  }
+}

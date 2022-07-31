@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14018500:WA:USGS", "geometry" : {"type":"Point","coordinates":[-118.728596069044,46.0277740990431]}, "properties" : {"name" : "Walla Walla R nr Touchet", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14018500:WA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.728596069044,
+      46.0277740990431
+    ]
+  },
+  "properties": {
+    "name": "Walla Walla R nr Touchet",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10338500:CA:USGS", "geometry" : {"type":"Point","coordinates":[-120.23331693476,39.3236047594205]}, "properties" : {"name" : "Donner Lk Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10338500:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.23331693476,
+      39.3236047594205
+    ]
+  },
+  "properties": {
+    "name": "Donner Lk Inflow",
+    "source": "ref"
+  }
+}

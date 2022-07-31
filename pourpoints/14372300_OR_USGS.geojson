@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14372300:OR:USGS", "geometry" : {"type":"Point","coordinates":[-124.049985867525,42.5666648460745]}, "properties" : {"name" : "Rogue nr Agness", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14372300:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -124.049985867525,
+      42.5666648460745
+    ]
+  },
+  "properties": {
+    "name": "Rogue nr Agness",
+    "source": "ref"
+  }
+}

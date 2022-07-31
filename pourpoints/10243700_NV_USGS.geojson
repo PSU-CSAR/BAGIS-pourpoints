@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10243700:NV:USGS", "geometry" : {"type":"Point","coordinates":[-114.529627947188,39.2165743345746]}, "properties" : {"name" : "Cleve Ck nr Ely", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10243700:NV:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.529627947188,
+      39.2165743345746
+    ]
+  },
+  "properties": {
+    "name": "Cleve Ck nr Ely",
+    "source": "ref"
+  }
+}

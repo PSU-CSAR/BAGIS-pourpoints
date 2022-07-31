@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "14092885:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.049985875992,45.0333244003855]}, "properties" : {"name" : "Shitike Ck bl Wolford", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "14092885:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.049985875992,
+      45.0333244003855
+    ]
+  },
+  "properties": {
+    "name": "Shitike Ck bl Wolford",
+    "source": "ref"
+  }
+}

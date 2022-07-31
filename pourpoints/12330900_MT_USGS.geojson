@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "12330900:MT:USGS", "geometry" : {"type":"Point","coordinates":[-113.314376995109,46.5593235167008]}, "properties" : {"name" : "Lower Willow Ck Reservoir Inflow", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "12330900:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.314376995109,
+      46.5593235167008
+    ]
+  },
+  "properties": {
+    "name": "Lower Willow Ck Reservoir Inflow",
+    "source": "ref"
+  }
+}

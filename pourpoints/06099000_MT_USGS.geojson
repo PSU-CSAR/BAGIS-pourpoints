@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "06099000:MT:USGS", "geometry" : {"type":"Point","coordinates":[-112.349986740242,48.6333232466787]}, "properties" : {"name" : "Cut Bank Ck at Cut Bank", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "06099000:MT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.349986740242,
+      48.6333232466787
+    ]
+  },
+  "properties": {
+    "name": "Cut Bank Ck at Cut Bank",
+    "source": "ref"
+  }
+}

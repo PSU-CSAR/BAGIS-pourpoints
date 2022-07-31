@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15297900:AK:USGS", "geometry" : {"type":"Point","coordinates":[-156.66886880796,58.6855592490107]}, "properties" : {"name" : "Eskimo C at King Salmon AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15297900:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.66886880796,
+      58.6855592490107
+    ]
+  },
+  "properties": {
+    "name": "Eskimo C at King Salmon AK",
+    "source": "ref"
+  }
+}

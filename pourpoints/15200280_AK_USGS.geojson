@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15200280:AK:USGS", "geometry" : {"type":"Point","coordinates":[-145.532996010381,62.5203877186137]}, "properties" : {"name" : "Gulkana R at Sourdough", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15200280:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.532996010381,
+      62.5203877186137
+    ]
+  },
+  "properties": {
+    "name": "Gulkana R at Sourdough",
+    "source": "ref"
+  }
+}

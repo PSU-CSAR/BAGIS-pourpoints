@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10390600:OR:USGS", "geometry" : {"type":"Point","coordinates":[-121.049986248544,43.0166645384429]}, "properties" : {"name" : "Bridge Ck nr Spahr Ranch", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10390600:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.049986248544,
+      43.0166645384429
+    ]
+  },
+  "properties": {
+    "name": "Bridge Ck nr Spahr Ranch",
+    "source": "ref"
+  }
+}

@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "15296550:AK:USGS", "geometry" : {"type":"Point","coordinates":[-153.966649393386,57.3499987334325]}, "properties" : {"name" : "Upper Thumb R nr Larsen Bay AK", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "15296550:AK:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -153.966649393386,
+      57.3499987334325
+    ]
+  },
+  "properties": {
+    "name": "Upper Thumb R nr Larsen Bay AK",
+    "source": "ref"
+  }
+}

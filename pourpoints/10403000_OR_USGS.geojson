@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "10403000:OR:USGS", "geometry" : {"type":"Point","coordinates":[-119.649986362836,43.68332435872]}, "properties" : {"name" : "Silver Creek nr Riley", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "10403000:OR:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.649986362836,
+      43.68332435872
+    ]
+  },
+  "properties": {
+    "name": "Silver Creek nr Riley",
+    "source": "ref"
+  }
+}

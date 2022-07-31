@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "1152540N:CA:USGS", "geometry" : {"type":"Point","coordinates":[-122.749986338346,40.7999948483542]}, "properties" : {"name" : "Clair Engle Lake Near Lewiston, Ca (NWS)", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "1152540N:CA:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.749986338346,
+      40.7999948483542
+    ]
+  },
+  "properties": {
+    "name": "Clair Engle Lake Near Lewiston, Ca (NWS)",
+    "source": "ref"
+  }
+}

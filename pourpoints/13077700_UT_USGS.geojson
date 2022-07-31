@@ -1,1 +1,15 @@
-{"type" : "Feature", "id" : "13077700:UT:USGS", "geometry" : {"type":"Point","coordinates":[-113.483317782254,41.916663967836]}, "properties" : {"name" : "George Ck nr Yost, UT", "source" : "ref"}}
+{
+  "type": "Feature",
+  "id": "13077700:UT:USGS",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.483317782254,
+      41.916663967836
+    ]
+  },
+  "properties": {
+    "name": "George Ck nr Yost, UT",
+    "source": "ref"
+  }
+}
