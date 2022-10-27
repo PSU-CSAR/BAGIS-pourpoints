@@ -64,7 +64,8 @@ follow the formatting detailed above.
 
 Reference pourpoint records should have a `source` of `ref` and need to be
 named with their `stationtriplet` with the `:` characters converted to `_` and
-the extension `.geojson`.  For example, `06034700_MT_USGS.geojson`.
+the extension `.geojson`.  For example, `06034700_MT_USGS.geojson`. The
+station triplet should also be used for the `id`.
 
 For new reference records place the geojson file in the `reference` directory.
 
