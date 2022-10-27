@@ -50801,6 +50801,22 @@
   ],
   "properties": {
     "name": "Rogue R at Raygold",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1905",
+    "countyname": "Jackson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003080202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rogue R at Raygold",
+    "elevation": "1122",
+    "basinarea": 2053.0,
+    "awdb_id": "14359000",
+    "usgs_id": "14359000",
+    "usgsname": "ROGUE RIVER AT RAYGOLD NEAR CENTRAL POINT, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Rogue R at Raygold",
+    "aoi_exist": true
   }
 }

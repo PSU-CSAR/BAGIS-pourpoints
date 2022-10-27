@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Salmon R. Canal Co. Canal nr Rogerson, I",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1937",
+    "countyname": "Twin Falls",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402130709,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salmon R. Canal Co. Canal nr Rogerson, I",
+    "elevation": "4940",
+    "basinarea": null,
+    "awdb_id": "13106000",
+    "usgs_id": "13106000",
+    "usgsname": "SALMON RIVER CANAL CO CANAL NR ROGERSON ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

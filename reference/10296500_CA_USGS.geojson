@@ -19737,6 +19737,22 @@
   ],
   "properties": {
     "name": "W Walker R nr Coleville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1902",
+    "countyname": "Mono",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160503020204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "W Walker R nr Coleville",
+    "elevation": "5520",
+    "basinarea": 250.0,
+    "awdb_id": "10296500",
+    "usgs_id": "10296500",
+    "usgsname": "W WALKER RV NR COLEVILLE, CA",
+    "forecastpoint": true,
+    "bagis_aoiname": "w walker r nr coalville",
+    "aoi_exist": true
   }
 }

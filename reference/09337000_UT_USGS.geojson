@@ -10097,6 +10097,22 @@
   ],
   "properties": {
     "name": "Pine Ck nr Escalante",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18891101",
+    "countyname": "Garfield",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140700050106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pine Ck nr Escalante",
+    "elevation": "6400",
+    "basinarea": 68.1,
+    "awdb_id": "09337000",
+    "usgs_id": "9337000",
+    "usgsname": "PINE CREEK NEAR ESCALANTE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "pine creek nr escalante",
+    "aoi_exist": true
   }
 }

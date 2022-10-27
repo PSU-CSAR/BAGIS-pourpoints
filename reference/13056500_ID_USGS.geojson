@@ -65569,6 +65569,22 @@
   ],
   "properties": {
     "name": "Henrys Fk nr Rexburg",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1909",
+    "countyname": "Madison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402030506,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Henrys Fk nr Rexburg",
+    "elevation": "4806",
+    "basinarea": 2920.0,
+    "awdb_id": "13056500",
+    "usgs_id": "13056500",
+    "usgsname": "HENRYS FORK NR REXBURG ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Henrys Fk nr Rexburg",
+    "aoi_exist": true
   }
 }

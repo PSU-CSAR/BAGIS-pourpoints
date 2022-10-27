@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Scott R nr Fort Jones CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "Siskiyou",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180102080504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Scott R nr Fort Jones CA",
+    "elevation": "2624",
+    "basinarea": 653.0,
+    "awdb_id": "11519500",
+    "usgs_id": "11519500",
+    "usgsname": "SCOTT R NR FORT JONES CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

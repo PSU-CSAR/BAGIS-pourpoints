@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Muddy Ck at Kremmling",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010709,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Muddy Ck at Kremmling",
+    "elevation": "7330",
+    "basinarea": 290.0,
+    "awdb_id": "09041500",
+    "usgs_id": "9041500",
+    "usgsname": "MUDDY CREEK AT KREMMLING, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -9745,6 +9745,22 @@
   ],
   "properties": {
     "name": "Beaver R nr Beaver",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/15/1914",
+    "countyname": "Beaver",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300070207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver R nr Beaver",
+    "elevation": "6200",
+    "basinarea": 91.0,
+    "awdb_id": "10234500",
+    "usgs_id": "10234500",
+    "usgsname": "BEAVER RIVER NEAR BEAVER, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "beaver r nr beaver",
+    "aoi_exist": true
   }
 }

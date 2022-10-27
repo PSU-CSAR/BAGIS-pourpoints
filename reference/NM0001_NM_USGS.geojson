@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "City Of Raton Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1983",
+    "countyname": "Colfax",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800020109,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "City Of Raton Diversion",
+    "elevation": "6620",
+    "basinarea": null,
+    "awdb_id": "NM0001",
+    "usgs_id": "NM0001",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

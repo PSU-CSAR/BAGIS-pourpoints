@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lake Almanor at Prattville, CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Plumas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201210404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Almanor at Prattville, CA",
+    "elevation": "4416",
+    "basinarea": 491.0,
+    "awdb_id": "11399000",
+    "usgs_id": "11399000",
+    "usgsname": "LK ALMANOR A PRATTVILLE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

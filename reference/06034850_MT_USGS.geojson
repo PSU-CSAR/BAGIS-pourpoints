@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Willow Ck  NF +  SF nr Harrison",
-    "source": "ref"
+    "name": "Willow Ck  NF   SF nr Harrison",
+    "source": "ref",
+    "begindate": "1/1/1997",
+    "countyname": "Madison",
+    "enddate": "1999-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100200050701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willow Ck  NF   SF nr Harrison",
+    "elevation": "6000",
+    "basinarea": null,
+    "awdb_id": "06034850",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

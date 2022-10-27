@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mf American R nr Auburn CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1911",
+    "countyname": "Placer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201280504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf American R nr Auburn CA",
+    "elevation": "552.35",
+    "basinarea": 614.0,
+    "awdb_id": "11433500",
+    "usgs_id": "11433500",
+    "usgsname": "MF AMERICAN R NR AUBURN CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "White River Below Tygh Valley,oreg.",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1917",
+    "countyname": "Wasco",
+    "enddate": "1991-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170703060908,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "White River Below Tygh Valley,oreg.",
+    "elevation": "870",
+    "basinarea": 417.0,
+    "awdb_id": "14101500",
+    "usgs_id": "14101500",
+    "usgsname": "WHITE RIVER BELOW TYGH VALLEY,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

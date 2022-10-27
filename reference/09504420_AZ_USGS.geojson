@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Oak Creek nr Sedona",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1981",
+    "countyname": "Coconino",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150602020508,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Oak Creek nr Sedona",
+    "elevation": "4169",
+    "basinarea": 233.0,
+    "awdb_id": "09504420",
+    "usgs_id": "9504420",
+    "usgsname": "OAK CREEK NEAR SEDONA, AZ",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

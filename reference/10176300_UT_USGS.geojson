@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Panguitch Ck nr Panguitch, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1961",
+    "countyname": "Garfield",
+    "enddate": "2014-04-01T07:00:00Z",
+    "active": false,
+    "huc": 160300010405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Panguitch Ck nr Panguitch, UT",
+    "elevation": "7600",
+    "basinarea": 97.0,
+    "awdb_id": "10176300",
+    "usgs_id": "10176300",
+    "usgsname": "PANGUITCH CREEK NEAR PANGUITCH, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

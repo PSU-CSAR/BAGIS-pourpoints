@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bidwell Ck nr Fort Bidwell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1958",
+    "countyname": "Modoc",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180800010101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bidwell Ck nr Fort Bidwell",
+    "elevation": "4935",
+    "basinarea": 25.6,
+    "awdb_id": "10360900",
+    "usgs_id": "10360900",
+    "usgsname": "BIDWELL C BL MILL C NR FORT BIDWELL CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

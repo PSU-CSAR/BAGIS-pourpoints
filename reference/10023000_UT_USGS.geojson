@@ -6273,6 +6273,22 @@
   ],
   "properties": {
     "name": "Big Ck nr Randolph",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/19/1939",
+    "countyname": "Rich",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160101010702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Ck nr Randolph",
+    "elevation": "6410",
+    "basinarea": 52.4,
+    "awdb_id": "10023000",
+    "usgs_id": "10023000",
+    "usgsname": "BIG CREEK NEAR RANDOLPH, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "bg ck nr randolph",
+    "aoi_exist": true
   }
 }

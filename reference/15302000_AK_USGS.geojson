@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Nuyakuk R nr Dillingham AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1953",
+    "countyname": "Dillingham",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190303011704,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Nuyakuk R nr Dillingham AK",
+    "elevation": "325",
+    "basinarea": 1510.0,
+    "awdb_id": "15302000",
+    "usgs_id": "15302000",
+    "usgsname": "NUYAKUK R NR DILLINGHAM AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

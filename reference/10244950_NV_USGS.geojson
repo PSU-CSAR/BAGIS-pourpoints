@@ -2865,6 +2865,22 @@
   ],
   "properties": {
     "name": "Steptoe Ck nr Ely",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1966",
+    "countyname": "White Pine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160600081101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Steptoe Ck nr Ely",
+    "elevation": "7440",
+    "basinarea": 11.1,
+    "awdb_id": "10244950",
+    "usgs_id": "10244950",
+    "usgsname": "STEPTOE CK NR ELY, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "steptoe ck nr ely",
+    "aoi_exist": true
   }
 }

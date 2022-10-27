@@ -6777,6 +6777,22 @@
   ],
   "properties": {
     "name": "Wheatfields Ck nr Wheatfields",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1995",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140802040102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wheatfields Ck nr Wheatfields",
+    "elevation": "7360",
+    "basinarea": null,
+    "awdb_id": "WHEATFLD",
+    "usgs_id": "WHEATFLD",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "wheatfields ck nr wheatfields",
+    "aoi_exist": true
   }
 }

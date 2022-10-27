@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Larkspur Ditch at Marshall Pass",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1949",
+    "countyname": "Saguache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200030103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Larkspur Ditch at Marshall Pass",
+    "elevation": "10718",
+    "basinarea": null,
+    "awdb_id": "09115000",
+    "usgs_id": "9115000",
+    "usgsname": "LARKSPUR DITCH AT MARSHALL PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

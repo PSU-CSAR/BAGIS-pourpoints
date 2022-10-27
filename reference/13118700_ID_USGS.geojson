@@ -25792,7 +25792,23 @@
     }
   ],
   "properties": {
-    "name": "Little Lost R nr Howe",
-    "source": "ref"
+    "name": "Little Lost R bl Wet Ck nr Howe",
+    "source": "ref",
+    "begindate": "1/1/1958",
+    "countyname": "Butte",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402170504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Lost R bl Wet Ck nr Howe",
+    "elevation": "5880",
+    "basinarea": 436.0,
+    "awdb_id": "13118700",
+    "usgs_id": "13118700",
+    "usgsname": "LITTLE LOST RIVER BL WET CREEK NR HOWE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

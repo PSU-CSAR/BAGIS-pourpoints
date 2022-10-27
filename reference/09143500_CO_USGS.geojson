@@ -6697,6 +6697,22 @@
   ],
   "properties": {
     "name": "Surface Ck at Cedaredge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1917",
+    "countyname": "Delta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200050111,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Surface Ck at Cedaredge",
+    "elevation": "6220",
+    "basinarea": 38.5,
+    "awdb_id": "09143500",
+    "usgs_id": "9143500",
+    "usgsname": "SURFACE CREEK AT CEDAREDGE, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "surface ck at cedaredge",
+    "aoi_exist": true
   }
 }

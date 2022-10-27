@@ -16345,6 +16345,22 @@
   ],
   "properties": {
     "name": "Sandy R nr Marmot",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Clackamas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170800010402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sandy R nr Marmot",
+    "elevation": "720",
+    "basinarea": 264.0,
+    "awdb_id": "14137000",
+    "usgs_id": "14137000",
+    "usgsname": "SANDY RIVER NEAR MARMOT, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Sandy R nr Marmot",
+    "aoi_exist": true
   }
 }

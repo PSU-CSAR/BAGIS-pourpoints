@@ -22113,6 +22113,22 @@
   ],
   "properties": {
     "name": "Foster Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1935",
+    "countyname": "Linn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900060801,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Foster Lake Inflow",
+    "elevation": "600",
+    "basinarea": 492.0,
+    "awdb_id": "14186600",
+    "usgs_id": "14186600",
+    "usgsname": "FOSTER LAKE AT FOSTER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

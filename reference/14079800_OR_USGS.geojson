@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Crooked R nr Post",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1993",
+    "countyname": "Crook",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703040608,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Crooked R nr Post",
+    "elevation": "3260",
+    "basinarea": 2400.0,
+    "awdb_id": "14079800",
+    "usgs_id": "14079800",
+    "usgsname": "CROOKED RIVER ABV PRINEVILLE RESV, NEAR POST, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

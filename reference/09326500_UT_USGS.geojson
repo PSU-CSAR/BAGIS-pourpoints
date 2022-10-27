@@ -11008,7 +11008,23 @@
     }
   ],
   "properties": {
-    "name": "Ferron Ck (Upper Station) nr Ferron",
-    "source": "ref"
+    "name": "Ferron Ck Upper Station nr Ferron",
+    "source": "ref",
+    "begindate": "10/1/1911",
+    "countyname": "Emery",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600090303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ferron Ck Upper Station nr Ferron",
+    "elevation": "6210",
+    "basinarea": 138.0,
+    "awdb_id": "09326500",
+    "usgs_id": "9326500",
+    "usgsname": "FERRON CREEK (UPPER STATION) NEAR FERRON, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "ferron ck (upper station) nr ferron",
+    "aoi_exist": true
   }
 }

@@ -9960,7 +9960,23 @@
     }
   ],
   "properties": {
-    "name": "Navajo R at Oso Diversion",
-    "source": "ref"
+    "name": "Navajo R bl Oso Diversion Dam nr Chromo",
+    "source": "ref",
+    "begindate": "1/1/1935",
+    "countyname": "Archuleta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Navajo R bl Oso Diversion Dam nr Chromo",
+    "elevation": "7648",
+    "basinarea": 100.0,
+    "awdb_id": "09344400",
+    "usgs_id": "9344400",
+    "usgsname": "NAVAJO RIVER BL OSO DIVERSION DAM NR CHROMO, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "navajo r at oso diversion (2)",
+    "aoi_exist": true
   }
 }

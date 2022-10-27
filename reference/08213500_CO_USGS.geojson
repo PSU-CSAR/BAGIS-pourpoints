@@ -11793,6 +11793,22 @@
   ],
   "properties": {
     "name": "Rio Grande at Thirty Mile Bridge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1909",
+    "countyname": "Hinsdale",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100010304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Grande at Thirty Mile Bridge",
+    "elevation": "9300",
+    "basinarea": 163.0,
+    "awdb_id": "08213500",
+    "usgs_id": "8213500",
+    "usgsname": "RIO GRANDE AT THIRTYMILE BRIDGE, NR CREEDE, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "rio grande at thirty mile bridge (2)",
+    "aoi_exist": true
   }
 }

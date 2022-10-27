@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Silver Creek nr Riley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1904",
+    "countyname": "Harney",
+    "enddate": "1981-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171200040103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Silver Creek nr Riley",
+    "elevation": "4450",
+    "basinarea": 228.0,
+    "awdb_id": "10403000",
+    "usgs_id": "10403000",
+    "usgsname": "SILVER CREEK NEAR RILEY, OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

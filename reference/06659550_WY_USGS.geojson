@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Transbasin Diversions From Laramie R",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Sheridan",
+    "enddate": "2000-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100901010207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Transbasin Diversions From Laramie R",
+    "elevation": "4080",
+    "basinarea": null,
+    "awdb_id": "06659550",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

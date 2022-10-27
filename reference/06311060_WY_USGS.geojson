@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Powder R blw Bull Ck nr Hazelton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1974",
+    "countyname": "Johnson",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100902010302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Powder R blw Bull Ck nr Hazelton",
+    "elevation": "7840",
+    "basinarea": 32.3,
+    "awdb_id": "06311060",
+    "usgs_id": "6311060",
+    "usgsname": "NF POWDER R BL BULL C, NR HAZELTON, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

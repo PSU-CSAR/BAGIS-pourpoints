@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Silverbow Ck at Warm Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1972",
+    "countyname": "Deer Lodge",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102010401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Silverbow Ck at Warm Springs",
+    "elevation": "4800",
+    "basinarea": 473.0,
+    "awdb_id": "12323750",
+    "usgs_id": "12323750",
+    "usgsname": "Silver Bow Creek at Warm Springs MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

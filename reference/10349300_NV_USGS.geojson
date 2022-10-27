@@ -12041,6 +12041,22 @@
   ],
   "properties": {
     "name": "Steamboat Ck at Steamboat",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1961",
+    "countyname": "Washoe",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Steamboat Ck at Steamboat",
+    "elevation": "4600",
+    "basinarea": 123.0,
+    "awdb_id": "10349300",
+    "usgs_id": "10349300",
+    "usgsname": "STEAMBOAT CK AT STEAMBOAT, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "steamboat ck at steamboat",
+    "aoi_exist": true
   }
 }

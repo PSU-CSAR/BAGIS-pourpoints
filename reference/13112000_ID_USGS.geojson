@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Camas Ck at Camas",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1925",
+    "countyname": "Jefferson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402140605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Camas Ck at Camas",
+    "elevation": "4807",
+    "basinarea": 384.0,
+    "awdb_id": "13112000",
+    "usgs_id": "13112000",
+    "usgsname": "CAMAS CREEK AT CAMAS ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

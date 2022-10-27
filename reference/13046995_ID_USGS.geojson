@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Falls River ab Yellowstone Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/16/1993",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402030304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Falls River ab Yellowstone Canal",
+    "elevation": "5780",
+    "basinarea": 323.0,
+    "awdb_id": "13046995",
+    "usgs_id": "13046995",
+    "usgsname": "FALL RIVER AB YELLOWSTONE CANAL NR SQUIRREL ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

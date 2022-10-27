@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Trout Ck nr Denio",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Harney",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171200090202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Trout Ck nr Denio",
+    "elevation": "4352",
+    "basinarea": 88.0,
+    "awdb_id": "10406500",
+    "usgs_id": "10406500",
+    "usgsname": "TROUT CREEK NEAR DENIO,NEV.",
+    "forecastpoint": true,
+    "bagis_aoiname": "trout ck nr denio",
+    "aoi_exist": true
   }
 }

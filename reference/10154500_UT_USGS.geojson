@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Weber-Provo Diversion Canal Near Woodlan",
-    "source": "ref"
+    "name": "Weber-Provo Diversion Canal nr Woodland",
+    "source": "ref",
+    "begindate": "6/1/1932",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202030203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weber-Provo Diversion Canal nr Woodland",
+    "elevation": "6410",
+    "basinarea": null,
+    "awdb_id": "10154500",
+    "usgs_id": "10154500",
+    "usgsname": "WEBER-PROVO DIVERSION CANAL NEAR WOODLAND, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

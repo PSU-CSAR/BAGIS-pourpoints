@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Otter Ck nr Koosharem, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1964",
+    "countyname": "Sevier",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160300020101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Otter Ck nr Koosharem, UT",
+    "elevation": "7100",
+    "basinarea": 23.5,
+    "awdb_id": "10187300",
+    "usgs_id": "10187300",
+    "usgsname": "OTTER CREEK NEAR KOOSHAREM, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

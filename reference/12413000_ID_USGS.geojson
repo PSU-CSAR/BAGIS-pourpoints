@@ -30377,6 +30377,22 @@
   ],
   "properties": {
     "name": "NF Coeur dAlene R at Enaville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/3/1911",
+    "countyname": "Shoshone",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170103010705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Coeur dAlene R at Enaville",
+    "elevation": "2100",
+    "basinarea": 895.0,
+    "awdb_id": "12413000",
+    "usgs_id": "12413000",
+    "usgsname": "NF COEUR D ALENE RIVER AT ENAVILLE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "NF COEUR D ALENE RIVER AT ENAVILLE ID",
+    "aoi_exist": true
   }
 }

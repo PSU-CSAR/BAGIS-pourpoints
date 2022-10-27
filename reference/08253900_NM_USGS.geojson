@@ -6801,6 +6801,22 @@
   ],
   "properties": {
     "name": "Costilla Ck bl Costilla Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/9/1937",
+    "countyname": "Taos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201010103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Costilla Ck bl Costilla Dam",
+    "elevation": "9300",
+    "basinarea": 54.6,
+    "awdb_id": "08253900",
+    "usgs_id": "8253900",
+    "usgsname": "COSTILLA RESERVOIR NEAR COSTILLA, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "costilla ck bl costilla dam (2)",
+    "aoi_exist": true
   }
 }

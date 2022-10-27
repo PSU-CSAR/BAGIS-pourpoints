@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Williams Fork nr Parshall",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1904",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Williams Fork nr Parshall",
+    "elevation": "7809",
+    "basinarea": 184.0,
+    "awdb_id": "09037500",
+    "usgs_id": "9037500",
+    "usgsname": "WILLIAMS FORK NEAR PARSHALL, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

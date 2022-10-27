@@ -58401,6 +58401,22 @@
   ],
   "properties": {
     "name": "Selway R nr Lowell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/11/1911",
+    "countyname": "Idaho",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170603020403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Selway R nr Lowell",
+    "elevation": "1540",
+    "basinarea": 1915.0,
+    "awdb_id": "13336500",
+    "usgs_id": "13336500",
+    "usgsname": "SELWAY RIVER NR LOWELL ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Selway R nr Lowell",
+    "aoi_exist": true
   }
 }

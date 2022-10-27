@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "begindate": "10/1/1991",
+    "countyname": "Kenai Peninsula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190203011101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Upper Bradley R nr Nuka Glacier nr Homer",
+    "name": "Upper Bradley R nr Nuka Glacier nr Homer",
+    "elevation": "1250",
+    "basinarea": null,
+    "awdb_id": "15238990",
+    "usgs_id": "15238990",
+    "usgsname": "UPPER BRADLEY R NR NUKA GLACIER NR HOMER AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.702499400165,
+      59.7005615198737
+    ]
+  },
+  "id": "15238990:AK:USGS"
+}

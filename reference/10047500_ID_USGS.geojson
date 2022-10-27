@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Montpelier Cr at Irr Weir nr Montpelier",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1942",
+    "countyname": "Bear Lake",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160102010402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Montpelier Cr at Irr Weir nr Montpelier",
+    "elevation": "6200",
+    "basinarea": 49.5,
+    "awdb_id": "10047500",
+    "usgs_id": "10047500",
+    "usgsname": "MONTPELIER CR AT IRRIG. WEIR, NR MONTPELIER, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

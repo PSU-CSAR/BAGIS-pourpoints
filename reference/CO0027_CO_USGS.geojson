@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "South Canon Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1911",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200011409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Canon Ditch",
+    "elevation": "5597",
+    "basinarea": null,
+    "awdb_id": "CO0027",
+    "usgs_id": "CO0027",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "south ck ab lloyd-s reservoir nr monticello",
+    "aoi_exist": true
   }
 }

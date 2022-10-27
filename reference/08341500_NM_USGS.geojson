@@ -13009,6 +13009,22 @@
   ],
   "properties": {
     "name": "Bluewater Ck bl Bluewater Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/17/1951",
+    "countyname": "Cibola",
+    "enddate": "2012-07-01T07:00:00Z",
+    "active": false,
+    "huc": 130202070207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bluewater Ck bl Bluewater Dam",
+    "elevation": "7290",
+    "basinarea": 201.0,
+    "awdb_id": "08341500",
+    "usgs_id": "8341500",
+    "usgsname": "BLUEWATER C B BLUEWATER DAM, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Huerfano R nr Redwing",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1923",
+    "countyname": "Huerfano",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200060108,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Huerfano R nr Redwing",
+    "elevation": "8270",
+    "basinarea": 73.0,
+    "awdb_id": "07111000",
+    "usgs_id": "7111000",
+    "usgsname": "HUERFANO R AT MANZANARES XING, NR REDWING, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "huerfano r nr redwing",
+    "aoi_exist": true
   }
 }

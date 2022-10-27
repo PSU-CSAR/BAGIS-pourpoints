@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pine River Weminuche Pass Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1948",
+    "countyname": "Hinsdale",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801011101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pine River Weminuche Pass Ditch",
+    "elevation": "10597",
+    "basinarea": null,
+    "awdb_id": "09352000",
+    "usgs_id": "9352000",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

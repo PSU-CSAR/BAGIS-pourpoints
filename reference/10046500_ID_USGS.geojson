@@ -91873,6 +91873,22 @@
   ],
   "properties": {
     "name": "Bear R bl Stewart Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1926",
+    "countyname": "Bear Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160102010403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear R bl Stewart Dam",
+    "elevation": "5950",
+    "basinarea": 2853.0,
+    "awdb_id": "10046500",
+    "usgs_id": "10046500",
+    "usgsname": "BEAR RIVER BL STEWART DAM NR MONTPELIER, ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "bear r bl stewart dam",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Clearwater at Ahsahka",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/30/1926",
+    "countyname": "Clearwater",
+    "enddate": "1968-07-01T07:00:00Z",
+    "active": false,
+    "huc": 170603080804,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Clearwater at Ahsahka",
+    "elevation": "970",
+    "basinarea": 2443.0,
+    "awdb_id": "13341000",
+    "usgs_id": "13341000",
+    "usgsname": "NORTH FORK CLEARWATER RIVER AT AHSAHKA, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

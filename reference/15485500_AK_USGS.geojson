@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tanana R at Fairbanks",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1973",
+    "countyname": "Fairbanks North Star",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190803071306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tanana R at Fairbanks",
+    "elevation": "400",
+    "basinarea": null,
+    "awdb_id": "15485500",
+    "usgs_id": "15485500",
+    "usgsname": "TANANA R AT FAIRBANKS AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

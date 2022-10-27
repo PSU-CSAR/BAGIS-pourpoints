@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Jefferson R at Sappington",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18941001",
+    "countyname": "Jefferson",
+    "enddate": "1969-11-10T08:00:00Z",
+    "active": false,
+    "huc": 100200050802,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Jefferson R at Sappington",
+    "elevation": "4170",
+    "basinarea": 9270.0,
+    "awdb_id": "06034500",
+    "usgs_id": "6034500",
+    "usgsname": "Jefferson River at Sappington MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

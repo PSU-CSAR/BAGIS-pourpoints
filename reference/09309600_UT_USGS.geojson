@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fairview Tunnel Near Fairview, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1971",
+    "countyname": "San Juan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600070201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fairview Tunnel Near Fairview, UT",
+    "elevation": "8660",
+    "basinarea": 0.01,
+    "awdb_id": "09309600",
+    "usgs_id": "9309600",
+    "usgsname": "FAIRVIEW TUNNEL NEAR FAIRVIEW, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Whitefish R nr Kalispell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1928",
+    "countyname": "Flathead",
+    "enddate": "2006-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102100509,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Whitefish R nr Kalispell",
+    "elevation": "2970",
+    "basinarea": 170.0,
+    "awdb_id": "12366000",
+    "usgs_id": "12366000",
+    "usgsname": "Whitefish River near Kalispell MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

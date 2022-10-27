@@ -44209,6 +44209,22 @@
   ],
   "properties": {
     "name": "Virgin R nr Hurricane",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1967",
+    "countyname": "Washington",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150100080909,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Virgin R nr Hurricane",
+    "elevation": "2836",
+    "basinarea": 1493.0,
+    "awdb_id": "09408150",
+    "usgs_id": "9408150",
+    "usgsname": "VIRGIN RIVER NEAR HURRICANE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "virgin r nr hurricane",
+    "aoi_exist": true
   }
 }

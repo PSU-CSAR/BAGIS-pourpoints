@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kootenai R nr Skookumchuck, BC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1950",
+    "countyname": "UNKNOWN",
+    "enddate": "1985-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101080000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kootenai R nr Skookumchuck, BC",
+    "elevation": "2590",
+    "basinarea": null,
+    "awdb_id": "12NG5300",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

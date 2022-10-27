@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "San Rafael River Near Green River, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Emery",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600091007,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "San Rafael River Near Green River, UT",
+    "elevation": "4190",
+    "basinarea": 1628.0,
+    "awdb_id": "09328500",
+    "usgs_id": "9328500",
+    "usgsname": "SAN RAFAEL RIVER NEAR GREEN RIVER, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

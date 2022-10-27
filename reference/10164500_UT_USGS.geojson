@@ -6817,6 +6817,22 @@
   ],
   "properties": {
     "name": "American Fk ab Upper Powerplant",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1927",
+    "countyname": "Utah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202010802,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "American Fk ab Upper Powerplant",
+    "elevation": "5950",
+    "basinarea": 51.1,
+    "awdb_id": "10164500",
+    "usgs_id": "10164500",
+    "usgsname": "AMERICAN FK AB UPPER POWERPLANT NR AMERICAN FK, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "american fk ab upper powerplant",
+    "aoi_exist": true
   }
 }

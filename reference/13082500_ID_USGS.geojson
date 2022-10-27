@@ -26817,6 +26817,22 @@
   ],
   "properties": {
     "name": "Goose Ck abv Trapper Ck nr Oakley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/29/1911",
+    "countyname": "Cassia",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402110304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Goose Ck abv Trapper Ck nr Oakley",
+    "elevation": "4770",
+    "basinarea": 631.0,
+    "awdb_id": "13082500",
+    "usgs_id": "13082500",
+    "usgsname": "GOOSE CREEK AB TRAPPER CREEK NR OAKLEY ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Goose Ck abv Trapper Ck nr Oakley",
+    "aoi_exist": true
   }
 }

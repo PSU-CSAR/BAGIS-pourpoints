@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Galena Ck at Galena Ck State Pk",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Washoe",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Galena Ck at Galena Ck State Pk",
+    "elevation": "6320",
+    "basinarea": 7.69,
+    "awdb_id": "10348850",
+    "usgs_id": "10348850",
+    "usgsname": "GALENA CK AT GALENA CK STATE PARK, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

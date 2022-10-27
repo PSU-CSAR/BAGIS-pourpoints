@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Yellowstone R. at Bridge Camp nr Altonah",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/6/1996",
+    "countyname": "Duchesne",
+    "enddate": "2015-06-01T07:00:00Z",
+    "active": false,
+    "huc": 140600030804,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yellowstone R. at Bridge Camp nr Altonah",
+    "elevation": "7650",
+    "basinarea": 114.0,
+    "awdb_id": "09292000",
+    "usgs_id": "9292000",
+    "usgsname": "YELLOWSTONE R @ BRIDGE CMPGRND NR ALTONAH, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

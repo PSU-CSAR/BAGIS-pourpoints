@@ -33217,6 +33217,22 @@
   ],
   "properties": {
     "name": "Boise R nr Twin Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Boise",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501120503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boise R nr Twin Springs",
+    "elevation": "3310",
+    "basinarea": 832.0,
+    "awdb_id": "13185000",
+    "usgs_id": "13185000",
+    "usgsname": "BOISE RIVER NR TWIN SPRINGS ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Boise R nr Twin Springs",
+    "aoi_exist": true
   }
 }

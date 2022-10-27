@@ -38561,6 +38561,22 @@
   ],
   "properties": {
     "name": "Gallatin R nr Gateway",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18890801",
+    "countyname": "Gallatin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200080507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gallatin R nr Gateway",
+    "elevation": "5168",
+    "basinarea": 819.0,
+    "awdb_id": "06043500",
+    "usgs_id": "6043500",
+    "usgsname": "Gallatin River near Gallatin Gateway, MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Gallatin R nr Gateway",
+    "aoi_exist": true
   }
 }

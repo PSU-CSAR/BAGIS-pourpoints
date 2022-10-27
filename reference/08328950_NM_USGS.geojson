@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Jemez R Outlet bl Jemez Canyon Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Sandoval",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130202020506,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Jemez R Outlet bl Jemez Canyon Dam",
+    "elevation": "5162",
+    "basinarea": 1034.0,
+    "awdb_id": "08328950",
+    "usgs_id": "8328950",
+    "usgsname": "JEMEZ RIVER OUTLET BELOW JEMEZ CANYON DAM, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

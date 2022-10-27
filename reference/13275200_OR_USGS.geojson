@@ -5977,6 +5977,22 @@
   ],
   "properties": {
     "name": "Deer Ck nr Sumpter",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1967",
+    "countyname": "Baker",
+    "enddate": "2000-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170502030106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deer Ck nr Sumpter",
+    "elevation": "4180",
+    "basinarea": null,
+    "awdb_id": "13275200",
+    "usgs_id": "13275200",
+    "usgsname": "DEER CREEK AB PHILLIPS LK NR SUMPTER,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "Deer Ck nr Sumpter",
+    "aoi_exist": true
   }
 }

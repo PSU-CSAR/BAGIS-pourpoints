@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Provo/murdock Canal",
-    "source": "ref"
+    "name": "Provo-Murdock Canal",
+    "source": "ref",
+    "begindate": "11/1/1949",
+    "countyname": "Utah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202030504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Provo-Murdock Canal",
+    "elevation": "4871",
+    "basinarea": null,
+    "awdb_id": "10162500",
+    "usgs_id": "10162500",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

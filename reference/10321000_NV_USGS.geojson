@@ -94705,6 +94705,22 @@
   ],
   "properties": {
     "name": "Humboldt R nr Carlin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1943",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401011203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Humboldt R nr Carlin",
+    "elevation": "4932",
+    "basinarea": 4310.0,
+    "awdb_id": "10321000",
+    "usgs_id": "10321000",
+    "usgsname": "HUMBOLDT RV NR CARLIN, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "Humboldt R nr Carlin",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rainbow Inlet Canal nr Dingle, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1926",
+    "countyname": "Bear Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160102010306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rainbow Inlet Canal nr Dingle, ID",
+    "elevation": "5922",
+    "basinarea": 0.01,
+    "awdb_id": "10046000",
+    "usgs_id": "10046000",
+    "usgsname": "RAINBOW INLET CANAL NEAR DINGLE, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

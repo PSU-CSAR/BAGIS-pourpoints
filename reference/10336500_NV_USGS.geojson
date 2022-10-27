@@ -80081,6 +80081,22 @@
   ],
   "properties": {
     "name": "Pyramid Lake Elevation Change",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Washoe",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501030600,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pyramid Lake Elevation Change",
+    "elevation": "3940",
+    "basinarea": 2720.0,
+    "awdb_id": "10336500",
+    "usgs_id": "10336500",
+    "usgsname": "PYRAMID LAKE NR NIXON, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "pyramid lake elevation change",
+    "aoi_exist": true
   }
 }

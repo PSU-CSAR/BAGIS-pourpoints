@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bear R nr Smithfield, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1964",
+    "countyname": "Cache",
+    "enddate": "2014-04-01T07:00:00Z",
+    "active": false,
+    "huc": 160102020701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear R nr Smithfield, UT",
+    "elevation": "4400",
+    "basinarea": 5193.0,
+    "awdb_id": "10102250",
+    "usgs_id": "10102250",
+    "usgsname": "BEAR RIVER NEAR SMITHFIELD, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

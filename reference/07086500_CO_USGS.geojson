@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clear Creek abv Clear Ck Resv",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "Chaffee",
+    "enddate": "2000-10-01T07:00:00Z",
+    "active": false,
+    "huc": 110200010402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clear Creek abv Clear Ck Resv",
+    "elevation": "8885",
+    "basinarea": 67.1,
+    "awdb_id": "07086500",
+    "usgs_id": "7086500",
+    "usgsname": "CLEAR CREEK ABOVE CLEAR CREEK RESERVOIR, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

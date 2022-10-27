@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ephraim Ck nr Ephraim, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1940",
+    "countyname": "UNKNOWN",
+    "enddate": "1960-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160300040307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ephraim Ck nr Ephraim, UT",
+    "elevation": "6400",
+    "basinarea": null,
+    "awdb_id": "10210001",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

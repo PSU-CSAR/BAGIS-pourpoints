@@ -6193,6 +6193,22 @@
   ],
   "properties": {
     "name": "Ute Ck nr Fort Garland",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18941201",
+    "countyname": "Costilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100020605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ute Ck nr Fort Garland",
+    "elevation": "8045",
+    "basinarea": 32.0,
+    "awdb_id": "08242500",
+    "usgs_id": "8242500",
+    "usgsname": "UTE CREEK NEAR FORT GARLAND, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "ute ck nr fort garland",
+    "aoi_exist": true
   }
 }

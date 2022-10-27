@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "begindate": "10/1/1961",
+    "countyname": "Uinta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160101010505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear R Below Reservoir, Near Woodruff, U",
+    "name": "Bear R Below Reservoir, Near Woodruff, U",
+    "elevation": "6400",
+    "basinarea": 784.0,
+    "awdb_id": "10020300",
+    "usgs_id": "10020300",
+    "usgsname": "BEAR RIVER BELOW RESERVOIR, NEAR WOODRUFF, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.013893100261,
+      41.50556182977
+    ]
+  },
+  "id": "10020300:WY:USGS"
+}

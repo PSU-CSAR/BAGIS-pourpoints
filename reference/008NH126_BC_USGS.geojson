@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Duncan R bl Duncan Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170101090000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Duncan R bl Duncan Dam",
+    "elevation": "1870",
+    "basinarea": null,
+    "awdb_id": "008NH126",
+    "usgs_id": "008NH126",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Hyalite Ck nr Bozeman",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18950801",
+    "countyname": "Gallatin",
+    "enddate": "2017-04-10T07:00:00Z",
+    "active": false,
+    "huc": 100200081002,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hyalite Ck nr Bozeman",
+    "elevation": "5540",
+    "basinarea": 48.5,
+    "awdb_id": "06050000",
+    "usgs_id": "6050000",
+    "usgsname": "Hyalite C at Hyalite R S nr Bozeman MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

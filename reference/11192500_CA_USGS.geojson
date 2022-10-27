@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kern R nr Democrat Springs(River Only) C",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/26/1950",
+    "countyname": "Kern",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180300030107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kern R nr Democrat Springs(River Only) C",
+    "elevation": "1837",
+    "basinarea": 2258.0,
+    "awdb_id": "11192500",
+    "usgs_id": "11192500",
+    "usgsname": "KERN R NR DEMOCRAT SPRINGS(RIVER ONLY) CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

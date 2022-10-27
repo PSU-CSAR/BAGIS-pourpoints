@@ -42393,6 +42393,22 @@
   ],
   "properties": {
     "name": "Cut Bank Ck nr Browning",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1918",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302020705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cut Bank Ck nr Browning",
+    "elevation": "3561",
+    "basinarea": 121.0,
+    "awdb_id": "06098500",
+    "usgs_id": "6098500",
+    "usgsname": "Cut Bank Creek near Browning MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "cut bank ck nr browning",
+    "aoi_exist": true
   }
 }

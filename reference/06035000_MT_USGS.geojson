@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Willow Ck Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1938",
+    "countyname": "Madison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200050705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willow Ck Reservoir Inflow",
+    "elevation": "4750",
+    "basinarea": 85.9,
+    "awdb_id": "06035000",
+    "usgs_id": "6035000",
+    "usgsname": "Willow Creek near Harrison MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "willow ck reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

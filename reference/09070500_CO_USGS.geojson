@@ -78001,6 +78001,22 @@
   ],
   "properties": {
     "name": "Colorado R nr Dotsero",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1940",
+    "countyname": "Eagle",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100011508,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Colorado R nr Dotsero",
+    "elevation": "6130",
+    "basinarea": 4390.0,
+    "awdb_id": "09070500",
+    "usgs_id": "9070500",
+    "usgsname": "COLORADO RIVER NEAR DOTSERO, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "colorado r nr dotsero (2)",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Logan, Hyd Pk & Smithfld Canal at Head",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1963",
+    "countyname": "Cache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160102030307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Logan, Hyd Pk & Smithfld Canal at Head",
+    "elevation": "4858",
+    "basinarea": 0.01,
+    "awdb_id": "10108400",
+    "usgs_id": "10108400",
+    "usgsname": "CACHE HIGHLINE CANAL NEAR LOGAN, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

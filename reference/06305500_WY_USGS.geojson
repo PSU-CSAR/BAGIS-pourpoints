@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Goose Ck blw Sheridan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "Sheridan",
+    "enddate": "1984-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100901010109,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Goose Ck blw Sheridan",
+    "elevation": "3700",
+    "basinarea": 392.0,
+    "awdb_id": "06305500",
+    "usgs_id": "6305500",
+    "usgsname": "GOOSE CREEK BELOW SHERIDAN, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

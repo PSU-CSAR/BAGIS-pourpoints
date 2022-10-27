@@ -40353,6 +40353,22 @@
   ],
   "properties": {
     "name": "Lookout Point Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900010703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lookout Point Reservoir Inflow",
+    "elevation": "592",
+    "basinarea": 1001.0,
+    "awdb_id": "14150000",
+    "usgs_id": "14150000",
+    "usgsname": "MIDDLE FORK WILLAMETTE RIVER NEAR DEXTER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Lookout Point Reservoir Inflow",
+    "aoi_exist": true
   }
 }

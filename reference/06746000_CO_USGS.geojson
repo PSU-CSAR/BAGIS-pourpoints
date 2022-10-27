@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Michigan Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1932",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800010503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Michigan Ditch",
+    "elevation": "10539",
+    "basinarea": null,
+    "awdb_id": "06746000",
+    "usgs_id": "6746000",
+    "usgsname": "MICHIGAN DITCH AT CAMERON PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

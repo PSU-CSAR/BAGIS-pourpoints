@@ -7617,6 +7617,22 @@
   ],
   "properties": {
     "name": "Lake Sherburne Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1912",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 90400010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Sherburne Inflow",
+    "elevation": "4730",
+    "basinarea": 64.8,
+    "awdb_id": "05016000",
+    "usgs_id": "5016000",
+    "usgsname": "Swiftcurrent Creek at Sherburne MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Lake Sakakawea Inflow",
+    "aoi_exist": true
   }
 }

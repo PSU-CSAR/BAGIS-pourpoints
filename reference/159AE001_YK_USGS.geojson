@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Teslin River Near Teslin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1944",
+    "countyname": "UNKNOWN",
+    "enddate": "1983-12-31T08:00:00Z",
+    "active": false,
+    "huc": null,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Teslin River Near Teslin",
+    "elevation": "2290",
+    "basinarea": null,
+    "awdb_id": "159AE001",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

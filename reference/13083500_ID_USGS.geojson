@@ -27873,6 +27873,22 @@
   ],
   "properties": {
     "name": "Oakley Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1911",
+    "countyname": "Cassia",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402110304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Oakley Reservoir Inflow",
+    "elevation": "4720",
+    "basinarea": 711.0,
+    "awdb_id": "13083500",
+    "usgs_id": "13083500",
+    "usgsname": "OAKLEY RESERVOIR NR OAKLEY ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Oakley Reservoir Inflow",
+    "aoi_exist": true
   }
 }

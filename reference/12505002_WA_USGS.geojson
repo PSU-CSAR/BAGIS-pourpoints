@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Parker Local",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Yakima",
+    "enddate": "2016-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170300030501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Parker Local",
+    "elevation": "900",
+    "basinarea": 3660.0,
+    "awdb_id": "12505002",
+    "usgs_id": "12505002",
+    "usgsname": "YAKIMA RIVER (FLOW MODEL 2) NEAR PARKER, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

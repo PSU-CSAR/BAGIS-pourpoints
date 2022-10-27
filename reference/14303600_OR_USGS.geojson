@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Nestucca nr Beaver",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1964",
+    "countyname": "Tillamook",
+    "enddate": "2017-12-01T08:00:00Z",
+    "active": false,
+    "huc": 171002030209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Nestucca nr Beaver",
+    "elevation": "43",
+    "basinarea": 180.0,
+    "awdb_id": "14303600",
+    "usgs_id": "14303600",
+    "usgsname": "NESTUCCA RIVER NEAR BEAVER, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

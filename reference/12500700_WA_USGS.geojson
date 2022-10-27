@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "North And South Forks Ahtanum Creek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1934",
+    "countyname": "Yakima",
+    "enddate": "1993-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170300030104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North And South Forks Ahtanum Creek",
+    "elevation": "2450",
+    "basinarea": null,
+    "awdb_id": "12500700",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Palouse River Near Potlatch, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/24/1914",
+    "countyname": "Latah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170601080301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Palouse River Near Potlatch, ID",
+    "elevation": "2455",
+    "basinarea": 317.0,
+    "awdb_id": "13345000",
+    "usgs_id": "13345000",
+    "usgsname": "PALOUSE RIVER NR POTLATCH, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

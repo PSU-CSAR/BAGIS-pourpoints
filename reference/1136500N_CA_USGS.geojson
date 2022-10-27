@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pit R nr Montgomery Creek Ca (NWS)",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/31/1944",
+    "countyname": "Shasta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180200031203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pit R nr Montgomery Creek Ca (NWS)",
+    "elevation": "1000",
+    "basinarea": null,
+    "awdb_id": "1136500N",
+    "usgs_id": "1136500N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kootenai R at Newgate, BC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1930",
+    "countyname": "UNKNOWN",
+    "enddate": "1972-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kootenai R at Newgate, BC",
+    "elevation": "2310",
+    "basinarea": 7714.0,
+    "awdb_id": "12300000",
+    "usgs_id": "12300000",
+    "usgsname": "Kootenay River at Newgate British Columbia",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

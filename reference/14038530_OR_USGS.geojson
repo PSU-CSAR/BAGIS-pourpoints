@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "John Day nr John Day",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1968",
+    "countyname": "Grant",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170702010608,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "John Day nr John Day",
+    "elevation": "3131",
+    "basinarea": 386.0,
+    "awdb_id": "14038530",
+    "usgs_id": "14038530",
+    "usgsname": "JOHN DAY RIVER NEAR JOHN DAY, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

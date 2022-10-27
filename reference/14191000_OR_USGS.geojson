@@ -102137,6 +102137,22 @@
   ],
   "properties": {
     "name": "Willamette R at Salem",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Marion",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900070301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willamette R at Salem",
+    "elevation": "106",
+    "basinarea": 7280.0,
+    "awdb_id": "14191000",
+    "usgs_id": "14191000",
+    "usgsname": "WILLAMETTE RIVER AT SALEM, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Willamette R at Salem",
+    "aoi_exist": true
   }
 }

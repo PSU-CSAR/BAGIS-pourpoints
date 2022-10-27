@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Willow Ck nr Harrison",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1997",
+    "countyname": "Madison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200050702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Willow Ck nr Harrison",
+    "elevation": "5440",
+    "basinarea": 9.34,
+    "awdb_id": "06034700",
+    "usgs_id": "6034700",
+    "usgsname": "Sand Creek at Sappington MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -14433,6 +14433,22 @@
   ],
   "properties": {
     "name": "Red R bl Fish Hatchery nr Questa",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1978",
+    "countyname": "Taos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201010304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Red R bl Fish Hatchery nr Questa",
+    "elevation": "7105",
+    "basinarea": 185.0,
+    "awdb_id": "08266820",
+    "usgs_id": "8266820",
+    "usgsname": "RED RIVER BELOW FISH HATCHERY, NEAR QUESTA, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "red r bl fish hatchery nr questa",
+    "aoi_exist": true
   }
 }

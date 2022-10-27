@@ -18097,6 +18097,22 @@
   ],
   "properties": {
     "name": "Los Pinos R nr Bayfield",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1927",
+    "countyname": "La Plata",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801011401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Los Pinos R nr Bayfield",
+    "elevation": "7583",
+    "basinarea": 270.0,
+    "awdb_id": "09353500",
+    "usgs_id": "9353500",
+    "usgsname": "LOS PINOS RIVER NEAR BAYFIELD, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

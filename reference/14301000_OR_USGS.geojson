@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Nehalem R nr Foss",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Tillamook",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171002020601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Nehalem R nr Foss",
+    "elevation": "33",
+    "basinarea": 667.0,
+    "awdb_id": "14301000",
+    "usgs_id": "14301000",
+    "usgsname": "NEHALEM RIVER NEAR FOSS, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

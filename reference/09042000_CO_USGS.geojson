@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Hoosier Pass Tunnel Near Alma",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1953",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900010102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hoosier Pass Tunnel Near Alma",
+    "elevation": "10923",
+    "basinarea": null,
+    "awdb_id": "09042000",
+    "usgs_id": "9042000",
+    "usgsname": "HOOSIER PASS TUNNEL AT HOOSIER PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

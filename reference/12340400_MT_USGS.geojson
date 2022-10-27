@@ -74345,6 +74345,22 @@
   ],
   "properties": {
     "name": "Clark Fork R ab Milltown",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Missoula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102021405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clark Fork R ab Milltown",
+    "elevation": "3280",
+    "basinarea": null,
+    "awdb_id": "12340400",
+    "usgs_id": "12340400",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

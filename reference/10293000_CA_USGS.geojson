@@ -20625,6 +20625,22 @@
   ],
   "properties": {
     "name": "E Walker R nr Bridgeport",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1921",
+    "countyname": "Mono",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160503010301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "E Walker R nr Bridgeport",
+    "elevation": "6400",
+    "basinarea": 359.0,
+    "awdb_id": "10293000",
+    "usgs_id": "10293000",
+    "usgsname": "E WALKER RV NR BRIDGEPORT, CA",
+    "forecastpoint": true,
+    "bagis_aoiname": "e walker r nr bridgeport",
+    "aoi_exist": true
   }
 }

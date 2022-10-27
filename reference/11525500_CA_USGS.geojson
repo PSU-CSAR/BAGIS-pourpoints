@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Trinity R at Lewiston CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1911",
+    "countyname": "Trinity",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180102110703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Trinity R at Lewiston CA",
+    "elevation": "1830",
+    "basinarea": 719.0,
+    "awdb_id": "11525500",
+    "usgs_id": "11525500",
+    "usgsname": "TRINITY R A LEWISTON CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

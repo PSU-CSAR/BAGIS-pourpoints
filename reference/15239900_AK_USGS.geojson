@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Anchor R nr Anchor Point AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/17/1965",
+    "countyname": "Kenai Peninsula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190203010706,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Anchor R nr Anchor Point AK",
+    "elevation": "169",
+    "basinarea": 134.0,
+    "awdb_id": "15239900",
+    "usgs_id": "15239900",
+    "usgsname": "ANCHOR R NR ANCHOR POINT AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

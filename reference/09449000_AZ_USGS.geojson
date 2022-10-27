@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Diversions From Gila R In Safford Valley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1952",
+    "countyname": "Graham",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150400050910,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Diversions From Gila R In Safford Valley",
+    "elevation": "2520",
+    "basinarea": null,
+    "awdb_id": "09449000",
+    "usgs_id": "9449000",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

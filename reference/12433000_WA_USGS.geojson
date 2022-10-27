@@ -110657,6 +110657,22 @@
   ],
   "properties": {
     "name": "Spokane R at Long Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1939",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170103070107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Spokane R at Long Lake",
+    "elevation": "1299",
+    "basinarea": 6020.0,
+    "awdb_id": "12433000",
+    "usgs_id": "12433000",
+    "usgsname": "SPOKANE RIVER AT LONG LAKE, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "SPOKANE RIVER AT LONG LAKE, WA",
+    "aoi_exist": true
   }
 }

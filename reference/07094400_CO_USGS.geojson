@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Canon City Water Works",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18960601",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200011408,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Canon City Water Works",
+    "elevation": "6235",
+    "basinarea": null,
+    "awdb_id": "07094400",
+    "usgs_id": "7094400",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

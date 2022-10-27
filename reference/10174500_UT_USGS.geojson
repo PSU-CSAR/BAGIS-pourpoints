@@ -18865,6 +18865,22 @@
   ],
   "properties": {
     "name": "Sevier R at Hatch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1911",
+    "countyname": "Garfield",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300010303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sevier R at Hatch",
+    "elevation": "6870",
+    "basinarea": 340.0,
+    "awdb_id": "10174500",
+    "usgs_id": "10174500",
+    "usgsname": "SEVIER RIVER AT HATCH, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "sevier r at hatch",
+    "aoi_exist": true
   }
 }

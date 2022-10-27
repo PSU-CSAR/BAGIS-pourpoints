@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Knight Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1969",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Knight Diversion",
+    "elevation": "5786",
+    "basinarea": 11.0,
+    "awdb_id": "09279200",
+    "usgs_id": "9279200",
+    "usgsname": "BENSON CREEK NEAR DUCHESNE, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

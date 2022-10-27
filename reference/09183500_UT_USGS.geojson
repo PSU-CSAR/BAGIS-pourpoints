@@ -5641,6 +5641,22 @@
   ],
   "properties": {
     "name": "Mill Ck at Sheley Tunnel nr Moab",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1954",
+    "countyname": "San Juan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140300050404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mill Ck at Sheley Tunnel nr Moab",
+    "elevation": "5500",
+    "basinarea": 26.8,
+    "awdb_id": "09183500",
+    "usgs_id": "9183500",
+    "usgsname": "MILL CREEK AT SHELEY TUNNEL, NEAR MOAB, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "mill creek at sheley tunnel nr moab",
+    "aoi_exist": true
   }
 }

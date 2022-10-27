@@ -13065,6 +13065,22 @@
   ],
   "properties": {
     "name": "Klickitat R nr Glenwood",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1944",
+    "countyname": "Yakima",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701060104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Klickitat R nr Glenwood",
+    "elevation": "2720",
+    "basinarea": 151.0,
+    "awdb_id": "14107000",
+    "usgs_id": "14107000",
+    "usgsname": "KLICKITAT RIVER ABOVE WEST FORK NEAR GLENWOOD, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Klickitat R nr Glenwood",
+    "aoi_exist": true
   }
 }

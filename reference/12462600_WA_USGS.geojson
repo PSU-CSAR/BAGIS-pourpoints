@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Columbia R bl Rock Island Dam",
-    "source": "ref"
+    "name": "Columbia R bl Rock Island Dam-NWS",
+    "source": "ref",
+    "begindate": "10/1/1934",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200100401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Columbia R bl Rock Island Dam-NWS",
+    "elevation": "500",
+    "basinarea": 89400.0,
+    "awdb_id": "12462600",
+    "usgs_id": "12462600",
+    "usgsname": "COLUMBIA RIVER BELOW ROCK ISLAND DAM, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

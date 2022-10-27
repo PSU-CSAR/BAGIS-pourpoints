@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Hyatt Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1948",
+    "countyname": "Jackson",
+    "enddate": "2015-01-01T08:00:00Z",
+    "active": false,
+    "huc": 180102060405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hyatt Reservoir Inflow",
+    "elevation": "5000",
+    "basinarea": 11.7,
+    "awdb_id": "11514000",
+    "usgs_id": "11514000",
+    "usgsname": "HYATT RESERVOIR NEAR ASHLAND,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

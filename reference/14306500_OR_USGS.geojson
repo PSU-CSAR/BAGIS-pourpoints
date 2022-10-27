@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Alsea nr Tidewater",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171002050403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Alsea nr Tidewater",
+    "elevation": "48",
+    "basinarea": 334.0,
+    "awdb_id": "14306500",
+    "usgs_id": "14306500",
+    "usgsname": "ALSEA RIVER NEAR TIDEWATER, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

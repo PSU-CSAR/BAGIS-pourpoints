@@ -76377,6 +76377,22 @@
   ],
   "properties": {
     "name": "Spokane R nr Post Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1913",
+    "countyname": "Kootenai",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170103050304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Spokane R nr Post Falls",
+    "elevation": "2003",
+    "basinarea": 3830.0,
+    "awdb_id": "12419000",
+    "usgs_id": "12419000",
+    "usgsname": "SPOKANE RIVER NR POST FALLS ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "SPOKANE RIVER NR POST FALLS ID",
+    "aoi_exist": true
   }
 }

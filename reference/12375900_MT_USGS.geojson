@@ -3561,6 +3561,22 @@
   ],
   "properties": {
     "name": "South Crow Ck nr Ronan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/29/1982",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102120601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Crow Ck nr Ronan",
+    "elevation": "3320",
+    "basinarea": 7.61,
+    "awdb_id": "12375900",
+    "usgs_id": "12375900",
+    "usgsname": "South Crow Creek near Ronan MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "South Crow Creek near Ronan MT",
+    "aoi_exist": true
   }
 }

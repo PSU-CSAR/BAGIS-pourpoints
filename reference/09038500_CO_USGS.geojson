@@ -16817,6 +16817,22 @@
   ],
   "properties": {
     "name": "Williams Fk bl Williams Fk Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1948",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Williams Fk bl Williams Fk Reservoir",
+    "elevation": "7615",
+    "basinarea": 230.0,
+    "awdb_id": "09038500",
+    "usgs_id": "9038500",
+    "usgsname": "WILLIAMS FORK BELOW WILLIAMS FORK RESERVOIR, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "williams fork bl williams fork reservoir (2)",
+    "aoi_exist": true
   }
 }

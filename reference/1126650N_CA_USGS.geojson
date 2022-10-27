@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Merced R A Pohono Bridge nr Yosemite CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/31/1916",
+    "countyname": "Mariposa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400080302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Merced R A Pohono Bridge nr Yosemite CA",
+    "elevation": "3861",
+    "basinarea": null,
+    "awdb_id": "1126650N",
+    "usgs_id": "1126650N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cucharas R nr La Veta",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1934",
+    "countyname": "Huerfano",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200060406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cucharas R nr La Veta",
+    "elevation": "7781",
+    "basinarea": 56.0,
+    "awdb_id": "07114000",
+    "usgs_id": "7114000",
+    "usgsname": "CUCHARAS RIVER AT BOYD RANCH, NEAR LA VETA, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "cucharas r nr la veta",
+    "aoi_exist": true
   }
 }

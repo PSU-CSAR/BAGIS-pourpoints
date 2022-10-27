@@ -63521,6 +63521,22 @@
   ],
   "properties": {
     "name": "Yampa R nr Maybell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1916",
+    "countyname": "Moffat",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500020406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yampa R nr Maybell",
+    "elevation": "5900",
+    "basinarea": 3383.0,
+    "awdb_id": "09251000",
+    "usgs_id": "9251000",
+    "usgsname": "YAMPA RIVER NEAR MAYBELL, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "yampa r nr maybell (2)",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Yukon R at Eagle",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1950",
+    "countyname": "Southeast Fairbanks",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190705051301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yukon R at Eagle",
+    "elevation": "850",
+    "basinarea": 111600.0,
+    "awdb_id": "15356000",
+    "usgs_id": "15356000",
+    "usgsname": "YUKON R AT EAGLE AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

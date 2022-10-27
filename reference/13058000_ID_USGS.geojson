@@ -25201,6 +25201,22 @@
   ],
   "properties": {
     "name": "Willow Ck nr Ririe",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1903",
+    "countyname": "Bonneville",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402050406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willow Ck nr Ririe",
+    "elevation": "4950",
+    "basinarea": 627.0,
+    "awdb_id": "13058000",
+    "usgs_id": "13058000",
+    "usgsname": "WILLOW CREEK NR RIRIE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Willow Ck nr Ririe",
+    "aoi_exist": true
   }
 }

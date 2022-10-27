@@ -32049,6 +32049,22 @@
   ],
   "properties": {
     "name": "Camas Ck nr Blaine",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1912",
+    "countyname": "Camas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402200504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Camas Ck nr Blaine",
+    "elevation": "4870",
+    "basinarea": 626.0,
+    "awdb_id": "13141500",
+    "usgs_id": "13141500",
+    "usgsname": "CAMAS CREEK NR BLAINE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Camas Ck nr Blaine",
+    "aoi_exist": true
   }
 }

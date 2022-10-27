@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Shields R nr Wilsall",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1935",
+    "countyname": "Park",
+    "enddate": "1957-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100700030304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Shields R nr Wilsall",
+    "elevation": "5590",
+    "basinarea": 90.9,
+    "awdb_id": "06193000",
+    "usgs_id": "6193000",
+    "usgsname": "Shields River near Wilsall MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Farmington Ck abv Div nr Farmington, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Davis",
+    "enddate": "2017-04-10T07:00:00Z",
+    "active": false,
+    "huc": 160201020502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Farmington Ck abv Div nr Farmington, UT",
+    "elevation": "5100",
+    "basinarea": 10.0,
+    "awdb_id": "10142000",
+    "usgs_id": "10142000",
+    "usgsname": "FARMINGTON CR ABV DIV NR FARMINGTON, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

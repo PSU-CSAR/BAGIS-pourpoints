@@ -27625,6 +27625,22 @@
   ],
   "properties": {
     "name": "South Santiam R at Waterloo",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1905",
+    "countyname": "Linn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900060803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Santiam R at Waterloo",
+    "elevation": "370",
+    "basinarea": 640.0,
+    "awdb_id": "14187500",
+    "usgs_id": "14187500",
+    "usgsname": "SOUTH SANTIAM RIVER AT WATERLOO, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "South Santiam R at Waterloo",
+    "aoi_exist": true
   }
 }

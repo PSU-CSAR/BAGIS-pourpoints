@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "No Name Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1980",
+    "countyname": "Pitkin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100040105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "No Name Diversion",
+    "elevation": "10172",
+    "basinarea": null,
+    "awdb_id": "CO0016",
+    "usgs_id": "CO0016",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -24473,6 +24473,22 @@
   ],
   "properties": {
     "name": "Owyhee R nr Owyhee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/24/1939",
+    "countyname": "Elko",
+    "enddate": "1984-05-01T07:00:00Z",
+    "active": false,
+    "huc": 170501040304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Owyhee R nr Owyhee",
+    "elevation": "5425",
+    "basinarea": 458.0,
+    "awdb_id": "13176000",
+    "usgs_id": "13176000",
+    "usgsname": "OWYHEE RV ABV CHINA DIV DAM NR OWYHEE, NV",
+    "forecastpoint": false,
+    "bagis_aoiname": "Owyhee R nr Owyhee",
+    "aoi_exist": true
   }
 }

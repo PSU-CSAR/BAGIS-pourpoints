@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Canon City Oil Creek Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1912",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200020401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Canon City Oil Creek Ditch",
+    "elevation": "5397",
+    "basinarea": null,
+    "awdb_id": "07096100",
+    "usgs_id": "7096100",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

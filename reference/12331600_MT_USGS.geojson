@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clark Fk at Drummond",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1972",
+    "countyname": "Granite",
+    "enddate": "2014-03-01T08:00:00Z",
+    "active": false,
+    "huc": 170102020602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clark Fk at Drummond",
+    "elevation": "3938",
+    "basinarea": 2386.0,
+    "awdb_id": "12331600",
+    "usgs_id": "12331600",
+    "usgsname": "Clark Fork at Drummond MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

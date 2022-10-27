@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mancos River Near Towaoc",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1921",
+    "countyname": "Montezuma",
+    "enddate": "2015-05-31T07:00:00Z",
+    "active": false,
+    "huc": 140801070301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mancos River Near Towaoc",
+    "elevation": "5056",
+    "basinarea": 526.0,
+    "awdb_id": "09371000",
+    "usgs_id": "9371000",
+    "usgsname": "MANCOS RIVER NEAR TOWAOC, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

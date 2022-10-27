@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Nisqually R at Legrande",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1906",
+    "countyname": "Pierce",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100150205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Nisqually R at Legrande",
+    "elevation": "490",
+    "basinarea": 292.0,
+    "awdb_id": "12086500",
+    "usgs_id": "12086500",
+    "usgsname": "NISQUALLY RIVER AT LA GRANDE, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

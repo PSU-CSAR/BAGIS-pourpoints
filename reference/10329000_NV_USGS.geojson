@@ -44280,7 +44280,23 @@
     }
   ],
   "properties": {
-    "name": "L Humboldt R nr Paradise",
-    "source": "ref"
+    "name": "L Humboldt R nr Paradise Valley",
+    "source": "ref",
+    "begindate": "10/1/1921",
+    "countyname": "Humboldt",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401090704,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "L Humboldt R nr Paradise Valley",
+    "elevation": "4470",
+    "basinarea": 1030.0,
+    "awdb_id": "10329000",
+    "usgs_id": "10329000",
+    "usgsname": "L HUMBOLDT RV NR PARADISE VALLEY, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "L Humboldt R nr Paradise",
+    "aoi_exist": true
   }
 }

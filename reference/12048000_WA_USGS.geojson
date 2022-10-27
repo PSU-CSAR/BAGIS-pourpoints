@@ -13049,6 +13049,22 @@
   ],
   "properties": {
     "name": "Dungeness R nr Sequim",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1923",
+    "countyname": "Clallam",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100200306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dungeness R nr Sequim",
+    "elevation": "569",
+    "basinarea": 156.0,
+    "awdb_id": "12048000",
+    "usgs_id": "12048000",
+    "usgsname": "DUNGENESS RIVER NEAR SEQUIM, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Dungeness nr Sequim",
+    "aoi_exist": true
   }
 }

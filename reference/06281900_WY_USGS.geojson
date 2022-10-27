@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Heart Mtn Canal Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1952",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800140106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Heart Mtn Canal Diversion",
+    "elevation": "4900",
+    "basinarea": null,
+    "awdb_id": "06281900",
+    "usgs_id": "6281900",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -3321,6 +3321,22 @@
   ],
   "properties": {
     "name": "Franklin Ck nr Arthur",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1964",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160600071101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Franklin Ck nr Arthur",
+    "elevation": "6567",
+    "basinarea": 10.3,
+    "awdb_id": "10244720",
+    "usgs_id": "10244720",
+    "usgsname": "FRANKLIN RV NR ARTHUR, NV",
+    "forecastpoint": false,
+    "bagis_aoiname": "franklin ck nr arthur",
+    "aoi_exist": true
   }
 }

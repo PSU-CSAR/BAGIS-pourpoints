@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "American Fk nr Harlowton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "Wheatland",
+    "enddate": "1967-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100402011003,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "American Fk nr Harlowton",
+    "elevation": "4171",
+    "basinarea": 171.0,
+    "awdb_id": "06122000",
+    "usgs_id": "6122000",
+    "usgsname": "American Fork bl Lebo Cr nr Harlowton MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

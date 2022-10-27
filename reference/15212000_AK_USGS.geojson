@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Copper R nr Chitina AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1950",
+    "countyname": "Valdez-Cordova",
+    "enddate": "1990-09-30T07:00:00Z",
+    "active": false,
+    "huc": 190201040102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Copper R nr Chitina AK",
+    "elevation": "400",
+    "basinarea": 20770.0,
+    "awdb_id": "15212000",
+    "usgs_id": "15212000",
+    "usgsname": "COPPER R NR CHITINA AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

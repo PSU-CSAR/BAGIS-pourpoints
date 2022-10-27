@@ -72209,6 +72209,22 @@
   ],
   "properties": {
     "name": "Sweetwater R nr Alcova",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1913",
+    "countyname": "Natrona",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800061008,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sweetwater R nr Alcova",
+    "elevation": "5890",
+    "basinarea": 2338.0,
+    "awdb_id": "06639000",
+    "usgs_id": "6639000",
+    "usgsname": "SWEETWATER RIVER NEAR ALCOVA, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "sweetwater r nr alcova",
+    "aoi_exist": true
   }
 }

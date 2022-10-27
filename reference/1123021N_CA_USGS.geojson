@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF San Joaquin R L Hooper C nr Florence",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/31/1975",
+    "countyname": "Fresno",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400060206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF San Joaquin R L Hooper C nr Florence",
+    "elevation": "6949",
+    "basinarea": null,
+    "awdb_id": "1123021N",
+    "usgs_id": "1123021N",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

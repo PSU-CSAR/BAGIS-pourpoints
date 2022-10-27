@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bull R nr Noxon",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1972",
+    "countyname": "Sanders",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102131104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bull R nr Noxon",
+    "elevation": "2202",
+    "basinarea": 141.0,
+    "awdb_id": "12391550",
+    "usgs_id": "12391550",
+    "usgsname": "Bull River near Noxon MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

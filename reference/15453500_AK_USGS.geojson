@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Yukon R nr Stevens Village",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1976",
+    "countyname": "Yukon-Koyukuk",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190804040504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yukon R nr Stevens Village",
+    "elevation": "240",
+    "basinarea": 194000.0,
+    "awdb_id": "15453500",
+    "usgs_id": "15453500",
+    "usgsname": "YUKON R NR STEVENS VILLAGE AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

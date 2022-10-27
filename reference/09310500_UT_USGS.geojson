@@ -10281,6 +10281,22 @@
   ],
   "properties": {
     "name": "Fish Ck ab Reservoir nr Scofield",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18891101",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600070205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fish Ck ab Reservoir nr Scofield",
+    "elevation": "7670",
+    "basinarea": 60.1,
+    "awdb_id": "09310500",
+    "usgs_id": "9310500",
+    "usgsname": "FISH CREEK ABOVE RESERVOIR, NEAR SCOFIELD, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "fish ck ab reservoir nr scofield",
+    "aoi_exist": true
   }
 }

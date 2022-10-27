@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big Sandy Ck nr Big Sandy",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "Chouteau",
+    "enddate": "1951-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100401010102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Sandy Ck nr Big Sandy",
+    "elevation": "2710",
+    "basinarea": 83.3,
+    "awdb_id": "06137500",
+    "usgs_id": "6137500",
+    "usgsname": "Big Sandy Creek near Big Sandy MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

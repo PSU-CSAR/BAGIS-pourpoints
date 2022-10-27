@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Vidler Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1970",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100020202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Vidler Tunnel",
+    "elevation": "11700",
+    "basinarea": null,
+    "awdb_id": "VIDTUNCO",
+    "usgs_id": "VIDTUNCO",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

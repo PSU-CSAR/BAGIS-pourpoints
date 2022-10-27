@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Stillwater R at Nye",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "Stillwater",
+    "enddate": "1981-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100700050503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stillwater R at Nye",
+    "elevation": "4770",
+    "basinarea": 337.0,
+    "awdb_id": "06202600",
+    "usgs_id": "6202600",
+    "usgsname": "Stillwater River at Nye MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

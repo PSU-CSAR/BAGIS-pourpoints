@@ -15328,7 +15328,23 @@
     }
   ],
   "properties": {
-    "name": "Deadwood Reservoir Inflow",
-    "source": "ref"
+    "name": "Deadwood R bl Deadwood Res nr Lowman",
+    "source": "ref",
+    "begindate": "10/1/1926",
+    "countyname": "Valley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501200501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deadwood R bl Deadwood Res nr Lowman",
+    "elevation": "5181",
+    "basinarea": 109.0,
+    "awdb_id": "13236500",
+    "usgs_id": "13236500",
+    "usgsname": "DEADWOOD RIVER BL DEADWOOD RES NR LOWMAN ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

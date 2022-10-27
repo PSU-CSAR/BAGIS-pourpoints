@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "German Gulch Ck nr Ramsay",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1955",
+    "countyname": "Silver Bow",
+    "enddate": "1969-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102010209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "German Gulch Ck nr Ramsay",
+    "elevation": "5200",
+    "basinarea": 40.9,
+    "awdb_id": "12323500",
+    "usgs_id": "12323500",
+    "usgsname": "German Gulch Creek near Ramsay MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

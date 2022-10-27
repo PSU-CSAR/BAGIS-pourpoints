@@ -8177,6 +8177,22 @@
   ],
   "properties": {
     "name": "Bumping Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1909",
+    "countyname": "Yakima",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300020108,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bumping Lake Inflow",
+    "elevation": "3367",
+    "basinarea": 70.7,
+    "awdb_id": "12488000",
+    "usgs_id": "12488000",
+    "usgsname": "BUMPING RIVER NEAR NILE, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Bumping Lake Inflow",
+    "aoi_exist": true
   }
 }

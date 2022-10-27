@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Yampa R nr Oak Creek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Routt",
+    "enddate": "2015-06-01T07:00:00Z",
+    "active": false,
+    "huc": 140500010111,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yampa R nr Oak Creek",
+    "elevation": "7050",
+    "basinarea": 228.0,
+    "awdb_id": "09237500",
+    "usgs_id": "9237500",
+    "usgsname": "YAMPA RIVER BELOW STAGECOACH RESERVOIR, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

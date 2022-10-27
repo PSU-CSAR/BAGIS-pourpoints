@@ -5777,6 +5777,22 @@
   ],
   "properties": {
     "name": "Mf Powder R nr Barnum",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1961",
+    "countyname": "Washakie",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100902010101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Powder R nr Barnum",
+    "elevation": "7220",
+    "basinarea": 45.2,
+    "awdb_id": "06309200",
+    "usgs_id": "6309200",
+    "usgsname": "MIDDLE FORK POWDER RIVER NEAR BARNUM, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "mf powder r nr barnum",
+    "aoi_exist": true
   }
 }

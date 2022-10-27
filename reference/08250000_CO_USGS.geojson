@@ -13969,6 +13969,22 @@
   ],
   "properties": {
     "name": "Culebra Ck at San Luis",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1927",
+    "countyname": "Costilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100020906,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Culebra Ck at San Luis",
+    "elevation": "8000",
+    "basinarea": 220.0,
+    "awdb_id": "08250000",
+    "usgs_id": "8250000",
+    "usgsname": "CULEBRA CREEK AT SAN LUIS, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "culebra ck at san luis (2)",
+    "aoi_exist": true
   }
 }

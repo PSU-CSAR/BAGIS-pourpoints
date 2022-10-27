@@ -75760,7 +75760,23 @@
     }
   ],
   "properties": {
-    "name": "Bitterroot R nr MissouLa",
-    "source": "ref"
+    "name": "Bitterroot R nr Missoula",
+    "source": "ref",
+    "begindate": "10/1/1929",
+    "countyname": "Missoula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102051603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bitterroot R nr Missoula",
+    "elevation": "3110",
+    "basinarea": null,
+    "awdb_id": "12352800",
+    "usgs_id": "12352800",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

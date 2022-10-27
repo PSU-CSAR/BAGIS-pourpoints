@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Boca Res Local Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1939",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boca Res Local Inflow",
+    "elevation": "5620",
+    "basinarea": null,
+    "awdb_id": "150028",
+    "usgs_id": "150028",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -71369,6 +71369,22 @@
   ],
   "properties": {
     "name": "Prineville Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "Crook",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703050102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Prineville Reservoir Inflow",
+    "elevation": "3071",
+    "basinarea": 2700.0,
+    "awdb_id": "14080500",
+    "usgs_id": "14080500",
+    "usgsname": "CROOKED RIVER NEAR PRINEVILLE, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Prineville Reservoir Inflow",
+    "aoi_exist": true
   }
 }

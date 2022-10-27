@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gardner R nr Mammoth, Ynp",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700010906,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gardner R nr Mammoth, Ynp",
+    "elevation": "5624",
+    "basinarea": 198.0,
+    "awdb_id": "06191000",
+    "usgs_id": "6191000",
+    "usgsname": "Gardner River near Mammoth, YNP",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

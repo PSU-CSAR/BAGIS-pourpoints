@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gold Ck at Juneau",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1916",
+    "countyname": "Juneau",
+    "enddate": "2014-01-01T08:00:00Z",
+    "active": false,
+    "huc": 190103010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gold Ck at Juneau",
+    "elevation": "250",
+    "basinarea": 9.7,
+    "awdb_id": "15050000",
+    "usgs_id": "15050000",
+    "usgsname": "GOLD C AT JUNEAU AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

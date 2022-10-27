@@ -13289,6 +13289,22 @@
   ],
   "properties": {
     "name": "Bear Ck at Morrison",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1900",
+    "countyname": "Jefferson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900020806,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear Ck at Morrison",
+    "elevation": "5780",
+    "basinarea": 164.0,
+    "awdb_id": "06710500",
+    "usgs_id": "6710500",
+    "usgsname": "BEAR CREEK AT MORRISON, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": "bear ck at morrison",
+    "aoi_exist": true
   }
 }

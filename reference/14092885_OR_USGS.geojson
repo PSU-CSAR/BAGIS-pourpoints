@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Shitike Ck bl Wolford",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1974",
+    "countyname": "Wasco",
+    "enddate": "1997-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170703061104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Shitike Ck bl Wolford",
+    "elevation": "1600",
+    "basinarea": 75.8,
+    "awdb_id": "14092885",
+    "usgs_id": "14092885",
+    "usgsname": "SHITIKE CR BL WOLFORD CANYON NR WARM SPRGS,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -7305,6 +7305,22 @@
   ],
   "properties": {
     "name": "East Canyon Ck nr Jeremy Ranch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/2001",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201020103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "East Canyon Ck nr Jeremy Ranch",
+    "elevation": "6240",
+    "basinarea": 57.2,
+    "awdb_id": "10133800",
+    "usgs_id": "10133800",
+    "usgsname": "EAST CANYON CREEK NEAR JEREMY RANCH, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "east canyon ck nr jeremy ranch",
+    "aoi_exist": true
   }
 }

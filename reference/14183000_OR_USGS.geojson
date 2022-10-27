@@ -31161,6 +31161,22 @@
   ],
   "properties": {
     "name": "North Santiam R at Mehama",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1905",
+    "countyname": "Marion",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900050601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Santiam R at Mehama",
+    "elevation": "602",
+    "basinarea": 654.35,
+    "awdb_id": "14183000",
+    "usgs_id": "14183000",
+    "usgsname": "NORTH SANTIAM RIVER AT MEHAMA, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "North Santiam R at Mehama",
+    "aoi_exist": true
   }
 }

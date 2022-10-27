@@ -93689,6 +93689,22 @@
   ],
   "properties": {
     "name": "Salt R nr Roosevelt",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1913",
+    "countyname": "Gila",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150601030905,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salt R nr Roosevelt",
+    "elevation": "2177",
+    "basinarea": 4306.0,
+    "awdb_id": "09498500",
+    "usgs_id": "9498500",
+    "usgsname": "SALT RIVER NEAR ROOSEVELT, AZ",
+    "forecastpoint": true,
+    "bagis_aoiname": "salt r nr roosevelt",
+    "aoi_exist": true
   }
 }

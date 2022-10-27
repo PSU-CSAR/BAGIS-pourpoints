@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Martis Ck Res Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1972",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Martis Ck Res Inflow",
+    "elevation": "5745",
+    "basinarea": null,
+    "awdb_id": "150021",
+    "usgs_id": "150021",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

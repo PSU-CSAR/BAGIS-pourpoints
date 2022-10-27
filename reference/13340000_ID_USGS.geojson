@@ -107401,6 +107401,22 @@
   ],
   "properties": {
     "name": "Clearwater R at Orofino",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1930",
+    "countyname": "Clearwater",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170603060504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clearwater R at Orofino",
+    "elevation": "991",
+    "basinarea": 5507.0,
+    "awdb_id": "13340000",
+    "usgs_id": "13340000",
+    "usgsname": "CLEARWATER RIVER AT OROFINO ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Clearwater R at Orofino",
+    "aoi_exist": true
   }
 }

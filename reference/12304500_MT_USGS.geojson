@@ -29441,6 +29441,22 @@
   ],
   "properties": {
     "name": "Yaak R nr Troy",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1956",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170101030505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yaak R nr Troy",
+    "elevation": "1839",
+    "basinarea": 792.0,
+    "awdb_id": "12304500",
+    "usgs_id": "12304500",
+    "usgsname": "Yaak River near Troy MT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

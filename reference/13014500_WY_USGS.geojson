@@ -32737,6 +32737,22 @@
   ],
   "properties": {
     "name": "Gros Ventre R at Kelly",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/16/1918",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401020305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gros Ventre R at Kelly",
+    "elevation": "6750",
+    "basinarea": 622.0,
+    "awdb_id": "13014500",
+    "usgs_id": "13014500",
+    "usgsname": "GROS VENTRE RIVER AT KELLY, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": "Gros Ventre R at Kelly",
+    "aoi_exist": true
   }
 }

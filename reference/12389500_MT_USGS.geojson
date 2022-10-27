@@ -27417,6 +27417,22 @@
   ],
   "properties": {
     "name": "Thompson nr Tompson Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Sanders",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102130407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Thompson nr Tompson Falls",
+    "elevation": "2430",
+    "basinarea": 638.0,
+    "awdb_id": "12389500",
+    "usgs_id": "12389500",
+    "usgsname": "Thompson River near Thompson Falls MT",
+    "forecastpoint": false,
+    "bagis_aoiname": "Thompson River near Thompson Falls MT",
+    "aoi_exist": true
   }
 }

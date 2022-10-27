@@ -34849,6 +34849,22 @@
   ],
   "properties": {
     "name": "Pecos R nr Anton Chico",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Guadalupe",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130600011001,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pecos R nr Anton Chico",
+    "elevation": "5130",
+    "basinarea": 1050.0,
+    "awdb_id": "08379500",
+    "usgs_id": "8379500",
+    "usgsname": "PECOS RIVER NEAR ANTON CHICO, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "pecos r nr anton chico",
+    "aoi_exist": true
   }
 }

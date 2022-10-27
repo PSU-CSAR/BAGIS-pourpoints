@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Dry Creek Near Burris",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1921",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800010702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dry Creek Near Burris",
+    "elevation": "6430",
+    "basinarea": 53.7,
+    "awdb_id": "06222500",
+    "usgs_id": "6222500",
+    "usgsname": "DRY CREEK NEAR BURRIS, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

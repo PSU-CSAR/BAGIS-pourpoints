@@ -10905,6 +10905,22 @@
   ],
   "properties": {
     "name": "Boulder Ck nr Orodell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1906",
+    "countyname": "Boulder",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900050404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boulder Ck nr Orodell",
+    "elevation": "5826",
+    "basinarea": 102.0,
+    "awdb_id": "06727000",
+    "usgs_id": "6727000",
+    "usgsname": "BOULDER CREEK NEAR ORODELL, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "boulder ck nr orodell",
+    "aoi_exist": true
   }
 }

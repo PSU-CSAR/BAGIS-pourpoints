@@ -19881,6 +19881,22 @@
   ],
   "properties": {
     "name": "Provo R at Hailstone",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202030204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Provo R at Hailstone",
+    "elevation": "6220",
+    "basinarea": 230.0,
+    "awdb_id": "10155000",
+    "usgs_id": "10155000",
+    "usgsname": "PROVO RIVER NEAR HAILSTONE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "provo r at hailstone",
+    "aoi_exist": true
   }
 }

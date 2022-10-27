@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Columbia R at Grand Coulee",
-    "source": "ref"
+    "name": "Columbia R at Grand Coulee-NWS",
+    "source": "ref",
+    "begindate": "7/1/1923",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200050203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Columbia R at Grand Coulee-NWS",
+    "elevation": "900",
+    "basinarea": 74700.0,
+    "awdb_id": "12436500",
+    "usgs_id": "12436500",
+    "usgsname": "COLUMBIA RIVER AT GRAND COULEE, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

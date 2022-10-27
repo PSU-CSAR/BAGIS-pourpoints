@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Stampede Res Local Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/9/1970",
+    "countyname": "Sierra",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stampede Res Local Inflow",
+    "elevation": "5690",
+    "basinarea": 136.0,
+    "awdb_id": "10344300",
+    "usgs_id": "10344300",
+    "usgsname": "STAMPEDE RES NR BOCA CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

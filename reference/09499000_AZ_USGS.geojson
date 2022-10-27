@@ -34521,6 +34521,22 @@
   ],
   "properties": {
     "name": "Tonto Ck ab Gun Ck nr Roosevelt",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1913",
+    "countyname": "Gila",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150601050311,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tonto Ck ab Gun Ck nr Roosevelt",
+    "elevation": "2523",
+    "basinarea": 675.0,
+    "awdb_id": "09499000",
+    "usgs_id": "9499000",
+    "usgsname": "TONTO CREEK ABOVE GUN CREEK, NEAR ROOSEVELT, AZ",
+    "forecastpoint": true,
+    "bagis_aoiname": "tonto ck ab gun ck nr roosevelt",
+    "aoi_exist": true
   }
 }

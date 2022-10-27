@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Snake Ck nr Charleston",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "Wasatch",
+    "enddate": "2015-07-01T07:00:00Z",
+    "active": false,
+    "huc": 160202030305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake Ck nr Charleston",
+    "elevation": "5435",
+    "basinarea": 31.8,
+    "awdb_id": "10156000",
+    "usgs_id": "10156000",
+    "usgsname": "SNAKE CREEK NEAR CHARLESTON, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

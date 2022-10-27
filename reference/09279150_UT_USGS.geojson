@@ -29713,6 +29713,22 @@
   ],
   "properties": {
     "name": "Duchesne R ab Knight Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Duchesne R ab Knight Diversion",
+    "elevation": "5840",
+    "basinarea": 623.0,
+    "awdb_id": "09279150",
+    "usgs_id": "9279150",
+    "usgsname": "DUCHESNE RIV ABV KNIGHT DIVERSION, NR DUCHESNE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "duchesne r ab knight diversion (2)",
+    "aoi_exist": true
   }
 }

@@ -8169,6 +8169,22 @@
   ],
   "properties": {
     "name": "Scoggins Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1975",
+    "countyname": "Washington",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900100203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Scoggins Reservoir Inflow",
+    "elevation": "187",
+    "basinarea": 38.8,
+    "awdb_id": "14202980",
+    "usgs_id": "14202980",
+    "usgsname": "SCOGGINS CK BLW HENRY HAGG LAKE, NR GASTON, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Scoggins Reservoir Inflow",
+    "aoi_exist": true
   }
 }

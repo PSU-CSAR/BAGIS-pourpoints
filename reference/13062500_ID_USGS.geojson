@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Snake River at Blackfoot ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1978",
+    "countyname": "Bingham",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402070608,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake River at Blackfoot ID",
+    "elevation": "4490",
+    "basinarea": 9950.0,
+    "awdb_id": "13062500",
+    "usgs_id": "13062500",
+    "usgsname": "SNAKE RIVER AT BLACKFOOT ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

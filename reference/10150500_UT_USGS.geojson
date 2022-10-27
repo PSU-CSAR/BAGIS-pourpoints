@@ -28880,7 +28880,23 @@
     }
   ],
   "properties": {
-    "name": "Spanish Fk at CastilLa",
-    "source": "ref"
+    "name": "Spanish Fk at Castilla",
+    "source": "ref",
+    "begindate": "5/1/1919",
+    "countyname": "Utah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202020502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Spanish Fk at Castilla",
+    "elevation": "4870",
+    "basinarea": 652.0,
+    "awdb_id": "10150500",
+    "usgs_id": "10150500",
+    "usgsname": "SPANISH FORK AT CASTILLA, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

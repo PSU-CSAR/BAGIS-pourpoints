@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF Feather R A Ponderosa Dam CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1962",
+    "countyname": "Butte",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201230604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Feather R A Ponderosa Dam CA",
+    "elevation": "920",
+    "basinarea": 108.0,
+    "awdb_id": "11396350",
+    "usgs_id": "11396350",
+    "usgsname": "SF FEATHER R A PONDEROSA DAM CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

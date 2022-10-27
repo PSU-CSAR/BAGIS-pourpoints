@@ -29353,6 +29353,22 @@
   ],
   "properties": {
     "name": "Boulder R at Big Timber",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1947",
+    "countyname": "Sweet Grass",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700020909,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boulder R at Big Timber",
+    "elevation": "4056",
+    "basinarea": 525.0,
+    "awdb_id": "06200000",
+    "usgs_id": "6200000",
+    "usgsname": "Boulder River at Big Timber MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "boulder r at big timber",
+    "aoi_exist": true
   }
 }

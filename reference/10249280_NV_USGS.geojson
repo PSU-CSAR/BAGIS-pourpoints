@@ -4601,6 +4601,22 @@
   ],
   "properties": {
     "name": "Kingston Ck nr Austin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1966",
+    "countyname": "Lander",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160600040503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kingston Ck nr Austin",
+    "elevation": "6480",
+    "basinarea": 23.4,
+    "awdb_id": "10249280",
+    "usgs_id": "10249280",
+    "usgsname": "KINGSTON CK BLW COUGAR CYN NR AUSTIN, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "kingston ck nr austin",
+    "aoi_exist": true
   }
 }

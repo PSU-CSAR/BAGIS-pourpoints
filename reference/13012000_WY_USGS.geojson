@@ -22529,6 +22529,22 @@
   ],
   "properties": {
     "name": "Buffalo Fk nr Moran",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/9/1917",
+    "countyname": "Teton",
+    "enddate": "1960-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170401010510,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Buffalo Fk nr Moran",
+    "elevation": "6720",
+    "basinarea": 378.0,
+    "awdb_id": "13012000",
+    "usgs_id": "13012000",
+    "usgsname": "BUFFALO FORK NEAR MORAN, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": "Buffalo Fk nr Moran",
+    "aoi_exist": true
   }
 }

@@ -2969,6 +2969,22 @@
   ],
   "properties": {
     "name": "EF Wallowa R nr Joseph",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1924",
+    "countyname": "Wallowa",
+    "enddate": "1984-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170601050101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "EF Wallowa R nr Joseph",
+    "elevation": "4518",
+    "basinarea": 10.3,
+    "awdb_id": "13325000",
+    "usgs_id": "13325000",
+    "usgsname": "EAST FORK WALLOWA RIVER NEAR JOSEPH, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "EF Wallowa R nr Joseph",
+    "aoi_exist": true
   }
 }

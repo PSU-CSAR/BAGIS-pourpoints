@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Hunter Creek Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1980",
+    "countyname": "Pitkin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100040105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hunter Creek Diversion",
+    "elevation": "10179",
+    "basinarea": null,
+    "awdb_id": "CO0011",
+    "usgs_id": "CO0011",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

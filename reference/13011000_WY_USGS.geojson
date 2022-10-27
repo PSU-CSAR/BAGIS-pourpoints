@@ -38433,6 +38433,22 @@
   ],
   "properties": {
     "name": "Snake R nr Moran",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1903",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401010409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake R nr Moran",
+    "elevation": "6760",
+    "basinarea": 807.0,
+    "awdb_id": "13011000",
+    "usgs_id": "13011000",
+    "usgsname": "SNAKE RIVER NR MORAN WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "Snake R nr Moran",
+    "aoi_exist": true
   }
 }

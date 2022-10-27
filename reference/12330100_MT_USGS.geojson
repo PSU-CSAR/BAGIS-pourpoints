@@ -19073,6 +19073,22 @@
   ],
   "properties": {
     "name": "Flint Ck bl Boulder Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1941",
+    "countyname": "Granite",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102020502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Flint Ck bl Boulder Ck",
+    "elevation": "4700",
+    "basinarea": null,
+    "awdb_id": "12330100",
+    "usgs_id": "12330100",
+    "usgsname": "Flint Cr bl Boulder Cr nr Maxville MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Flint Cr bl Boulder Cr nr Maxville MT",
+    "aoi_exist": true
   }
 }

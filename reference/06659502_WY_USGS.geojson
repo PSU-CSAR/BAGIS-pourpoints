@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Laramie R bl Pioneer Canal nr Woods",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Albany",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800100306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Laramie R bl Pioneer Canal nr Woods",
+    "elevation": "7390",
+    "basinarea": 434.0,
+    "awdb_id": "06659502",
+    "usgs_id": "6659502",
+    "usgsname": "LARAMIE R BL PIONEER CANAL, NR WOODS LANDING, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Div. Fm Snake R Bet Heise And Shelly Gag",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1932",
+    "countyname": "Bonneville",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402050403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Div. Fm Snake R Bet Heise And Shelly Gag",
+    "elevation": "4700",
+    "basinarea": null,
+    "awdb_id": "13059500",
+    "usgs_id": "13059500",
+    "usgsname": "DIV FROM SNAKE R BTW HEISE/SHELLEY GAGES ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

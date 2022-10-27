@@ -39377,6 +39377,22 @@
   ],
   "properties": {
     "name": "SF Boise R at Anderson Ranch Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/8/1943",
+    "countyname": "Elmore",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501130901,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Boise R at Anderson Ranch Dam",
+    "elevation": "3830",
+    "basinarea": 978.0,
+    "awdb_id": "13190500",
+    "usgs_id": "13190500",
+    "usgsname": "SF BOISE RIVER AT ANDERSON RANCH DAM ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "SF Boise R at Anderson Ranch Dam",
+    "aoi_exist": true
   }
 }

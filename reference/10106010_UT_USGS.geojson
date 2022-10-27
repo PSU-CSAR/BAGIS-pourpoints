@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Bear, Hyrum Resv Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1942",
+    "countyname": "Cache",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160102030105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Bear, Hyrum Resv Inflow",
+    "elevation": "4680",
+    "basinarea": null,
+    "awdb_id": "10106010",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

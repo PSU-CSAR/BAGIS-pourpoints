@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sweetwater R nr Sweetwater Station",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1973",
+    "countyname": "Fremont",
+    "enddate": "2017-04-10T07:00:00Z",
+    "active": false,
+    "huc": 101800060402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sweetwater R nr Sweetwater Station",
+    "elevation": "6590",
+    "basinarea": 849.0,
+    "awdb_id": "06638090",
+    "usgs_id": "6638090",
+    "usgsname": "SWEETWATER RIVER NEAR SWEETWATER STATION, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -30249,6 +30249,22 @@
   ],
   "properties": {
     "name": "Big Wood R ab Magic Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/6/1911",
+    "countyname": "Blaine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402190604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Wood R ab Magic Reservoir",
+    "elevation": "4820",
+    "basinarea": 824.0,
+    "awdb_id": "13141000",
+    "usgs_id": "13141000",
+    "usgsname": "BIG WOOD RIVER NR BELLEVUE, ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Big Wood R ab Magic Reservoir",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big Sandy R nr Big Sandy",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Sublette",
+    "enddate": "1987-10-01T07:00:00Z",
+    "active": false,
+    "huc": 140401040101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Sandy R nr Big Sandy",
+    "elevation": "7800",
+    "basinarea": 94.0,
+    "awdb_id": "09212500",
+    "usgs_id": "9212500",
+    "usgsname": "BIG SANDY R AT LECKIE RANCH, NR BIG SANDY, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

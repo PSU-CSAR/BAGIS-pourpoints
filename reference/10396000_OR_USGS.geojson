@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Donner Und Blitzen R nr Frenchglen",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Harney",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171200030108,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Donner Und Blitzen R nr Frenchglen",
+    "elevation": "4254",
+    "basinarea": 200.0,
+    "awdb_id": "10396000",
+    "usgs_id": "10396000",
+    "usgsname": "DONNER UND BLITZEN RIVER NR FRENCHGLEN OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "donner und blitzen r nr frenchglen",
+    "aoi_exist": true
   }
 }

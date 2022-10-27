@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Swan R nr Condon",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1972",
+    "countyname": "Missoula",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102110102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Swan R nr Condon",
+    "elevation": "4015",
+    "basinarea": 69.1,
+    "awdb_id": "12369200",
+    "usgs_id": "12369200",
+    "usgsname": "Swan River near Condon MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

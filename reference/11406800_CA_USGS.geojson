@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Oroville Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Butte",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201230707,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Oroville Reservoir Inflow",
+    "elevation": "275",
+    "basinarea": 3607.0,
+    "awdb_id": "11406800",
+    "usgs_id": "11406800",
+    "usgsname": "LK OROVILLE NR OROVILLE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

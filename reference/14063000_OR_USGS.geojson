@@ -36313,6 +36313,22 @@
   ],
   "properties": {
     "name": "Little Deschutes R nr La Pine",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Deschutes",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703020704,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Deschutes R nr La Pine",
+    "elevation": "4193",
+    "basinarea": 859.0,
+    "awdb_id": "14063000",
+    "usgs_id": "14063000",
+    "usgsname": "LITTLE DESCHUTES RIVER NEAR LA PINE, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Little Deschutes R nr La Pine",
+    "aoi_exist": true
   }
 }

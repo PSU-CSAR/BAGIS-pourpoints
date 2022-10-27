@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Azotea Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1970",
+    "countyname": "Rio Arriba",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201020301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Azotea Tunnel",
+    "elevation": "7519",
+    "basinarea": null,
+    "awdb_id": "08284160",
+    "usgs_id": "8284160",
+    "usgsname": "AZOTEA TUNNEL AT OUTLET NEAR CHAMA, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

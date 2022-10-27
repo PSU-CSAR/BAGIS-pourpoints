@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Isabella Reservoir Near Isabella, Ca Nw",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Kern",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180300030105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Isabella Reservoir Near Isabella, Ca Nw",
+    "elevation": "2595",
+    "basinarea": null,
+    "awdb_id": "1119050N",
+    "usgs_id": "1119050N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Berthoud Pass Ditch nr Berthoud Pass",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/18/1932",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Berthoud Pass Ditch nr Berthoud Pass",
+    "elevation": "11318",
+    "basinarea": null,
+    "awdb_id": "09021500",
+    "usgs_id": "9021500",
+    "usgsname": "BERTHOUD PASS DITCH AT BERTHOUD PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

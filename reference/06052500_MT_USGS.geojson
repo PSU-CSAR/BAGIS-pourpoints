@@ -59785,6 +59785,22 @@
   ],
   "properties": {
     "name": "Gallatin R at Logan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18931001",
+    "countyname": "Gallatin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200081403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gallatin R at Logan",
+    "elevation": "4086",
+    "basinarea": 1789.0,
+    "awdb_id": "06052500",
+    "usgs_id": "6052500",
+    "usgsname": "Gallatin River at Logan MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Gallatin R at Logan",
+    "aoi_exist": true
   }
 }

@@ -2585,6 +2585,22 @@
   ],
   "properties": {
     "name": "Dunn Ck nr Park Valley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1971",
+    "countyname": "Box Elder",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160203081407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dunn Ck nr Park Valley",
+    "elevation": "6250",
+    "basinarea": 8.72,
+    "awdb_id": "10172952",
+    "usgs_id": "10172952",
+    "usgsname": "DUNN CREEK NEAR PARK VALLEY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "dunn ck nr park valley",
+    "aoi_exist": true
   }
 }

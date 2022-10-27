@@ -3473,6 +3473,22 @@
   ],
   "properties": {
     "name": "Galena Ck nr Steamboat, NV",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1961",
+    "countyname": "Washoe",
+    "enddate": "1994-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160501020303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Galena Ck nr Steamboat, NV",
+    "elevation": "5592",
+    "basinarea": 8.5,
+    "awdb_id": "10348900",
+    "usgs_id": "10348900",
+    "usgsname": "GALENA CK NR STEAMBOAT, NV",
+    "forecastpoint": false,
+    "bagis_aoiname": "galena ck nr steamboat",
+    "aoi_exist": true
   }
 }

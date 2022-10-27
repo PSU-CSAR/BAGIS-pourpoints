@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Little Wind River nr Fort Washakie",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1988",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800020110,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Little Wind River nr Fort Washakie",
+    "elevation": "6120",
+    "basinarea": 112.0,
+    "awdb_id": "06228800",
+    "usgs_id": "6228800",
+    "usgsname": "NORTH FORK LITTLE WIND RIVER NR FORT WASHAKIE, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

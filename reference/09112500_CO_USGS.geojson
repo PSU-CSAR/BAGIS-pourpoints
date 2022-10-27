@@ -17833,6 +17833,22 @@
   ],
   "properties": {
     "name": "East R at Almont",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200010210,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "East R at Almont",
+    "elevation": "8006",
+    "basinarea": 289.0,
+    "awdb_id": "09112500",
+    "usgs_id": "9112500",
+    "usgsname": "EAST RIVER AT ALMONT, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "east r at almont",
+    "aoi_exist": true
   }
 }

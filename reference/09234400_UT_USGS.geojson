@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Green R at Flaming Gorge Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Daggett",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401060805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Green R at Flaming Gorge Dam",
+    "elevation": "5594",
+    "basinarea": 19350.0,
+    "awdb_id": "09234400",
+    "usgs_id": "9234400",
+    "usgsname": "FLAMING GORGE RESERVOIR AT FLAMING GORGE DAM, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

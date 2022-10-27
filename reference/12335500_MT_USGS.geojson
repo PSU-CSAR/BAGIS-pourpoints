@@ -11137,6 +11137,22 @@
   ],
   "properties": {
     "name": "Nevada Ck nr Helmville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Powell",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102030406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Nevada Ck nr Helmville",
+    "elevation": "4640",
+    "basinarea": 119.0,
+    "awdb_id": "12335500",
+    "usgs_id": "12335500",
+    "usgsname": "Nevada Cr ab reservoir, nr Helmville, MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Nevada Cr ab reservoir, nr Helmville, MT",
+    "aoi_exist": true
   }
 }

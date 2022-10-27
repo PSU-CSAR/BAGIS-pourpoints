@@ -21305,6 +21305,22 @@
   ],
   "properties": {
     "name": "Clear Ck at Golden",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Jefferson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900040402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clear Ck at Golden",
+    "elevation": "5695",
+    "basinarea": 394.0,
+    "awdb_id": "06719505",
+    "usgs_id": "6719505",
+    "usgsname": "CLEAR CREEK AT GOLDEN, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "clear ck at golden",
+    "aoi_exist": true
   }
 }

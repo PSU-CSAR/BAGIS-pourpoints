@@ -52065,6 +52065,22 @@
   ],
   "properties": {
     "name": "South Umpqua R nr Brockway",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1905",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003021305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Umpqua R nr Brockway",
+    "elevation": "463",
+    "basinarea": 1670.0,
+    "awdb_id": "14312000",
+    "usgs_id": "14312000",
+    "usgsname": "SOUTH UMPQUA RIVER NEAR BROCKWAY, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "South Umpqua R nr Brockway",
+    "aoi_exist": true
   }
 }

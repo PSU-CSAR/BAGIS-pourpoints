@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Newlan Ck nr White Sulphur Spr",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "Meagher",
+    "enddate": "1990-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100301030302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Newlan Ck nr White Sulphur Spr",
+    "elevation": "5300",
+    "basinarea": null,
+    "awdb_id": "06076300",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

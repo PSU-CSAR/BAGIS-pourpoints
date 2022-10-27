@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "WF Duchesne R at Vat Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1980",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "WF Duchesne R at Vat Diversion",
+    "elevation": "7800",
+    "basinarea": null,
+    "awdb_id": "09274899",
+    "usgs_id": "9274899",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

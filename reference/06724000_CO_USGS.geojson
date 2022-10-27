@@ -14977,6 +14977,22 @@
   ],
   "properties": {
     "name": "St. Vrain Ck at Lyons",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18951001",
+    "countyname": "Boulder",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900050701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St. Vrain Ck at Lyons",
+    "elevation": "5292",
+    "basinarea": 216.0,
+    "awdb_id": "06724000",
+    "usgs_id": "6724000",
+    "usgsname": "ST. VRAIN CREEK AT LYONS, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "st. vrain ck at lyons",
+    "aoi_exist": true
   }
 }

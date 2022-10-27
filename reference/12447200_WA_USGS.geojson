@@ -180161,6 +180161,22 @@
   ],
   "properties": {
     "name": "Okanogan R at Malott",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1958",
+    "countyname": "Okanogan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200062205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Okanogan R at Malott",
+    "elevation": "784",
+    "basinarea": 8080.0,
+    "awdb_id": "12447200",
+    "usgs_id": "12447200",
+    "usgsname": "OKANOGAN RIVER AT MALOTT, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Okanogan R at Malott",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Terror R nr Kodiak AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1962",
+    "countyname": "Kodiak Island",
+    "enddate": "1986-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190207010301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Terror R nr Kodiak AK",
+    "elevation": "1230",
+    "basinarea": 15.0,
+    "awdb_id": "15295600",
+    "usgs_id": "15295600",
+    "usgsname": "TERROR R NR KODIAK AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

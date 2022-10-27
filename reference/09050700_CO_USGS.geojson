@@ -17681,6 +17681,22 @@
   ],
   "properties": {
     "name": "Blue R bl Dillon Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1951",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100020501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blue R bl Dillon Reservoir",
+    "elevation": "8760",
+    "basinarea": 334.0,
+    "awdb_id": "09050700",
+    "usgs_id": "9050700",
+    "usgsname": "BLUE RIVER BELOW DILLON, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "blue r bl dillon (2)",
+    "aoi_exist": true
   }
 }

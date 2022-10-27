@@ -10881,6 +10881,22 @@
   ],
   "properties": {
     "name": "Lost Ck Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "2/1/1921",
+    "countyname": "Morgan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lost Ck Reservoir Inflow",
+    "elevation": "6000",
+    "basinarea": 123.0,
+    "awdb_id": "10132490",
+    "usgs_id": "10132490",
+    "usgsname": "LOST CREEK RESERVOIR NEAR CROYDON, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "lost ck reservoir inflow",
+    "aoi_exist": true
   }
 }

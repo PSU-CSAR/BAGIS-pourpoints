@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bear R nr Randolph, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1943",
+    "countyname": "Rich",
+    "enddate": "2016-10-11T07:00:00Z",
+    "active": false,
+    "huc": 160101010902,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear R nr Randolph, UT",
+    "elevation": "6200",
+    "basinarea": 1616.0,
+    "awdb_id": "10026500",
+    "usgs_id": "10026500",
+    "usgsname": "BEAR RIVER NEAR RANDOLPH, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

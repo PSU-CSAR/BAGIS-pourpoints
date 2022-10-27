@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Birch Creek at Blue Dome Inn nr Reno, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1967",
+    "countyname": "Clark",
+    "enddate": "1991-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170402160204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Birch Creek at Blue Dome Inn nr Reno, ID",
+    "elevation": "6050",
+    "basinarea": 381.0,
+    "awdb_id": "13117020",
+    "usgs_id": "13117020",
+    "usgsname": "BIRCH CREEK AT BLUE DOME INN NR RENO ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lamar R nr Tower Falls, Ynp",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1923",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700010608,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lamar R nr Tower Falls, Ynp",
+    "elevation": "6000",
+    "basinarea": 668.0,
+    "awdb_id": "06188000",
+    "usgs_id": "6188000",
+    "usgsname": "Lamar River nr Tower Ranger Station YNP",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

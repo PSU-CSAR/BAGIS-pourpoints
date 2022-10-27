@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Encampment R abv Hog Park Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1964",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800020407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Encampment R abv Hog Park Ck",
+    "elevation": "8270",
+    "basinarea": 72.7,
+    "awdb_id": "06623800",
+    "usgs_id": "6623800",
+    "usgsname": "ENCAMPMENT RIVER AB HOG PARK CR, NR ENCAMPMENT, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

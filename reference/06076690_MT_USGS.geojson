@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Smith R nr Ft Logan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1977",
+    "countyname": "Meagher",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100301030507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Smith R nr Ft Logan",
+    "elevation": "4400",
+    "basinarea": 845.0,
+    "awdb_id": "06076690",
+    "usgs_id": "6076690",
+    "usgsname": "Smith River near Ft Logan MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

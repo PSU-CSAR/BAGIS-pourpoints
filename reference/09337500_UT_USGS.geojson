@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Escalante River Near Escalante, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Garfield",
+    "enddate": "2015-05-31T07:00:00Z",
+    "active": false,
+    "huc": 140700050107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Escalante River Near Escalante, UT",
+    "elevation": "5670",
+    "basinarea": 320.0,
+    "awdb_id": "09337500",
+    "usgs_id": "9337500",
+    "usgsname": "ESCALANTE RIVER NEAR ESCALANTE, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

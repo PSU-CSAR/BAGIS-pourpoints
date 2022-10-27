@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "St Regis R at St Regis",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1910",
+    "countyname": "Mineral",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102040712,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St Regis R at St Regis",
+    "elevation": "2645",
+    "basinarea": 304.0,
+    "awdb_id": "12354000",
+    "usgs_id": "12354000",
+    "usgsname": "St. Regis River near St. Regis, MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

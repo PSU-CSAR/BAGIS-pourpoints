@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF Judith R nr Utica",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1958",
+    "countyname": "Judith Basin",
+    "enddate": "1979-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100401030401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Judith R nr Utica",
+    "elevation": "5300",
+    "basinarea": 49.9,
+    "awdb_id": "06109800",
+    "usgs_id": "6109800",
+    "usgsname": "South Fork Judith River near Utica MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

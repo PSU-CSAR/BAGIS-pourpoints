@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big Ck nr Emigrant",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1973",
+    "countyname": "Park",
+    "enddate": "1985-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100700020203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Ck nr Emigrant",
+    "elevation": "5270",
+    "basinarea": 67.2,
+    "awdb_id": "06191800",
+    "usgs_id": "6191800",
+    "usgsname": "Big Creek near Emigrant MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

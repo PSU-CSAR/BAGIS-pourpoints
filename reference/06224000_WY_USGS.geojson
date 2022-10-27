@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bull Lake Creek Above Bull Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800010604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bull Lake Creek Above Bull Lake",
+    "elevation": "5874",
+    "basinarea": 187.0,
+    "awdb_id": "06224000",
+    "usgs_id": "6224000",
+    "usgsname": "BULL LAKE CREEK ABOVE BULL LAKE, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

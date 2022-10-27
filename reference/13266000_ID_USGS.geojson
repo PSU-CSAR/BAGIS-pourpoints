@@ -40713,6 +40713,22 @@
   ],
   "properties": {
     "name": "Weiser R nr Weiser",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Washington",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501241102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weiser R nr Weiser",
+    "elevation": "2206",
+    "basinarea": 1450.0,
+    "awdb_id": "13266000",
+    "usgs_id": "13266000",
+    "usgsname": "WEISER RIVER NR WEISER ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Weiser R nr Weiser",
+    "aoi_exist": true
   }
 }

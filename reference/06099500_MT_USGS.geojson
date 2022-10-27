@@ -62465,6 +62465,22 @@
   ],
   "properties": {
     "name": "Marias R nr Shelby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1902",
+    "countyname": "Toole",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302030803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Marias R nr Shelby",
+    "elevation": "3088",
+    "basinarea": 2716.0,
+    "awdb_id": "06099500",
+    "usgs_id": "6099500",
+    "usgsname": "Marias River near Shelby MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "marias r nr shelby",
+    "aoi_exist": true
   }
 }

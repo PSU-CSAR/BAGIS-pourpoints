@@ -99241,6 +99241,22 @@
   ],
   "properties": {
     "name": "Clark Fork R ab MissouLa",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1929",
+    "countyname": "Missoula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102040104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clark Fork R ab MissouLa",
+    "elevation": "3198",
+    "basinarea": 6021.0,
+    "awdb_id": "12340500",
+    "usgs_id": "12340500",
+    "usgsname": "Clark Fork above Missoula MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Clark Fork above Missoula MT",
+    "aoi_exist": true
   }
 }

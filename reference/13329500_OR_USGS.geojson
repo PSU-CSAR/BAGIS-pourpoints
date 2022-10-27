@@ -5305,6 +5305,22 @@
   ],
   "properties": {
     "name": "Hurricane Ck nr Joseph",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1915",
+    "countyname": "Wallowa",
+    "enddate": "1979-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170601050106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hurricane Ck nr Joseph",
+    "elevation": "4500",
+    "basinarea": 29.6,
+    "awdb_id": "13329500",
+    "usgs_id": "13329500",
+    "usgsname": "HURRICANE CREEK NEAR JOSEPH, OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "Hurricane Ck nr Joseph",
+    "aoi_exist": true
   }
 }

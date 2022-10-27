@@ -57921,6 +57921,22 @@
   ],
   "properties": {
     "name": "Dworshak Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1926",
+    "countyname": "Clearwater",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170603080804,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dworshak Reservoir Inflow",
+    "elevation": "1500",
+    "basinarea": 2440.0,
+    "awdb_id": "13340950",
+    "usgs_id": "13340950",
+    "usgsname": "DWORSHAK RES NR AHSAHKA ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Dworshak Reservoir Inflow",
+    "aoi_exist": true
   }
 }

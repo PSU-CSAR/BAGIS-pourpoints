@@ -24065,6 +24065,22 @@
   ],
   "properties": {
     "name": "Minersville Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1915",
+    "countyname": "Beaver",
+    "enddate": "2000-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160300070402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Minersville Reservoir Inflow",
+    "elevation": "5452",
+    "basinarea": 534.0,
+    "awdb_id": "10238500",
+    "usgs_id": "10238500",
+    "usgsname": "MINERSVILLE RESERVOIR NEAR MINERSVILLE, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": "minersville reservoir inflow",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Hood R nr Hood R",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1913",
+    "countyname": "Hood River",
+    "enddate": "1964-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170701050703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hood R nr Hood R",
+    "elevation": "106",
+    "basinarea": 329.0,
+    "awdb_id": "14121000",
+    "usgs_id": "14121000",
+    "usgsname": "HOOD RIVER NEAR HOOD RIVER, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

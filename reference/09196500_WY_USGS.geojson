@@ -9096,7 +9096,23 @@
     }
   ],
   "properties": {
-    "name": "Pine Creek ab Fremont Lake",
-    "source": "ref"
+    "name": "Pine Ck ab Fremont Lake",
+    "source": "ref",
+    "begindate": "18890701",
+    "countyname": "Sublette",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401020102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pine Ck ab Fremont Lake",
+    "elevation": "7450",
+    "basinarea": 75.8,
+    "awdb_id": "09196500",
+    "usgs_id": "9196500",
+    "usgsname": "PINE CREEK ABOVE FREMONT LAKE, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "pine creek ab fremont lake",
+    "aoi_exist": true
   }
 }

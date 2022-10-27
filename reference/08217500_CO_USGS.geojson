@@ -31657,6 +31657,22 @@
   ],
   "properties": {
     "name": "Rio Grande at Wagon Wheel Gap",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1951",
+    "countyname": "Mineral",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100011006,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Grande at Wagon Wheel Gap",
+    "elevation": "8430",
+    "basinarea": 780.0,
+    "awdb_id": "08217500",
+    "usgs_id": "8217500",
+    "usgsname": "RIO GRANDE AT WAGON WHEEL GAP, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "rio grande at wagon wheel gap (2)",
+    "aoi_exist": true
   }
 }

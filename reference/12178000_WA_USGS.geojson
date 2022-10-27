@@ -47433,6 +47433,22 @@
   ],
   "properties": {
     "name": "Skagit R at Newhalem",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/21/1908",
+    "countyname": "Whatcom",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100050708,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Skagit R at Newhalem",
+    "elevation": "402",
+    "basinarea": 1175.0,
+    "awdb_id": "12178000",
+    "usgs_id": "12178000",
+    "usgsname": "SKAGIT RIVER AT NEWHALEM, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Skagit Rv at Newhalem",
+    "aoi_exist": true
   }
 }

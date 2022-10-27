@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "North Platte - Alcova To Glendo Gain",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/31/1969",
+    "countyname": "Converse",
+    "enddate": "2019-08-19T07:00:00Z",
+    "active": false,
+    "huc": 101800080704,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Platte - Alcova To Glendo Gain",
+    "elevation": "4665",
+    "basinarea": null,
+    "awdb_id": "06652001",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "north platte r - alcova to orin gain",
+    "aoi_exist": true
   }
 }

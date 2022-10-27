@@ -23049,6 +23049,22 @@
   ],
   "properties": {
     "name": "Detroit Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1908",
+    "countyname": "Linn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900050401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Detroit Lake Inflow",
+    "elevation": "1094",
+    "basinarea": 453.0,
+    "awdb_id": "14181500",
+    "usgs_id": "14181500",
+    "usgsname": "NORTH SANTIAM RIVER AT NIAGARA, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Detroit Lake Inlfow",
+    "aoi_exist": true
   }
 }

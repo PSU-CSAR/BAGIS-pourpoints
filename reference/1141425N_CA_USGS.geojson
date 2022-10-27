@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "S Yuba R A Langs Crossing nr Emigrant GA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/31/1965",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201250604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "S Yuba R A Langs Crossing nr Emigrant GA",
+    "elevation": "4432",
+    "basinarea": null,
+    "awdb_id": "1141425N",
+    "usgs_id": "1141425N",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

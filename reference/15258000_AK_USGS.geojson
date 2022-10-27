@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kenai R at Cooper Landing",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1947",
+    "countyname": "Kenai Peninsula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190203021205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kenai R at Cooper Landing",
+    "elevation": "420",
+    "basinarea": 643.0,
+    "awdb_id": "15258000",
+    "usgs_id": "15258000",
+    "usgsname": "KENAI R AT COOPER LANDING AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

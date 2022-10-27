@@ -7401,6 +7401,22 @@
   ],
   "properties": {
     "name": "Rio Blanco bl Blanco Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1935",
+    "countyname": "Archuleta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801010304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Blanco bl Blanco Diversion",
+    "elevation": "7858",
+    "basinarea": 69.1,
+    "awdb_id": "09343300",
+    "usgs_id": "9343300",
+    "usgsname": "RIO BLANCO BEL BLANCO DIVN DAM, NR PAGOSA SPGS, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "rio blanco at blanco diversion (2)",
+    "aoi_exist": true
   }
 }

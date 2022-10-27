@@ -53385,6 +53385,22 @@
   ],
   "properties": {
     "name": "Big Wood R bl Magic Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/19/1911",
+    "countyname": "Blaine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402190702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Wood R bl Magic Dam",
+    "elevation": "4662",
+    "basinarea": 1611.0,
+    "awdb_id": "13142500",
+    "usgs_id": "13142500",
+    "usgsname": "BIG WOOD RIVER BL MAGIC DAM NR RICHFIELD ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Big Wood R bl Magic Dam",
+    "aoi_exist": true
   }
 }

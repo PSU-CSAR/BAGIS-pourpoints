@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Wickiup Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1938",
+    "countyname": "Deschutes",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703010301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wickiup Reservoir Inflow",
+    "elevation": "4257",
+    "basinarea": 483.0,
+    "awdb_id": "14056500",
+    "usgs_id": "14056500",
+    "usgsname": "DESCHUTES R BL WICKIUP RES NR LA PINE,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

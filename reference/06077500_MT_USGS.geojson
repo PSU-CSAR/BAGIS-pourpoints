@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Smith R nr Eden",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1951",
+    "countyname": "Cascade",
+    "enddate": "2017-04-10T07:00:00Z",
+    "active": false,
+    "huc": 100301030906,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Smith R nr Eden",
+    "elevation": "3500",
+    "basinarea": 1588.0,
+    "awdb_id": "06077500",
+    "usgs_id": "6077500",
+    "usgsname": "Smith River near Eden MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bowman Lake Near Graniteville, CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201250603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bowman Lake Near Graniteville, CA",
+    "elevation": "5567",
+    "basinarea": 27.1,
+    "awdb_id": "11415500",
+    "usgs_id": "11415500",
+    "usgsname": "BOWMAN LK NR GRANITEVILLE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

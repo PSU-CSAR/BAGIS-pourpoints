@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Weiser River Near Cambridge, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1939",
+    "countyname": "Washington",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501240607,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weiser River Near Cambridge, ID",
+    "elevation": "2647",
+    "basinarea": 597.0,
+    "awdb_id": "13258500",
+    "usgs_id": "13258500",
+    "usgsname": "WEISER RIVER NR CAMBRIDGE ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

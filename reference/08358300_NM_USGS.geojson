@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rio Grande Conv Chan at San Marcial",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1951",
+    "countyname": "Socorro",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130202031208,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Grande Conv Chan at San Marcial",
+    "elevation": "4454",
+    "basinarea": null,
+    "awdb_id": "08358300",
+    "usgs_id": "8358300",
+    "usgsname": "RIO GRANDE CONVEYANCE CHANNEL AT SAN MARCIAL, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

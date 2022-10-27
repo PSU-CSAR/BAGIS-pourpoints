@@ -30305,6 +30305,22 @@
   ],
   "properties": {
     "name": "Zuni R ab Black Rock Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "McKinley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150200040313,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Zuni R ab Black Rock Reservoir",
+    "elevation": "6480",
+    "basinarea": 848.0,
+    "awdb_id": "09386950",
+    "usgs_id": "9386950",
+    "usgsname": "ZUNI RIVER ABV BLACK ROCK RESERVOIR, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "zuni r ab black rock reservoir",
+    "aoi_exist": true
   }
 }

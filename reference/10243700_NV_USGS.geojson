@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cleve Ck nr Ely",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/29/1914",
+    "countyname": "White Pine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160600080404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cleve Ck nr Ely",
+    "elevation": "6200",
+    "basinarea": 31.8,
+    "awdb_id": "10243700",
+    "usgs_id": "10243700",
+    "usgsname": "CLEVE CK NR ELY, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

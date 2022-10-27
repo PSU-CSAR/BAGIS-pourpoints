@@ -178801,6 +178801,22 @@
   ],
   "properties": {
     "name": "Salmon R at White Bird",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1910",
+    "countyname": "Idaho",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170602090504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salmon R at White Bird",
+    "elevation": "1413",
+    "basinarea": 13421.0,
+    "awdb_id": "13317000",
+    "usgs_id": "13317000",
+    "usgsname": "SALMON RIVER AT WHITE BIRD ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Salmon R at White Bird",
+    "aoi_exist": true
   }
 }

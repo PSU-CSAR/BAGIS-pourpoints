@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Trout Ck nr Callao, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1958",
+    "countyname": "Juab",
+    "enddate": "2015-06-01T07:00:00Z",
+    "active": false,
+    "huc": 160203060101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Trout Ck nr Callao, UT",
+    "elevation": "6200",
+    "basinarea": 8.19,
+    "awdb_id": "10172870",
+    "usgs_id": "10172870",
+    "usgsname": "TROUT CREEK NEAR CALLAO, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

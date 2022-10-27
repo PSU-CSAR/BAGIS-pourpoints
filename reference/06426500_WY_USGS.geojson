@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Belle Fourche R blw Moorcroft",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1943",
+    "countyname": "Crook",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101202010601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Belle Fourche R blw Moorcroft",
+    "elevation": "4119",
+    "basinarea": 1690.0,
+    "awdb_id": "06426500",
+    "usgs_id": "6426500",
+    "usgsname": "BELLE FOURCHE RIVER BELOW MOORCROFT, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

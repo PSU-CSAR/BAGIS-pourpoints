@@ -20665,6 +20665,22 @@
   ],
   "properties": {
     "name": "SF Shoshone R nr Valley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1956",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800130205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Shoshone R nr Valley",
+    "elevation": "6200",
+    "basinarea": 297.0,
+    "awdb_id": "06280300",
+    "usgs_id": "6280300",
+    "usgsname": "SOUTH FORK SHOSHONE RIVER NEAR VALLEY, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "sf shoshone r nr valley",
+    "aoi_exist": true
   }
 }

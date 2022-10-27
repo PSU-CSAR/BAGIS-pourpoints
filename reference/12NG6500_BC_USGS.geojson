@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kootenai R nr Fort Steele, BC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1963",
+    "countyname": "UNKNOWN",
+    "enddate": "1985-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101080000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kootenai R nr Fort Steele, BC",
+    "elevation": "2560",
+    "basinarea": null,
+    "awdb_id": "12NG6500",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

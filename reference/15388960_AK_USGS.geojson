@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Porcupine R nr Intl Boundary",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1987",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190801080000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Porcupine R nr Intl Boundary",
+    "elevation": "891",
+    "basinarea": 22750.0,
+    "awdb_id": "15388960",
+    "usgs_id": "15388960",
+    "usgsname": "PORCUPINE R NR INTERNATIONAL BOUNDARY YT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Medicine Lodge Ck nr Hyattville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1942",
+    "countyname": "Big Horn",
+    "enddate": "1973-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800080505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Medicine Lodge Ck nr Hyattville",
+    "elevation": "4720",
+    "basinarea": 86.8,
+    "awdb_id": "06273000",
+    "usgs_id": "6273000",
+    "usgsname": "MEDICINE LODGE CREEK NEAR HYATTVILLE, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

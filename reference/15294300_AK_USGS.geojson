@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Skwentna R nr Skwentna AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1959",
+    "countyname": "Matanuska-Susitna",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190205041511,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Skwentna R nr Skwentna AK",
+    "elevation": "200",
+    "basinarea": 2250.0,
+    "awdb_id": "15294300",
+    "usgs_id": "15294300",
+    "usgsname": "SKWENTNA R NR SKWENTNA AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

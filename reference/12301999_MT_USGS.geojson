@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Wolf Ck nr Libby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1967",
+    "countyname": "Lincoln",
+    "enddate": "1977-10-04T07:00:00Z",
+    "active": false,
+    "huc": 170101020306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wolf Ck nr Libby",
+    "elevation": "2545",
+    "basinarea": 216.0,
+    "awdb_id": "12301999",
+    "usgs_id": "12301999",
+    "usgsname": "Wolf Creek near Libby MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

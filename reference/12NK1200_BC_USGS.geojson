@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Elk R at Stanley Park, BC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1944",
+    "countyname": "UNKNOWN",
+    "enddate": "1970-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101060809,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Elk R at Stanley Park, BC",
+    "elevation": "3150",
+    "basinarea": null,
+    "awdb_id": "12NK1200",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Discharge Crosscut Canal To Teton River",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1937",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402040502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Discharge Crosscut Canal To Teton River",
+    "elevation": "5000",
+    "basinarea": null,
+    "awdb_id": "13050018",
+    "usgs_id": "13050018",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

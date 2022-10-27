@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cosumnes R A Michigan Bar CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1907",
+    "countyname": "Sacramento",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400130605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cosumnes R A Michigan Bar CA",
+    "elevation": "168.09",
+    "basinarea": 536.0,
+    "awdb_id": "11335000",
+    "usgs_id": "11335000",
+    "usgsname": "COSUMNES R A MICHIGAN BAR CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

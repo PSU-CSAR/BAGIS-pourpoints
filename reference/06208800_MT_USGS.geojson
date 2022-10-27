@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clarks Fk Yellowstone R nr Silesia",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "Carbon",
+    "enddate": "1987-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100700061007,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clarks Fk Yellowstone R nr Silesia",
+    "elevation": "3406",
+    "basinarea": 2109.0,
+    "awdb_id": "06208800",
+    "usgs_id": "6208800",
+    "usgsname": "Clarks Fork Yellowstone River nr Silesia MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

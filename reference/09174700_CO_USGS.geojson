@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "West Naturita Creek at Upper Station Nr",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1950",
+    "countyname": "San Miguel",
+    "enddate": "1983-10-01T07:00:00Z",
+    "active": false,
+    "huc": 140300030401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "West Naturita Creek at Upper Station Nr",
+    "elevation": "8180",
+    "basinarea": 7.31,
+    "awdb_id": "09174700",
+    "usgs_id": "9174700",
+    "usgsname": "WEST NATURITA C AT UPPER STA, NEAR NORWOOD, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

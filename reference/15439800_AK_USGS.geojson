@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Boulder C nr Central AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1966",
+    "countyname": "Yukon-Koyukuk",
+    "enddate": "2012-08-02T07:00:00Z",
+    "active": false,
+    "huc": 190804010803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boulder C nr Central AK",
+    "elevation": "1060",
+    "basinarea": 32.4,
+    "awdb_id": "15439800",
+    "usgs_id": "15439800",
+    "usgsname": "BOULDER C NR CENTRAL AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

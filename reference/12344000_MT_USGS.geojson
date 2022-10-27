@@ -39281,6 +39281,22 @@
   ],
   "properties": {
     "name": "Bitterroot R nr Darby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1937",
+    "countyname": "Ravalli",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102050806,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bitterroot R nr Darby",
+    "elevation": "3942",
+    "basinarea": 1050.0,
+    "awdb_id": "12344000",
+    "usgs_id": "12344000",
+    "usgsname": "Bitterroot River near Darby MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Bitterroot River near Darby MT",
+    "aoi_exist": true
   }
 }

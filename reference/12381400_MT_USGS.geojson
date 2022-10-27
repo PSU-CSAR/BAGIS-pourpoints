@@ -8313,6 +8313,22 @@
   ],
   "properties": {
     "name": "SF Jocko R nr Arlee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/28/1982",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102120703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Jocko R nr Arlee",
+    "elevation": "3970",
+    "basinarea": 57.6,
+    "awdb_id": "12381400",
+    "usgs_id": "12381400",
+    "usgsname": "South Fork Jocko River near Arlee MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "South Fork Jocko River near Arlee MT",
+    "aoi_exist": true
   }
 }

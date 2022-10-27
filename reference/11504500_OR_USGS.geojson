@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fourmile Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1937",
+    "countyname": "Klamath",
+    "enddate": "1990-01-01T08:00:00Z",
+    "active": false,
+    "huc": 180102030202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fourmile Lake Inflow",
+    "elevation": "5750",
+    "basinarea": 10.6,
+    "awdb_id": "11504500",
+    "usgs_id": "11504500",
+    "usgsname": "FOURMILE LAKE NEAR RECREATION,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

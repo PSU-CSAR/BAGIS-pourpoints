@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "La Barage Ck nr La Barage Mdws RS",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1950",
+    "countyname": "Lincoln",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 140401011001,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "La Barage Ck nr La Barage Mdws RS",
+    "elevation": "8400",
+    "basinarea": 6.3,
+    "awdb_id": "09208000",
+    "usgs_id": "9208000",
+    "usgsname": "LA BARGE CREEK NR LA BARGE MEADOWS RANGER STA, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

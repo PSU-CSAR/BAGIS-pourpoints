@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lake Mcclure at Exchequer, CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Mariposa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400080604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Mcclure at Exchequer, CA",
+    "elevation": "440",
+    "basinarea": 1037.0,
+    "awdb_id": "11269500",
+    "usgs_id": "11269500",
+    "usgsname": "LK MCCLURE A EXCHEQUER CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

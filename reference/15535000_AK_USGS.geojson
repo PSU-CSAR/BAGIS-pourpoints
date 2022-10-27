@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Caribou C nr Chatanika AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "Fairbanks North Star",
+    "enddate": "1984-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190803090603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Caribou C nr Chatanika AK",
+    "elevation": "870",
+    "basinarea": 9.1,
+    "awdb_id": "15535000",
+    "usgs_id": "15535000",
+    "usgsname": "CARIBOU C NR CHATANIKA AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rosebud Ck at Reservation Boundary",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1979",
+    "countyname": "Big Horn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101000030106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rosebud Ck at Reservation Boundary",
+    "elevation": "3780",
+    "basinarea": 124.0,
+    "awdb_id": "06295113",
+    "usgs_id": "6295113",
+    "usgsname": "Rosebud C at Reservation Bndry nr Kirby MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

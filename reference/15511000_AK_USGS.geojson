@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Chena R nr Fairbanks",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1966",
+    "countyname": "Fairbanks North Star",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190803060804,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Chena R nr Fairbanks",
+    "elevation": "459",
+    "basinarea": 372.0,
+    "awdb_id": "15511000",
+    "usgs_id": "15511000",
+    "usgsname": "L CHENA R NR FAIRBANKS AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

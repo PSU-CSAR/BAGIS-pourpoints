@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Southside Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1980",
+    "countyname": "Mesa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100051202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Southside Canal",
+    "elevation": "7830",
+    "basinarea": null,
+    "awdb_id": "CO0047",
+    "usgs_id": "CO0047",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "spanish fk at castilla",
+    "aoi_exist": true
   }
 }

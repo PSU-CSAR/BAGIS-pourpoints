@@ -13225,6 +13225,22 @@
   ],
   "properties": {
     "name": "East Canyon Ck nr Morgan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1931",
+    "countyname": "Morgan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201020106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "East Canyon Ck nr Morgan",
+    "elevation": "5460",
+    "basinarea": 144.0,
+    "awdb_id": "10134500",
+    "usgs_id": "10134500",
+    "usgsname": "EAST CANYON CREEK NEAR MORGAN, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "east canyon ck nr morgan",
+    "aoi_exist": true
   }
 }

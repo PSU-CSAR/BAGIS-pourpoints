@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rosebud Ck at Mouth nr Rosebud",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1974",
+    "countyname": "Rosebud",
+    "enddate": "2015-10-01T07:00:00Z",
+    "active": false,
+    "huc": 101000011603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rosebud Ck at Mouth nr Rosebud",
+    "elevation": "2480",
+    "basinarea": 1307.0,
+    "awdb_id": "06296003",
+    "usgs_id": "6296003",
+    "usgsname": "Rosebud Creek at mouth near Rosebud MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

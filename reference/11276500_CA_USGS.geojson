@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tuolumne R nr Hetch Hetchy CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Tuolumne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400090505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tuolumne R nr Hetch Hetchy CA",
+    "elevation": "3430",
+    "basinarea": 457.0,
+    "awdb_id": "11276500",
+    "usgs_id": "11276500",
+    "usgsname": "TUOLUMNE R NR HETCH HETCHY CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

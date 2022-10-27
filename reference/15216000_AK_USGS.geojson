@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Power C nr Cordova AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1947",
+    "countyname": "Valdez-Cordova",
+    "enddate": "1995-09-30T07:00:00Z",
+    "active": false,
+    "huc": 190201041603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Power C nr Cordova AK",
+    "elevation": "34",
+    "basinarea": 20.6,
+    "awdb_id": "15216000",
+    "usgs_id": "15216000",
+    "usgsname": "POWER C NR CORDOVA AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

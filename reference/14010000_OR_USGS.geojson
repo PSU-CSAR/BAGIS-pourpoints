@@ -10041,6 +10041,22 @@
   ],
   "properties": {
     "name": "SF Walla Walla R nr Milton-Freewater",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "2/1/1903",
+    "countyname": "Umatilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701020103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Walla Walla R nr Milton-Freewater",
+    "elevation": "2050",
+    "basinarea": 63.0,
+    "awdb_id": "14010000",
+    "usgs_id": "14010000",
+    "usgsname": "SOUTH FORK WALLA WALLA RIVER NEAR MILTON,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "SF Walla Wall R nr Milton-Freewater",
+    "aoi_exist": true
   }
 }

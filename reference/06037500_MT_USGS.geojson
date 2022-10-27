@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Madison R nr West Yellowstone",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1913",
+    "countyname": "Gallatin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200070205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Madison R nr West Yellowstone",
+    "elevation": "6650",
+    "basinarea": 435.0,
+    "awdb_id": "06037500",
+    "usgs_id": "6037500",
+    "usgsname": "Madison River near West Yellowstone, MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

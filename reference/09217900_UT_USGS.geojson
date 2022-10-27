@@ -9977,6 +9977,22 @@
   ],
   "properties": {
     "name": "Blacks Fk nr Robertson",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1966",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401070303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blacks Fk nr Robertson",
+    "elevation": "8811",
+    "basinarea": 130.0,
+    "awdb_id": "09217900",
+    "usgs_id": "9217900",
+    "usgsname": "BLACKS FORK NEAR ROBERTSON, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "blacks fork nr robertson",
+    "aoi_exist": true
   }
 }

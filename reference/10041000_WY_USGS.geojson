@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Thomas Fk nr Wyoming-Idaho State Line",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Lincoln",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160101020204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Thomas Fk nr Wyoming-Idaho State Line",
+    "elevation": "6280",
+    "basinarea": 113.0,
+    "awdb_id": "10041000",
+    "usgs_id": "10041000",
+    "usgsname": "THOMAS FORK NEAR WYOMING-IDAHO STATE LINE",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

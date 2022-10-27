@@ -27481,6 +27481,22 @@
   ],
   "properties": {
     "name": "Greys R ab Reservoir nr Alpine",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/6/1917",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401030411,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Greys R ab Reservoir nr Alpine",
+    "elevation": "5729",
+    "basinarea": 448.0,
+    "awdb_id": "13023000",
+    "usgs_id": "13023000",
+    "usgsname": "GREYS RIVER AB RESERVOIR NR ALPINE WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "Greys R ab Reservoir nr Alpine",
+    "aoi_exist": true
   }
 }

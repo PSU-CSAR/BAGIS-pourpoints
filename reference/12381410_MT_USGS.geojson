@@ -4097,6 +4097,22 @@
   ],
   "properties": {
     "name": "NF Jocko R bl Tabor Feeder Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1982",
+    "countyname": "Lake",
+    "enddate": "2100-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102120703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Jocko R bl Tabor Feeder Canal",
+    "elevation": "4000",
+    "basinarea": null,
+    "awdb_id": "12381410",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "NF Jocko R bl Tabor Feeder Canal",
+    "aoi_exist": true
   }
 }

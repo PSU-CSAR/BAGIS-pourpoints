@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Red Lodge Ck abv Cooney Resv nr Boyd",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1937",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700060805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Red Lodge Ck abv Cooney Resv nr Boyd",
+    "elevation": "4248",
+    "basinarea": 142.0,
+    "awdb_id": "06211000",
+    "usgs_id": "6211000",
+    "usgsname": "Red Lodge Cr ab Cooney Re nr Boyd MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

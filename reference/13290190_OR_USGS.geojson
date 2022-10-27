@@ -17305,6 +17305,22 @@
   ],
   "properties": {
     "name": "Pine Ck nr Oxbow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1908",
+    "countyname": "Baker",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170502010610,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pine Ck nr Oxbow",
+    "elevation": "1850",
+    "basinarea": 299.0,
+    "awdb_id": "13290190",
+    "usgs_id": "13290190",
+    "usgsname": "PINE CREEK NR OXBOW OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Pine Ck nr Oxbow",
+    "aoi_exist": true
   }
 }

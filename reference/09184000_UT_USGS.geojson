@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mill Ck nr Moab, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1949",
+    "countyname": "Grand",
+    "enddate": "1993-10-25T07:00:00Z",
+    "active": false,
+    "huc": 140300050404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mill Ck nr Moab, UT",
+    "elevation": "4240",
+    "basinarea": 74.9,
+    "awdb_id": "09184000",
+    "usgs_id": "9184000",
+    "usgsname": "MILL CREEK NEAR MOAB, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

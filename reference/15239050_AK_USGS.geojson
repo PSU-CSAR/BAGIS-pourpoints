@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "begindate": "5/1/1992",
+    "countyname": "Kenai Peninsula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190203011102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "MF Bradley R nr Homer",
+    "name": "MF Bradley R nr Homer",
+    "elevation": "2300",
+    "basinarea": 9.1,
+    "awdb_id": "15239050",
+    "usgs_id": "15239050",
+    "usgsname": "MF BRADLEY R NR HOMER AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.754165700101,
+      59.7783317601436
+    ]
+  },
+  "id": "15239050:AK:USGS"
+}

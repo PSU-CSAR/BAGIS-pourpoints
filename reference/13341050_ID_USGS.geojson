@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clearwater River Near Peck, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1964",
+    "countyname": "Nez Perce",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170603061302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clearwater River Near Peck, ID",
+    "elevation": "930",
+    "basinarea": 7976.0,
+    "awdb_id": "13341050",
+    "usgs_id": "13341050",
+    "usgsname": "CLEARWATER RIVER NR PECK ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

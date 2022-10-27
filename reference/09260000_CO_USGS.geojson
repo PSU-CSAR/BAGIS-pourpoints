@@ -81865,6 +81865,22 @@
   ],
   "properties": {
     "name": "Little Snake R nr Lily",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1921",
+    "countyname": "Moffat",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500031102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Snake R nr Lily",
+    "elevation": "5685",
+    "basinarea": 4034.0,
+    "awdb_id": "09260000",
+    "usgs_id": "9260000",
+    "usgsname": "LITTLE SNAKE RIVER NEAR LILY, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "little snake r nr lily",
+    "aoi_exist": true
   }
 }

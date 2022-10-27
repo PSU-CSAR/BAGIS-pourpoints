@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Snake R nr Nome AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1965",
+    "countyname": "Nome",
+    "enddate": "1991-09-30T07:00:00Z",
+    "active": false,
+    "huc": 190501041703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake R nr Nome AK",
+    "elevation": "9",
+    "basinarea": 86.0,
+    "awdb_id": "15621000",
+    "usgs_id": "15621000",
+    "usgsname": "SNAKE R NR NOME AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

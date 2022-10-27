@@ -18753,6 +18753,22 @@
   ],
   "properties": {
     "name": "Teton R nr Driggs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1961",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402040404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Teton R nr Driggs",
+    "elevation": "5953",
+    "basinarea": 337.0,
+    "awdb_id": "13052200",
+    "usgs_id": "13052200",
+    "usgsname": "TETON RIVER AB SOUTH LEIGH CREEK NR DRIGGS ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Teton R nr Driggs",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pueres Exchange Release",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/2011",
+    "countyname": "Pueblo",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200020805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pueres Exchange Release",
+    "elevation": "4800",
+    "basinarea": null,
+    "awdb_id": "CO0019",
+    "usgs_id": "CO0019",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

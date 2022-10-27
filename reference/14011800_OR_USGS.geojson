@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Couse Creek nr Milton-Freewater",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1965",
+    "countyname": "Union",
+    "enddate": "1979-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170502030603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Couse Creek nr Milton-Freewater",
+    "elevation": "1560",
+    "basinarea": null,
+    "awdb_id": "14011800",
+    "usgs_id": "14011800",
+    "usgsname": "COUSE CREEK NEAR MILTON-FREEWATER,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

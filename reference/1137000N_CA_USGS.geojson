@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Shasta Lake Inflow, Ca NWS",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/14/1979",
+    "countyname": "Shasta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201540302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Shasta Lake Inflow, Ca NWS",
+    "elevation": "600",
+    "basinarea": null,
+    "awdb_id": "1137000N",
+    "usgs_id": "1137000N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

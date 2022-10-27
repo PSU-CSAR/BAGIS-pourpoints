@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lk Tahoe Net Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1900",
+    "countyname": "Placer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501010403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lk Tahoe Net Inflow",
+    "elevation": "6220",
+    "basinarea": null,
+    "awdb_id": "150017",
+    "usgs_id": "150017",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -76825,6 +76825,22 @@
   ],
   "properties": {
     "name": "Yellowstone R at Corwin Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18890801",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700020103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yellowstone R at Corwin Springs",
+    "elevation": "5079",
+    "basinarea": 2616.0,
+    "awdb_id": "06191500",
+    "usgs_id": "6191500",
+    "usgsname": "Yellowstone River at Corwin Springs MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Yellowstone R at Corwin Springs",
+    "aoi_exist": true
   }
 }

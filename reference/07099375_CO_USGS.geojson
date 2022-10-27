@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bessemer Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Pueblo",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200020905,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bessemer Ditch",
+    "elevation": "4800",
+    "basinarea": null,
+    "awdb_id": "07099375",
+    "usgs_id": "7099375",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

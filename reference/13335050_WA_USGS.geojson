@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Asotin Ck at Asotin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/22/1991",
+    "countyname": "Asotin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170601030209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Asotin Ck at Asotin",
+    "elevation": "760",
+    "basinarea": 323.0,
+    "awdb_id": "13335050",
+    "usgs_id": "13335050",
+    "usgsname": "ASOTIN CREEK AT ASOTIN, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

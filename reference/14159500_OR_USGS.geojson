@@ -15689,6 +15689,22 @@
   ],
   "properties": {
     "name": "Cougar Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1947",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900040308,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cougar Lake Inflow",
+    "elevation": "1236",
+    "basinarea": 208.0,
+    "awdb_id": "14159500",
+    "usgs_id": "14159500",
+    "usgsname": "SOUTH FORK MCKENZIE RIVER NEAR RAINBOW, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Cougar Lake Inflow",
+    "aoi_exist": true
   }
 }

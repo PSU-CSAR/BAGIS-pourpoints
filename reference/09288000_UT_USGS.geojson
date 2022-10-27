@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Currant Ck nr Fruitland, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1935",
+    "countyname": "Wasatch",
+    "enddate": "2012-05-31T07:00:00Z",
+    "active": false,
+    "huc": 140600040405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Currant Ck nr Fruitland, UT",
+    "elevation": "6670",
+    "basinarea": 140.0,
+    "awdb_id": "09288000",
+    "usgs_id": "9288000",
+    "usgsname": "CURRANT CREEK NEAR FRUITLAND, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

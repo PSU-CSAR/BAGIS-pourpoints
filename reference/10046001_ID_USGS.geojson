@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "West Fork Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1967",
+    "countyname": "Bear Lake",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160102010403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "West Fork Canal",
+    "elevation": "5950",
+    "basinarea": null,
+    "awdb_id": "10046001",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Beaver Ck nr Twisp",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1960",
+    "countyname": "Okanogan",
+    "enddate": "1978-10-04T07:00:00Z",
+    "active": false,
+    "huc": 170200080605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver Ck nr Twisp",
+    "elevation": "2800",
+    "basinarea": 62.0,
+    "awdb_id": "12449600",
+    "usgs_id": "12449600",
+    "usgsname": "BEAVER CREEK BELOW SOUTH FORK NEAR TWISP, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

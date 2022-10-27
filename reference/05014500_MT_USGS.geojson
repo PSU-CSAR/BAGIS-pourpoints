@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Swiftcurrent Ck at Many Glacier",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1912",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 90400010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Swiftcurrent Ck at Many Glacier",
+    "elevation": "4877",
+    "basinarea": 31.2,
+    "awdb_id": "05014500",
+    "usgs_id": "5014500",
+    "usgsname": "Swiftcurrent Creek at Many Glacier MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

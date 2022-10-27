@@ -10609,6 +10609,22 @@
   ],
   "properties": {
     "name": "SF Big Butte Ck nr Butte Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Jackson",
+    "enddate": "1996-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171003070404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Big Butte Ck nr Butte Falls",
+    "elevation": "2360",
+    "basinarea": 138.0,
+    "awdb_id": "14335500",
+    "usgs_id": "14335500",
+    "usgsname": "SOUTH FORK BIG BUTTE CR NR BUTTE FALLS,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "SF Big Butte Ck nr Butte Falls",
+    "aoi_exist": true
   }
 }

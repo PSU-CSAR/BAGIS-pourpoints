@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clear Ck nr Lawson",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "Clear Creek",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900040202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clear Ck nr Lawson",
+    "elevation": "8080",
+    "basinarea": 147.0,
+    "awdb_id": "06716500",
+    "usgs_id": "6716500",
+    "usgsname": "CLEAR CREEK NEAR LAWSON, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

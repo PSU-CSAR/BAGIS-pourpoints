@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Malad R nr Plymouth, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1964",
+    "countyname": "Box Elder",
+    "enddate": "2014-04-01T07:00:00Z",
+    "active": false,
+    "huc": 160102040306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Malad R nr Plymouth, UT",
+    "elevation": "4310",
+    "basinarea": 623.0,
+    "awdb_id": "10125600",
+    "usgs_id": "10125600",
+    "usgsname": "MALAD RIVER NEAR PLYMOUTH, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

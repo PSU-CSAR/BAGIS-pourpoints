@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Dingle Inlet Canal nr Dingle ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Bear Lake",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160102010304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dingle Inlet Canal nr Dingle ID",
+    "elevation": "5950",
+    "basinarea": null,
+    "awdb_id": "10044300",
+    "usgs_id": "10044300",
+    "usgsname": "DINGLE INLET CANAL NEAR DINGLE, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

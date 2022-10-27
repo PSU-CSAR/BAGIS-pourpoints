@@ -5777,6 +5777,22 @@
   ],
   "properties": {
     "name": "Huntington Ck bl Electric Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1971",
+    "countyname": "Emery",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600090102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Huntington Ck bl Electric Lake",
+    "elevation": "8400",
+    "basinarea": null,
+    "awdb_id": "09317801",
+    "usgs_id": "9317801",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

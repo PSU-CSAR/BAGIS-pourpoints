@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Indian Creek abv Cottonwood Creek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "San Juan",
+    "enddate": "1991-10-07T07:00:00Z",
+    "active": false,
+    "huc": 140300050803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Indian Creek abv Cottonwood Creek",
+    "elevation": "6290",
+    "basinarea": 31.2,
+    "awdb_id": "09186500",
+    "usgs_id": "9186500",
+    "usgsname": "INDIAN C AB COTTONWOOD CREEK, NR MONTICELLO, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

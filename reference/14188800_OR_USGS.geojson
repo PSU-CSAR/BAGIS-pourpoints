@@ -12697,6 +12697,22 @@
   ],
   "properties": {
     "name": "Thomas Ck nr Scio",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1962",
+    "countyname": "Linn",
+    "enddate": "2017-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170900060705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Thomas Ck nr Scio",
+    "elevation": "370",
+    "basinarea": 109.73,
+    "awdb_id": "14188800",
+    "usgs_id": "14188800",
+    "usgsname": "THOMAS CREEK NEAR SCIO, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Thomas Ck nr Scio",
+    "aoi_exist": true
   }
 }

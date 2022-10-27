@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tenmile Ck nr Rimini",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1914",
+    "countyname": "Lewis and Clark",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100301011401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tenmile Ck nr Rimini",
+    "elevation": "4850",
+    "basinarea": 33.0,
+    "awdb_id": "06062500",
+    "usgs_id": "6062500",
+    "usgsname": "Tenmile Creek near Rimini MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

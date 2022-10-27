@@ -8937,6 +8937,22 @@
   ],
   "properties": {
     "name": "Swift Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1947",
+    "countyname": "Pondera",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302010604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Swift Reservoir Inflow",
+    "elevation": "4790",
+    "basinarea": null,
+    "awdb_id": "06094100",
+    "usgs_id": "6094100",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "swift reservoir inflow",
+    "aoi_exist": true
   }
 }

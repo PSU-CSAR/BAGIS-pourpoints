@@ -4769,6 +4769,22 @@
   ],
   "properties": {
     "name": "Vernon Ck nr Vernon",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1958",
+    "countyname": "Tooele",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160203040102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Vernon Ck nr Vernon",
+    "elevation": "6200",
+    "basinarea": 25.0,
+    "awdb_id": "10172700",
+    "usgs_id": "10172700",
+    "usgsname": "VERNON CREEK NEAR VERNON, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "vernon ck nr vernon",
+    "aoi_exist": true
   }
 }

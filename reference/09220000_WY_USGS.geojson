@@ -8648,7 +8648,23 @@
     }
   ],
   "properties": {
-    "name": "EF Of Smiths Fork nr Robertson",
-    "source": "ref"
+    "name": "EF of Smiths Fork nr Robertson",
+    "source": "ref",
+    "begindate": "18890701",
+    "countyname": "Uinta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401070202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "EF of Smiths Fork nr Robertson",
+    "elevation": "8470",
+    "basinarea": 53.0,
+    "awdb_id": "09220000",
+    "usgs_id": "9220000",
+    "usgsname": "EAST FORK OF SMITHS FORK NEAR ROBERTSON, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": "ef of smiths fork nr robertson (2)",
+    "aoi_exist": true
   }
 }

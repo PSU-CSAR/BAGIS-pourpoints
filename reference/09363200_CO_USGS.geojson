@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Florida River at Bondad",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1956",
+    "countyname": "La Plata",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 140801041002,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Florida River at Bondad",
+    "elevation": "6000",
+    "basinarea": 221.0,
+    "awdb_id": "09363200",
+    "usgs_id": "9363200",
+    "usgsname": "FLORIDA RIVER AT BONDAD, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

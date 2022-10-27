@@ -11097,6 +11097,22 @@
   ],
   "properties": {
     "name": "Alamosa Ck ab Terrace Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1914",
+    "countyname": "Conejos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100020304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Alamosa Ck ab Terrace Reservoir",
+    "elevation": "8600",
+    "basinarea": 107.0,
+    "awdb_id": "08236000",
+    "usgs_id": "8236000",
+    "usgsname": "ALAMOSA RIVER ABOVE TERRACE RESERVOIR, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "alamosa ck ab terrace reservoir",
+    "aoi_exist": true
   }
 }

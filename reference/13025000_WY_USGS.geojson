@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Swift Ck nr Afton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1942",
+    "countyname": "Lincoln",
+    "enddate": "1980-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170401050104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Swift Ck nr Afton",
+    "elevation": "6400",
+    "basinarea": 27.4,
+    "awdb_id": "13025000",
+    "usgs_id": "13025000",
+    "usgsname": "SWIFT CREEK NEAR AFTON, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

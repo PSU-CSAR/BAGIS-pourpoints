@@ -20593,6 +20593,22 @@
   ],
   "properties": {
     "name": "Buffalo Fk ab Lava Ck nr Moran",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/22/1965",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401010510,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Buffalo Fk ab Lava Ck nr Moran",
+    "elevation": "6773",
+    "basinarea": 323.0,
+    "awdb_id": "13011900",
+    "usgs_id": "13011900",
+    "usgsname": "BUFFALO FORK AB LAVA CREEK NR MORAN WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "Buffalo Fk ab Lava Ck nr Moran",
+    "aoi_exist": true
   }
 }

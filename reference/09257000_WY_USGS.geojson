@@ -34153,6 +34153,22 @@
   ],
   "properties": {
     "name": "Little Snake R nr Dixon",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500030704,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Snake R nr Dixon",
+    "elevation": "6331",
+    "basinarea": 988.0,
+    "awdb_id": "09257000",
+    "usgs_id": "9257000",
+    "usgsname": "LITTLE SNAKE RIVER NEAR DIXON, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "little snake r nr dixon",
+    "aoi_exist": true
   }
 }

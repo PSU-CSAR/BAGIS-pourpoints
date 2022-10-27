@@ -106633,6 +106633,22 @@
   ],
   "properties": {
     "name": "Jefferson R nr Twin Bridges",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1940",
+    "countyname": "Madison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200050102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Jefferson R nr Twin Bridges",
+    "elevation": "4560",
+    "basinarea": 7616.0,
+    "awdb_id": "06026500",
+    "usgs_id": "6026500",
+    "usgsname": "Jefferson River near Twin Bridges MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "jefferson r nr twin bridges",
+    "aoi_exist": true
   }
 }

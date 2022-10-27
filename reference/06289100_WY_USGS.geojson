@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Red Canyon Ck nr Parkman",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/4/1982",
+    "countyname": "Sheridan",
+    "enddate": "1990-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800160204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Red Canyon Ck nr Parkman",
+    "elevation": "4810",
+    "basinarea": 3.2,
+    "awdb_id": "06289100",
+    "usgs_id": "6289100",
+    "usgsname": "RED CANYON CR NR PARKMAN, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

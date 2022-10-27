@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Don La Font Ditches Combined",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1990",
+    "countyname": "Mineral",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100010501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Don La Font Ditches Combined",
+    "elevation": "11360",
+    "basinarea": null,
+    "awdb_id": "09347000",
+    "usgs_id": "9347000",
+    "usgsname": "DON LA FONT DITCHS NO. 1 & 2 AT PIEDRA PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

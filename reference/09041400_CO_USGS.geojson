@@ -18017,6 +18017,22 @@
   ],
   "properties": {
     "name": "Muddy Creek bl Wolford Mtn Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "2/1/1927",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010709,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Muddy Creek bl Wolford Mtn Reservoir",
+    "elevation": "7380",
+    "basinarea": 270.0,
+    "awdb_id": "09041400",
+    "usgs_id": "9041400",
+    "usgsname": "MUDDY CRK BLW WOLFORD MTN RESER. NR KREMMLING, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "muddy ck bl wolford mtn reservoir nr kremmling (2)",
+    "aoi_exist": true
   }
 }

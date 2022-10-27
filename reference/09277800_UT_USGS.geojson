@@ -9545,6 +9545,22 @@
   ],
   "properties": {
     "name": "Rock Ck at Upper Stillwater Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1965",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rock Ck at Upper Stillwater Dam",
+    "elevation": "7968",
+    "basinarea": 98.9,
+    "awdb_id": "09277800",
+    "usgs_id": "9277800",
+    "usgsname": "ROCK CREEK ABOVE SOUTH FORK, NEAR HANNA, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "upper stillwater reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

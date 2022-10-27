@@ -34465,6 +34465,22 @@
   ],
   "properties": {
     "name": "Virgin R at Virgin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Washington",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150100080508,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Virgin R at Virgin",
+    "elevation": "3500",
+    "basinarea": 956.0,
+    "awdb_id": "09406000",
+    "usgs_id": "9406000",
+    "usgsname": "VIRGIN RIVER AT VIRGIN, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "virgin r at virgin",
+    "aoi_exist": true
   }
 }

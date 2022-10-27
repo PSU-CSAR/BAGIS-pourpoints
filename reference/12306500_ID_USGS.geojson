@@ -31857,6 +31857,22 @@
   ],
   "properties": {
     "name": "Moyie R at Eastport",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1929",
+    "countyname": "Boundary",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170101050403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Moyie R at Eastport",
+    "elevation": "2620",
+    "basinarea": 570.0,
+    "awdb_id": "12306500",
+    "usgs_id": "12306500",
+    "usgsname": "MOYIE RIVER AT EASTPORT ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

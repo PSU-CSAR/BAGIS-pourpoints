@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Flower Ck nr Libby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1960",
+    "countyname": "Lincoln",
+    "enddate": "1992-10-05T07:00:00Z",
+    "active": false,
+    "huc": 170101011501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Flower Ck nr Libby",
+    "elevation": "2866",
+    "basinarea": 11.2,
+    "awdb_id": "12303100",
+    "usgs_id": "12303100",
+    "usgsname": "Flower Creek near Libby MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

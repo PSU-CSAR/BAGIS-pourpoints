@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Indian Creek Tunnel nr Monticello, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "San Juan",
+    "enddate": "1980-10-01T07:00:00Z",
+    "active": false,
+    "huc": 140802010301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Indian Creek Tunnel nr Monticello, UT",
+    "elevation": "9120",
+    "basinarea": 2.45,
+    "awdb_id": "09185800",
+    "usgs_id": "9185800",
+    "usgsname": "INDIAN CREEK TUNNEL NEAR MONTICELLO, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

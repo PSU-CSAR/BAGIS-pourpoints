@@ -36057,6 +36057,22 @@
   ],
   "properties": {
     "name": "Carson R nr Carson City",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/12/1939",
+    "countyname": "Carson City",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160502010504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Carson R nr Carson City",
+    "elevation": "4620",
+    "basinarea": 886.0,
+    "awdb_id": "10311000",
+    "usgs_id": "10311000",
+    "usgsname": "CARSON RV NR CARSON CITY, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "carson r nr carson city",
+    "aoi_exist": true
   }
 }

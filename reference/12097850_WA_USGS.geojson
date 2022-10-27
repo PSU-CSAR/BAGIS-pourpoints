@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "begindate": "6/1/1974",
+    "countyname": "King",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100140403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "White R bl Clearwater R nr Buckley",
+    "name": "White R bl Clearwater R nr Buckley",
+    "elevation": "1100",
+    "basinarea": 375.0,
+    "awdb_id": "12097850",
+    "usgs_id": "12097850",
+    "usgsname": "WHITE RIVER BELOW CLEARWATER RIVER NR BUCKLEY, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.858886700187,
+      47.1469383202362
+    ]
+  },
+  "id": "12097850:WA:USGS"
+}

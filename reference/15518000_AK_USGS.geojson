@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Nenana R nr Healy AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1950",
+    "countyname": "Yukon-Koyukuk",
+    "enddate": "1979-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190803080710,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Nenana R nr Healy AK",
+    "elevation": "1270",
+    "basinarea": 1910.0,
+    "awdb_id": "15518000",
+    "usgs_id": "15518000",
+    "usgsname": "NENANA R NR HEALY AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

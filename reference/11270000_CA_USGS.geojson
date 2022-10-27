@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Merced R A Exchequer CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1901",
+    "countyname": "Mariposa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400080801,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Merced R A Exchequer CA",
+    "elevation": "400",
+    "basinarea": 1037.0,
+    "awdb_id": "11270000",
+    "usgs_id": "11270000",
+    "usgsname": "MERCED R A EXCHEQUER CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

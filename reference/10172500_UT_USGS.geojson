@@ -4913,6 +4913,22 @@
   ],
   "properties": {
     "name": "City Ck nr SLC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Salt Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202040304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "City Ck nr SLC",
+    "elevation": "4540",
+    "basinarea": 19.2,
+    "awdb_id": "10172500",
+    "usgs_id": "10172500",
+    "usgsname": "CITY CREEK NEAR SALT LAKE CITY, UTAH",
+    "forecastpoint": true,
+    "bagis_aoiname": "city ck nr slc",
+    "aoi_exist": true
   }
 }

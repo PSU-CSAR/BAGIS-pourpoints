@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big Butte Creek nr Mcleod",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1945",
+    "countyname": "Jackson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003070408,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Butte Creek nr Mcleod",
+    "elevation": "1526",
+    "basinarea": 245.0,
+    "awdb_id": "14337500",
+    "usgs_id": "14337500",
+    "usgsname": "BIG BUTTE CREEK NEAR MCLEOD, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

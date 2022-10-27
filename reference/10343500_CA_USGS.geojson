@@ -2929,6 +2929,22 @@
   ],
   "properties": {
     "name": "Sagehen Ck nr Truckee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1953",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sagehen Ck nr Truckee",
+    "elevation": "6320",
+    "basinarea": 10.5,
+    "awdb_id": "10343500",
+    "usgs_id": "10343500",
+    "usgsname": "SAGEHEN C NR TRUCKEE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": "sagehen ck nr truckee",
+    "aoi_exist": true
   }
 }

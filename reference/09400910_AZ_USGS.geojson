@@ -13841,6 +13841,22 @@
   ],
   "properties": {
     "name": "Lake Mary Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1948",
+    "countyname": "Coconino",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150200150204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Mary Reservoir Inflow",
+    "elevation": "6800",
+    "basinarea": 3.28,
+    "awdb_id": "09400910",
+    "usgs_id": "9400910",
+    "usgsname": "FAY CANYON NEAR FLAGSTAFF, ARIZ.",
+    "forecastpoint": true,
+    "bagis_aoiname": "lake mary reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

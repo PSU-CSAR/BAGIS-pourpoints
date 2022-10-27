@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Oak Ck nr Cornville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1940",
+    "countyname": "Yavapai",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150602020511,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Oak Ck nr Cornville",
+    "elevation": "3470",
+    "basinarea": 355.0,
+    "awdb_id": "09504500",
+    "usgs_id": "9504500",
+    "usgsname": "OAK CREEK NEAR CORNVILLE, AZ",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

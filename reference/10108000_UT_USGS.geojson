@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Utah Power And Light Tailrace",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Cache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160102030307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Utah Power And Light Tailrace",
+    "elevation": "4680",
+    "basinarea": null,
+    "awdb_id": "10108000",
+    "usgs_id": "10108000",
+    "usgsname": "UTAH POWER AND LIGHT TAILRACE NR LOGAN UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

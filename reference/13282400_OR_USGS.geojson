@@ -5761,6 +5761,22 @@
   ],
   "properties": {
     "name": "Anthony Ck bl North Fk",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1962",
+    "countyname": "Union",
+    "enddate": "1980-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170502030504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Anthony Ck bl North Fk",
+    "elevation": "4200",
+    "basinarea": 29.7,
+    "awdb_id": "13282400",
+    "usgs_id": "13282400",
+    "usgsname": "ANTHONY CR BL N FK NR NORTH POWDER,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "Anthony Ck bl North Fk",
+    "aoi_exist": true
   }
 }

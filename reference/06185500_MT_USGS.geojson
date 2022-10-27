@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Missouri R nr Culbertson",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1941",
+    "countyname": "Richland",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100600050502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Missouri R nr Culbertson",
+    "elevation": "1883",
+    "basinarea": 89858.0,
+    "awdb_id": "06185500",
+    "usgs_id": "6185500",
+    "usgsname": "Missouri River near Culbertson MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -49465,6 +49465,22 @@
   ],
   "properties": {
     "name": "Salmon Falls Ck nr San Jacinto",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1910",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402130605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salmon Falls Ck nr San Jacinto",
+    "elevation": "5120",
+    "basinarea": 1401.0,
+    "awdb_id": "13105000",
+    "usgs_id": "13105000",
+    "usgsname": "SALMON FALLS CREEK NR SAN JACINTO NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "Salmon Falls Ck nr San Jacinto",
+    "aoi_exist": true
   }
 }

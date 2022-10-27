@@ -28081,6 +28081,22 @@
   ],
   "properties": {
     "name": "Snake R at Flagg Ranch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1983",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401010402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake R at Flagg Ranch",
+    "elevation": "6802",
+    "basinarea": 486.0,
+    "awdb_id": "13010065",
+    "usgs_id": "13010065",
+    "usgsname": "SNAKE RIVER AB JACKSON LAKE AT FLAGG RANCH WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "Snake R at Flagg Ranch",
+    "aoi_exist": true
   }
 }

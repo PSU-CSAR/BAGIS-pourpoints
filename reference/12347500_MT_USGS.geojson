@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Blodgett Ck nr Corvallis",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Ravalli",
+    "enddate": "1969-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102051005,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blodgett Ck nr Corvallis",
+    "elevation": "4050",
+    "basinarea": 25.9,
+    "awdb_id": "12347500",
+    "usgs_id": "12347500",
+    "usgsname": "Blodgett Creek near Corvallis MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

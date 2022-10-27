@@ -10761,6 +10761,22 @@
   ],
   "properties": {
     "name": "Yellowstone R nr Altonah",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1944",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yellowstone R nr Altonah",
+    "elevation": "7430",
+    "basinarea": 132.0,
+    "awdb_id": "09292500",
+    "usgs_id": "9292500",
+    "usgsname": "YELLOWSTONE RIVER NEAR ALTONAH, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "yellowstone r nr altonah",
+    "aoi_exist": true
   }
 }

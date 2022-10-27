@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gunnison - Morrow Point Res",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200021003,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gunnison - Morrow Point Res",
+    "elevation": "6772",
+    "basinarea": null,
+    "awdb_id": "09125400",
+    "usgs_id": "9125400",
+    "usgsname": "MORROW POINT RESERVOIR NEAR CIMARRON, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

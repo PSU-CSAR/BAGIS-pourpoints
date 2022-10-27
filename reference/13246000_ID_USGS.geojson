@@ -43297,6 +43297,22 @@
   ],
   "properties": {
     "name": "NF Payette R nr Banks",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/21/1947",
+    "countyname": "Boise",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501230605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Payette R nr Banks",
+    "elevation": "3081",
+    "basinarea": 921.0,
+    "awdb_id": "13246000",
+    "usgs_id": "13246000",
+    "usgsname": "NF PAYETTE RIVER NR BANKS ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "NF Payette R nr Banks",
+    "aoi_exist": true
   }
 }

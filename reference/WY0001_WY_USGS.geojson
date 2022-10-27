@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "City Of Cheyenne Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1980",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800020404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "City Of Cheyenne Tunnel",
+    "elevation": "8480",
+    "basinarea": null,
+    "awdb_id": "WY0001",
+    "usgs_id": "WY0001",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

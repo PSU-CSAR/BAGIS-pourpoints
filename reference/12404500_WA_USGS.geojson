@@ -81225,6 +81225,22 @@
   ],
   "properties": {
     "name": "Kettle R nr Laurier",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1929",
+    "countyname": "Ferry",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200021904,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kettle R nr Laurier",
+    "elevation": "1426",
+    "basinarea": 3800.0,
+    "awdb_id": "12404500",
+    "usgs_id": "12404500",
+    "usgsname": "KETTLE RIVER NEAR LAURIER, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Kettle R nr Laurier",
+    "aoi_exist": true
   }
 }

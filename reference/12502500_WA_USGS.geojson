@@ -17865,6 +17865,22 @@
   ],
   "properties": {
     "name": "Ahtanum Ck at Union Gap",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/31/1903",
+    "countyname": "Yakima",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300030105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ahtanum Ck at Union Gap",
+    "elevation": "940",
+    "basinarea": 173.0,
+    "awdb_id": "12502500",
+    "usgs_id": "12502500",
+    "usgsname": "AHTANUM CREEK AT UNION GAP, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Ahtanum Ck at Union Gap",
+    "aoi_exist": true
   }
 }

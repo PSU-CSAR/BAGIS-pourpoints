@@ -34433,6 +34433,22 @@
   ],
   "properties": {
     "name": "Eagle R bl Gypsum",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Eagle",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100030606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Eagle R bl Gypsum",
+    "elevation": "6275",
+    "basinarea": 945.0,
+    "awdb_id": "09070000",
+    "usgs_id": "9070000",
+    "usgsname": "EAGLE RIVER BELOW GYPSUM, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "eagle r bl gypsum (2)",
+    "aoi_exist": true
   }
 }

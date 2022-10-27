@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Green Peter Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1934",
+    "countyname": "Linn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900060402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Green Peter Lake Inflow",
+    "elevation": "750",
+    "basinarea": 273.0,
+    "awdb_id": "14186100",
+    "usgs_id": "14186100",
+    "usgsname": "GREEN PETER LAKE NEAR FOSTER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -20313,6 +20313,22 @@
   ],
   "properties": {
     "name": "Mores Ck nr Arrowrock Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1950",
+    "countyname": "Boise",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501120405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mores Ck nr Arrowrock Dam",
+    "elevation": "3120",
+    "basinarea": 397.0,
+    "awdb_id": "13200000",
+    "usgs_id": "13200000",
+    "usgsname": "MORES CREEK AB ROBIE CREEK NR ARROWROCK DAM ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Mores Ck nr Arrowrock Dam",
+    "aoi_exist": true
   }
 }

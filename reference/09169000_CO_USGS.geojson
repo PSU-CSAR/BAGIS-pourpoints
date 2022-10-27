@@ -30521,6 +30521,22 @@
   ],
   "properties": {
     "name": "Dolores R bl Mcphee Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1928",
+    "countyname": "Montezuma",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140300020601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dolores R bl Mcphee Reservoir",
+    "elevation": "6666",
+    "basinarea": 11.3,
+    "awdb_id": "09169000",
+    "usgs_id": "9169000",
+    "usgsname": "TWOMILE CREEK NEAR LA SAL, UT.",
+    "forecastpoint": true,
+    "bagis_aoiname": "mcphee reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

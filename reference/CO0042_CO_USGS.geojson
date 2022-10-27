@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Dove Creek Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/23/1995",
+    "countyname": "Montezuma",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140802020105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dove Creek Canal",
+    "elevation": "6920",
+    "basinarea": null,
+    "awdb_id": "CO0042",
+    "usgs_id": "CO0042",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

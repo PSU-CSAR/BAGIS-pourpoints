@@ -13297,6 +13297,22 @@
   ],
   "properties": {
     "name": "Elkhead Ck ab Long Gulch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18891101",
+    "countyname": "Routt",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Elkhead Ck ab Long Gulch",
+    "elevation": "6405",
+    "basinarea": 171.0,
+    "awdb_id": "09246200",
+    "usgs_id": "9246200",
+    "usgsname": "ELKHEAD CREEK ABOVE LONG GULCH, NEAR HAYDEN, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "elkhead ck ab long gulch",
+    "aoi_exist": true
   }
 }

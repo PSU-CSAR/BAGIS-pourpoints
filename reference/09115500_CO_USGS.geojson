@@ -12161,6 +12161,22 @@
   ],
   "properties": {
     "name": "Tomichi Ck at Sargents",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18891101",
+    "countyname": "Saguache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200030105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tomichi Ck at Sargents",
+    "elevation": "8416",
+    "basinarea": 148.0,
+    "awdb_id": "09115500",
+    "usgs_id": "9115500",
+    "usgsname": "TOMICHI CREEK AT SARGENTS, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "tomichi ck at sargents",
+    "aoi_exist": true
   }
 }

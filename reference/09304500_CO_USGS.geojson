@@ -29537,6 +29537,22 @@
   ],
   "properties": {
     "name": "White R nr Meeker",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1901",
+    "countyname": "Rio Blanco",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500050310,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "White R nr Meeker",
+    "elevation": "6300",
+    "basinarea": 760.0,
+    "awdb_id": "09304500",
+    "usgs_id": "9304500",
+    "usgsname": "WHITE RIVER NEAR MEEKER, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "white r nr meeker",
+    "aoi_exist": true
   }
 }

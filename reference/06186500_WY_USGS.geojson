@@ -42433,6 +42433,22 @@
   ],
   "properties": {
     "name": "Yellowstone R at Yellowstone Lake Outlet",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1926",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700010702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yellowstone R at Yellowstone Lake Outlet",
+    "elevation": "7728",
+    "basinarea": 995.0,
+    "awdb_id": "06186500",
+    "usgs_id": "6186500",
+    "usgsname": "Yellowstone River at Yellowstone Lk Outlet YNP",
+    "forecastpoint": true,
+    "bagis_aoiname": "yellowstone r at yellowstone lake outlet",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Conchas Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1943",
+    "countyname": "San Miguel",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800060404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Conchas Reservoir Inflow",
+    "elevation": "4022",
+    "basinarea": 7409.0,
+    "awdb_id": "07223500",
+    "usgs_id": "7223500",
+    "usgsname": "CONCHAS LAKE AT CONCHAS DAM N. MEX.",
+    "forecastpoint": false,
+    "bagis_aoiname": "conchas reservoir inflow",
+    "aoi_exist": true
   }
 }

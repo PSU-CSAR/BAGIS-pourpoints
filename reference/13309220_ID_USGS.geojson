@@ -40401,6 +40401,22 @@
   ],
   "properties": {
     "name": "Mf Salmon R at Mf Lodge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1973",
+    "countyname": "Custer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170602050903,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Salmon R at Mf Lodge",
+    "elevation": "4380",
+    "basinarea": 1042.0,
+    "awdb_id": "13309220",
+    "usgs_id": "13309220",
+    "usgsname": "MF SALMON RIVER AT MF LODGE NR YELLOW PINE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "MF Salmon R at MF Lodge",
+    "aoi_exist": true
   }
 }

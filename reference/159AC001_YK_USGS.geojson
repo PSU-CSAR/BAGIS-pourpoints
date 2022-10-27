@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Takhini River Near Whitehorse",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1948",
+    "countyname": "UNKNOWN",
+    "enddate": "1983-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190701040000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Takhini River Near Whitehorse",
+    "elevation": "2030",
+    "basinarea": null,
+    "awdb_id": "159AC001",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

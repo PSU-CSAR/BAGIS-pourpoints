@@ -16033,6 +16033,22 @@
   ],
   "properties": {
     "name": "Applegate Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "Jackson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003090201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Applegate Lake Inflow",
+    "elevation": "1748",
+    "basinarea": 225.0,
+    "awdb_id": "14362000",
+    "usgs_id": "14362000",
+    "usgsname": "APPLEGATE RIVER NEAR COPPER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Applegate Lake Inflow",
+    "aoi_exist": true
   }
 }

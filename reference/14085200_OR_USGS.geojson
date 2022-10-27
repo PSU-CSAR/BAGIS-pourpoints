@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ochoco Feed Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1955",
+    "countyname": "Crook",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703050403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ochoco Feed Canal",
+    "elevation": "3050",
+    "basinarea": null,
+    "awdb_id": "14085200",
+    "usgs_id": "14085200",
+    "usgsname": "OCHOCO FEED CANAL NEAR PRINEVILLE,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

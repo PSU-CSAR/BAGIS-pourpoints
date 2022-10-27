@@ -13465,6 +13465,22 @@
   ],
   "properties": {
     "name": "Mohawk R nr Springfield",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1935",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900040605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mohawk R nr Springfield",
+    "elevation": "442",
+    "basinarea": 177.0,
+    "awdb_id": "14165000",
+    "usgs_id": "14165000",
+    "usgsname": "MOHAWK RIVER NEAR SPRINGFIELD, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Mohawk R nr Springfield",
+    "aoi_exist": true
   }
 }

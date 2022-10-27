@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "South Fork Rogue nr Prospect",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1924",
+    "countyname": "Jackson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003070207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Fork Rogue nr Prospect",
+    "elevation": "3300",
+    "basinarea": 83.8,
+    "awdb_id": "14332000",
+    "usgs_id": "14332000",
+    "usgsname": "SOUTH FORK ROGUE RIVER NEAR PROSPECT, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

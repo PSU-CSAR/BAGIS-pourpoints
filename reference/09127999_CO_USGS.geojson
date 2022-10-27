@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gunnison Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1915",
+    "countyname": "Montrose",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200021101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gunnison Tunnel",
+    "elevation": "6530",
+    "basinarea": 3965.0,
+    "awdb_id": "09127999",
+    "usgs_id": "9127999",
+    "usgsname": "GUNNISON TUNNEL NEAR MONTROSE, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

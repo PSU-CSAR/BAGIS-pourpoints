@@ -27249,6 +27249,22 @@
   ],
   "properties": {
     "name": "Little Colorado R ab Lyman Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1940",
+    "countyname": "Apache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150200010409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Colorado R ab Lyman Lake",
+    "elevation": "6010",
+    "basinarea": 706.0,
+    "awdb_id": "09384000",
+    "usgs_id": "9384000",
+    "usgsname": "LITTLE COLORADO R ABV LYMAN LAKE NR ST. JOHNS, AZ",
+    "forecastpoint": true,
+    "bagis_aoiname": "little colorado r ab lyman lake",
+    "aoi_exist": true
   }
 }

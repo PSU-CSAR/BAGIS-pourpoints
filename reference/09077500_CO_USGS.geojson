@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Busk Ivanhoe Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1948",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Busk Ivanhoe Tunnel",
+    "elevation": "10813",
+    "basinarea": null,
+    "awdb_id": "09077500",
+    "usgs_id": "9077500",
+    "usgsname": "BUSK-IVANHOE TUNNEL AT E PORTAL, NEAR MALTA, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

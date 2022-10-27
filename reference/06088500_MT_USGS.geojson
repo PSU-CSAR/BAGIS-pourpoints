@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Muddy Ck at Vaughn",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1925",
+    "countyname": "Cascade",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100301040809,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Muddy Ck at Vaughn",
+    "elevation": "3338",
+    "basinarea": 256.0,
+    "awdb_id": "06088500",
+    "usgs_id": "6088500",
+    "usgsname": "Muddy Creek at Vaughn MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

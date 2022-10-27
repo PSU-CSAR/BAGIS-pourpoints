@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "begindate": "18500101",
+    "countyname": "Bonner",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102131309,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clark Fork R bl Cabinet Gorge Dam",
+    "name": "Clark Fork R bl Cabinet Gorge Dam",
+    "elevation": "2060",
+    "basinarea": 22067.0,
+    "awdb_id": "12391950",
+    "usgs_id": "12391950",
+    "usgsname": "CLARK FORK RIVER BELOW CABINET GORGE DAM ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.072776799665,
+      48.0880584698981
+    ]
+  },
+  "id": "12391950:ID:USGS"
+}

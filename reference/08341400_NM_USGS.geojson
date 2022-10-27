@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bluewater Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Cibola",
+    "enddate": "2016-10-01T07:00:00Z",
+    "active": false,
+    "huc": 130202070207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bluewater Lake Inflow",
+    "elevation": "7420",
+    "basinarea": 201.0,
+    "awdb_id": "08341400",
+    "usgs_id": "8341400",
+    "usgsname": "BLUEWATER LAKE NEAR BLUEWATER, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": "bluewater lake inflow (2)",
+    "aoi_exist": true
   }
 }

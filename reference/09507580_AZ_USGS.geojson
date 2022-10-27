@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "East Verde R Div",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/21/1965",
+    "countyname": "Gila",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150602030202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "East Verde R Div",
+    "elevation": "5774",
+    "basinarea": null,
+    "awdb_id": "09507580",
+    "usgs_id": "9507580",
+    "usgsname": "EAST VERDE R DIV FROM EAST CLEAR CR NR PINE, AZ",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

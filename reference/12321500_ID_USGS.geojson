@@ -10905,6 +10905,22 @@
   ],
   "properties": {
     "name": "Boundary Ck nr Porthill",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1928",
+    "countyname": "Boundary",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170101040603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boundary Ck nr Porthill",
+    "elevation": "1770",
+    "basinarea": 97.0,
+    "awdb_id": "12321500",
+    "usgs_id": "12321500",
+    "usgsname": "BOUNDARY CREEK NR PORTHILL ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

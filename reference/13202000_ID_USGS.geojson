@@ -61953,6 +61953,22 @@
   ],
   "properties": {
     "name": "Boise R nr Boise",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18950101",
+    "countyname": "Ada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501140401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boise R nr Boise",
+    "elevation": "2827",
+    "basinarea": 2686.0,
+    "awdb_id": "13202000",
+    "usgs_id": "13202000",
+    "usgsname": "BOISE RIVER NR BOISE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Boise R nr Boise",
+    "aoi_exist": true
   }
 }

@@ -6913,6 +6913,22 @@
   ],
   "properties": {
     "name": "Captain Tom Wash nr Two Gray Hills",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1978",
+    "countyname": "San Juan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801061604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Captain Tom Wash nr Two Gray Hills",
+    "elevation": "5900",
+    "basinarea": null,
+    "awdb_id": "CTOMWASH",
+    "usgs_id": "CTOMWASH",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "captain tom wash nr two gray hills",
+    "aoi_exist": true
   }
 }

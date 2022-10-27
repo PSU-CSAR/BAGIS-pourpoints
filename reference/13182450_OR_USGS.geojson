@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Div To North And South Canals Fr Owyhee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "Malheur",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501100702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Div To North And South Canals Fr Owyhee",
+    "elevation": "2344",
+    "basinarea": null,
+    "awdb_id": "13182450",
+    "usgs_id": "13182450",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

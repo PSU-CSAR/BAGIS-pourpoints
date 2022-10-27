@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Carbon Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600070507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Carbon Canal",
+    "elevation": "5680",
+    "basinarea": null,
+    "awdb_id": "UT0011",
+    "usgs_id": "UT0011",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

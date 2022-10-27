@@ -6777,6 +6777,22 @@
   ],
   "properties": {
     "name": "Lake Fork Payette R nr Mccall",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1945",
+    "countyname": "Valley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501230203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Fork Payette R nr Mccall",
+    "elevation": "5140",
+    "basinarea": 48.9,
+    "awdb_id": "13240000",
+    "usgs_id": "13240000",
+    "usgsname": "LAKE FORK PAYETTE RIVER AB JUMBO CR NR MCCALL ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Lake Fk Payette R nr McCall",
+    "aoi_exist": true
   }
 }

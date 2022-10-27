@@ -10441,6 +10441,22 @@
   ],
   "properties": {
     "name": "Lostine R nr Lostine",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1912",
+    "countyname": "Wallowa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170601050203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lostine R nr Lostine",
+    "elevation": "3650",
+    "basinarea": 70.9,
+    "awdb_id": "13330000",
+    "usgs_id": "13330000",
+    "usgsname": "LOSTINE RIVER NEAR LOSTINE, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Lostine R nr Lostine",
+    "aoi_exist": true
   }
 }

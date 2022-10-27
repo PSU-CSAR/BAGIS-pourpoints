@@ -11561,6 +11561,22 @@
   ],
   "properties": {
     "name": "Rio Ruidoso at Hollywood",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1953",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130600080106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Ruidoso at Hollywood",
+    "elevation": "6420",
+    "basinarea": 120.0,
+    "awdb_id": "08387000",
+    "usgs_id": "8387000",
+    "usgsname": "RIO RUIDOSO AT HOLLYWOOD, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "rio ruidoso at hollywood",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Portneuf River at Pocatello, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18970518",
+    "countyname": "Bannock",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402080507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Portneuf River at Pocatello, ID",
+    "elevation": "4418",
+    "basinarea": 1256.0,
+    "awdb_id": "13075500",
+    "usgs_id": "13075500",
+    "usgsname": "PORTNEUF RIVER AT POCATELLO ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

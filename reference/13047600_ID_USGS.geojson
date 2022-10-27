@@ -26081,6 +26081,22 @@
   ],
   "properties": {
     "name": "Falls R nr Ashton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402030304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Falls R nr Ashton",
+    "elevation": "5390",
+    "basinarea": 337.0,
+    "awdb_id": "13047600",
+    "usgs_id": "13047600",
+    "usgsname": "FALL RIVER NR ASHTON ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Falls R nr Ashton",
+    "aoi_exist": true
   }
 }

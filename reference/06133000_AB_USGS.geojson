@@ -28729,6 +28729,22 @@
   ],
   "properties": {
     "name": "Milk R at Western Crossing",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1931",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100500010000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Milk R at Western Crossing",
+    "elevation": "3820",
+    "basinarea": 405.0,
+    "awdb_id": "06133000",
+    "usgs_id": "6133000",
+    "usgsname": "Milk River at western crossing of int'l boundary",
+    "forecastpoint": false,
+    "bagis_aoiname": "Milk R at Western Crossing of Int'l Bndry, AB",
+    "aoi_exist": true
   }
 }

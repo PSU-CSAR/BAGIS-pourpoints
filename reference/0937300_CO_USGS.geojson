@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big Lake Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Lake Ditch",
+    "elevation": "7990",
+    "basinarea": null,
+    "awdb_id": "0937300",
+    "usgs_id": "937300",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

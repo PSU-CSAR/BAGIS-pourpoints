@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "American R A Fair Oaks CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1904",
+    "countyname": "Sacramento",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201110201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "American R A Fair Oaks CA",
+    "elevation": "71.53",
+    "basinarea": 1888.0,
+    "awdb_id": "11446500",
+    "usgs_id": "11446500",
+    "usgsname": "AMERICAN R A FAIR OAKS CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clair Engle Lake Near Lewiston, CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1960",
+    "countyname": "Trinity",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180102110504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clair Engle Lake Near Lewiston, CA",
+    "elevation": "2360",
+    "basinarea": 692.0,
+    "awdb_id": "11525400",
+    "usgs_id": "11525400",
+    "usgsname": "TRINITY LAKE NR LEWISTON CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -26017,6 +26017,22 @@
   ],
   "properties": {
     "name": "Rogue R ab Prospect",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1907",
+    "countyname": "Jackson",
+    "enddate": "1999-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171003070113,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rogue R ab Prospect",
+    "elevation": "2620",
+    "basinarea": 312.0,
+    "awdb_id": "14328000",
+    "usgs_id": "14328000",
+    "usgsname": "ROGUE RIVER ABOVE PROSPECT, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Rogue R nr Prospect",
+    "aoi_exist": true
   }
 }

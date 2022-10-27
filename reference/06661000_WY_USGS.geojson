@@ -11145,6 +11145,22 @@
   ],
   "properties": {
     "name": "Little Laramie R nr Filmore",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1902",
+    "countyname": "Albany",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800100504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Laramie R nr Filmore",
+    "elevation": "7610",
+    "basinarea": 157.0,
+    "awdb_id": "06661000",
+    "usgs_id": "6661000",
+    "usgsname": "LITTLE LARAMIE RIVER NEAR FILMORE, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "little laramie r nr filmore",
+    "aoi_exist": true
   }
 }

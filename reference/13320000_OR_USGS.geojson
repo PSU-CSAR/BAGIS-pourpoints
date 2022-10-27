@@ -11073,6 +11073,22 @@
   ],
   "properties": {
     "name": "Catherine Ck nr Union",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Union",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170601040507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Catherine Ck nr Union",
+    "elevation": "3082",
+    "basinarea": 105.0,
+    "awdb_id": "13320000",
+    "usgs_id": "13320000",
+    "usgsname": "CATHERINE CREEK NEAR UNION, OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Catherine Ck nr Union",
+    "aoi_exist": true
   }
 }

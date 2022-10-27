@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "North Fork Ahtanum Creek Near Tampico, W",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Yakima",
+    "enddate": "1993-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170300030102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Fork Ahtanum Creek Near Tampico, W",
+    "elevation": "2450",
+    "basinarea": 68.9,
+    "awdb_id": "12500500",
+    "usgs_id": "12500500",
+    "usgsname": "NORTH FORK AHTANUM CREEK NEAR TAMPICO, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

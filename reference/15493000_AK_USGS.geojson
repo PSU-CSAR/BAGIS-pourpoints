@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Chena R nr Two Rivers",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1967",
+    "countyname": "Fairbanks North Star",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190803060602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chena R nr Two Rivers",
+    "elevation": "720",
+    "basinarea": 934.0,
+    "awdb_id": "15493000",
+    "usgs_id": "15493000",
+    "usgsname": "CHENA R NR TWO RIVERS AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

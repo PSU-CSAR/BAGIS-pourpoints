@@ -13145,6 +13145,22 @@
   ],
   "properties": {
     "name": "SF Rio Grande at South Fork",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1910",
+    "countyname": "Rio Grande",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100011106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Rio Grande at South Fork",
+    "elevation": "8222",
+    "basinarea": 216.0,
+    "awdb_id": "08219500",
+    "usgs_id": "8219500",
+    "usgsname": "SOUTH FORK RIO GRANDE AT SOUTH FORK, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "sf rio grande at south fork",
+    "aoi_exist": true
   }
 }

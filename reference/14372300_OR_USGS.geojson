@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rogue nr Agness",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Curry",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003100602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rogue nr Agness",
+    "elevation": "114",
+    "basinarea": 3939.0,
+    "awdb_id": "14372300",
+    "usgs_id": "14372300",
+    "usgsname": "ROGUE RIVER NEAR AGNESS, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fish Ck nr Ketchikan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1915",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190101020603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fish Ck nr Ketchikan",
+    "elevation": "20",
+    "basinarea": 34.6,
+    "awdb_id": "15072000",
+    "usgs_id": "15072000",
+    "usgsname": "FISH C NR KETCHIKAN AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

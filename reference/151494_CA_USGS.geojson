@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sierra Valley Div",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Sierra",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sierra Valley Div",
+    "elevation": "6440",
+    "basinarea": null,
+    "awdb_id": "151494",
+    "usgs_id": "151494",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

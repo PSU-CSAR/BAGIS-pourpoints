@@ -6753,6 +6753,22 @@
   ],
   "properties": {
     "name": "Wolf Ck Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1948",
+    "countyname": "Union",
+    "enddate": "2001-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170502030602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wolf Ck Reservoir Inflow",
+    "elevation": "3800",
+    "basinarea": 30.7,
+    "awdb_id": "13283600",
+    "usgs_id": "13283600",
+    "usgsname": "WOLF CR AB WOLF CR RES NR NORTH POWDER,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "Wolf Ck Reservoir Inflow",
+    "aoi_exist": true
   }
 }

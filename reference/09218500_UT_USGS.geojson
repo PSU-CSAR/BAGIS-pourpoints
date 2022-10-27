@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Blacks Fk nr Millburne, WY",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Sevier",
+    "enddate": "2017-04-10T07:00:00Z",
+    "active": false,
+    "huc": 140401070303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blacks Fk nr Millburne, WY",
+    "elevation": "8512",
+    "basinarea": 152.0,
+    "awdb_id": "09218500",
+    "usgs_id": "9218500",
+    "usgsname": "BLACKS FORK NEAR MILLBURNE, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

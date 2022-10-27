@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Greenwater R at Greenwater",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1911",
+    "countyname": "Pierce",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100140307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Greenwater R at Greenwater",
+    "elevation": "1730",
+    "basinarea": 73.5,
+    "awdb_id": "12097500",
+    "usgs_id": "12097500",
+    "usgsname": "GREENWATER RIVER AT GREENWATER, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

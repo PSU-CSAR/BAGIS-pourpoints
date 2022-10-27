@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kaweah R bl Terminus Dam CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1961",
+    "countyname": "Tulare",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180300070902,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kaweah R bl Terminus Dam CA",
+    "elevation": "500",
+    "basinarea": 561.0,
+    "awdb_id": "11210950",
+    "usgs_id": "11210950",
+    "usgsname": "KAWEAH R BL TERMINUS DAM CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

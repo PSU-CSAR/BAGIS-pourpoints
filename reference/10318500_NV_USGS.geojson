@@ -73569,6 +73569,22 @@
   ],
   "properties": {
     "name": "Humboldt R nr Elko",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18950701",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401010804,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Humboldt R nr Elko",
+    "elevation": "5142",
+    "basinarea": 2779.0,
+    "awdb_id": "10318500",
+    "usgs_id": "10318500",
+    "usgsname": "HUMBOLDT RV NR ELKO, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "Humboldt R nr Elko",
+    "aoi_exist": true
   }
 }

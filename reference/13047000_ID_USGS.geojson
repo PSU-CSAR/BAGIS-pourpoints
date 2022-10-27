@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Div Fm Falls R ab Gage Sta nr Squirrel,",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1966",
+    "countyname": "Fremont",
+    "enddate": "1993-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170402030302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Div Fm Falls R ab Gage Sta nr Squirrel,",
+    "elevation": "5600",
+    "basinarea": null,
+    "awdb_id": "13047000",
+    "usgs_id": "13047000",
+    "usgsname": "DIVERSIONS FROM FALLS RIVER AB GAGE NR SQUIRREL ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

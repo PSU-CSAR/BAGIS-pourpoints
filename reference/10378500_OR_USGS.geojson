@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Honey Ck nr Plush",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171200070405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Honey Ck nr Plush",
+    "elevation": "4553",
+    "basinarea": 170.0,
+    "awdb_id": "10378500",
+    "usgs_id": "10378500",
+    "usgsname": "HONEY CREEK NEAR PLUSH,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "honey ck nr plush",
+    "aoi_exist": true
   }
 }

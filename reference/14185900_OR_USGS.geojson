@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Quartzville Ck nr Cascadia",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1963",
+    "countyname": "Linn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900060305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Quartzville Ck nr Cascadia",
+    "elevation": "1050",
+    "basinarea": 99.2,
+    "awdb_id": "14185900",
+    "usgs_id": "14185900",
+    "usgsname": "QUARTZVILLE CREEK NEAR CASCADIA, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

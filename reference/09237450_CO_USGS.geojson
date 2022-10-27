@@ -14801,6 +14801,22 @@
   ],
   "properties": {
     "name": "Yampa R ab Stagecoach Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1988",
+    "countyname": "Routt",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500010111,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yampa R ab Stagecoach Reservoir",
+    "elevation": "7200",
+    "basinarea": 206.0,
+    "awdb_id": "09237450",
+    "usgs_id": "9237450",
+    "usgsname": "YAMPA RIVER ABOVE STAGECOACH RESERVOIR, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "yampa r ab stagecoach reservoir",
+    "aoi_exist": true
   }
 }

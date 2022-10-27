@@ -4969,6 +4969,22 @@
   ],
   "properties": {
     "name": "NF Powder R nr Hazelton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "Johnson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100902010302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Powder R nr Hazelton",
+    "elevation": "8180",
+    "basinarea": 24.5,
+    "awdb_id": "06311000",
+    "usgs_id": "6311000",
+    "usgsname": "NORTH FORK POWDER RIVER NEAR HAZELTON, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "nf powder r nr hazelton",
+    "aoi_exist": true
   }
 }

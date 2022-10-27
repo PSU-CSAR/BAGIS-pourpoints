@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Castle Creek blw Castleton Near Moab UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/3/1992",
+    "countyname": "Juab",
+    "enddate": "2001-09-30T07:00:00Z",
+    "active": false,
+    "huc": 140300050304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Castle Creek blw Castleton Near Moab UT",
+    "elevation": "5600",
+    "basinarea": 17.6,
+    "awdb_id": "09182200",
+    "usgs_id": "9182200",
+    "usgsname": "CASTLE CREEK BELOW CASTLETON NEAR MOAB, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

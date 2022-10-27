@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rock Creek abv Whyte",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/18/1975",
+    "countyname": "Gilliam",
+    "enddate": "1991-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170702041201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rock Creek abv Whyte",
+    "elevation": "1715",
+    "basinarea": 297.0,
+    "awdb_id": "14047390",
+    "usgs_id": "14047390",
+    "usgsname": "ROCK CREEK AB WHYTE PARK NR CONDON,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

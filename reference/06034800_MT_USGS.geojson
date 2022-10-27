@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF Willow Ck nr Harrison",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1997",
+    "countyname": "Madison",
+    "enddate": "1999-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100200050701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Willow Ck nr Harrison",
+    "elevation": "6000",
+    "basinarea": 1.21,
+    "awdb_id": "06034800",
+    "usgs_id": "6034800",
+    "usgsname": "Jefferson River trib no. 3 nr Sappington MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

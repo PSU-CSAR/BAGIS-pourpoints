@@ -39649,6 +39649,22 @@
   ],
   "properties": {
     "name": "St. Joe R at Calder",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Shoshone",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170103040605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St. Joe R at Calder",
+    "elevation": "2172",
+    "basinarea": 1025.0,
+    "awdb_id": "12414500",
+    "usgs_id": "12414500",
+    "usgsname": "ST JOE RIVER AT CALDER, ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "ST JOE RIVER AT CALDER ID",
+    "aoi_exist": true
   }
 }

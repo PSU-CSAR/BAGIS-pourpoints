@@ -125985,6 +125985,22 @@
   ],
   "properties": {
     "name": "Green R nr Green River, WY",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1951",
+    "countyname": "Sweetwater",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401060101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Green R nr Green River, WY",
+    "elevation": "6060",
+    "basinarea": 14000.0,
+    "awdb_id": "09217000",
+    "usgs_id": "9217000",
+    "usgsname": "GREEN RIVER NEAR GREEN RIVER, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "green r nr green river- wy (2)",
+    "aoi_exist": true
   }
 }

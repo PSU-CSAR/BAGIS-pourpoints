@@ -2905,6 +2905,22 @@
   ],
   "properties": {
     "name": "Wheeler Ck nr Huntsville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1958",
+    "countyname": "Weber",
+    "enddate": "1995-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160201020306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wheeler Ck nr Huntsville",
+    "elevation": "4800",
+    "basinarea": 11.1,
+    "awdb_id": "10139300",
+    "usgs_id": "10139300",
+    "usgsname": "WHEELER CREEK NEAR HUNTSVILLE, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": "wheeler ck nr huntsville",
+    "aoi_exist": true
   }
 }

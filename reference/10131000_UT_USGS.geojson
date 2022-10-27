@@ -14969,6 +14969,22 @@
   ],
   "properties": {
     "name": "Chalk Ck at Coalville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1927",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chalk Ck at Coalville",
+    "elevation": "5561",
+    "basinarea": 250.0,
+    "awdb_id": "10131000",
+    "usgs_id": "10131000",
+    "usgsname": "CHALK CREEK AT COALVILLE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "chalk ck at coalville",
+    "aoi_exist": true
   }
 }

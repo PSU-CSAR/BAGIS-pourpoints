@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "W.f. Duchesne River abv North Fork, nr H",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1989",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "W.f. Duchesne River abv North Fork, nr H",
+    "elevation": "6880",
+    "basinarea": 83.0,
+    "awdb_id": "09276600",
+    "usgs_id": "9276600",
+    "usgsname": "W.F. DUCHESNE RIVER ABV NORTH FORK, NR HANNA, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cimarron R bl Eagle Nest Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1950",
+    "countyname": "Colfax",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800020107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cimarron R bl Eagle Nest Dam",
+    "elevation": "8080",
+    "basinarea": 167.0,
+    "awdb_id": "07206000",
+    "usgs_id": "7206000",
+    "usgsname": "CIMARRON RIVER BELOW EAGLE NEST DAM, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

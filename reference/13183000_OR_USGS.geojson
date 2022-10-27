@@ -157753,6 +157753,22 @@
   ],
   "properties": {
     "name": "Owyhee R bl Owyhee Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "2/25/1929",
+    "countyname": "Malheur",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501100702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Owyhee R bl Owyhee Dam",
+    "elevation": "2344",
+    "basinarea": 11160.0,
+    "awdb_id": "13183000",
+    "usgs_id": "13183000",
+    "usgsname": "OWYHEE RIVER BELOW OWYHEE DAM, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Owyhee R bl Owyhee Dam",
+    "aoi_exist": true
   }
 }

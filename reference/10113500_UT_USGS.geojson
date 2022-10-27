@@ -18153,6 +18153,22 @@
   ],
   "properties": {
     "name": "Blacksmith Fk nr Hyrum",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/28/1913",
+    "countyname": "Cache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160102030209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blacksmith Fk nr Hyrum",
+    "elevation": "5021",
+    "basinarea": 263.0,
+    "awdb_id": "10113500",
+    "usgs_id": "10113500",
+    "usgsname": "BLACKSMITH FORK AB UP and L CO.'S DAM NR HYRUM, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "blacksmith fk nr hyrum",
+    "aoi_exist": true
   }
 }

@@ -78065,6 +78065,22 @@
   ],
   "properties": {
     "name": "Ennis Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1901",
+    "countyname": "Madison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200071501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ennis Lake Inflow",
+    "elevation": "4689",
+    "basinarea": 2150.4,
+    "awdb_id": "06041000",
+    "usgs_id": "6041000",
+    "usgsname": "Madison River bl Ennis Lake nr McAllister MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Ennis Reservoir Inflow",
+    "aoi_exist": true
   }
 }

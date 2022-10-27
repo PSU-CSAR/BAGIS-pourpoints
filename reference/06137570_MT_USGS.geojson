@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Boxelder Ck nr Rocky Boy",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1975",
+    "countyname": "Chouteau",
+    "enddate": "1997-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100500050303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boxelder Ck nr Rocky Boy",
+    "elevation": "3225",
+    "basinarea": 48.3,
+    "awdb_id": "06137570",
+    "usgs_id": "6137570",
+    "usgsname": "Boxelder Creek near Rocky Boy MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

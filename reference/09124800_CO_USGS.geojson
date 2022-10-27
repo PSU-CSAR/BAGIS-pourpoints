@@ -66193,6 +66193,22 @@
   ],
   "properties": {
     "name": "Gunnison R at Blue Mesa Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200020706,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gunnison R at Blue Mesa Dam",
+    "elevation": "7149",
+    "basinarea": null,
+    "awdb_id": "09124800",
+    "usgs_id": "9124800",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

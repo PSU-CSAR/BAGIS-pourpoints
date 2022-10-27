@@ -17169,6 +17169,22 @@
   ],
   "properties": {
     "name": "Cochetopa Ck bl Rock Ck nr Parlin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18891101",
+    "countyname": "Saguache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200030508,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cochetopa Ck bl Rock Ck nr Parlin",
+    "elevation": "8470",
+    "basinarea": 334.0,
+    "awdb_id": "09118450",
+    "usgs_id": "9118450",
+    "usgsname": "COCHETOPA CREEK BELOW ROCK CREEK NEAR PARLIN, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "cochetopa ck bl rock ck nr parlin",
+    "aoi_exist": true
   }
 }

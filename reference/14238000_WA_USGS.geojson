@@ -48545,6 +48545,22 @@
   ],
   "properties": {
     "name": "Cowlitz R bl Mayfield",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1934",
+    "countyname": "Lewis",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170800050301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cowlitz R bl Mayfield",
+    "elevation": "227",
+    "basinarea": 1400.0,
+    "awdb_id": "14238000",
+    "usgs_id": "14238000",
+    "usgsname": "COWLITZ RIVER BELOW MAYFIELD DAM, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Cowlitz R bl Mayfiled",
+    "aoi_exist": true
   }
 }

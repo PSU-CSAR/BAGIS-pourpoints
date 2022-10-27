@@ -9057,6 +9057,22 @@
   ],
   "properties": {
     "name": "Coal Ck nr Cedar City",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1915",
+    "countyname": "Iron",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300060309,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Coal Ck nr Cedar City",
+    "elevation": "6000",
+    "basinarea": 80.9,
+    "awdb_id": "10242000",
+    "usgs_id": "10242000",
+    "usgsname": "COAL CREEK NEAR CEDAR CITY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "coal ck nr cedar city",
+    "aoi_exist": true
   }
 }

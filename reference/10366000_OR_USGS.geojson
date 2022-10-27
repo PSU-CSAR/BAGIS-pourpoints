@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Twentymile Ck nr Adel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1910",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171200070107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Twentymile Ck nr Adel",
+    "elevation": "4561",
+    "basinarea": 194.0,
+    "awdb_id": "10366000",
+    "usgs_id": "10366000",
+    "usgsname": "TWENTYMILE CREEK NEAR ADEL,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "twentymile ck nr adel",
+    "aoi_exist": true
   }
 }

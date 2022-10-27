@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mf Stanislaus R bl Beardsley Dam Ca (NWS",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/31/1957",
+    "countyname": "Tuolumne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400110303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Stanislaus R bl Beardsley Dam Ca (NWS",
+    "elevation": "550",
+    "basinarea": null,
+    "awdb_id": "1129290N",
+    "usgs_id": "1129290N",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

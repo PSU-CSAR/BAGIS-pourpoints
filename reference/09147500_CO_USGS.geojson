@@ -20129,6 +20129,22 @@
   ],
   "properties": {
     "name": "Uncompahgre R at Colona",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1912",
+    "countyname": "Ouray",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200060302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Uncompahgre R at Colona",
+    "elevation": "6319",
+    "basinarea": 448.0,
+    "awdb_id": "09147500",
+    "usgs_id": "9147500",
+    "usgsname": "UNCOMPAHGRE RIVER AT COLONA, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "uncompahgre r at colona (2)",
+    "aoi_exist": true
   }
 }

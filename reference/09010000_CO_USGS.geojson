@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Grand River Ditch at La Poudre Pass",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1929",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900070203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Grand River Ditch at La Poudre Pass",
+    "elevation": "10192",
+    "basinarea": null,
+    "awdb_id": "09010000",
+    "usgs_id": "9010000",
+    "usgsname": "GRAND RIVER DITCH AT LA POUDRE PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

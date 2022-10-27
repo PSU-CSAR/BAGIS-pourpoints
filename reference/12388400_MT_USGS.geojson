@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Revais Ck nr Dixon",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1982",
+    "countyname": "Sanders",
+    "enddate": "2010-09-01T07:00:00Z",
+    "active": false,
+    "huc": 170102120801,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Revais Ck nr Dixon",
+    "elevation": "3420",
+    "basinarea": 23.3,
+    "awdb_id": "12388400",
+    "usgs_id": "12388400",
+    "usgsname": "Revais Cr bl West Fork nr Dixon MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

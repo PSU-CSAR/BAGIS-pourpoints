@@ -112625,6 +112625,22 @@
   ],
   "properties": {
     "name": "Little Colorado R at Woodruff",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/16/1905",
+    "countyname": "Navajo",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150200020709,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Colorado R at Woodruff",
+    "elevation": "5130",
+    "basinarea": 8072.0,
+    "awdb_id": "09394500",
+    "usgs_id": "9394500",
+    "usgsname": "LITTLE COLORADO RIVER AT WOODRUFF, AZ",
+    "forecastpoint": false,
+    "bagis_aoiname": "little colorado r at woodruff",
+    "aoi_exist": true
   }
 }

@@ -46361,6 +46361,22 @@
   ],
   "properties": {
     "name": "Milk R at Milk River, AB",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1918",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100500020000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Milk R at Milk River, AB",
+    "elevation": "4112",
+    "basinarea": 1024.0,
+    "awdb_id": "06134500",
+    "usgs_id": "6134500",
+    "usgsname": "Milk River at Milk River Alberta",
+    "forecastpoint": false,
+    "bagis_aoiname": "Milk R at Milk River, AB",
+    "aoi_exist": true
   }
 }

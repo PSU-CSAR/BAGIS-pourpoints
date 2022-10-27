@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ephraim Tunnel Near Ephraim, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Rich",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600090203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ephraim Tunnel Near Ephraim, UT",
+    "elevation": "9695",
+    "basinarea": 0.01,
+    "awdb_id": "09319000",
+    "usgs_id": "9319000",
+    "usgsname": "EPHRAIM TUNNEL NEAR EPHRAIM, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

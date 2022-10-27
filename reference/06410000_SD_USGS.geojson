@@ -10193,6 +10193,22 @@
   ],
   "properties": {
     "name": "Deerfield Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1946",
+    "countyname": "Pennington",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101201100108,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deerfield Reservoir Inflow",
+    "elevation": "5785",
+    "basinarea": 92.2,
+    "awdb_id": "06410000",
+    "usgs_id": "6410000",
+    "usgsname": "CASTLE CR BELOW DEERFIELD DAM SD",
+    "forecastpoint": true,
+    "bagis_aoiname": "deerfield reservoir inflow",
+    "aoi_exist": true
   }
 }

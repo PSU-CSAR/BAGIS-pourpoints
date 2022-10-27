@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Ogden R nr Eden, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1963",
+    "countyname": "Weber",
+    "enddate": "1974-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160201020302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Ogden R nr Eden, UT",
+    "elevation": "5750",
+    "basinarea": 6.03,
+    "awdb_id": "10137680",
+    "usgs_id": "10137680",
+    "usgsname": "NORTH FORK OGDEN RIVER NEAR EDEN, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

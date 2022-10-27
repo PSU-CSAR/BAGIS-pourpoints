@@ -120032,7 +120032,23 @@
     }
   ],
   "properties": {
-    "name": "Flathead Lake Inflow",
-    "source": "ref"
+    "name": "Flathead R nr Polson",
+    "source": "ref",
+    "begindate": "1/1/1907",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102120301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Flathead R nr Polson",
+    "elevation": "2693",
+    "basinarea": 7079.0,
+    "awdb_id": "12372000",
+    "usgs_id": "12372000",
+    "usgsname": "Flathead River near Polson MT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

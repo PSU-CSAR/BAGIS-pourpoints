@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sultan River blw Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1983",
+    "countyname": "Snohomish",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100090503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sultan River blw Diversion",
+    "elevation": "600",
+    "basinarea": 77.1,
+    "awdb_id": "12137800",
+    "usgs_id": "12137800",
+    "usgsname": "SULTAN RIVER BELOW DIVERSION DAM NEAR SULTAN, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

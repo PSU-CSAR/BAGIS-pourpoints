@@ -12969,6 +12969,22 @@
   ],
   "properties": {
     "name": "Little North Santiam R nr Mehama",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1931",
+    "countyname": "Marion",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900050505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little North Santiam R nr Mehama",
+    "elevation": "655",
+    "basinarea": 112.0,
+    "awdb_id": "14182500",
+    "usgs_id": "14182500",
+    "usgsname": "LITTLE NORTH SANTIAM RIVER NEAR MEHAMA, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Little North Santiam R nr Mehama",
+    "aoi_exist": true
   }
 }

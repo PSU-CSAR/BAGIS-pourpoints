@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lake Ck at Troy",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1945",
+    "countyname": "Lincoln",
+    "enddate": "1996-03-01T08:00:00Z",
+    "active": false,
+    "huc": 170101011707,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Ck at Troy",
+    "elevation": "1900",
+    "basinarea": 204.0,
+    "awdb_id": "12303500",
+    "usgs_id": "12303500",
+    "usgsname": "Lake Creek at Troy MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

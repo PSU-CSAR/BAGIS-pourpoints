@@ -13961,6 +13961,22 @@
   ],
   "properties": {
     "name": "E Gallatin R bl Bridger Ck nr Bozeman",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Gallatin",
+    "enddate": "1961-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100200081301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "E Gallatin R bl Bridger Ck nr Bozeman",
+    "elevation": "4610",
+    "basinarea": 151.0,
+    "awdb_id": "06048000",
+    "usgs_id": "6048000",
+    "usgsname": "East Gallatin River at Bozeman MT",
+    "forecastpoint": false,
+    "bagis_aoiname": "E Gallatin R bl Bridger Ck nr Bozeman",
+    "aoi_exist": true
   }
 }

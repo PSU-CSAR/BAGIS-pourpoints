@@ -123641,6 +123641,22 @@
   ],
   "properties": {
     "name": "Powder R at Moorehead",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1929",
+    "countyname": "Powder River",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100902070203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Powder R at Moorehead",
+    "elevation": "3351",
+    "basinarea": 8029.0,
+    "awdb_id": "06324500",
+    "usgs_id": "6324500",
+    "usgsname": "Powder River at Moorhead MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "powder r at moorehead",
+    "aoi_exist": true
   }
 }

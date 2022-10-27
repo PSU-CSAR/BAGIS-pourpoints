@@ -4329,6 +4329,22 @@
   ],
   "properties": {
     "name": "W Canyon Ck nr Cedar Fort",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1965",
+    "countyname": "Utah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202010702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "W Canyon Ck nr Cedar Fort",
+    "elevation": "5620",
+    "basinarea": 26.8,
+    "awdb_id": "10166430",
+    "usgs_id": "10166430",
+    "usgsname": "WEST CANYON CREEK NEAR CEDAR FORT, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "w canyon ck nr cedar fort",
+    "aoi_exist": true
   }
 }

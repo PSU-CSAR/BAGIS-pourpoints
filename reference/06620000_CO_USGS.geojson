@@ -35777,6 +35777,22 @@
   ],
   "properties": {
     "name": "North Platte R nr Northgate",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1904",
+    "countyname": "Jackson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800020107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Platte R nr Northgate",
+    "elevation": "7810",
+    "basinarea": 1431.0,
+    "awdb_id": "06620000",
+    "usgs_id": "6620000",
+    "usgsname": "NORTH PLATTE RIVER NEAR NORTHGATE, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "north platte r nr northgate",
+    "aoi_exist": true
   }
 }

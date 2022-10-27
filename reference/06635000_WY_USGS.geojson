@@ -58905,6 +58905,22 @@
   ],
   "properties": {
     "name": "Medicine Bow R nr Hanna",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800040503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Medicine Bow R nr Hanna",
+    "elevation": "6415",
+    "basinarea": 2338.0,
+    "awdb_id": "06635000",
+    "usgs_id": "6635000",
+    "usgsname": "MEDICINE BOW R AB SEMINOE RESERVOIR, NR HANNA, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": "medicine bow r nr hanna",
+    "aoi_exist": true
   }
 }

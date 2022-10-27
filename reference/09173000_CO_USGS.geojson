@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Beaver Creek nr Norwood",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "San Miguel",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 140300030303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver Creek nr Norwood",
+    "elevation": "8010",
+    "basinarea": 40.6,
+    "awdb_id": "09173000",
+    "usgs_id": "9173000",
+    "usgsname": "BEAVER CREEK NEAR NORWOOD, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

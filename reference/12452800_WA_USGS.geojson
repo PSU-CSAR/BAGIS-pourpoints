@@ -16505,6 +16505,22 @@
   ],
   "properties": {
     "name": "Entiat R nr Ardenvoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1957",
+    "countyname": "Chelan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200100207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Entiat R nr Ardenvoir",
+    "elevation": "1561",
+    "basinarea": 203.0,
+    "awdb_id": "12452800",
+    "usgs_id": "12452800",
+    "usgsname": "ENTIAT RIVER NEAR ARDENVOIR, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Entiat R nr Ardenvoir",
+    "aoi_exist": true
   }
 }

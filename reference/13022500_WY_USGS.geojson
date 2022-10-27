@@ -85657,6 +85657,22 @@
   ],
   "properties": {
     "name": "Snake R ab Reservoir nr Alpine",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/16/1937",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401030509,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake R ab Reservoir nr Alpine",
+    "elevation": "5730",
+    "basinarea": 3465.0,
+    "awdb_id": "13022500",
+    "usgs_id": "13022500",
+    "usgsname": "SNAKE RIVER AB RESERVOIR NR ALPINE WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "Snake R ab Reservoir nr Alpine",
+    "aoi_exist": true
   }
 }

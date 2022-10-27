@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Div Fm Snake R Bet Shelly And Blackfoot",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1932",
+    "countyname": "Bingham",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402060206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Div Fm Snake R Bet Shelly And Blackfoot",
+    "elevation": "4400",
+    "basinarea": null,
+    "awdb_id": "13069000",
+    "usgs_id": "13069000",
+    "usgsname": "DIV FROM SNAKE R BTW SHELLY/BLACKFOOT GAGES ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

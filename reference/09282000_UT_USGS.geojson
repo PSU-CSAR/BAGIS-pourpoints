@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Strawberry Tunnel",
-    "source": "ref"
+    "name": "Strawberry Tunnel Outlet",
+    "source": "ref",
+    "begindate": "10/1/1922",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600040103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Strawberry Tunnel Outlet",
+    "elevation": "7587",
+    "basinarea": null,
+    "awdb_id": "09282000",
+    "usgs_id": "9282000",
+    "usgsname": "STRAWBERRY TUNNEL AT WEST PORTAL, NR THISTLE",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

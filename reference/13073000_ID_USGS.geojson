@@ -27665,6 +27665,22 @@
   ],
   "properties": {
     "name": "Portneuf R at Topaz",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1913",
+    "countyname": "Bannock",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402080210,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Portneuf R at Topaz",
+    "elevation": "4918",
+    "basinarea": 576.0,
+    "awdb_id": "13073000",
+    "usgs_id": "13073000",
+    "usgsname": "PORTNEUF RIVER AT TOPAZ ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Portneuf R at Topaz",
+    "aoi_exist": true
   }
 }

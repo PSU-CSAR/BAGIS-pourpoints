@@ -42177,6 +42177,22 @@
   ],
   "properties": {
     "name": "South Platte R bl Cheesman Lk",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1924",
+    "countyname": "Jefferson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900020406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Platte R bl Cheesman Lk",
+    "elevation": "6609",
+    "basinarea": 1752.0,
+    "awdb_id": "06701000",
+    "usgs_id": "6701000",
+    "usgsname": "CHEESMAN LAKE NEAR DECKERS, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

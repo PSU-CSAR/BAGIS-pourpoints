@@ -31377,6 +31377,22 @@
   ],
   "properties": {
     "name": "Shields R nr Livingston",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1978",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700030507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Shields R nr Livingston",
+    "elevation": "4420",
+    "basinarea": 846.0,
+    "awdb_id": "06195600",
+    "usgs_id": "6195600",
+    "usgsname": "Shields River nr Livingston MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "shields r nr livingston",
+    "aoi_exist": true
   }
 }

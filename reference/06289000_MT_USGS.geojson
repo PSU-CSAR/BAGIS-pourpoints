@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Bighorn R at State Line",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Garfield",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800160204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Bighorn R at State Line",
+    "elevation": "4400",
+    "basinarea": 182.0,
+    "awdb_id": "06289000",
+    "usgs_id": "6289000",
+    "usgsname": "Little Bighorn River at State Line nr Wyola MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

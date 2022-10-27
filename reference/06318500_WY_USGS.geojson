@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clear Ck nr Buffalo",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1917",
+    "countyname": "Johnson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100902060107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clear Ck nr Buffalo",
+    "elevation": "5185",
+    "basinarea": 120.0,
+    "awdb_id": "06318500",
+    "usgs_id": "6318500",
+    "usgsname": "CLEAR CREEK NEAR BUFFALO, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

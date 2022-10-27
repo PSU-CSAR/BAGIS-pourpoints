@@ -6137,6 +6137,22 @@
   ],
   "properties": {
     "name": "La Plata R at Hesperus",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1917",
+    "countyname": "La Plata",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801050102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "La Plata R at Hesperus",
+    "elevation": "8105",
+    "basinarea": 34.4,
+    "awdb_id": "09365500",
+    "usgs_id": "9365500",
+    "usgsname": "LA PLATA RIVER AT HESPERUS, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "la plata r at hesperus",
+    "aoi_exist": true
   }
 }

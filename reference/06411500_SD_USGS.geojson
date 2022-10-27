@@ -18425,6 +18425,22 @@
   ],
   "properties": {
     "name": "Pactola Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1929",
+    "countyname": "Pennington",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101201100201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pactola Reservoir Inflow",
+    "elevation": "4406",
+    "basinarea": 321.0,
+    "awdb_id": "06411500",
+    "usgs_id": "6411500",
+    "usgsname": "RAPID CR BELOW PACTOLA DAM,SD",
+    "forecastpoint": true,
+    "bagis_aoiname": "pactola reservoir inflow",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tule R bl Success Dam Ca (NWS)",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/31/1960",
+    "countyname": "Tulare",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180300070305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tule R bl Success Dam Ca (NWS)",
+    "elevation": "536",
+    "basinarea": null,
+    "awdb_id": "1120490N",
+    "usgs_id": "1120490N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

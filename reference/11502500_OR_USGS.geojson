@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Williamson R bl Sprague R nr Chiloquin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1917",
+    "countyname": "Klamath",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180102010605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Williamson R bl Sprague R nr Chiloquin",
+    "elevation": "4149",
+    "basinarea": 3000.0,
+    "awdb_id": "11502500",
+    "usgs_id": "11502500",
+    "usgsname": "WILLIAMSON RIVER BLW SPRAGUE RIVER NR CHILOQUIN,OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "williamson r bl sprague r nr chiloquin",
+    "aoi_exist": true
   }
 }

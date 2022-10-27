@@ -28025,6 +28025,22 @@
   ],
   "properties": {
     "name": "Animas R at Durango",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18971001",
+    "countyname": "La Plata",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801040604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Animas R at Durango",
+    "elevation": "6502",
+    "basinarea": 701.0,
+    "awdb_id": "09361500",
+    "usgs_id": "9361500",
+    "usgsname": "ANIMAS RIVER AT DURANGO, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "animas r at durango",
+    "aoi_exist": true
   }
 }

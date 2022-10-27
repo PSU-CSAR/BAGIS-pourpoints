@@ -34449,6 +34449,22 @@
   ],
   "properties": {
     "name": "Lemhi R nr Lemhi",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1938",
+    "countyname": "Lemhi",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170602040702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lemhi R nr Lemhi",
+    "elevation": "4960",
+    "basinarea": 897.0,
+    "awdb_id": "13305000",
+    "usgs_id": "13305000",
+    "usgsname": "LEMHI RIVER NR LEMHI ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Lemhi R nr Lemhi",
+    "aoi_exist": true
   }
 }

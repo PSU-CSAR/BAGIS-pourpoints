@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mf Stanislaus R A Sbf nr Avery CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1905",
+    "countyname": "Tuolumne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400100404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Stanislaus R A Sbf nr Avery CA",
+    "elevation": "2755",
+    "basinarea": 325.0,
+    "awdb_id": "11293000",
+    "usgs_id": "11293000",
+    "usgsname": "MF STANISLAUS R A SBF NR AVERY CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

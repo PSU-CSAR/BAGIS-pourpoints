@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Deep Ck ab Adel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1922",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171200070310,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deep Ck ab Adel",
+    "elevation": "4980",
+    "basinarea": 249.0,
+    "awdb_id": "10371500",
+    "usgs_id": "10371500",
+    "usgsname": "DEEP CREEK ABOVE ADEL,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "deep ck ab adel",
+    "aoi_exist": true
   }
 }

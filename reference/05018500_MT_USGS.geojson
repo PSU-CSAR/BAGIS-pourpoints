@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "St Mary Canal at St Mary Xing nr Babb",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1918",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 90400010405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St Mary Canal at St Mary Xing nr Babb",
+    "elevation": "4450",
+    "basinarea": null,
+    "awdb_id": "05018500",
+    "usgs_id": "5018500",
+    "usgsname": "St. Mary Canal at St. Mary Crossing near Babb MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -14257,6 +14257,22 @@
   ],
   "properties": {
     "name": "Fall Creek Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1935",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900010906,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fall Creek Reservoir Inflow",
+    "elevation": "638",
+    "basinarea": 186.0,
+    "awdb_id": "14151000",
+    "usgs_id": "14151000",
+    "usgsname": "FALL CREEK BLW WINBERRY CREEK, NEAR FALL CREEK, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Fall Creek Reservoir Inflow",
+    "aoi_exist": true
   }
 }

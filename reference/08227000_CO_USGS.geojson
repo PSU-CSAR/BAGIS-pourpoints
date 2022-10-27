@@ -25401,6 +25401,22 @@
   ],
   "properties": {
     "name": "Saguache Ck nr Saguache",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1910",
+    "countyname": "Saguache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100040702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Saguache Ck nr Saguache",
+    "elevation": "8030",
+    "basinarea": 595.0,
+    "awdb_id": "08227000",
+    "usgs_id": "8227000",
+    "usgsname": "SAGUACHE CREEK NEAR SAGUACHE, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "saguache ck nr saguache (2)",
+    "aoi_exist": true
   }
 }

@@ -29120,7 +29120,23 @@
     }
   ],
   "properties": {
-    "name": "Weber R at Echo, UT",
-    "source": "ref"
+    "name": "Weber R at Echo",
+    "source": "ref",
+    "begindate": "4/1/1927",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weber R at Echo",
+    "elevation": "5440",
+    "basinarea": 727.0,
+    "awdb_id": "10132000",
+    "usgs_id": "10132000",
+    "usgsname": "WEBER RIVER AT ECHO, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

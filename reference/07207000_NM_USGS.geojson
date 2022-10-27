@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cimarron R nr Cimarron",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1950",
+    "countyname": "Colfax",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800020109,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cimarron R nr Cimarron",
+    "elevation": "6600",
+    "basinarea": 294.0,
+    "awdb_id": "07207000",
+    "usgs_id": "7207000",
+    "usgsname": "CIMARRON RIVER NEAR CIMARRON, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "cimarron r nr cimarron",
+    "aoi_exist": true
   }
 }

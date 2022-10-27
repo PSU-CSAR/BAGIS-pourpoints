@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Monture Ck nr Ovando",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1973",
+    "countyname": "Powell",
+    "enddate": "1983-10-04T07:00:00Z",
+    "active": false,
+    "huc": 170102030804,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Monture Ck nr Ovando",
+    "elevation": "3987",
+    "basinarea": 146.0,
+    "awdb_id": "12338690",
+    "usgs_id": "12338690",
+    "usgsname": "Monture Creek near Ovando MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

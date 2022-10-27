@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF Little Butte Ck nr Lake Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Jackson",
+    "enddate": "1983-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171003070806,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Little Butte Ck nr Lake Ck",
+    "elevation": "1725",
+    "basinarea": 138.0,
+    "awdb_id": "14341500",
+    "usgs_id": "14341500",
+    "usgsname": "SOUTH FORK LITTLE BUTTE CR NR LAKECREEK,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

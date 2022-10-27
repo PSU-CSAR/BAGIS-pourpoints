@@ -13825,6 +13825,22 @@
   ],
   "properties": {
     "name": "Eagle Ck ab Skull Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1908",
+    "countyname": "Baker",
+    "enddate": "2015-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170502031007,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Eagle Ck ab Skull Ck",
+    "elevation": "2840",
+    "basinarea": 156.0,
+    "awdb_id": "13288200",
+    "usgs_id": "13288200",
+    "usgsname": "EAGLE CREEK ABV SKULL CREEK, NR NEW BRIDGE, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Eagle Ck ab Skull Ck",
+    "aoi_exist": true
   }
 }

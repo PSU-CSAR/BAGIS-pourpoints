@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ninilchik R at Ninilchik AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1962",
+    "countyname": "Kenai Peninsula",
+    "enddate": "2003-09-30T07:00:00Z",
+    "active": false,
+    "huc": 190203010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ninilchik R at Ninilchik AK",
+    "elevation": "25",
+    "basinarea": 135.0,
+    "awdb_id": "15241600",
+    "usgs_id": "15241600",
+    "usgsname": "NINILCHIK R AT NINILCHIK AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

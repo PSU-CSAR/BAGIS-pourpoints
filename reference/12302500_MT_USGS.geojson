@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Granite Ck nr Libby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1933",
+    "countyname": "Lincoln",
+    "enddate": "1969-10-06T07:00:00Z",
+    "active": false,
+    "huc": 170101011303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Granite Ck nr Libby",
+    "elevation": "2780",
+    "basinarea": 23.7,
+    "awdb_id": "12302500",
+    "usgs_id": "12302500",
+    "usgsname": "Granite Creek near Libby MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

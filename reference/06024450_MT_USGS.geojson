@@ -23985,6 +23985,22 @@
   ],
   "properties": {
     "name": "Big Hole R bl Big Lake Ck at Wisdom",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1988",
+    "countyname": "Beaverhead",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200040407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Hole R bl Big Lake Ck at Wisdom",
+    "elevation": "6040",
+    "basinarea": 586.0,
+    "awdb_id": "06024450",
+    "usgs_id": "6024450",
+    "usgsname": "Big Hole River bl Big Lake Cr at Wisdom MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "big hole r at wisdom",
+    "aoi_exist": true
   }
 }

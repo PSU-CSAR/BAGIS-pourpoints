@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Bighorn R blw Pass Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Big Horn",
+    "enddate": "2004-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800160210,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Bighorn R blw Pass Ck",
+    "elevation": "3600",
+    "basinarea": 426.0,
+    "awdb_id": "06290500",
+    "usgs_id": "6290500",
+    "usgsname": "Little Bighorn R bl Pass Cr nr Wyola MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

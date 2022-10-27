@@ -8609,6 +8609,22 @@
   ],
   "properties": {
     "name": "WF Carson R nr Woodfords",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1900",
+    "countyname": "Alpine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160502010304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "WF Carson R nr Woodfords",
+    "elevation": "5755",
+    "basinarea": 65.4,
+    "awdb_id": "10310000",
+    "usgs_id": "10310000",
+    "usgsname": "W FK CARSON RV AT WOODFORDS, CA",
+    "forecastpoint": true,
+    "bagis_aoiname": "wf casrson r nr woodfords",
+    "aoi_exist": true
   }
 }

@@ -23889,6 +23889,22 @@
   ],
   "properties": {
     "name": "Dearborn R nr Craig",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1945",
+    "countyname": "Lewis and Clark",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100301020404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dearborn R nr Craig",
+    "elevation": "3800",
+    "basinarea": 322.0,
+    "awdb_id": "06073500",
+    "usgs_id": "6073500",
+    "usgsname": "Dearborn River near Craig MT",
+    "forecastpoint": false,
+    "bagis_aoiname": "dearborn r nr craig",
+    "aoi_exist": true
   }
 }

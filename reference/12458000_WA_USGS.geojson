@@ -13145,6 +13145,22 @@
   ],
   "properties": {
     "name": "Icicle Ck nr Leavenworth",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1936",
+    "countyname": "Chelan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200110406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Icicle Ck nr Leavenworth",
+    "elevation": "1450",
+    "basinarea": 193.0,
+    "awdb_id": "12458000",
+    "usgs_id": "12458000",
+    "usgsname": "ICICLE CREEK ABOVE SNOW CREEK NEAR LEAVENWORTH, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Icicle Ck nr Leavenworth",
+    "aoi_exist": true
   }
 }

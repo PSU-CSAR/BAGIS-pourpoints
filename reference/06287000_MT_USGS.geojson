@@ -166097,6 +166097,22 @@
   ],
   "properties": {
     "name": "Bighorn R nr St. Xavier",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1934",
+    "countyname": "Big Horn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800150302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bighorn R nr St. Xavier",
+    "elevation": "3158",
+    "basinarea": 19672.0,
+    "awdb_id": "06287000",
+    "usgs_id": "6287000",
+    "usgsname": "Bighorn River near St. Xavier, MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "bighorn r nr st. xavier",
+    "aoi_exist": true
   }
 }

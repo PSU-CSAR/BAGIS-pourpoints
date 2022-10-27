@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Red Lodge + Willow Ck nr Boyd",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1937",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700060805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Red Lodge + Willow Ck nr Boyd",
+    "elevation": "4248",
+    "basinarea": null,
+    "awdb_id": "06211900",
+    "usgs_id": "6211900",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

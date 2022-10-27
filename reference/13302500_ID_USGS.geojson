@@ -85697,6 +85697,22 @@
   ],
   "properties": {
     "name": "Salmon R at Salmon",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1912",
+    "countyname": "Lemhi",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170602030403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salmon R at Salmon",
+    "elevation": "3911",
+    "basinarea": 3737.0,
+    "awdb_id": "13302500",
+    "usgs_id": "13302500",
+    "usgsname": "SALMON RIVER AT SALMON ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Salmon R at Salmon",
+    "aoi_exist": true
   }
 }

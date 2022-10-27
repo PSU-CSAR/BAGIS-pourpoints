@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Greybull R nr Pitchfork",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "Park",
+    "enddate": "1971-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800090210,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Greybull R nr Pitchfork",
+    "elevation": "6740",
+    "basinarea": 282.0,
+    "awdb_id": "06274500",
+    "usgs_id": "6274500",
+    "usgsname": "GREYBULL RIVER NEAR PITCHFORK, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -4553,6 +4553,22 @@
   ],
   "properties": {
     "name": "Seven Mile Ck nr Fish Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1964",
+    "countyname": "Sevier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140700030103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Seven Mile Ck nr Fish Lake",
+    "elevation": "9200",
+    "basinarea": 24.0,
+    "awdb_id": "09329050",
+    "usgs_id": "9329050",
+    "usgsname": "SEVEN MILE CREEK NEAR FISH LAKE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "seven mile ck nr fish lake",
+    "aoi_exist": true
   }
 }

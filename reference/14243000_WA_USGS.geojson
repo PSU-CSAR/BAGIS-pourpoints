@@ -66521,6 +66521,22 @@
   ],
   "properties": {
     "name": "Cowlitz R at Castle Rock",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/10/1926",
+    "countyname": "Cowlitz",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170800050904,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cowlitz R at Castle Rock",
+    "elevation": "25",
+    "basinarea": 2238.0,
+    "awdb_id": "14243000",
+    "usgs_id": "14243000",
+    "usgsname": "COWLITZ RIVER AT CASTLE ROCK, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Cowlitz R at Castle Rock",
+    "aoi_exist": true
   }
 }

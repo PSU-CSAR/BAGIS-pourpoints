@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Canon City Hydraulic",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1911",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200011409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Canon City Hydraulic",
+    "elevation": "5597",
+    "basinarea": null,
+    "awdb_id": "07095900",
+    "usgs_id": "7095900",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

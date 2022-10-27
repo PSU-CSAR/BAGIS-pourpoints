@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Donner Lk Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1929",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Donner Lk Inflow",
+    "elevation": "5294",
+    "basinarea": 14.3,
+    "awdb_id": "10338500",
+    "usgs_id": "10338500",
+    "usgsname": "DONNER C A DONNER LK NR TRUCKEE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

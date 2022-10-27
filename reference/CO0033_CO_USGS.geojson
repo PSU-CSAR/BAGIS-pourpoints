@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Twin Lakes Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1935",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200010101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Twin Lakes Tunnel",
+    "elevation": "10579",
+    "basinarea": null,
+    "awdb_id": "CO0033",
+    "usgs_id": "CO0033",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

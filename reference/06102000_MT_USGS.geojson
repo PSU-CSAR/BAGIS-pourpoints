@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Marias R nr Brinkman",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1921",
+    "countyname": "Hill",
+    "enddate": "1956-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100302032107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Marias R nr Brinkman",
+    "elevation": "2677",
+    "basinarea": 6522.0,
+    "awdb_id": "06102000",
+    "usgs_id": "6102000",
+    "usgsname": "Marias River near Brinkman MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

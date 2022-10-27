@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Red River at Mouth Near Questa",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1950",
+    "countyname": "Taos",
+    "enddate": "1978-10-01T07:00:00Z",
+    "active": false,
+    "huc": 130201010405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Red River at Mouth Near Questa",
+    "elevation": "6600",
+    "basinarea": 190.0,
+    "awdb_id": "08267000",
+    "usgs_id": "8267000",
+    "usgsname": "RED RIVER AT MOUTH, NEAR QUESTA, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

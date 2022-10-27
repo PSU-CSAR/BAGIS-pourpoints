@@ -44289,6 +44289,22 @@
   ],
   "properties": {
     "name": "Deschutes R at Benham Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1906",
+    "countyname": "Deschutes",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703010402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deschutes R at Benham Falls",
+    "elevation": "4142",
+    "basinarea": 1759.0,
+    "awdb_id": "14064500",
+    "usgs_id": "14064500",
+    "usgsname": "DESCHUTES R AT BENHAM FALLS NR BEND,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Deschutes R at Benham Falls",
+    "aoi_exist": true
   }
 }

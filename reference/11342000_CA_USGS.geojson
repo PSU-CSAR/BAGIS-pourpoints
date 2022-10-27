@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sacramento R A Delta CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1944",
+    "countyname": "Shasta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180200050402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sacramento R A Delta CA",
+    "elevation": "1075",
+    "basinarea": 425.0,
+    "awdb_id": "11342000",
+    "usgs_id": "11342000",
+    "usgsname": "SACRAMENTO R A DELTA CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

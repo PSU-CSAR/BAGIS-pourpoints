@@ -65753,6 +65753,22 @@
   ],
   "properties": {
     "name": "NF John Day R at Monument",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1925",
+    "countyname": "Grant",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170702021003,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF John Day R at Monument",
+    "elevation": "1960",
+    "basinarea": 2520.0,
+    "awdb_id": "14046000",
+    "usgs_id": "14046000",
+    "usgsname": "NORTH FORK JOHN DAY RIVER AT MONUMENT, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "NF John Day R at Monument",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gooseberry Ck nr Scofield, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1930",
+    "countyname": "Sanpete",
+    "enddate": "2003-09-30T07:00:00Z",
+    "active": false,
+    "huc": 140600070201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gooseberry Ck nr Scofield, UT",
+    "elevation": "8400",
+    "basinarea": 16.8,
+    "awdb_id": "09310000",
+    "usgs_id": "9310000",
+    "usgsname": "GOOSEBERRY CREEK NEAR SCOFIELD, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

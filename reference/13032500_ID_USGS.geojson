@@ -116449,6 +116449,22 @@
   ],
   "properties": {
     "name": "Snake R nr Irwin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1935",
+    "countyname": "Bonneville",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401040701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake R nr Irwin",
+    "elevation": "5353",
+    "basinarea": 5225.0,
+    "awdb_id": "13032500",
+    "usgs_id": "13032500",
+    "usgsname": "SNAKE RIVER NR IRWIN ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Snake R nr Irwin",
+    "aoi_exist": true
   }
 }

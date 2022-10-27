@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clover Creek ab Big Hollow nr Clover UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1984",
+    "countyname": "Tooele",
+    "enddate": "2001-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160203040303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clover Creek ab Big Hollow nr Clover UT",
+    "elevation": "5660",
+    "basinarea": 6.71,
+    "awdb_id": "10172765",
+    "usgs_id": "10172765",
+    "usgsname": "CLOVER CREEK ABOVE BIG HOLLOW, NEAR CLOVER, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

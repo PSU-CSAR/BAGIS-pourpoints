@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clark Fk at Thompson Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1930",
+    "countyname": "Sanders",
+    "enddate": "1959-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102130514,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clark Fk at Thompson Falls",
+    "elevation": "2340",
+    "basinarea": 21129.0,
+    "awdb_id": "12391000",
+    "usgs_id": "12391000",
+    "usgsname": "Clark Fork at Thompson Falls MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

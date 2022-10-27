@@ -82201,6 +82201,22 @@
   ],
   "properties": {
     "name": "Payette R nr Horseshoe Bend",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1906",
+    "countyname": "Boise",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501220107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Payette R nr Horseshoe Bend",
+    "elevation": "2626",
+    "basinarea": 2220.0,
+    "awdb_id": "13247500",
+    "usgs_id": "13247500",
+    "usgsname": "PAYETTE RIVER NR HORSESHOE BEND ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Payette R nr Horseshoe Bend",
+    "aoi_exist": true
   }
 }

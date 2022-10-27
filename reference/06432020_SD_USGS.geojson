@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Spearfish Ck blw Spearfish",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1988",
+    "countyname": "Lawrence",
+    "enddate": "1998-10-01T07:00:00Z",
+    "active": false,
+    "huc": 101202030204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Spearfish Ck blw Spearfish",
+    "elevation": "3280",
+    "basinarea": 210.0,
+    "awdb_id": "06432020",
+    "usgs_id": "6432020",
+    "usgsname": "SPEARFISH CREEK BELOW SPEARFISH, SD",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

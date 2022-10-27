@@ -12361,6 +12361,22 @@
   ],
   "properties": {
     "name": "San Antonio R at Ortiz",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1919",
+    "countyname": "Rio Arriba",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100050302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "San Antonio R at Ortiz",
+    "elevation": "7970",
+    "basinarea": 110.0,
+    "awdb_id": "08247500",
+    "usgs_id": "8247500",
+    "usgsname": "SAN ANTONIO RIVER AT ORTIZ, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "san antonio r at ortiz",
+    "aoi_exist": true
   }
 }

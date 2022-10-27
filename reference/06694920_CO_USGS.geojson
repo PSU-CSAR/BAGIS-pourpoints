@@ -28033,6 +28033,22 @@
   ],
   "properties": {
     "name": "South Platte R ab Spinney Res",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900010306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Platte R ab Spinney Res",
+    "elevation": "8695",
+    "basinarea": null,
+    "awdb_id": "06694920",
+    "usgs_id": "6694920",
+    "usgsname": "SO PLATTE RIVER AB SPINNEY RES NR HARTSEL CO",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

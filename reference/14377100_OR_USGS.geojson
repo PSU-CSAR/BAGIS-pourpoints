@@ -22225,6 +22225,22 @@
   ],
   "properties": {
     "name": "Illinois R nr Kerby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1961",
+    "countyname": "Josephine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003110601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Illinois R nr Kerby",
+    "elevation": "1199",
+    "basinarea": 380.0,
+    "awdb_id": "14377100",
+    "usgs_id": "14377100",
+    "usgsname": "ILLINOIS RIVER NEAR KERBY, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Illinois R nr Kerby",
+    "aoi_exist": true
   }
 }

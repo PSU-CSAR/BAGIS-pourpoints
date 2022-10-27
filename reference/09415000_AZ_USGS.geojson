@@ -85017,6 +85017,22 @@
   ],
   "properties": {
     "name": "Virgin R at Littlefield",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1929",
+    "countyname": "Mohave",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150100100602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Virgin R at Littlefield",
+    "elevation": "1764",
+    "basinarea": 5090.0,
+    "awdb_id": "09415000",
+    "usgs_id": "9415000",
+    "usgsname": "VIRGIN RV AT LITTLEFIELD, AZ",
+    "forecastpoint": true,
+    "bagis_aoiname": "virgin r at littlefield",
+    "aoi_exist": true
   }
 }

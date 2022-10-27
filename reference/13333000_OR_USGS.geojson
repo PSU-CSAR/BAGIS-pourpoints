@@ -80897,6 +80897,22 @@
   ],
   "properties": {
     "name": "Grande Ronde R at Troy",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1944",
+    "countyname": "Wallowa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170601060703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Grande Ronde R at Troy",
+    "elevation": "1586",
+    "basinarea": 3275.0,
+    "awdb_id": "13333000",
+    "usgs_id": "13333000",
+    "usgsname": "GRANDE RONDE RIVER AT TROY, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Grande Ronde R at Troy",
+    "aoi_exist": true
   }
 }

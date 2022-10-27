@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Chalk Ck nr Fillmore, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1944",
+    "countyname": "Millard",
+    "enddate": "1971-09-30T07:00:00Z",
+    "active": false,
+    "huc": 160300051307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chalk Ck nr Fillmore, UT",
+    "elevation": "5180",
+    "basinarea": 58.7,
+    "awdb_id": "10232500",
+    "usgs_id": "10232500",
+    "usgsname": "CHALK CREEK NEAR FILLMORE UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

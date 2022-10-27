@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Elk River at Clark",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Routt",
+    "enddate": "2003-09-30T07:00:00Z",
+    "active": false,
+    "huc": 140500010209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Elk River at Clark",
+    "elevation": "7268",
+    "basinarea": 216.0,
+    "awdb_id": "09241000",
+    "usgs_id": "9241000",
+    "usgsname": "ELK RIVER AT CLARK, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

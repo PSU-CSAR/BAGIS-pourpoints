@@ -12585,6 +12585,22 @@
   ],
   "properties": {
     "name": "South Boulder Ck nr Eldorado Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18960101",
+    "countyname": "Boulder",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900050504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Boulder Ck nr Eldorado Springs",
+    "elevation": "6080",
+    "basinarea": 111.0,
+    "awdb_id": "06729500",
+    "usgs_id": "6729500",
+    "usgsname": "SOUTH BOULDER CREEK NEAR ELDORADO SPRINGS, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "south boulder ck nr eldorado springs",
+    "aoi_exist": true
   }
 }

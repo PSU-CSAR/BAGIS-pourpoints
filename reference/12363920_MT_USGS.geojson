@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Stillwater R at Olney",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1972",
+    "countyname": "Flathead",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102100107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stillwater R at Olney",
+    "elevation": "3072",
+    "basinarea": 162.0,
+    "awdb_id": "12363920",
+    "usgs_id": "12363920",
+    "usgsname": "Stillwater River at Olney MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

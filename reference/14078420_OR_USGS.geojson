@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "N F Crooked nr Paulina",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1968",
+    "countyname": "Crook",
+    "enddate": "1979-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170703040201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "N F Crooked nr Paulina",
+    "elevation": "4370",
+    "basinarea": 40.1,
+    "awdb_id": "14078420",
+    "usgs_id": "14078420",
+    "usgsname": "NO FK CROOKED R BL LOOKOUT CR NR PAULINA,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

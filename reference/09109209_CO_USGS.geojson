@@ -19313,6 +19313,22 @@
   ],
   "properties": {
     "name": "Taylor R bl Taylor Park Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1953",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200010113,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Taylor R bl Taylor Park Reservoir",
+    "elevation": "9170",
+    "basinarea": null,
+    "awdb_id": "09109209",
+    "usgs_id": "9109209",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "taylor park reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Lwr Willow Ck nr Hall",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1964",
+    "countyname": "Granite",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102020403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Lwr Willow Ck nr Hall",
+    "elevation": "4750",
+    "basinarea": null,
+    "awdb_id": "12330700",
+    "usgs_id": "12330700",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -7281,6 +7281,22 @@
   ],
   "properties": {
     "name": "Utah Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1953",
+    "countyname": "Utah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202011002,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Utah Lake Inflow",
+    "elevation": "4500",
+    "basinarea": null,
+    "awdb_id": "10166605",
+    "usgs_id": "10166605",
+    "usgsname": "JORDAN RIVER AT LEHI BRIDGE NEAR LEHI, UTAH",
+    "forecastpoint": true,
+    "bagis_aoiname": "utah lake inflow",
+    "aoi_exist": true
   }
 }

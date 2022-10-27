@@ -13881,6 +13881,22 @@
   ],
   "properties": {
     "name": "Provo R at Woodland",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1961",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202030202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Provo R at Woodland",
+    "elevation": "6950",
+    "basinarea": 162.0,
+    "awdb_id": "10154200",
+    "usgs_id": "10154200",
+    "usgsname": "PROVO RIVER NEAR WOODLAND, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "provo r at woodland",
+    "aoi_exist": true
   }
 }

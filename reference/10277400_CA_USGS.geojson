@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Owens R bl Tinemaha Re nr Big Pine CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1974",
+    "countyname": "Inyo",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180901030101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Owens R bl Tinemaha Re nr Big Pine CA",
+    "elevation": "3880",
+    "basinarea": 1964.0,
+    "awdb_id": "10277400",
+    "usgs_id": "10277400",
+    "usgsname": "OWENS R BL TINEMAHA RE NR BIG PINE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

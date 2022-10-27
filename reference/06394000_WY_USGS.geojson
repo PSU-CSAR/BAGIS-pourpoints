@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Beaver Ck nr Newcastle",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1944",
+    "countyname": "Weston",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101201070408,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver Ck nr Newcastle",
+    "elevation": "3660",
+    "basinarea": 1320.0,
+    "awdb_id": "06394000",
+    "usgs_id": "6394000",
+    "usgsname": "BEAVER CREEK NEAR NEWCASTLE, WYO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

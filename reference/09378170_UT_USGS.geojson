@@ -2409,6 +2409,22 @@
   ],
   "properties": {
     "name": "South Ck ab Resv nr Monticello",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1985",
+    "countyname": "San Juan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140802030105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Ck ab Resv nr Monticello",
+    "elevation": "7170",
+    "basinarea": 8.64,
+    "awdb_id": "09378170",
+    "usgs_id": "9378170",
+    "usgsname": "SOUTH CREEK ABOVE RESERVOIR NEAR MONTICELLO, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

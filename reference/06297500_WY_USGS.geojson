@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Highline Ditch nr Dayton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1920",
+    "countyname": "Sheridan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100901010207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Highline Ditch nr Dayton",
+    "elevation": "4100",
+    "basinarea": null,
+    "awdb_id": "06297500",
+    "usgs_id": "6297500",
+    "usgsname": "HIGHLINE DITCH NEAR DAYTON, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

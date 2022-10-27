@@ -32129,6 +32129,22 @@
   ],
   "properties": {
     "name": "Stillwater R nr Absarokee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Stillwater",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700050605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stillwater R nr Absarokee",
+    "elevation": "3874",
+    "basinarea": 976.0,
+    "awdb_id": "06205000",
+    "usgs_id": "6205000",
+    "usgsname": "Stillwater River near Absarokee MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "stillwater r nr absarokee",
+    "aoi_exist": true
   }
 }

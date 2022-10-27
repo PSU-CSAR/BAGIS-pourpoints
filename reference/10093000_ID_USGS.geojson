@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cub River Near Preston, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1940",
+    "countyname": "Franklin",
+    "enddate": "2010-10-03T07:00:00Z",
+    "active": false,
+    "huc": 160102020501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cub River Near Preston, ID",
+    "elevation": "5285",
+    "basinarea": 31.6,
+    "awdb_id": "10093000",
+    "usgs_id": "10093000",
+    "usgsname": "CUB RIVER NEAR PRESTON, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

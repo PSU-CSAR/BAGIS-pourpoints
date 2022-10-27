@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clearwater R nr Clearwater",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1974",
+    "countyname": "Missoula",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102031202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clearwater R nr Clearwater",
+    "elevation": "3814",
+    "basinarea": 346.0,
+    "awdb_id": "12339450",
+    "usgs_id": "12339450",
+    "usgsname": "Clearwater River near Clearwater MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

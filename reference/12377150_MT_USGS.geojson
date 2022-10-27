@@ -3145,6 +3145,22 @@
   ],
   "properties": {
     "name": "Mission Ck nr St. Ignatius",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/28/1982",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102120503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mission Ck nr St. Ignatius",
+    "elevation": "3460",
+    "basinarea": 12.4,
+    "awdb_id": "12377150",
+    "usgs_id": "12377150",
+    "usgsname": "Mission Creek ab reservoir nr St. Ignatius MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Mission Creek ab reservoir nr St. Ignatius MT",
+    "aoi_exist": true
   }
 }

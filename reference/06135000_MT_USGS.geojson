@@ -122881,6 +122881,22 @@
   ],
   "properties": {
     "name": "Milk R at Eastern Crossing Of Intl Bndry",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Hill",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100500020802,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Milk R at Eastern Crossing Of Intl Bndry",
+    "elevation": "2660",
+    "basinarea": 2452.0,
+    "awdb_id": "06135000",
+    "usgs_id": "6135000",
+    "usgsname": "Milk River at Eastern Crossing of Int Bndry",
+    "forecastpoint": false,
+    "bagis_aoiname": "Milk R at Eastern Crossing of Int'l Bndry",
+    "aoi_exist": true
   }
 }

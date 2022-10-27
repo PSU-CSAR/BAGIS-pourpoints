@@ -5241,6 +5241,22 @@
   ],
   "properties": {
     "name": "Manti Ck bl Dugway Ck nr Manti",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1964",
+    "countyname": "Sanpete",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300040501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Manti Ck bl Dugway Ck nr Manti",
+    "elevation": "6500",
+    "basinarea": 26.4,
+    "awdb_id": "10215900",
+    "usgs_id": "10215900",
+    "usgsname": "MANTI CREEK BLW DUGWAY CREEK, NR MANTI, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "manti ck bl dugway ck nr manti",
+    "aoi_exist": true
   }
 }

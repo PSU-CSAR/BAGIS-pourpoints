@@ -2457,6 +2457,22 @@
   ],
   "properties": {
     "name": "Lilylands Reservoir Inlet",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/1/1901",
+    "countyname": "San Miguel",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140300030401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lilylands Reservoir Inlet",
+    "elevation": "8100",
+    "basinarea": null,
+    "awdb_id": "09174800",
+    "usgs_id": "9174800",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "lilylands reservoir inlet",
+    "aoi_exist": true
   }
 }

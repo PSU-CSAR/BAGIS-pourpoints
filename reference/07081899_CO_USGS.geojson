@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Homestake Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1966",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Homestake Tunnel",
+    "elevation": "10091",
+    "basinarea": null,
+    "awdb_id": "07081899",
+    "usgs_id": "7081899",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

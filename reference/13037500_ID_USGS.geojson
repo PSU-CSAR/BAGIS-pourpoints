@@ -124361,6 +124361,22 @@
   ],
   "properties": {
     "name": "Snake R nr Heise",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Bonneville",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402010102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake R nr Heise",
+    "elevation": "5015",
+    "basinarea": 5752.0,
+    "awdb_id": "13037500",
+    "usgs_id": "13037500",
+    "usgsname": "SNAKE RIVER NR HEISE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Snake R nr Heise",
+    "aoi_exist": true
   }
 }

@@ -39465,6 +39465,22 @@
   ],
   "properties": {
     "name": "Clarks Fk Yellowstone R nr Belfry",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1921",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700060605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clarks Fk Yellowstone R nr Belfry",
+    "elevation": "3986",
+    "basinarea": 1152.0,
+    "awdb_id": "06207500",
+    "usgs_id": "6207500",
+    "usgsname": "Clarks Fork Yellowstone River nr Belfry MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "clarks fk yellowstone r nr belfry",
+    "aoi_exist": true
   }
 }

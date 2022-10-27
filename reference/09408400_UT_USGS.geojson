@@ -3913,6 +3913,22 @@
   ],
   "properties": {
     "name": "Santa Clara R nr Pine Valley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1959",
+    "countyname": "Washington",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150100080702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Santa Clara R nr Pine Valley",
+    "elevation": "6640",
+    "basinarea": 18.7,
+    "awdb_id": "09408400",
+    "usgs_id": "9408400",
+    "usgsname": "SANTA CLARA RIVER NEAR PINE VALLEY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "santa clara r nr pine valley",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Skyline Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/13/1922",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800100101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Skyline Ditch",
+    "elevation": "9015",
+    "basinarea": null,
+    "awdb_id": "CO0024",
+    "usgs_id": "CO0024",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Deep Ck nr Cedarville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/30/1941",
+    "countyname": "Modoc",
+    "enddate": "2000-01-01T08:00:00Z",
+    "active": false,
+    "huc": 180800010207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deep Ck nr Cedarville",
+    "elevation": "4650",
+    "basinarea": null,
+    "awdb_id": "NV-16",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

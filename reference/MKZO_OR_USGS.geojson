@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mckenzie River Near Vida",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/31/1910",
+    "countyname": "Lane",
+    "enddate": "2016-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170900040702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mckenzie River Near Vida",
+    "elevation": "950",
+    "basinarea": null,
+    "awdb_id": "MKZO",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

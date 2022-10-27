@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "South Santiam R nr Foster",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1973",
+    "countyname": "Linn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900060801,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Santiam R nr Foster",
+    "elevation": "530",
+    "basinarea": 557.0,
+    "awdb_id": "14187200",
+    "usgs_id": "14187200",
+    "usgsname": "SOUTH SANTIAM RIVER NEAR FOSTER, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "South Santiam R at Foster",
+    "aoi_exist": true
   }
 }

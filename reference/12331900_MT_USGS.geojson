@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clark Fk nr Clinton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1979",
+    "countyname": "Missoula",
+    "enddate": "1994-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102021402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clark Fk nr Clinton",
+    "elevation": "3580",
+    "basinarea": 2650.0,
+    "awdb_id": "12331900",
+    "usgs_id": "12331900",
+    "usgsname": "Clark Fork near Clinton MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

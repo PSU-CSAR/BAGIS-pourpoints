@@ -16577,6 +16577,22 @@
   ],
   "properties": {
     "name": "Hood R at Tucker Bridge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18971020",
+    "countyname": "Hood River",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701050702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hood R at Tucker Bridge",
+    "elevation": "383",
+    "basinarea": 279.0,
+    "awdb_id": "14120000",
+    "usgs_id": "14120000",
+    "usgsname": "HOOD RIVER AT TUCKER BRIDGE, NEAR HOOD RIVER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Hood R at Tucker Bridge",
+    "aoi_exist": true
   }
 }

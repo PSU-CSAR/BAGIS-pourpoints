@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tobacco R at Eureka",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/11/2015",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170101010806,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tobacco R at Eureka",
+    "elevation": "2555",
+    "basinarea": 396.2,
+    "awdb_id": "12301250",
+    "usgs_id": "12301250",
+    "usgsname": "Tobacco River at Eureka, MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

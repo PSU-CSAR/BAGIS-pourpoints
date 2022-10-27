@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "St Mary R at Wycliffe, BC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "UNKNOWN",
+    "enddate": "1985-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101080000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St Mary R at Wycliffe, BC",
+    "elevation": "2850",
+    "basinarea": null,
+    "awdb_id": "12NG1200",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

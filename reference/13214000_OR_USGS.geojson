@@ -35969,6 +35969,22 @@
   ],
   "properties": {
     "name": "Malheur R nr Drewsey",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1926",
+    "countyname": "Harney",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501160701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Malheur R nr Drewsey",
+    "elevation": "3479",
+    "basinarea": 910.0,
+    "awdb_id": "13214000",
+    "usgs_id": "13214000",
+    "usgsname": "MALHEUR RIVER NEAR DREWSEY, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Malheur R nr Drewsey",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Indian Creek Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1960",
+    "countyname": "Costilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100020503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Indian Creek Diversion",
+    "elevation": "8300",
+    "basinarea": null,
+    "awdb_id": "CO0012",
+    "usgs_id": "CO0012",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

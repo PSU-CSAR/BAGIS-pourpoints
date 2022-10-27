@@ -31017,6 +31017,22 @@
   ],
   "properties": {
     "name": "Swan R nr Bigfork",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1922",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102110402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Swan R nr Bigfork",
+    "elevation": "3063",
+    "basinarea": 672.0,
+    "awdb_id": "12370000",
+    "usgs_id": "12370000",
+    "usgsname": "Swan River near Bigfork, MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Swan River near Bigfork, MT",
+    "aoi_exist": true
   }
 }

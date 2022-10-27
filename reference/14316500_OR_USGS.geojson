@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "North Umpqua River Near Tokatee Falls, O",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1949",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003010802,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Umpqua River Near Tokatee Falls, O",
+    "elevation": "1580",
+    "basinarea": 475.0,
+    "awdb_id": "14316500",
+    "usgs_id": "14316500",
+    "usgsname": "N UMPQUA RIVER ABV COPELAND CK NR TOKETEE FALLS,OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -14489,6 +14489,22 @@
   ],
   "properties": {
     "name": "Elkhead Creek blw Maynard Gulch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/10/1995",
+    "countyname": "Routt",
+    "enddate": "2008-07-10T07:00:00Z",
+    "active": false,
+    "huc": 140500010607,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Elkhead Creek blw Maynard Gulch",
+    "elevation": "6280",
+    "basinarea": 212.0,
+    "awdb_id": "09246400",
+    "usgs_id": "9246400",
+    "usgsname": "ELKHEAD CREEK BELOW MAYNARD GULCH, NEAR CRAIG, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": "elkhead creek bl maynard gulch (2)",
+    "aoi_exist": true
   }
 }

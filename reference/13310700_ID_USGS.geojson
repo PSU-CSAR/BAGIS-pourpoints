@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF Salmon R nr Krassel Ranger Station",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1966",
+    "countyname": "Valley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170602080412,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Salmon R nr Krassel Ranger Station",
+    "elevation": "3750",
+    "basinarea": 330.0,
+    "awdb_id": "13310700",
+    "usgs_id": "13310700",
+    "usgsname": "SF SALMON RIVER NR KRASSEL RANGER STATION ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -6169,6 +6169,22 @@
   ],
   "properties": {
     "name": "Ramah Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1956",
+    "countyname": "McKinley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150200040103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ramah Reservoir Inflow",
+    "elevation": "6934",
+    "basinarea": null,
+    "awdb_id": "09386921",
+    "usgs_id": "9386921",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "ramah reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

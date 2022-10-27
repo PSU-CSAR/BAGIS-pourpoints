@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Chuitna R nr Tyonek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1975",
+    "countyname": "Kenai Peninsula",
+    "enddate": "1986-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190206011806,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chuitna R nr Tyonek",
+    "elevation": "160",
+    "basinarea": 132.0,
+    "awdb_id": "15294450",
+    "usgs_id": "15294450",
+    "usgsname": "CHUITNA R NR TYONEK AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

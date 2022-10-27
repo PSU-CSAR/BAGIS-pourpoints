@@ -3649,6 +3649,22 @@
   ],
   "properties": {
     "name": "Taylor Ck nr Selleck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1956",
+    "countyname": "King",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100120104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Taylor Ck nr Selleck",
+    "elevation": "940",
+    "basinarea": 17.2,
+    "awdb_id": "12117000",
+    "usgs_id": "12117000",
+    "usgsname": "TAYLOR CREEK NEAR SELLECK, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Taylor Creek nr Selleck",
+    "aoi_exist": true
   }
 }

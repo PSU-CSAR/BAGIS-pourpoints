@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Columbia R at Arrow Lakes Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200010809,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Columbia R at Arrow Lakes Dam",
+    "elevation": "1510",
+    "basinarea": null,
+    "awdb_id": "008NE126",
+    "usgs_id": "008NE126",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

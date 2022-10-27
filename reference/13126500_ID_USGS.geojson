@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sharp Ditch Near Mackay, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/6/1912",
+    "countyname": "Custer",
+    "enddate": "1969-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170402180701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sharp Ditch Near Mackay, ID",
+    "elevation": "5900",
+    "basinarea": null,
+    "awdb_id": "13126500",
+    "usgs_id": "13126500",
+    "usgsname": "SHARP DITCH NR MACKAY ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

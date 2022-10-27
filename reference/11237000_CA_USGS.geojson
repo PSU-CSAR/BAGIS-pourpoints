@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big C bl Huntington Lk CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/9/1925",
+    "countyname": "Fresno",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400060904,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big C bl Huntington Lk CA",
+    "elevation": "6630",
+    "basinarea": 81.1,
+    "awdb_id": "11237000",
+    "usgs_id": "11237000",
+    "usgsname": "BIG C BL HUNTINGTON LK CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

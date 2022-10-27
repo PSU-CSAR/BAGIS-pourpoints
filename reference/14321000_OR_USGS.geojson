@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Umpqua nr Elkton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1905",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003030208,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Umpqua nr Elkton",
+    "elevation": "90",
+    "basinarea": 3683.0,
+    "awdb_id": "14321000",
+    "usgs_id": "14321000",
+    "usgsname": "UMPQUA RIVER NEAR ELKTON, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

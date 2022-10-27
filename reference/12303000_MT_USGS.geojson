@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kootenai R at Libby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Lincoln",
+    "enddate": "1991-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101011505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kootenai R at Libby",
+    "elevation": "2042",
+    "basinarea": 10179.0,
+    "awdb_id": "12303000",
+    "usgs_id": "12303000",
+    "usgsname": "Kootenai River at Libby MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

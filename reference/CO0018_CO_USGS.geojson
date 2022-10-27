@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pbww Municipal Outlet",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/2002",
+    "countyname": "Pueblo",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200020805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pbww Municipal Outlet",
+    "elevation": "4800",
+    "basinarea": null,
+    "awdb_id": "CO0018",
+    "usgs_id": "CO0018",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

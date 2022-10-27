@@ -7409,6 +7409,22 @@
   ],
   "properties": {
     "name": "Trapper Ck nr Oakley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1911",
+    "countyname": "Cassia",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402110303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Trapper Ck nr Oakley",
+    "elevation": "4820",
+    "basinarea": 52.0,
+    "awdb_id": "13083000",
+    "usgs_id": "13083000",
+    "usgsname": "TRAPPER CREEK NR OAKLEY ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Trapper Ck nr Oakley",
+    "aoi_exist": true
   }
 }

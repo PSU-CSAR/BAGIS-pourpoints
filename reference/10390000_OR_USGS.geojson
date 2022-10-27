@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Silver Ck nr Silver Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1905",
+    "countyname": "Lake",
+    "enddate": "2012-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171200050207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Silver Ck nr Silver Lake",
+    "elevation": "4361",
+    "basinarea": 180.0,
+    "awdb_id": "10390000",
+    "usgs_id": "10390000",
+    "usgsname": "SILVER CREEK NEAR SILVER LAKE, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "silver ck nr silver lake",
+    "aoi_exist": true
   }
 }

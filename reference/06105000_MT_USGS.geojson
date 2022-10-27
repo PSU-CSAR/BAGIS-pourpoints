@@ -10489,6 +10489,22 @@
   ],
   "properties": {
     "name": "Bynum Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/25/1912",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302050605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bynum Canal",
+    "elevation": "4150",
+    "basinarea": 37.7,
+    "awdb_id": "06105000",
+    "usgs_id": "6105000",
+    "usgsname": "Deep Cr at Frazier's ranch nr Choteau MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

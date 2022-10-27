@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Government Highline Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/30/2010",
+    "countyname": "Mesa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100051502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Government Highline Canal",
+    "elevation": "4750",
+    "basinarea": null,
+    "awdb_id": "CO0045",
+    "usgs_id": "CO0045",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

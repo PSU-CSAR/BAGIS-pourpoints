@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Red Blanket Creek nr Prospect",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/3/1925",
+    "countyname": "Jackson",
+    "enddate": "1982-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171003070204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Red Blanket Creek nr Prospect",
+    "elevation": "2780",
+    "basinarea": 45.5,
+    "awdb_id": "14333500",
+    "usgs_id": "14333500",
+    "usgsname": "RED BLANKET CREEK NEAR PROSPECT, OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

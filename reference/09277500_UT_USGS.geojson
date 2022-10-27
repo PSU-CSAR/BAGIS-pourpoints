@@ -26873,6 +26873,22 @@
   ],
   "properties": {
     "name": "Duchesne R nr Tabiona",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18890701",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Duchesne R nr Tabiona",
+    "elevation": "6190",
+    "basinarea": 353.0,
+    "awdb_id": "09277500",
+    "usgs_id": "9277500",
+    "usgsname": "DUCHESNE RIVER NEAR TABIONA, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "duchesne r nr tabiona (2)",
+    "aoi_exist": true
   }
 }

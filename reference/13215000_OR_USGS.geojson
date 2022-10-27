@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Malheur R bl Warmsprings Resv",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Malheur",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501160705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Malheur R bl Warmsprings Resv",
+    "elevation": "3305",
+    "basinarea": 1100.0,
+    "awdb_id": "13215000",
+    "usgs_id": "13215000",
+    "usgsname": "MALHEUR RIVER BEL WARMSPRINGS RES NR RIVERSIDE OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

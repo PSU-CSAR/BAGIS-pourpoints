@@ -5817,6 +5817,22 @@
   ],
   "properties": {
     "name": "Little Cottonwood Ck nr SLC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Salt Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202040202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Cottonwood Ck nr SLC",
+    "elevation": "5080",
+    "basinarea": 27.4,
+    "awdb_id": "10167500",
+    "usgs_id": "10167500",
+    "usgsname": "LITTLE COTTONWOOD CREEK NR SALT LAKE CITY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "little cottonwood ck nr slc",
+    "aoi_exist": true
   }
 }

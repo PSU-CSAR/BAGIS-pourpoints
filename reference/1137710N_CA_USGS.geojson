@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sacramento R ab Bend Bridge nr Red Bluff",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18911031",
+    "countyname": "Tehama",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201550402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sacramento R ab Bend Bridge nr Red Bluff",
+    "elevation": "286",
+    "basinarea": null,
+    "awdb_id": "1137710N",
+    "usgs_id": "1137710N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

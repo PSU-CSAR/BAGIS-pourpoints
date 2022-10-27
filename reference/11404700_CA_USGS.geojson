@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Feather R nr Big Bar",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Butte",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201210803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Feather R nr Big Bar",
+    "elevation": "1306",
+    "basinarea": null,
+    "awdb_id": "11404700",
+    "usgs_id": "11404700",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

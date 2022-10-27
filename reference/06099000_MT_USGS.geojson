@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cut Bank Ck at Cut Bank",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1905",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302020705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cut Bank Ck at Cut Bank",
+    "elevation": "3550",
+    "basinarea": 1032.0,
+    "awdb_id": "06099000",
+    "usgs_id": "6099000",
+    "usgsname": "Cut Bank Creek at Cut Bank MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -14569,6 +14569,22 @@
   ],
   "properties": {
     "name": "Rimrock Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1909",
+    "countyname": "Yakima",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300020306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rimrock Lake Inflow",
+    "elevation": "2681",
+    "basinarea": 187.0,
+    "awdb_id": "12491500",
+    "usgs_id": "12491500",
+    "usgsname": "TIETON RIVER AT TIETON DAM NEAR NACHES, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Rimrock Lake Inflow",
+    "aoi_exist": true
   }
 }

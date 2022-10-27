@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Snake R nr Shelley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1915",
+    "countyname": "Bingham",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402060301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake R nr Shelley",
+    "elevation": "4599",
+    "basinarea": 9790.0,
+    "awdb_id": "13060000",
+    "usgs_id": "13060000",
+    "usgsname": "SNAKE RIVER NR SHELLEY ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

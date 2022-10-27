@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Willamette Valley Local Flow, OR",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Benton",
+    "enddate": "2000-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170900030403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willamette Valley Local Flow, OR",
+    "elevation": "170",
+    "basinarea": 28.3,
+    "awdb_id": "14100000",
+    "usgs_id": "14100000",
+    "usgsname": "GATE CREEK AT WAMIC,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

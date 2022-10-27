@@ -2025,6 +2025,22 @@
   ],
   "properties": {
     "name": "SF Tolt R nr Index",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1959",
+    "countyname": "King",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100100503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Tolt R nr Index",
+    "elevation": "1850",
+    "basinarea": 5.34,
+    "awdb_id": "12147600",
+    "usgs_id": "12147600",
+    "usgsname": "SOUTH FORK TOLT RIVER NEAR INDEX, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "South Fork Tolt Rv near Index",
+    "aoi_exist": true
   }
 }

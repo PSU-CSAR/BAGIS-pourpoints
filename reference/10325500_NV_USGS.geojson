@@ -8089,6 +8089,22 @@
   ],
   "properties": {
     "name": "Reese R nr Ione",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1951",
+    "countyname": "Nye",
+    "enddate": "1980-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160401070102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Reese R nr Ione",
+    "elevation": "7100",
+    "basinarea": 53.0,
+    "awdb_id": "10325500",
+    "usgs_id": "10325500",
+    "usgsname": "REESE RV NR IONE, NV",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

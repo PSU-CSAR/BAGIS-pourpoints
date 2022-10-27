@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Nowood R nr Ten Sleep",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1938",
+    "countyname": "Washakie",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800080406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Nowood R nr Ten Sleep",
+    "elevation": "4420",
+    "basinarea": 803.0,
+    "awdb_id": "06270000",
+    "usgs_id": "6270000",
+    "usgsname": "NOWOOD RIVER NEAR TENSLEEP, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

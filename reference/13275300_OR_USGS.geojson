@@ -12425,6 +12425,22 @@
   ],
   "properties": {
     "name": "Powder R nr Sumpter",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1965",
+    "countyname": "Baker",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170502030201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Powder R nr Sumpter",
+    "elevation": "3898",
+    "basinarea": 168.0,
+    "awdb_id": "13275300",
+    "usgs_id": "13275300",
+    "usgsname": "POWDER RIVER NEAR SUMPTER, OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Powder R nr Sumpter",
+    "aoi_exist": true
   }
 }

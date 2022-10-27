@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Boulder Ck at Maxville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Granite",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102020303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boulder Ck at Maxville",
+    "elevation": "4750",
+    "basinarea": 70.5,
+    "awdb_id": "12330000",
+    "usgs_id": "12330000",
+    "usgsname": "Boulder Creek at Maxville MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

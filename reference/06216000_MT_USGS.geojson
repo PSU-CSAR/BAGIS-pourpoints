@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pryor Ck at Pryor",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1921",
+    "countyname": "Big Horn",
+    "enddate": "2009-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100700080105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pryor Ck at Pryor",
+    "elevation": "4007",
+    "basinarea": 118.0,
+    "awdb_id": "06216000",
+    "usgs_id": "6216000",
+    "usgsname": "Pryor Creek at Pryor MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Jack Ck nr Ennis",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1973",
+    "countyname": "Madison",
+    "enddate": "1992-09-30T07:00:00Z",
+    "active": false,
+    "huc": 100200071003,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Jack Ck nr Ennis",
+    "elevation": "5600",
+    "basinarea": 51.3,
+    "awdb_id": "06040300",
+    "usgs_id": "6040300",
+    "usgsname": "Jack Creek near Ennis MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

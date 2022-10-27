@@ -11049,6 +11049,22 @@
   ],
   "properties": {
     "name": "Willow Ck bl Willow Ck Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1919",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willow Ck bl Willow Ck Reservoir",
+    "elevation": "8024",
+    "basinarea": 134.0,
+    "awdb_id": "09021000",
+    "usgs_id": "9021000",
+    "usgsname": "WILLOW CREEK BELOW WILLOW CREEK RESERVOIR, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

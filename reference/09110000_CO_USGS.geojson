@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Taylor - Almont",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/27/1910",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200020107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Taylor - Almont",
+    "elevation": "8011",
+    "basinarea": 476.0,
+    "awdb_id": "09110000",
+    "usgs_id": "9110000",
+    "usgsname": "TAYLOR RIVER AT ALMONT, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

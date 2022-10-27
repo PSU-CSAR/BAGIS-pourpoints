@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pleasant Ck nr Mount Pleasant, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1954",
+    "countyname": "Sanpete",
+    "enddate": "2014-04-01T07:00:00Z",
+    "active": false,
+    "huc": 160300040205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pleasant Ck nr Mount Pleasant, UT",
+    "elevation": "6760",
+    "basinarea": 16.4,
+    "awdb_id": "10210000",
+    "usgs_id": "10210000",
+    "usgsname": "PLEASANT CREEK NEAR MOUNT PLEASANT, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

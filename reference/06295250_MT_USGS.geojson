@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rosebud Ck nr Colstrip",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1974",
+    "countyname": "Rosebud",
+    "enddate": "2006-10-01T07:00:00Z",
+    "active": false,
+    "huc": 101000030509,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rosebud Ck nr Colstrip",
+    "elevation": "3000",
+    "basinarea": 800.0,
+    "awdb_id": "06295250",
+    "usgs_id": "6295250",
+    "usgsname": "Rosebud Creek near Colstrip MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

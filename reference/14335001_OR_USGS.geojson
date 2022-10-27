@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lost Creek Lk Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1967",
+    "countyname": "Jackson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003070300,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lost Creek Lk Inflow",
+    "elevation": "1580",
+    "basinarea": null,
+    "awdb_id": "14335001",
+    "usgs_id": "14335001",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

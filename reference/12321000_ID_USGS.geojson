@@ -10097,6 +10097,22 @@
   ],
   "properties": {
     "name": "Smith Ck nr Porthill",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/12/1928",
+    "countyname": "Boundary",
+    "enddate": "2004-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101040711,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Smith Ck nr Porthill",
+    "elevation": "1770",
+    "basinarea": 70.0,
+    "awdb_id": "12321000",
+    "usgs_id": "12321000",
+    "usgsname": "SMITH CREEK NR PORTHILL ID",
+    "forecastpoint": false,
+    "bagis_aoiname": "SMITH CREEK NR PORTHILL ID",
+    "aoi_exist": true
   }
 }

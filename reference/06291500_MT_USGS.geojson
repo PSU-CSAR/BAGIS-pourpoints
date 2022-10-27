@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Lodge Grass Ck nr WyoLa",
-    "source": "ref"
+    "name": "Lodge Grass Ck nr Wyola",
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Big Horn",
+    "enddate": "2009-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800160303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lodge Grass Ck nr Wyola",
+    "elevation": "4170",
+    "basinarea": 83.9,
+    "awdb_id": "06291500",
+    "usgs_id": "6291500",
+    "usgsname": "Lodge Grass Cr ab Willow Cr diversion, nr Wyola MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

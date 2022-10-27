@@ -18177,6 +18177,22 @@
   ],
   "properties": {
     "name": "Crane Prairie Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1922",
+    "countyname": "Deschutes",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703010207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Crane Prairie Reservoir Inflow",
+    "elevation": "4420",
+    "basinarea": 254.0,
+    "awdb_id": "14053500",
+    "usgs_id": "14053500",
+    "usgsname": "CRANE PRAIRIE RESERVOIR NEAR LA PINE,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Crane Prairie Reservoir Inflow",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Feather R nr Prattville CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1906",
+    "countyname": "Plumas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201210407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Feather R nr Prattville CA",
+    "elevation": "4390.09",
+    "basinarea": 493.0,
+    "awdb_id": "11399500",
+    "usgs_id": "11399500",
+    "usgsname": "NF FEATHER R NR PRATTVILLE CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

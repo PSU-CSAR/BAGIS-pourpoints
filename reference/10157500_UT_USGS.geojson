@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Daniels Ck at Charleston",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1993",
+    "countyname": "Wasatch",
+    "enddate": "2015-07-01T07:00:00Z",
+    "active": false,
+    "huc": 160202030401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Daniels Ck at Charleston",
+    "elevation": "5420",
+    "basinarea": 50.1,
+    "awdb_id": "10157500",
+    "usgs_id": "10157500",
+    "usgsname": "DANIELS CREEK AT CHARLESTON, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

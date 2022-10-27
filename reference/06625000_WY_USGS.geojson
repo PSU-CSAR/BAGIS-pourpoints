@@ -19377,6 +19377,22 @@
   ],
   "properties": {
     "name": "Encampment R nr Encampment",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1940",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800020408,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Encampment R nr Encampment",
+    "elevation": "6970",
+    "basinarea": 265.0,
+    "awdb_id": "06625000",
+    "usgs_id": "6625000",
+    "usgsname": "ENCAMPMENT RIVER AT MOUTH, NEAR ENCAMPMENT, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "encampment r nr encampment",
+    "aoi_exist": true
   }
 }

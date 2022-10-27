@@ -68129,6 +68129,22 @@
   ],
   "properties": {
     "name": "Yakima R nr Parker",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/25/1908",
+    "countyname": "Yakima",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300030501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yakima R nr Parker",
+    "elevation": "886",
+    "basinarea": 3660.0,
+    "awdb_id": "12505001",
+    "usgs_id": "12505001",
+    "usgsname": "YAKIMA RIVER (FLOW MODEL) NEAR PARKER, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Yakima R nr Parker",
+    "aoi_exist": true
   }
 }

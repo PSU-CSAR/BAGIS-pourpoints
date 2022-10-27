@@ -22777,6 +22777,22 @@
   ],
   "properties": {
     "name": "Burnt R nr Hereford",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1915",
+    "countyname": "Baker",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170502020401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Burnt R nr Hereford",
+    "elevation": "3758",
+    "basinarea": 309.0,
+    "awdb_id": "13273000",
+    "usgs_id": "13273000",
+    "usgsname": "BURNT RIVER NEAR HEREFORD, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Burnt R nr Hereford",
+    "aoi_exist": true
   }
 }

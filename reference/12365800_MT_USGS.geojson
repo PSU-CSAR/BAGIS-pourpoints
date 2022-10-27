@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Swift Ck nr Whitefish",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1972",
+    "countyname": "Flathead",
+    "enddate": "1981-10-02T07:00:00Z",
+    "active": false,
+    "huc": 170102100505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Swift Ck nr Whitefish",
+    "elevation": "3003",
+    "basinarea": 76.5,
+    "awdb_id": "12365800",
+    "usgs_id": "12365800",
+    "usgsname": "Swift Creek near Whitefish MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

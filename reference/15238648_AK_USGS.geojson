@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "begindate": "7/2/1992",
+    "countyname": "Kenai Peninsula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190202021002,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Upper Nuka R nr Park Boundary nr Homer",
+    "name": "Upper Nuka R nr Park Boundary nr Homer",
+    "elevation": "1300",
+    "basinarea": 5.0,
+    "awdb_id": "15238648",
+    "usgs_id": "15238648",
+    "usgsname": "UPPER NUKA R NR PARK BOUNDARY NR HOMER AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.703323399622,
+      59.6844406098131
+    ]
+  },
+  "id": "15238648:AK:USGS"
+}

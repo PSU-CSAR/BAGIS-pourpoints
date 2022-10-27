@@ -38089,6 +38089,22 @@
   ],
   "properties": {
     "name": "SF Owyhee R nr Whiterock",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1955",
+    "countyname": "Elko",
+    "enddate": "1981-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170501050802,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Owyhee R nr Whiterock",
+    "elevation": "4900",
+    "basinarea": 1080.0,
+    "awdb_id": "13177800",
+    "usgs_id": "13177800",
+    "usgsname": "S FK OWYHEE RV NR WHITEROCK, NV",
+    "forecastpoint": false,
+    "bagis_aoiname": "SF Owyhee R nr Whiterock",
+    "aoi_exist": true
   }
 }

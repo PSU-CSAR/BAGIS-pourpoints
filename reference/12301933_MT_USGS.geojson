@@ -157217,6 +157217,22 @@
   ],
   "properties": {
     "name": "Libby Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170101011211,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Libby Reservoir Inflow",
+    "elevation": "2100",
+    "basinarea": 8999.0,
+    "awdb_id": "12301933",
+    "usgs_id": "12301933",
+    "usgsname": "Kootenai River bl Libby Dam nr Libby MT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

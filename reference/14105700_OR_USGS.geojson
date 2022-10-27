@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Columbia R at The Dalles",
-    "source": "ref"
+    "name": "Columbia R at The Dalles-NWS",
+    "source": "ref",
+    "begindate": "18780601",
+    "countyname": "Wasco",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701050406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Columbia R at The Dalles-NWS",
+    "elevation": "120",
+    "basinarea": 237000.0,
+    "awdb_id": "14105700",
+    "usgs_id": "14105700",
+    "usgsname": "COLUMBIA RIVER AT THE DALLES, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

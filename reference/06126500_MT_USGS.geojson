@@ -77217,6 +77217,22 @@
   ],
   "properties": {
     "name": "Musselshell R nr Roundup",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1946",
+    "countyname": "Musselshell",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100402020401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Musselshell R nr Roundup",
+    "elevation": "3188",
+    "basinarea": 3998.0,
+    "awdb_id": "06126500",
+    "usgs_id": "6126500",
+    "usgsname": "Musselshell River near Roundup MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Musselshell R nr Roundup",
+    "aoi_exist": true
   }
 }

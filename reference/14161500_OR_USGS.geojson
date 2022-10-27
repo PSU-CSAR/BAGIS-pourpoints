@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lookout Creek nr Blue River",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900040403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lookout Creek nr Blue River",
+    "elevation": "1378",
+    "basinarea": 24.1,
+    "awdb_id": "14161500",
+    "usgs_id": "14161500",
+    "usgsname": "LOOKOUT CREEK NEAR BLUE RIVER, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

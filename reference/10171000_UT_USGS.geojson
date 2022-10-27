@@ -77049,6 +77049,22 @@
   ],
   "properties": {
     "name": "Dell Fk nr SLC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1942",
+    "countyname": "Salt Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202040302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dell Fk nr SLC",
+    "elevation": "5800",
+    "basinarea": 3438.0,
+    "awdb_id": "10171000",
+    "usgs_id": "10171000",
+    "usgsname": "JORDAN RIVER @ 1700 SOUTH @ SALT LAKE CITY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "dell fk nr slc",
+    "aoi_exist": true
   }
 }

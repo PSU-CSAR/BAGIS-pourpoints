@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Alva B. Adams Tunnel at East Portal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900060203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Alva B. Adams Tunnel at East Portal",
+    "elevation": "8199",
+    "basinarea": null,
+    "awdb_id": "09013000",
+    "usgs_id": "9013000",
+    "usgsname": "ALVA B ADAMS TUN AT E PORTAL, NR ESTES PARK, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

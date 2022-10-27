@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "La Cueva Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1956",
+    "countyname": "Mora",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800040308,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "La Cueva Canal",
+    "elevation": "7100",
+    "basinarea": null,
+    "awdb_id": "07215000",
+    "usgs_id": "7215000",
+    "usgsname": "LA CUEVA CANAL AT LA CUEVA, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

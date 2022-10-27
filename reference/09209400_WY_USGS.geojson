@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Green R nr La Barge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1963",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401011302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Green R nr La Barge",
+    "elevation": "6520",
+    "basinarea": 3910.0,
+    "awdb_id": "09209400",
+    "usgs_id": "9209400",
+    "usgsname": "GREEN RIVER NEAR LA BARGE, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

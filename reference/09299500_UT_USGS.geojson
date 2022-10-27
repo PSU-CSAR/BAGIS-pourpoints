@@ -10097,6 +10097,22 @@
   ],
   "properties": {
     "name": "Whiterocks R nr Whiterocks",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Uintah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600031204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Whiterocks R nr Whiterocks",
+    "elevation": "7200",
+    "basinarea": 109.0,
+    "awdb_id": "09299500",
+    "usgs_id": "9299500",
+    "usgsname": "WHITEROCKS RIVER NEAR WHITEROCKS, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "whiterocks r nr whiterocks",
+    "aoi_exist": true
   }
 }

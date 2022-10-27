@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Melones Reservoir at Melones Dam, Ca (Nw",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Calaveras",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400100605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Melones Reservoir at Melones Dam, Ca (Nw",
+    "elevation": "614",
+    "basinarea": null,
+    "awdb_id": "1129900N",
+    "usgs_id": "1129900N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

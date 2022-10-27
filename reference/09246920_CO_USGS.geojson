@@ -6169,6 +6169,22 @@
   ],
   "properties": {
     "name": "Fortification Creek Nr. Fortification",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1984",
+    "countyname": "Moffat",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 140500010702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fortification Creek Nr. Fortification",
+    "elevation": "6520",
+    "basinarea": 40.0,
+    "awdb_id": "09246920",
+    "usgs_id": "9246920",
+    "usgsname": "FORTIFICATION CREEK NEAR FORTIFICATION, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": "fortification ck nr fortification",
+    "aoi_exist": true
   }
 }

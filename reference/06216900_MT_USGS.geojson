@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pryor Ck nr Huntley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1978",
+    "countyname": "Yellowstone",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700080305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pryor Ck nr Huntley",
+    "elevation": "3140",
+    "basinarea": 574.0,
+    "awdb_id": "06216900",
+    "usgs_id": "6216900",
+    "usgsname": "Pryor Creek nr Huntley MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

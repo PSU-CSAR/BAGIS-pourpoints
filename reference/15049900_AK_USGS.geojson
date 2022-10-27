@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gold Ck nr Juneau",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1984",
+    "countyname": "Juneau",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190103010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gold Ck nr Juneau",
+    "elevation": "250",
+    "basinarea": 8.9,
+    "awdb_id": "15049900",
+    "usgs_id": "15049900",
+    "usgsname": "GOLD C NR JUNEAU AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -11105,6 +11105,22 @@
   ],
   "properties": {
     "name": "Mammoth Ck nr Hatch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1964",
+    "countyname": "Garfield",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300010204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mammoth Ck nr Hatch",
+    "elevation": "7300",
+    "basinarea": 105.0,
+    "awdb_id": "10173450",
+    "usgs_id": "10173450",
+    "usgsname": "MAMMOTH CREEK ABV WEST HATCH DITCH, NEAR HATCH, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "mammoth ck nr hatch",
+    "aoi_exist": true
   }
 }

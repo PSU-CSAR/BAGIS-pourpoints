@@ -3665,6 +3665,22 @@
   ],
   "properties": {
     "name": "Settlement Ck nr Tooele",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1966",
+    "countyname": "Tooele",
+    "enddate": "2001-08-01T07:00:00Z",
+    "active": false,
+    "huc": 160203040401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Settlement Ck nr Tooele",
+    "elevation": "5380",
+    "basinarea": 16.8,
+    "awdb_id": "10172791",
+    "usgs_id": "10172791",
+    "usgsname": "SETTLEMENT CREEK ABOVE RESERVOIR NEAR TOOELE, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": "settlement ck nr tooele",
+    "aoi_exist": true
   }
 }

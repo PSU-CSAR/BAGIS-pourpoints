@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bighorn R at Bighorn",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1945",
+    "countyname": "Treasure",
+    "enddate": "1981-10-01T07:00:00Z",
+    "active": false,
+    "huc": 101000010303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bighorn R at Bighorn",
+    "elevation": "2690",
+    "basinarea": 22889.0,
+    "awdb_id": "06294700",
+    "usgs_id": "6294700",
+    "usgsname": "Bighorn River at Bighorn MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

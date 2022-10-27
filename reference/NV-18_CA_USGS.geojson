@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mill Ck nr Cedarville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/30/1941",
+    "countyname": "Modoc",
+    "enddate": "2000-01-01T08:00:00Z",
+    "active": false,
+    "huc": 180800010107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mill Ck nr Cedarville",
+    "elevation": "4900",
+    "basinarea": null,
+    "awdb_id": "NV-18",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Middle Santiam bl Green Peter Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1965",
+    "countyname": "Linn",
+    "enddate": "2004-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170900060402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Middle Santiam bl Green Peter Lake",
+    "elevation": "733",
+    "basinarea": 273.0,
+    "awdb_id": "14186200",
+    "usgs_id": "14186200",
+    "usgsname": "MIDDLE SANTIAM R BLW GREEN PETER DAM NR FOSTER, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Middle Santiam R nr Foster",
+    "aoi_exist": true
   }
 }

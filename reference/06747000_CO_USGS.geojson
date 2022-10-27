@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Laramie-Poudre Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1931",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800100101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Laramie-Poudre Tunnel",
+    "elevation": "9557",
+    "basinarea": null,
+    "awdb_id": "06747000",
+    "usgs_id": "6747000",
+    "usgsname": "LARAMIE-POUDRE TUNNEL NEAR CHAMBERS LAKE, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

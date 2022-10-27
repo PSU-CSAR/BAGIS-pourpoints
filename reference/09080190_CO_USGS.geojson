@@ -13961,6 +13961,22 @@
   ],
   "properties": {
     "name": "Frying Pan R at Ruedi",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1974",
+    "countyname": "Pitkin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100040505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Frying Pan R at Ruedi",
+    "elevation": "7766",
+    "basinarea": 223.0,
+    "awdb_id": "09080190",
+    "usgs_id": "9080190",
+    "usgsname": "RUEDI RESERVOIR NEAR BASALT, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "ruedi reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

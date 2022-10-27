@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Usgs Gw 061 N32 E45 11daca1 Usgs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1994",
+    "countyname": "Lander",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401050602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Usgs Gw 061 N32 E45 11daca1 Usgs",
+    "elevation": "4611",
+    "basinarea": null,
+    "awdb_id": "N32E45",
+    "usgs_id": "N32E45",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

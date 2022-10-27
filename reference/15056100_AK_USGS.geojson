@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Skagway R at Skagway AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1963",
+    "countyname": "UNKNOWN",
+    "enddate": "1986-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190103030205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Skagway R at Skagway AK",
+    "elevation": "20",
+    "basinarea": 134.0,
+    "awdb_id": "15056100",
+    "usgs_id": "15056100",
+    "usgsname": "SKAGWAY R AT SKAGWAY AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

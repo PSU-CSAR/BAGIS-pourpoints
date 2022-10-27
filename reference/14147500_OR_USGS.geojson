@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Of Mf Willamette River nr Oakridge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Lane",
+    "enddate": "1994-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170900010505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Of Mf Willamette River nr Oakridge",
+    "elevation": "1030",
+    "basinarea": 246.0,
+    "awdb_id": "14147500",
+    "usgs_id": "14147500",
+    "usgsname": "N FK OF M FK WILLAMETTE R NR OAKRIDGE, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

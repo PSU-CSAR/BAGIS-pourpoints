@@ -35545,6 +35545,22 @@
   ],
   "properties": {
     "name": "NF Humboldt R at Devils Gate",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1913",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401020405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Humboldt R at Devils Gate",
+    "elevation": "5370",
+    "basinarea": 830.0,
+    "awdb_id": "10317500",
+    "usgs_id": "10317500",
+    "usgsname": "N FK HUMBOLDT RV AT DEVILS GATE NR HALLECK, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "NF Humboldt R at Devils Gate",
+    "aoi_exist": true
   }
 }

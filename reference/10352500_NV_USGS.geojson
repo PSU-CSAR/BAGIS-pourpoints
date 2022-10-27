@@ -18929,6 +18929,22 @@
   ],
   "properties": {
     "name": "Mcdermitt Ck nr Mcdermitt",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1948",
+    "countyname": "Humboldt",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160402010409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mcdermitt Ck nr Mcdermitt",
+    "elevation": "4545",
+    "basinarea": 225.0,
+    "awdb_id": "10352500",
+    "usgs_id": "10352500",
+    "usgsname": "MCDERMITT CK NR MCDERMITT, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "mcdermitt ck nr mcdermitt",
+    "aoi_exist": true
   }
 }

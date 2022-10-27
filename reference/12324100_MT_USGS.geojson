@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Racetrack Ck nr Anaconda",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1957",
+    "countyname": "Deer Lodge",
+    "enddate": "1973-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102010406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Racetrack Ck nr Anaconda",
+    "elevation": "5420",
+    "basinarea": 41.1,
+    "awdb_id": "12324100",
+    "usgs_id": "12324100",
+    "usgsname": "Racetrack C bl Granite C nr Anaconda MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

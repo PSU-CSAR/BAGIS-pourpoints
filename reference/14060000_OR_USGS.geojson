@@ -7761,6 +7761,22 @@
   ],
   "properties": {
     "name": "Crescent Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1912",
+    "countyname": "Klamath",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703020205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Crescent Lake Inflow",
+    "elevation": "4820",
+    "basinarea": 60.7,
+    "awdb_id": "14060000",
+    "usgs_id": "14060000",
+    "usgsname": "CRESCENT CR AT CRESCENT LAKE NR CRESCENT,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Crescent Lake Inflow",
+    "aoi_exist": true
   }
 }

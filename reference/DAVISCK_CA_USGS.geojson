@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Davis Ck",
-    "source": "ref"
+    "name": "Davis Ck nr Davis Creek",
+    "source": "ref",
+    "begindate": "4/30/1941",
+    "countyname": "Modoc",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180200010307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Davis Ck nr Davis Creek",
+    "elevation": "4730",
+    "basinarea": null,
+    "awdb_id": "DAVISCK",
+    "usgs_id": "DAVISCK",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

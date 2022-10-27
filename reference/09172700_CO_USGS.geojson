@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gurley Reservoir Inlet",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18950301",
+    "countyname": "San Miguel",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140300030302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gurley Reservoir Inlet",
+    "elevation": "9250",
+    "basinarea": null,
+    "awdb_id": "09172700",
+    "usgs_id": "9172700",
+    "usgsname": "GURLEY DITCH NEAR NORWOOD, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": "gurley reservoir inlet",
+    "aoi_exist": true
   }
 }

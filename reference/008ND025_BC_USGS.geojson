@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Columbia R at Mica Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200200000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Columbia R at Mica Dam",
+    "elevation": "1900",
+    "basinarea": null,
+    "awdb_id": "008ND025",
+    "usgs_id": "008ND025",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

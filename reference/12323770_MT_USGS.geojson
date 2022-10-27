@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Warm Springs Ck at Warm Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1983",
+    "countyname": "Deer Lodge",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102010401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Warm Springs Ck at Warm Springs",
+    "elevation": "4811",
+    "basinarea": 160.0,
+    "awdb_id": "12323770",
+    "usgs_id": "12323770",
+    "usgsname": "Warm Springs Creek at Warm Springs MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

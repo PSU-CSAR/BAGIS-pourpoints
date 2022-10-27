@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Feather R A Pulga CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1911",
+    "countyname": "Butte",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201210803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Feather R A Pulga CA",
+    "elevation": "1305",
+    "basinarea": 1953.0,
+    "awdb_id": "11404500",
+    "usgs_id": "11404500",
+    "usgsname": "NF FEATHER R A PULGA CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

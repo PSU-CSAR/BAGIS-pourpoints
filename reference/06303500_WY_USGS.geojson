@@ -6529,6 +6529,22 @@
   ],
   "properties": {
     "name": "Little Goose Ck nr Big Horn",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1941",
+    "countyname": "Sheridan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100901010106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Goose Ck nr Big Horn",
+    "elevation": "4860",
+    "basinarea": 51.6,
+    "awdb_id": "06303500",
+    "usgs_id": "6303500",
+    "usgsname": "LITTLE GOOSE CREEK IN CANYON, NEAR BIG HORN, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "little goose ck nr bighorn",
+    "aoi_exist": true
   }
 }

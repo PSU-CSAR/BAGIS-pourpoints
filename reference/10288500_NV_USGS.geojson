@@ -75457,6 +75457,22 @@
   ],
   "properties": {
     "name": "Walker Lake Elevation Change",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Mineral",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160503040500,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Walker Lake Elevation Change",
+    "elevation": "3900",
+    "basinarea": 4050.0,
+    "awdb_id": "10288500",
+    "usgs_id": "10288500",
+    "usgsname": "WALKER LAKE NR HAWTHORNE, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "walker lake elevation change",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Two Medicine R bl South Fork nr Browning",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1907",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302010106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Two Medicine R bl South Fork nr Browning",
+    "elevation": "3940",
+    "basinarea": 250.0,
+    "awdb_id": "06091700",
+    "usgs_id": "6091700",
+    "usgsname": "Two Medicine River bl South Fork nr Browning MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "two medicine r nr browning",
+    "aoi_exist": true
   }
 }

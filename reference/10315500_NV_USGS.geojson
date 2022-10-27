@@ -23465,6 +23465,22 @@
   ],
   "properties": {
     "name": "Marys R nr Deeth",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1943",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401010503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Marys R nr Deeth",
+    "elevation": "5504",
+    "basinarea": 415.0,
+    "awdb_id": "10315500",
+    "usgs_id": "10315500",
+    "usgsname": "MARYS RV ABV HOT SPGS CK NR DEETH, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "mary-s r nr deeth",
+    "aoi_exist": true
   }
 }

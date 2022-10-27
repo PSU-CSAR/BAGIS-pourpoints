@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Toats Coulee Creek nr Loomis, WA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1920",
+    "countyname": "Okanogan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200071804,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Toats Coulee Creek nr Loomis, WA",
+    "elevation": "1880",
+    "basinarea": 130.0,
+    "awdb_id": "12442000",
+    "usgs_id": "12442000",
+    "usgsname": "TOATS COULEE CREEK NEAR LOOMIS, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

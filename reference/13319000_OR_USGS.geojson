@@ -33249,6 +33249,22 @@
   ],
   "properties": {
     "name": "Grande Ronde R at La Grande",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1903",
+    "countyname": "Union",
+    "enddate": "2007-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170601040404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Grande Ronde R at La Grande",
+    "elevation": "2826",
+    "basinarea": 678.0,
+    "awdb_id": "13319000",
+    "usgs_id": "13319000",
+    "usgsname": "GRANDE RONDE R AT LA GRANDE, OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "Grande Ronde R at La Grande",
+    "aoi_exist": true
   }
 }

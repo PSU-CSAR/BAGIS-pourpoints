@@ -33425,6 +33425,22 @@
   ],
   "properties": {
     "name": "Salt R ab Reservoir nr Etna",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1953",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401050309,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salt R ab Reservoir nr Etna",
+    "elevation": "5676",
+    "basinarea": 857.0,
+    "awdb_id": "13027500",
+    "usgs_id": "13027500",
+    "usgsname": "SALT RIVER AB RESERVOIR NR ETNA WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "Salt R ab Reservoir nr Etna",
+    "aoi_exist": true
   }
 }

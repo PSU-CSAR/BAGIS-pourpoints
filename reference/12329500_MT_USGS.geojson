@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Flint Ck at Maxville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1941",
+    "countyname": "Granite",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102020204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Flint Ck at Maxville",
+    "elevation": "4828",
+    "basinarea": 206.0,
+    "awdb_id": "12329500",
+    "usgs_id": "12329500",
+    "usgsname": "Flint Creek at Maxville MT",
+    "forecastpoint": false,
+    "bagis_aoiname": "Flint Creek near Maxville MT",
+    "aoi_exist": true
   }
 }

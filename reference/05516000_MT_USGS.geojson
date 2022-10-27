@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lake Sherburne Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1912",
+    "countyname": "Glacier",
+    "enddate": "1973-09-01T07:00:00Z",
+    "active": false,
+    "huc": 90400010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Sherburne Inflow",
+    "elevation": "4730",
+    "basinarea": 135.0,
+    "awdb_id": "05516000",
+    "usgs_id": "5516000",
+    "usgsname": "YELLOW RIVER NEAR BREMEN, IND.",
+    "forecastpoint": false,
+    "bagis_aoiname": "lake sherburne inflow",
+    "aoi_exist": true
   }
 }

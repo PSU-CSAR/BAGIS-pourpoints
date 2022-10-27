@@ -8665,6 +8665,22 @@
   ],
   "properties": {
     "name": "Big Brush Ck ab Red Fleet Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1947",
+    "countyname": "Uintah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600100205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Brush Ck ab Red Fleet Reservoir",
+    "elevation": "5625",
+    "basinarea": 77.2,
+    "awdb_id": "09261700",
+    "usgs_id": "9261700",
+    "usgsname": "BIG BRUSH CRK ABV RED FLEET RES, NR VERNAL, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "big brush ck ab red fleet reservoir",
+    "aoi_exist": true
   }
 }

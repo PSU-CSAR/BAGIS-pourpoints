@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Barbara C nr Seldovia AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1972",
+    "countyname": "Kenai Peninsula",
+    "enddate": "1992-09-30T07:00:00Z",
+    "active": false,
+    "huc": 190203011204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Barbara C nr Seldovia AK",
+    "elevation": "40",
+    "basinarea": 20.7,
+    "awdb_id": "15238820",
+    "usgs_id": "15238820",
+    "usgsname": "BARABARA C NR SELDOVIA AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

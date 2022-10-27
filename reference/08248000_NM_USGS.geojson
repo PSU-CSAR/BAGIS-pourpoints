@@ -14577,6 +14577,22 @@
   ],
   "properties": {
     "name": "Los Pinos R nr Ortiz",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1915",
+    "countyname": "Rio Arriba",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100050204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Los Pinos R nr Ortiz",
+    "elevation": "8040",
+    "basinarea": 167.0,
+    "awdb_id": "08248000",
+    "usgs_id": "8248000",
+    "usgsname": "LOS PINOS RIVER NEAR ORTIZ, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "los pinos r nr ortiz",
+    "aoi_exist": true
   }
 }

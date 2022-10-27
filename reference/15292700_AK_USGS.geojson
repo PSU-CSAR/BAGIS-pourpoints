@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Talkeetna R nr Talkeetna",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1964",
+    "countyname": "Matanuska-Susitna",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190205030610,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Talkeetna R nr Talkeetna",
+    "elevation": "400",
+    "basinarea": 2010.0,
+    "awdb_id": "15292700",
+    "usgs_id": "15292700",
+    "usgsname": "TALKEETNA R NR TALKEETNA AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

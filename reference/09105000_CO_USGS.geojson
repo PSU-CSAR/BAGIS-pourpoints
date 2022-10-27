@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Plateau Ck - Cameo, Nr",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/26/1936",
+    "countyname": "Mesa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100051310,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Plateau Ck - Cameo, Nr",
+    "elevation": "4840",
+    "basinarea": 592.0,
+    "awdb_id": "09105000",
+    "usgs_id": "9105000",
+    "usgsname": "PLATEAU CREEK NEAR CAMEO, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

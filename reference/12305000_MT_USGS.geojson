@@ -179745,6 +179745,22 @@
   ],
   "properties": {
     "name": "Kootenai R at Leonia",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1928",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170101040203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kootenai R at Leonia",
+    "elevation": "1830",
+    "basinarea": 11740.0,
+    "awdb_id": "12305000",
+    "usgs_id": "12305000",
+    "usgsname": "KOOTENAI RIVER AT LEONIA, ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

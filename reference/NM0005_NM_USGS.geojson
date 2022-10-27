@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Vermejo Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/2011",
+    "countyname": "Colfax",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800010405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Vermejo Ditch",
+    "elevation": "6190",
+    "basinarea": null,
+    "awdb_id": "NM0005",
+    "usgs_id": "NM0005",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

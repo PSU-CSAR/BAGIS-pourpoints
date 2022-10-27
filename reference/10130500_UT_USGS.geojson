@@ -24769,6 +24769,22 @@
   ],
   "properties": {
     "name": "Weber R nr Coalville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1926",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weber R nr Coalville",
+    "elevation": "5600",
+    "basinarea": 435.0,
+    "awdb_id": "10130500",
+    "usgs_id": "10130500",
+    "usgsname": "WEBER RIVER NEAR COALVILLE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "weber r nr coalville",
+    "aoi_exist": true
   }
 }

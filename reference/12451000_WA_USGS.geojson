@@ -18289,6 +18289,22 @@
   ],
   "properties": {
     "name": "Stehekin R at Stehekin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Chelan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200090114,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stehekin R at Stehekin",
+    "elevation": "1099",
+    "basinarea": 321.0,
+    "awdb_id": "12451000",
+    "usgs_id": "12451000",
+    "usgsname": "STEHEKIN RIVER AT STEHEKIN, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Stehekin R at Stehekin",
+    "aoi_exist": true
   }
 }

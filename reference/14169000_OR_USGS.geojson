@@ -19121,6 +19121,22 @@
   ],
   "properties": {
     "name": "Fern Ridge Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1908",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900030109,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fern Ridge Lake Inflow",
+    "elevation": "332",
+    "basinarea": 252.0,
+    "awdb_id": "14169000",
+    "usgs_id": "14169000",
+    "usgsname": "LONG TOM RIVER NEAR ALVADORE, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Fern Ridge Lake Inflow",
+    "aoi_exist": true
   }
 }

@@ -113569,6 +113569,22 @@
   ],
   "properties": {
     "name": "Sevier R nr Gunnison",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1912",
+    "countyname": "Sanpete",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300030606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sevier R nr Gunnison",
+    "elevation": "5025",
+    "basinarea": 4921.0,
+    "awdb_id": "10217000",
+    "usgs_id": "10217000",
+    "usgsname": "SEVIER RIV BLW SAN PITCH RIV NR GUNNISON, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "sevier r nr gunnison",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cottonwood Ck nr Lakeview",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/22/1908",
+    "countyname": "Lake",
+    "enddate": "1999-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171200070106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cottonwood Ck nr Lakeview",
+    "elevation": "4949",
+    "basinarea": 32.9,
+    "awdb_id": "11340500",
+    "usgs_id": "11340500",
+    "usgsname": "COTTONWOOD CREEK NEAR LAKEVIEW,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

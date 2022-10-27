@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Minnequa Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1923",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200020407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Minnequa Canal",
+    "elevation": "5202",
+    "basinarea": null,
+    "awdb_id": "07096530",
+    "usgs_id": "7096530",
+    "usgsname": "MINNEQUA CANAL AT HEADGATE, NEAR FLORENCE, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

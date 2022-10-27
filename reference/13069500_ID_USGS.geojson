@@ -156849,6 +156849,22 @@
   ],
   "properties": {
     "name": "Snake R nr Blackfoot",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1910",
+    "countyname": "Bingham",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402061001,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Snake R nr Blackfoot",
+    "elevation": "4401",
+    "basinarea": 11310.0,
+    "awdb_id": "13069500",
+    "usgs_id": "13069500",
+    "usgsname": "SNAKE RIVER NR BLACKFOOT ID",
+    "forecastpoint": false,
+    "bagis_aoiname": "Snake R nr Blackfoot",
+    "aoi_exist": true
   }
 }

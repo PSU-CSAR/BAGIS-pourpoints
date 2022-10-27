@@ -15185,6 +15185,22 @@
   ],
   "properties": {
     "name": "St. Mary R nr Babb",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/14/1901",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 90400010404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St. Mary R nr Babb",
+    "elevation": "4468",
+    "basinarea": 275.0,
+    "awdb_id": "05017500",
+    "usgs_id": "5017500",
+    "usgsname": "St. Mary River near Babb MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "st. mary r nr babb",
+    "aoi_exist": true
   }
 }

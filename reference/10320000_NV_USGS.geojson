@@ -37392,7 +37392,23 @@
     }
   ],
   "properties": {
-    "name": "SF Humboldt R at Dixie",
-    "source": "ref"
+    "name": "SF Humboldt R ab Dixie Ck",
+    "source": "ref",
+    "begindate": "10/1/1948",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401030904,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Humboldt R ab Dixie Ck",
+    "elevation": "5140",
+    "basinarea": 1150.0,
+    "awdb_id": "10320000",
+    "usgs_id": "10320000",
+    "usgsname": "S FK HUMBOLDT RV ABV DIXIE CK NR ELKO, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "SF Humboldt R at Dixie",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Chulitna R nr Talkeetna",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1958",
+    "countyname": "Matanuska-Susitna",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190205021002,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chulitna R nr Talkeetna",
+    "elevation": "520",
+    "basinarea": 2520.0,
+    "awdb_id": "15292400",
+    "usgs_id": "15292400",
+    "usgsname": "CHULITNA R NR TALKEETNA AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

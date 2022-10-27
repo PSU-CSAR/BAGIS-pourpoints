@@ -26489,6 +26489,22 @@
   ],
   "properties": {
     "name": "Lake Tahoe Rise",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Placer",
+    "enddate": "2001-01-01T08:00:00Z",
+    "active": false,
+    "huc": 160501010500,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Tahoe Rise",
+    "elevation": "6219",
+    "basinarea": null,
+    "awdb_id": "10337501",
+    "usgs_id": "10337501",
+    "usgsname": "TRUCKEE-CARSON TRUCKEE R A TAHOE CITY CA",
+    "forecastpoint": false,
+    "bagis_aoiname": "lake tahoe rise",
+    "aoi_exist": true
   }
 }

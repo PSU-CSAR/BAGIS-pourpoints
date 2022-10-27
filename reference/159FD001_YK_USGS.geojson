@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Porcupine River at Old Crow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1961",
+    "countyname": "UNKNOWN",
+    "enddate": "1983-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190801080000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Porcupine River at Old Crow",
+    "elevation": "800",
+    "basinarea": null,
+    "awdb_id": "159FD001",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

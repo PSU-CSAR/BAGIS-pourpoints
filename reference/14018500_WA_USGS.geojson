@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Walla Walla R nr Touchet",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/10/1951",
+    "countyname": "Walla Walla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701021103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Walla Walla R nr Touchet",
+    "elevation": "405",
+    "basinarea": 1657.0,
+    "awdb_id": "14018500",
+    "usgs_id": "14018500",
+    "usgsname": "WALLA WALLA RIVER NEAR TOUCHET, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

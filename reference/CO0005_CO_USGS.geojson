@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "East Mancos High Line Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/1/1949",
+    "countyname": "Montezuma",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801070104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "East Mancos High Line Ditch",
+    "elevation": "7834",
+    "basinarea": null,
+    "awdb_id": "CO0005",
+    "usgs_id": "CO0005",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

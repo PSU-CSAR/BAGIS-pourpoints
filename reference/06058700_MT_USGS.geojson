@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Missouri R Bel Canyon Ferry Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1953",
+    "countyname": "Lewis and Clark",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100301011607,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Missouri R Bel Canyon Ferry Dam",
+    "elevation": "3800",
+    "basinarea": 7.93,
+    "awdb_id": "06058700",
+    "usgs_id": "6058700",
+    "usgsname": "Mitchell Gulch near East Helena MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

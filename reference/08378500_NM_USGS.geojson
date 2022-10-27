@@ -11649,6 +11649,22 @@
   ],
   "properties": {
     "name": "Pecos R nr Pecos",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1919",
+    "countyname": "San Miguel",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130600010204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pecos R nr Pecos",
+    "elevation": "7503",
+    "basinarea": 189.0,
+    "awdb_id": "08378500",
+    "usgs_id": "8378500",
+    "usgsname": "PECOS RIVER NEAR PECOS, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "pecos r nr pecos",
+    "aoi_exist": true
   }
 }

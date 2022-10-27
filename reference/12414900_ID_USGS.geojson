@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "St. Maries River Near Santa, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1965",
+    "countyname": "Benewah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170103040903,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St. Maries River Near Santa, ID",
+    "elevation": "2574",
+    "basinarea": 273.0,
+    "awdb_id": "12414900",
+    "usgs_id": "12414900",
+    "usgsname": "ST MARIES RIVER NR SANTA, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

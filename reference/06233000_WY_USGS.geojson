@@ -12913,6 +12913,22 @@
   ],
   "properties": {
     "name": "Little Popo Agie R nr Lander",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800030107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Popo Agie R nr Lander",
+    "elevation": "5436",
+    "basinarea": 125.0,
+    "awdb_id": "06233000",
+    "usgs_id": "6233000",
+    "usgsname": "LITTLE POPO AGIE RIVER NEAR LANDER, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "little popo agie r nr lander",
+    "aoi_exist": true
   }
 }

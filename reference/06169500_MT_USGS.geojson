@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rock Ck Bel Horse Ck nr Intnl Boundary",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1916",
+    "countyname": "Valley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100500150102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rock Ck Bel Horse Ck nr Intnl Boundary",
+    "elevation": "2530",
+    "basinarea": 322.0,
+    "awdb_id": "06169500",
+    "usgs_id": "6169500",
+    "usgsname": "Rock Creek bl Horse Creek nr int'l boundary",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

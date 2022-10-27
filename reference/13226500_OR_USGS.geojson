@@ -25057,6 +25057,22 @@
   ],
   "properties": {
     "name": "Bully Ck at Warmsprings",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/11/1903",
+    "countyname": "Malheur",
+    "enddate": "2012-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170501180304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bully Ck at Warmsprings",
+    "elevation": "2527",
+    "basinarea": 539.0,
+    "awdb_id": "13226500",
+    "usgs_id": "13226500",
+    "usgsname": "BULLY CREEK AT WARMSPRINGS NEAR VALE,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "Bully Ck at Warmsprings",
+    "aoi_exist": true
   }
 }

@@ -32153,6 +32153,22 @@
   ],
   "properties": {
     "name": "Clackamas R at Estacada",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1908",
+    "countyname": "Clackamas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900110603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clackamas R at Estacada",
+    "elevation": "287",
+    "basinarea": 671.0,
+    "awdb_id": "14210000",
+    "usgs_id": "14210000",
+    "usgsname": "CLACKAMAS RIVER AT ESTACADA, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Clackamas R at Estacada",
+    "aoi_exist": true
   }
 }

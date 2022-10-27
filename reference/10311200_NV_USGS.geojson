@@ -2577,6 +2577,22 @@
   ],
   "properties": {
     "name": "Ash Canyon Ck nr Carson City",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1976",
+    "countyname": "Carson City",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160502010505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ash Canyon Ck nr Carson City",
+    "elevation": "5080",
+    "basinarea": 5.2,
+    "awdb_id": "10311200",
+    "usgs_id": "10311200",
+    "usgsname": "ASH CYN CK NR CARSON CITY, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "ash canyon ck nr carson city",
+    "aoi_exist": true
   }
 }

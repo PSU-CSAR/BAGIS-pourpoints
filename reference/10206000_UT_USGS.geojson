@@ -19233,6 +19233,22 @@
   ],
   "properties": {
     "name": "Salina Ck at Salina",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/25/1914",
+    "countyname": "Sevier",
+    "enddate": "1995-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160300030408,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salina Ck at Salina",
+    "elevation": "5140",
+    "basinarea": 292.0,
+    "awdb_id": "10206000",
+    "usgs_id": "10206000",
+    "usgsname": "SALINA CREEK AT SALINA, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": "salina ck at salina",
+    "aoi_exist": true
   }
 }

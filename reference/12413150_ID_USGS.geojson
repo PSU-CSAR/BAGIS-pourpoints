@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "South Fork Coeur D'Alene R at Silverton",
-    "source": "ref"
+    "name": "South Fork Coeur DAlene R at Silverton",
+    "source": "ref",
+    "begindate": "10/1/1967",
+    "countyname": "Shoshone",
+    "enddate": "2000-04-30T07:00:00Z",
+    "active": false,
+    "huc": 170103020301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Fork Coeur DAlene R at Silverton",
+    "elevation": "2617",
+    "basinarea": 108.0,
+    "awdb_id": "12413150",
+    "usgs_id": "12413150",
+    "usgsname": "SF COEUR D ALENE RIVER AT SILVERTON ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

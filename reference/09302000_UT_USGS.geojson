@@ -65993,6 +65993,22 @@
   ],
   "properties": {
     "name": "Duchesne R nr Randlett",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1904",
+    "countyname": "Uintah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600031505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Duchesne R nr Randlett",
+    "elevation": "4756",
+    "basinarea": 3790.0,
+    "awdb_id": "09302000",
+    "usgs_id": "9302000",
+    "usgsname": "DUCHESNE RIVER NEAR RANDLETT, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "duchesne r nr randlett (2)",
+    "aoi_exist": true
   }
 }

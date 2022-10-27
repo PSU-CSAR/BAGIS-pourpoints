@@ -19369,6 +19369,22 @@
   ],
   "properties": {
     "name": "Colorado R bl Lake Granby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1927",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010309,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Colorado R bl Lake Granby",
+    "elevation": "8050",
+    "basinarea": 312.0,
+    "awdb_id": "09019000",
+    "usgs_id": "9019000",
+    "usgsname": "COLORADO RIVER BELOW LAKE GRANBY, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "lake granby inflow (2)",
+    "aoi_exist": true
   }
 }

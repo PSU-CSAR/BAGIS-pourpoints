@@ -152969,6 +152969,22 @@
   ],
   "properties": {
     "name": "Yellowstone R at Billings",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1904",
+    "countyname": "Yellowstone",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700041006,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yellowstone R at Billings",
+    "elevation": "3081",
+    "basinarea": 11807.0,
+    "awdb_id": "06214500",
+    "usgs_id": "6214500",
+    "usgsname": "Yellowstone River at Billings MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Yellowstone R at Billings",
+    "aoi_exist": true
   }
 }

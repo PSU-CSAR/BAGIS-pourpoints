@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "South Platte R bl Antero Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900010210,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Platte R bl Antero Reservoir",
+    "elevation": "8950",
+    "basinarea": null,
+    "awdb_id": "06694650",
+    "usgs_id": "6694650",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Stillwater Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1988",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stillwater Tunnel",
+    "elevation": "8294",
+    "basinarea": null,
+    "awdb_id": "09277700",
+    "usgs_id": "9277700",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

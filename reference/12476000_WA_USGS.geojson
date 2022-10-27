@@ -7569,6 +7569,22 @@
   ],
   "properties": {
     "name": "Kachess Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "2/1/1904",
+    "countyname": "Kittitas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300010306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kachess Reservoir Inflow",
+    "elevation": "2188",
+    "basinarea": 63.6,
+    "awdb_id": "12476000",
+    "usgs_id": "12476000",
+    "usgsname": "KACHESS RIVER NEAR EASTON, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Kachess Reservoir Inflow",
+    "aoi_exist": true
   }
 }

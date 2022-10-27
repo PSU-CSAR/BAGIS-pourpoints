@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Colorado R nr Granby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010309,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Colorado R nr Granby",
+    "elevation": "7960",
+    "basinarea": 323.0,
+    "awdb_id": "09019500",
+    "usgs_id": "9019500",
+    "usgsname": "COLORADO RIVER NEAR GRANBY, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

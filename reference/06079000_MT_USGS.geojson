@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF Sun R nr Augusta",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Lewis and Clark",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100301040208,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Sun R nr Augusta",
+    "elevation": "4730",
+    "basinarea": 251.0,
+    "awdb_id": "06079000",
+    "usgs_id": "6079000",
+    "usgsname": "South Fork Sun River near Augusta MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fremont County Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1911",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200020407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fremont County Ditch",
+    "elevation": "5295",
+    "basinarea": null,
+    "awdb_id": "CO0008",
+    "usgs_id": "CO0008",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

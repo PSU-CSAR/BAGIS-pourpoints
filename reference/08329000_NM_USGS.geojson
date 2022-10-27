@@ -36409,6 +36409,22 @@
   ],
   "properties": {
     "name": "Jemez R bl Jemez Canyon Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18890701",
+    "countyname": "Sandoval",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130202020506,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Jemez R bl Jemez Canyon Dam",
+    "elevation": "5096",
+    "basinarea": 1038.0,
+    "awdb_id": "08329000",
+    "usgs_id": "8329000",
+    "usgsname": "JEMEZ RIVER BELOW JEMEZ CANYON DAM, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "jemez r blw jemez canyon dam (2)",
+    "aoi_exist": true
   }
 }

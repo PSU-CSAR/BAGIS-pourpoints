@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rosebud Ck nr Kirby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1981",
+    "countyname": "Big Horn",
+    "enddate": "1988-10-01T07:00:00Z",
+    "active": false,
+    "huc": 101000030103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rosebud Ck nr Kirby",
+    "elevation": "4180",
+    "basinarea": 35.5,
+    "awdb_id": "06295100",
+    "usgs_id": "6295100",
+    "usgsname": "Rosebud Creek near Kirby MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

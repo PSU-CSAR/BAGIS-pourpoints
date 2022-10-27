@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Elk R at Phillips Bridge, BC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1924",
+    "countyname": "UNKNOWN",
+    "enddate": "1984-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101060809,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Elk R at Phillips Bridge, BC",
+    "elevation": "2560",
+    "basinarea": null,
+    "awdb_id": "12NK0500",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

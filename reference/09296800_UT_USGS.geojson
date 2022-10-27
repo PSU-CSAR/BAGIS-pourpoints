@@ -12105,6 +12105,22 @@
   ],
   "properties": {
     "name": "Uinta R bl Powerplant Diversion nr Neola",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18891101",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600031104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Uinta R bl Powerplant Diversion nr Neola",
+    "elevation": "7330",
+    "basinarea": 157.0,
+    "awdb_id": "09296800",
+    "usgs_id": "9296800",
+    "usgsname": "UINTA R BLW POWERPLANT DIVERSION, NR NEOLA, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "uinta r bl powerplant diversion nr neola",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Columbia R at Birchbank",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "UNKNOWN",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200010904,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Columbia R at Birchbank",
+    "elevation": "1330",
+    "basinarea": 34000.0,
+    "awdb_id": "12323000",
+    "usgs_id": "12323000",
+    "usgsname": "COLUMBIA RIVER AT BIRCHBANK, BC",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

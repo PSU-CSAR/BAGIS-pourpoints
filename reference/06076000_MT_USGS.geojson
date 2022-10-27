@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Smith R nr W.s. Spgs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1945",
+    "countyname": "Meagher",
+    "enddate": "1980-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100301030103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Smith R nr W.s. Spgs",
+    "elevation": "5330",
+    "basinarea": 7.23,
+    "awdb_id": "06076000",
+    "usgs_id": "6076000",
+    "usgsname": "Newlan Cr nr White Sulphur Springs MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

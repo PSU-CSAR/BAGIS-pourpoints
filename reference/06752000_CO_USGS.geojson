@@ -36017,6 +36017,22 @@
   ],
   "properties": {
     "name": "Cache La Poudre at Canyon Mouth",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18810701",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900070805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cache La Poudre at Canyon Mouth",
+    "elevation": "5220",
+    "basinarea": 1054.0,
+    "awdb_id": "06752000",
+    "usgs_id": "6752000",
+    "usgsname": "CACHE LA POUDRE RIV AT MO OF CN, NR FT COLLINS, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "cache la poudre at canyon mouth",
+    "aoi_exist": true
   }
 }

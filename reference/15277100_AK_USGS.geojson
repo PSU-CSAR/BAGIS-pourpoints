@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Eagle R at Eagle River, AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1965",
+    "countyname": "Anchorage",
+    "enddate": "1981-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190204010306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Eagle R at Eagle River, AK",
+    "elevation": "250",
+    "basinarea": 195.0,
+    "awdb_id": "15277100",
+    "usgs_id": "15277100",
+    "usgsname": "EAGLE R AT EAGLE RIVER AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

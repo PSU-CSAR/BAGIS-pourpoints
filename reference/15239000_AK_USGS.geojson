@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bradley R nr Homer AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Kenai Peninsula",
+    "enddate": "1990-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190203011102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bradley R nr Homer AK",
+    "elevation": "1054",
+    "basinarea": 52.8,
+    "awdb_id": "15239000",
+    "usgs_id": "15239000",
+    "usgsname": "BRADLEY R NR HOMER AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

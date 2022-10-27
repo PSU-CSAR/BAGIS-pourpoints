@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rock Creek ab Cayuse nr Condon",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1965",
+    "countyname": "Gilliam",
+    "enddate": "1981-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170702041201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rock Creek ab Cayuse nr Condon",
+    "elevation": "1440",
+    "basinarea": 350.0,
+    "awdb_id": "14047400",
+    "usgs_id": "14047400",
+    "usgsname": "ROCK CREEK AB CAYUSE CANYON NEAR CONDON,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

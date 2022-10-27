@@ -19833,6 +19833,22 @@
   ],
   "properties": {
     "name": "Green R bl Howard A Hanson Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1934",
+    "countyname": "King",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100130204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Green R bl Howard A Hanson Dam",
+    "elevation": "990",
+    "basinarea": 221.0,
+    "awdb_id": "12105900",
+    "usgs_id": "12105900",
+    "usgsname": "GREEN RIVER BELOW HOWARD A HANSON DAM, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Green Rv blw Howard Hansen",
+    "aoi_exist": true
   }
 }

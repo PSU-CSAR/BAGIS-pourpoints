@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kings R bl Pine Flat Dam CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1954",
+    "countyname": "Fresno",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180300120202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kings R bl Pine Flat Dam CA",
+    "elevation": "556.97",
+    "basinarea": 1545.0,
+    "awdb_id": "11221500",
+    "usgs_id": "11221500",
+    "usgsname": "KINGS R BL PINE FLAT DAM CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

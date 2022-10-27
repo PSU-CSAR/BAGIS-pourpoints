@@ -38489,6 +38489,22 @@
   ],
   "properties": {
     "name": "Roaring Fk at Glenwood Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1906",
+    "countyname": "Garfield",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100041003,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Roaring Fk at Glenwood Springs",
+    "elevation": "5721",
+    "basinarea": 1453.0,
+    "awdb_id": "09085000",
+    "usgs_id": "9085000",
+    "usgsname": "ROARING FORK RIVER AT GLENWOOD SPRINGS, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "roaring fork at glenwood springs (2)",
+    "aoi_exist": true
   }
 }

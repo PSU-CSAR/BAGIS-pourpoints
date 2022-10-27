@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Smith R ab Smith Res nr Belknap Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Linn",
+    "enddate": "2000-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170900040203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Smith R ab Smith Res nr Belknap Springs",
+    "elevation": "2160",
+    "basinarea": null,
+    "awdb_id": "14188790",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

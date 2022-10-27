@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tanana R at Nenana",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1962",
+    "countyname": "Yukon-Koyukuk",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190803072206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tanana R at Nenana",
+    "elevation": "339",
+    "basinarea": 25560.0,
+    "awdb_id": "15515500",
+    "usgs_id": "15515500",
+    "usgsname": "TANANA R AT NENANA AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

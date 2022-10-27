@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Beaver R at Adamsville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/16/1913",
+    "countyname": "Beaver",
+    "enddate": "2013-01-01T08:00:00Z",
+    "active": false,
+    "huc": 160300070211,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver R at Adamsville",
+    "elevation": "5550",
+    "basinarea": 303.0,
+    "awdb_id": "10237000",
+    "usgs_id": "10237000",
+    "usgsname": "BEAVER RIVER AT ADAMSVILLE, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

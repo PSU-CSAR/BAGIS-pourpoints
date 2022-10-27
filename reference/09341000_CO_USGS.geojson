@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Treasure Pass Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1948",
+    "countyname": "Mineral",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100011101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Treasure Pass Ditch",
+    "elevation": "10780",
+    "basinarea": null,
+    "awdb_id": "09341000",
+    "usgs_id": "9341000",
+    "usgsname": "TREASURE PASS DIVRSN DITCH AT WOLF C PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

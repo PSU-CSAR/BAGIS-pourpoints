@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mora R nr Golondrinas",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1915",
+    "countyname": "Mora",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800040308,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mora R nr Golondrinas",
+    "elevation": "6750",
+    "basinarea": 267.0,
+    "awdb_id": "07216500",
+    "usgs_id": "7216500",
+    "usgsname": "MORA RIVER NEAR GOLONDRINAS, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": "mora r nr golondrinas",
+    "aoi_exist": true
   }
 }

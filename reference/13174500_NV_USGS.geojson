@@ -16953,6 +16953,22 @@
   ],
   "properties": {
     "name": "Owyhee R nr Gold Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1916",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501040201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Owyhee R nr Gold Ck",
+    "elevation": "6119",
+    "basinarea": 209.0,
+    "awdb_id": "13174500",
+    "usgs_id": "13174500",
+    "usgsname": "OWYHEE RV NR GOLD CK, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "Owyhee R nr Gold Ck",
+    "aoi_exist": true
   }
 }

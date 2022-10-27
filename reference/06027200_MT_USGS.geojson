@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Jefferson R at Silver Star",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1910",
+    "countyname": "Madison",
+    "enddate": "1974-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100200050102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Jefferson R at Silver Star",
+    "elevation": "4568",
+    "basinarea": 7694.0,
+    "awdb_id": "06027200",
+    "usgs_id": "6027200",
+    "usgsname": "Jefferson River at Silver Star MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

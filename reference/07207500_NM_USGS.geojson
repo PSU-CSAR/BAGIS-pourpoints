@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ponil Ck nr Cimarron",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1916",
+    "countyname": "Colfax",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800020209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ponil Ck nr Cimarron",
+    "elevation": "6630",
+    "basinarea": 171.0,
+    "awdb_id": "07207500",
+    "usgs_id": "7207500",
+    "usgsname": "PONIL CREEK NEAR CIMARRON, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "ponil ck nr cimarron",
+    "aoi_exist": true
   }
 }

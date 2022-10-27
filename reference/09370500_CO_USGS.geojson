@@ -6665,6 +6665,22 @@
   ],
   "properties": {
     "name": "Mancos R nr Mancos",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/14/1953",
+    "countyname": "Montezuma",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801070104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mancos R nr Mancos",
+    "elevation": "7235",
+    "basinarea": null,
+    "awdb_id": "09370500",
+    "usgs_id": "9370500",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "mancos r nr mancos (2)",
+    "aoi_exist": true
   }
 }

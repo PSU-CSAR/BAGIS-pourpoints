@@ -166857,6 +166857,22 @@
   ],
   "properties": {
     "name": "Okanogan R nr Tonasket",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1929",
+    "countyname": "Okanogan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200061808,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Okanogan R nr Tonasket",
+    "elevation": "861",
+    "basinarea": 7260.0,
+    "awdb_id": "12445000",
+    "usgs_id": "12445000",
+    "usgsname": "OKANOGAN RIVER NEAR TONASKET, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Okanogan R nr Tonasket",
+    "aoi_exist": true
   }
 }

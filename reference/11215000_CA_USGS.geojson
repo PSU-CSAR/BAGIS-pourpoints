@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Kings R nr Cliff Camp CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1921",
+    "countyname": "Fresno",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180300100605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Kings R nr Cliff Camp CA",
+    "elevation": "6143",
+    "basinarea": 181.0,
+    "awdb_id": "11215000",
+    "usgs_id": "11215000",
+    "usgsname": "NF KINGS R NR CLIFF CAMP CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

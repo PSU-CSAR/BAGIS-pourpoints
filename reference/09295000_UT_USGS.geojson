@@ -51641,6 +51641,22 @@
   ],
   "properties": {
     "name": "Duchesne R at Myton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1904",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600031502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Duchesne R at Myton",
+    "elevation": "5061",
+    "basinarea": 2643.0,
+    "awdb_id": "09295000",
+    "usgs_id": "9295000",
+    "usgsname": "DUCHESNE RIVER AT MYTON, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "duchesne r at myton (2)",
+    "aoi_exist": true
   }
 }

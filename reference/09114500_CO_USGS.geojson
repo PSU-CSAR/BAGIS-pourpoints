@@ -33889,6 +33889,22 @@
   ],
   "properties": {
     "name": "Gunnison R Near Gunnison",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200020204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gunnison R Near Gunnison",
+    "elevation": "7655",
+    "basinarea": 1011.0,
+    "awdb_id": "09114500",
+    "usgs_id": "9114500",
+    "usgsname": "GUNNISON RIVER NEAR GUNNISON, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "gunnison r near gunnison (2)",
+    "aoi_exist": true
   }
 }

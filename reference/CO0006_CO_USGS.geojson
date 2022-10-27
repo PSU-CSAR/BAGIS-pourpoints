@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ewing Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1908",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200010201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ewing Ditch",
+    "elevation": "10419",
+    "basinarea": null,
+    "awdb_id": "CO0006",
+    "usgs_id": "CO0006",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

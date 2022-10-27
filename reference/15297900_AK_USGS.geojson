@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Eskimo C at King Salmon AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1973",
+    "countyname": "Bristol Bay",
+    "enddate": "1984-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190302041501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Eskimo C at King Salmon AK",
+    "elevation": "20",
+    "basinarea": 16.0,
+    "awdb_id": "15297900",
+    "usgs_id": "15297900",
+    "usgsname": "ESKIMO C AT KING SALMON AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

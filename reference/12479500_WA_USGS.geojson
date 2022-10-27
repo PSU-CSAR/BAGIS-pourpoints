@@ -25809,6 +25809,22 @@
   ],
   "properties": {
     "name": "Yakima R at Cle Elum",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1906",
+    "countyname": "Kittitas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300010307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yakima R at Cle Elum",
+    "elevation": "1902",
+    "basinarea": 502.0,
+    "awdb_id": "12479500",
+    "usgs_id": "12479500",
+    "usgsname": "YAKIMA RIVER AT CLE ELUM, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": "Yakima R at Cle Elum",
+    "aoi_exist": true
   }
 }

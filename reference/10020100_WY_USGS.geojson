@@ -37425,6 +37425,22 @@
   ],
   "properties": {
     "name": "Bear R ab Resv nr Woodruff",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Uinta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160101010505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear R ab Resv nr Woodruff",
+    "elevation": "6455",
+    "basinarea": 755.0,
+    "awdb_id": "10020100",
+    "usgs_id": "10020100",
+    "usgsname": "BEAR RIVER ABOVE RESERVOIR, NEAR WOODRUFF, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "bear r ab resv nr woodruff",
+    "aoi_exist": true
   }
 }

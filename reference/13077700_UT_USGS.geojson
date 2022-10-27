@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "George Ck nr Yost, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1959",
+    "countyname": "Box Elder",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 170402100401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "George Ck nr Yost, UT",
+    "elevation": "7000",
+    "basinarea": 7.84,
+    "awdb_id": "13077700",
+    "usgs_id": "13077700",
+    "usgsname": "GEORGE CREEK NEAR YOST, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

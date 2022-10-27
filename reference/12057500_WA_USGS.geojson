@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Skokomish River nr Hoodsport",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "2/1/1913",
+    "countyname": "Mason",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 171100170203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Skokomish River nr Hoodsport",
+    "elevation": "430",
+    "basinarea": 93.7,
+    "awdb_id": "12057500",
+    "usgs_id": "12057500",
+    "usgsname": "NORTH FORK SKOKOMISH RIVER NEAR HOODSPORT, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

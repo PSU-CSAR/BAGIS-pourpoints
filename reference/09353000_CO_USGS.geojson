@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Los Pinos R nr Bayfield",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1941",
+    "countyname": "La Plata",
+    "enddate": "2012-08-31T07:00:00Z",
+    "active": false,
+    "huc": 140801011401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Los Pinos R nr Bayfield",
+    "elevation": "7580",
+    "basinarea": 255.0,
+    "awdb_id": "09353000",
+    "usgs_id": "9353000",
+    "usgsname": "VALLECITO RESERVOIR NEAR BAYFIELD, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": "vallecito reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

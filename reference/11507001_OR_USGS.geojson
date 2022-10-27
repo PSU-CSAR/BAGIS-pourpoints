@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Upper Klamath Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1904",
+    "countyname": "Klamath",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180102030309,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Upper Klamath Lake Inflow",
+    "elevation": "4098",
+    "basinarea": 3810.0,
+    "awdb_id": "11507001",
+    "usgs_id": "11507001",
+    "usgsname": "UPPER KLAMATH LAKE NR K.FALLS(WEIGHT/MEAN ELEV) OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "upper klamath lake inflow",
+    "aoi_exist": true
   }
 }

@@ -5969,6 +5969,22 @@
   ],
   "properties": {
     "name": "NF Musselshell R nr Delpine",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1940",
+    "countyname": "Meagher",
+    "enddate": "2013-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100402010101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Musselshell R nr Delpine",
+    "elevation": "5380",
+    "basinarea": 37.3,
+    "awdb_id": "06115500",
+    "usgs_id": "6115500",
+    "usgsname": "North Fork Musselshell River nr Delpine MT",
+    "forecastpoint": false,
+    "bagis_aoiname": "nf musselshell r nr delpine",
+    "aoi_exist": true
   }
 }

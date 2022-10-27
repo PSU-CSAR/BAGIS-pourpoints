@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "North Creek nr Beaver",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2005",
+    "countyname": "Beaver",
+    "enddate": "2005-01-01T08:00:00Z",
+    "active": false,
+    "huc": 160300070208,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Creek nr Beaver",
+    "elevation": "6600",
+    "basinarea": null,
+    "awdb_id": "10236575",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

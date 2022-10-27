@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Currant Creek Near Mona, UT",
-    "source": "ref"
+    "name": "Currant Ck nr Mona",
+    "source": "ref",
+    "begindate": "10/1/1978",
+    "countyname": "Juab",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202010107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Currant Ck nr Mona",
+    "elevation": "4890",
+    "basinarea": 225.0,
+    "awdb_id": "10146400",
+    "usgs_id": "10146400",
+    "usgsname": "CURRANT CREEK NEAR MONA, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

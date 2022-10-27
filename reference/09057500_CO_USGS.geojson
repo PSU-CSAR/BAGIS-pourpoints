@@ -27385,6 +27385,22 @@
   ],
   "properties": {
     "name": "Blue R bl Green Mountain Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1937",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100020602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blue R bl Green Mountain Reservoir",
+    "elevation": "7683",
+    "basinarea": 597.0,
+    "awdb_id": "09057500",
+    "usgs_id": "9057500",
+    "usgsname": "BLUE RIVER BELOW GREEN MOUNTAIN RESERVOIR, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "blue r bl green mountain reservoir (2)",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Recapture Creek blw Johnson Creek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1975",
+    "countyname": "San Juan",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 140802010303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Recapture Creek blw Johnson Creek",
+    "elevation": "6120",
+    "basinarea": 37.0,
+    "awdb_id": "09378650",
+    "usgs_id": "9378650",
+    "usgsname": "RECAPTURE CR BL JOHNSON CR NR BLANDING,UT.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

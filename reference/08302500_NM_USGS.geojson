@@ -3745,6 +3745,22 @@
   ],
   "properties": {
     "name": "Tesuque Ck ab Diversions",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18941201",
+    "countyname": "Santa Fe",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201011202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tesuque Ck ab Diversions",
+    "elevation": "7220",
+    "basinarea": 11.7,
+    "awdb_id": "08302500",
+    "usgs_id": "8302500",
+    "usgsname": "TESUQUE CREEK ABOVE DIVERSIONS NEAR SANTA FE, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "tesuque ck ab diversions",
+    "aoi_exist": true
   }
 }

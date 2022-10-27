@@ -19897,6 +19897,22 @@
   ],
   "properties": {
     "name": "Pineview Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1937",
+    "countyname": "Weber",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201020305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pineview Reservoir Inflow",
+    "elevation": "4880",
+    "basinarea": null,
+    "awdb_id": "10139001",
+    "usgs_id": "10139001",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "pineview reservoir inflow",
+    "aoi_exist": true
   }
 }

@@ -100881,6 +100881,22 @@
   ],
   "properties": {
     "name": "Gunnison R nr Grand Junction",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18961001",
+    "countyname": "Mesa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200050803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gunnison R nr Grand Junction",
+    "elevation": "4628",
+    "basinarea": 7923.0,
+    "awdb_id": "09152500",
+    "usgs_id": "9152500",
+    "usgsname": "GUNNISON RIVER NEAR GRAND JUNCTION, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "gunnison r nr grand junction (2)",
+    "aoi_exist": true
   }
 }

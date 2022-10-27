@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Musselshell R at Mosby",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1929",
+    "countyname": "Petroleum",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100402050101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Musselshell R at Mosby",
+    "elevation": "2496",
+    "basinarea": 7784.0,
+    "awdb_id": "06130500",
+    "usgs_id": "6130500",
+    "usgsname": "Musselshell River at Mosby MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

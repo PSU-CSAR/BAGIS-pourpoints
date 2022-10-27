@@ -25737,6 +25737,22 @@
   ],
   "properties": {
     "name": "Big Wood R at Hailey",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1915",
+    "countyname": "Blaine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402190505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Wood R at Hailey",
+    "elevation": "5295",
+    "basinarea": 614.0,
+    "awdb_id": "13139510",
+    "usgs_id": "13139510",
+    "usgsname": "BIG WOOD RIVER AT HAILEY ID TOTAL FLOW",
+    "forecastpoint": true,
+    "bagis_aoiname": "Big Wood R at Hailey",
+    "aoi_exist": true
   }
 }

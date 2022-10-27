@@ -2001,6 +2001,22 @@
   ],
   "properties": {
     "name": "S Willow Ck nr Grantsville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1962",
+    "countyname": "Tooele",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160203040503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "S Willow Ck nr Grantsville",
+    "elevation": "6360",
+    "basinarea": 4.19,
+    "awdb_id": "10172800",
+    "usgs_id": "10172800",
+    "usgsname": "SOUTH WILLOW CREEK NEAR GRANTSVILLE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "s willow ck nr grantsville",
+    "aoi_exist": true
   }
 }

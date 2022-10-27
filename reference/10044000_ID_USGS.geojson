@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bear River at Harer, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1950",
+    "countyname": "Bear Lake",
+    "enddate": "1986-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160101020307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear River at Harer, ID",
+    "elevation": "6000",
+    "basinarea": 2830.0,
+    "awdb_id": "10044000",
+    "usgs_id": "10044000",
+    "usgsname": "BEAR RIVER AT HARER, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

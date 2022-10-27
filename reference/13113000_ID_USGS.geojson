@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Beaver Creek at Spencer, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1940",
+    "countyname": "Clark",
+    "enddate": "2017-04-10T07:00:00Z",
+    "active": false,
+    "huc": 170402140207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver Creek at Spencer, ID",
+    "elevation": "5850",
+    "basinarea": 122.5,
+    "awdb_id": "13113000",
+    "usgs_id": "13113000",
+    "usgsname": "BEAVER CREEK AT SPENCER ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Palouse R at Hooper",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18971001",
+    "countyname": "Whitman",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170601080803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Palouse R at Hooper",
+    "elevation": "1041",
+    "basinarea": 2500.0,
+    "awdb_id": "13351000",
+    "usgs_id": "13351000",
+    "usgsname": "PALOUSE RIVER AT HOOPER, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

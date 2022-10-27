@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Boulder R nr Contact",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1910",
+    "countyname": "Sweet Grass",
+    "enddate": "1983-10-18T07:00:00Z",
+    "active": false,
+    "huc": 100700020908,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boulder R nr Contact",
+    "elevation": "4930",
+    "basinarea": 225.0,
+    "awdb_id": "06197500",
+    "usgs_id": "6197500",
+    "usgsname": "Boulder River near Contact MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

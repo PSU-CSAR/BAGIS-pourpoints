@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clear Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1940",
+    "countyname": "Modoc",
+    "enddate": "2016-06-01T07:00:00Z",
+    "active": false,
+    "huc": 180102040404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clear Lake Inflow",
+    "elevation": "4480",
+    "basinarea": null,
+    "awdb_id": "11470099",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "clear lake inflow",
+    "aoi_exist": true
   }
 }

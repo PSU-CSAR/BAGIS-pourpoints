@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fritz Creek Near Homer",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1985",
+    "countyname": "Kenai Peninsula",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190203010805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fritz Creek Near Homer",
+    "elevation": "250",
+    "basinarea": 10.3,
+    "awdb_id": "15239500",
+    "usgs_id": "15239500",
+    "usgsname": "FRITZ C NR HOMER AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

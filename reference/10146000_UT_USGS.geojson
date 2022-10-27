@@ -9449,6 +9449,22 @@
   ],
   "properties": {
     "name": "Salt Ck at Nephi",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1950",
+    "countyname": "Juab",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202010105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salt Ck at Nephi",
+    "elevation": "5280",
+    "basinarea": 95.6,
+    "awdb_id": "10146000",
+    "usgs_id": "10146000",
+    "usgsname": "SALT CREEK AT NEPHI, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "salt ck at nephi",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Beaver River at Rocky Ford Dam, nr Miner",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/18/1913",
+    "countyname": "Beaver",
+    "enddate": "2003-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160300070402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver River at Rocky Ford Dam, nr Miner",
+    "elevation": "5400",
+    "basinarea": 535.0,
+    "awdb_id": "10239000",
+    "usgs_id": "10239000",
+    "usgsname": "BEAVER RIVER AT ROCKY FORD DAM, NR MINERSVILLE, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

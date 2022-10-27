@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rosebud Ck nr Absarokee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1935",
+    "countyname": "Stillwater",
+    "enddate": "1969-10-13T07:00:00Z",
+    "active": false,
+    "huc": 100700050405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rosebud Ck nr Absarokee",
+    "elevation": "4160",
+    "basinarea": 396.0,
+    "awdb_id": "06204500",
+    "usgs_id": "6204500",
+    "usgsname": "Rosebud Creek near Absarokee MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

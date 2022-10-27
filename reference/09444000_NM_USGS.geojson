@@ -52889,6 +52889,22 @@
   ],
   "properties": {
     "name": "San Francisco R at Glenwood",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1927",
+    "countyname": "Catron",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150400040807,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "San Francisco R at Glenwood",
+    "elevation": "4560",
+    "basinarea": 1653.0,
+    "awdb_id": "09444000",
+    "usgs_id": "9444000",
+    "usgsname": "SAN FRANCISCO RIVER NEAR GLENWOOD, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "san francisco r at glenwood",
+    "aoi_exist": true
   }
 }

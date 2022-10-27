@@ -21328,7 +21328,23 @@
     }
   ],
   "properties": {
-    "name": "Little Blackfoot nr Garrison",
-    "source": "ref"
+    "name": "Little Blackfoot R nr Garrison",
+    "source": "ref",
+    "begindate": "9/26/1972",
+    "countyname": "Powell",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102010611,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Blackfoot R nr Garrison",
+    "elevation": "4344",
+    "basinarea": 414.0,
+    "awdb_id": "12324590",
+    "usgs_id": "12324590",
+    "usgsname": "Little Blackfoot River near Garrison MT",
+    "forecastpoint": false,
+    "bagis_aoiname": "Little Blackfoot River near Garrison MT",
+    "aoi_exist": true
   }
 }

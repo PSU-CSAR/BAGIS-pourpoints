@@ -12601,6 +12601,22 @@
   ],
   "properties": {
     "name": "Succor Ck nr Jordan Valley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1965",
+    "countyname": "Malheur",
+    "enddate": "1986-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170501030805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Succor Ck nr Jordan Valley",
+    "elevation": "4200",
+    "basinarea": null,
+    "awdb_id": "13172900",
+    "usgs_id": "13172900",
+    "usgsname": "SNAKE RIVER AT HOMEDALE ID",
+    "forecastpoint": false,
+    "bagis_aoiname": "Succor Ck nr Jordan Valley",
+    "aoi_exist": true
   }
 }

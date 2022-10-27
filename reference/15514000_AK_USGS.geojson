@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Chena R at Fairbanks AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1947",
+    "countyname": "Fairbanks North Star",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190803060907,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chena R at Fairbanks AK",
+    "elevation": "428",
+    "basinarea": 1990.0,
+    "awdb_id": "15514000",
+    "usgs_id": "15514000",
+    "usgsname": "CHENA R AT FAIRBANKS AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

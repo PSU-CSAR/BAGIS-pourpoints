@@ -4649,6 +4649,22 @@
   ],
   "properties": {
     "name": "Lamoille Ck nr Lamoille",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1915",
+    "countyname": "Elko",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401010607,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lamoille Ck nr Lamoille",
+    "elevation": "6240",
+    "basinarea": 24.9,
+    "awdb_id": "10316500",
+    "usgs_id": "10316500",
+    "usgsname": "LAMOILLE CK NR LAMOILLE, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "lamoille ck nr lamoille",
+    "aoi_exist": true
   }
 }

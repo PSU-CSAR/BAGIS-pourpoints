@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fortymile R nr Steele Creek AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1975",
+    "countyname": "Southeast Fairbanks",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190705022203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fortymile R nr Steele Creek AK",
+    "elevation": "1200",
+    "basinarea": 5850.0,
+    "awdb_id": "15348000",
+    "usgs_id": "15348000",
+    "usgsname": "FORTYMILE R NR STEELE CREEK AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Arkansas R ab Pueblo",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1959",
+    "countyname": "Pueblo",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200020905,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Arkansas R ab Pueblo",
+    "elevation": "4740",
+    "basinarea": 4670.0,
+    "awdb_id": "07099400",
+    "usgs_id": "7099400",
+    "usgsname": "ARKANSAS RIVER ABOVE PUEBLO, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

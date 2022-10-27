@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Birch Ck nr Glen",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1946",
+    "countyname": "Beaverhead",
+    "enddate": "1976-10-06T07:00:00Z",
+    "active": false,
+    "huc": 100200041303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Birch Ck nr Glen",
+    "elevation": "5860",
+    "basinarea": 35.7,
+    "awdb_id": "06026000",
+    "usgs_id": "6026000",
+    "usgsname": "Birch Creek near Glen MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Terror River at Mouth nr Kodiak",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1964",
+    "countyname": "Kodiak Island",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190207010301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Terror River at Mouth nr Kodiak",
+    "elevation": "30",
+    "basinarea": 46.1,
+    "awdb_id": "15295700",
+    "usgs_id": "15295700",
+    "usgsname": "TERROR R AT MOUTH NR KODIAK AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

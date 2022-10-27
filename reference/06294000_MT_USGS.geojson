@@ -43265,6 +43265,22 @@
   ],
   "properties": {
     "name": "Little Bighorn R nr Hardin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1953",
+    "countyname": "Big Horn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800160505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Bighorn R nr Hardin",
+    "elevation": "2882",
+    "basinarea": 1294.0,
+    "awdb_id": "06294000",
+    "usgs_id": "6294000",
+    "usgsname": "Little Bighorn River near Hardin MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "little bighorn r nr hardin",
+    "aoi_exist": true
   }
 }

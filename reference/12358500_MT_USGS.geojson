@@ -51721,6 +51721,22 @@
   ],
   "properties": {
     "name": "Mf Flathead R nr West Glacier",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Flathead",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102070505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Flathead R nr West Glacier",
+    "elevation": "3129",
+    "basinarea": 1125.0,
+    "awdb_id": "12358500",
+    "usgs_id": "12358500",
+    "usgsname": "M F Flathead River near West Glacier MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "M F Flathead River near West Glacier MT",
+    "aoi_exist": true
   }
 }

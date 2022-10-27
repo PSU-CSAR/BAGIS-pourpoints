@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sum Major Divs Falls Riv Ashton-Chester",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1927",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402030302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sum Major Divs Falls Riv Ashton-Chester",
+    "elevation": "5100",
+    "basinarea": null,
+    "awdb_id": "13049501",
+    "usgs_id": "13049501",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

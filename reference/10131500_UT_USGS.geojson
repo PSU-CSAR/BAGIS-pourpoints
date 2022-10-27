@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Echo Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1941",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Echo Reservoir Inflow",
+    "elevation": "5440",
+    "basinarea": 726.0,
+    "awdb_id": "10131500",
+    "usgs_id": "10131500",
+    "usgsname": "ECHO RESERVOIR AT ECHO, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "echo reservoir inflow",
+    "aoi_exist": true
   }
 }

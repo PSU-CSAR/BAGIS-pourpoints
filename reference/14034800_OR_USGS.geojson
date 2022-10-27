@@ -10497,6 +10497,22 @@
   ],
   "properties": {
     "name": "Rhea Ck nr Heppner",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1960",
+    "countyname": "Morrow",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701040304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rhea Ck nr Heppner",
+    "elevation": "2320",
+    "basinarea": 120.0,
+    "awdb_id": "14034800",
+    "usgs_id": "14034800",
+    "usgsname": "RHEA CREEK NEAR HEPPNER,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Rhea Ck nr Heppner",
+    "aoi_exist": true
   }
 }

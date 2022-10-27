@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "John Day R at Mcdonald Ferry",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1904",
+    "countyname": "Gilliam",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170702041401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "John Day R at Mcdonald Ferry",
+    "elevation": "392",
+    "basinarea": 7580.0,
+    "awdb_id": "14048000",
+    "usgs_id": "14048000",
+    "usgsname": "JOHN DAY RIVER AT MCDONALD FERRY, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

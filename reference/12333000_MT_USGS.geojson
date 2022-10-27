@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "EF Rock Ck blw  EF Rock Ck Resv",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1935",
+    "countyname": "Granite",
+    "enddate": "2012-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102020701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "EF Rock Ck blw  EF Rock Ck Resv",
+    "elevation": "6000",
+    "basinarea": 30.3,
+    "awdb_id": "12333000",
+    "usgs_id": "12333000",
+    "usgsname": "East Fork Rock Cr nr Philipsburg MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

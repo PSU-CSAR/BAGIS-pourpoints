@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Alsek River abv Bates River",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1974",
+    "countyname": "UNKNOWN",
+    "enddate": "1983-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190104040000,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Alsek River abv Bates River",
+    "elevation": "1443",
+    "basinarea": null,
+    "awdb_id": "158AB001",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -7953,6 +7953,22 @@
   ],
   "properties": {
     "name": "White R bl Tabbyune Creek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1967",
+    "countyname": "Utah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600070103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "White R bl Tabbyune Creek",
+    "elevation": "7230",
+    "basinarea": 75.6,
+    "awdb_id": "09312600",
+    "usgs_id": "9312600",
+    "usgsname": "WHITE R BL TABBYUNE CRK NR SOLDIER SUMMIT, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "white r bl tabbyune creek",
+    "aoi_exist": true
   }
 }

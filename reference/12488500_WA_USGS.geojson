@@ -10657,6 +10657,22 @@
   ],
   "properties": {
     "name": "American R nr Nile",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/25/1909",
+    "countyname": "Yakima",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300020107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "American R nr Nile",
+    "elevation": "2700",
+    "basinarea": 78.9,
+    "awdb_id": "12488500",
+    "usgs_id": "12488500",
+    "usgsname": "AMERICAN RIVER NEAR NILE, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "American R nr Nile",
+    "aoi_exist": true
   }
 }

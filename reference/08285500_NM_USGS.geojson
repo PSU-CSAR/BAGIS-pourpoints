@@ -34217,6 +34217,22 @@
   ],
   "properties": {
     "name": "Rio Chama bl El Vado Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/30/1935",
+    "countyname": "Rio Arriba",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201020707,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Chama bl El Vado Dam",
+    "elevation": "6696",
+    "basinarea": 877.0,
+    "awdb_id": "08285500",
+    "usgs_id": "8285500",
+    "usgsname": "RIO CHAMA BELOW EL VADO DAM, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

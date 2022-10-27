@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Ogden River bl Pineview Res Near Huntsvi",
-    "source": "ref"
+    "name": "Ogden R bl Pineview Res nr Huntsville",
+    "source": "ref",
+    "begindate": "10/1/1988",
+    "countyname": "Weber",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201020306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ogden R bl Pineview Res nr Huntsville",
+    "elevation": "4760",
+    "basinarea": 323.0,
+    "awdb_id": "10140100",
+    "usgs_id": "10140100",
+    "usgsname": "OGDEN RIVER BL PINEVIEW RES NR HUNTSVILLE, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

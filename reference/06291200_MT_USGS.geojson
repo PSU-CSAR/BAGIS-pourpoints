@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lodge Grass Ck at State Line",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1982",
+    "countyname": "Big Horn",
+    "enddate": "1989-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800160301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lodge Grass Ck at State Line",
+    "elevation": "6060",
+    "basinarea": 16.7,
+    "awdb_id": "06291200",
+    "usgs_id": "6291200",
+    "usgsname": "LODGE GRASS CREEK AT STATE LINE, NR WYOLA, MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -49689,6 +49689,22 @@
   ],
   "properties": {
     "name": "North Umpqua R at Winchester",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1908",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003011105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Umpqua R at Winchester",
+    "elevation": "373",
+    "basinarea": 1344.0,
+    "awdb_id": "14319500",
+    "usgs_id": "14319500",
+    "usgsname": "NORTH UMPQUA RIVER AT WINCHESTER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "North Umpqua R at Winchester",
+    "aoi_exist": true
   }
 }

@@ -9497,6 +9497,22 @@
   ],
   "properties": {
     "name": "Parleys Ck nr SLC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Salt Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202040302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Parleys Ck nr SLC",
+    "elevation": "4890",
+    "basinarea": 50.1,
+    "awdb_id": "10171500",
+    "usgs_id": "10171500",
+    "usgsname": "PARLEYS CREEK NEAR SALT LAKE CITY, UTAH",
+    "forecastpoint": true,
+    "bagis_aoiname": "parley-s ck nr slc",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Valley Ck nr Arlee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1982",
+    "countyname": "Sanders",
+    "enddate": "2010-11-01T07:00:00Z",
+    "active": false,
+    "huc": 170102120708,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Valley Ck nr Arlee",
+    "elevation": "3450",
+    "basinarea": 16.0,
+    "awdb_id": "12387450",
+    "usgs_id": "12387450",
+    "usgsname": "Valley Creek near Arlee MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -25577,6 +25577,22 @@
   ],
   "properties": {
     "name": "Big Sandy R nr Farson",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1914",
+    "countyname": "Sublette",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401040112,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Sandy R nr Farson",
+    "elevation": "6770",
+    "basinarea": 322.0,
+    "awdb_id": "09213500",
+    "usgs_id": "9213500",
+    "usgsname": "BIG SANDY RIVER NEAR FARSON, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "big sandy r nr farson",
+    "aoi_exist": true
   }
 }

@@ -15825,6 +15825,22 @@
   ],
   "properties": {
     "name": "Little Wood R ab High Five Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1958",
+    "countyname": "Blaine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402210602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Wood R ab High Five Ck",
+    "elevation": "5320",
+    "basinarea": 248.0,
+    "awdb_id": "13147900",
+    "usgs_id": "13147900",
+    "usgsname": "LITTLE WOOD RIVER AB HIGH FIVE CREEK NR CAREY ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Little Wood R ab High Five Ck",
+    "aoi_exist": true
   }
 }

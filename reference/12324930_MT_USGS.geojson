@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Silver Lk Pumping For Georgetown Lk",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Deer Lodge",
+    "enddate": "1990-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102010302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Silver Lk Pumping For Georgetown Lk",
+    "elevation": "6375",
+    "basinarea": null,
+    "awdb_id": "12324930",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

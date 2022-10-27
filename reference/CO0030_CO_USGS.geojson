@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tarbell Ditch nr Cochetopa Pass",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1949",
+    "countyname": "Saguache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200030501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tarbell Ditch nr Cochetopa Pass",
+    "elevation": "10868",
+    "basinarea": null,
+    "awdb_id": "CO0030",
+    "usgs_id": "CO0030",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

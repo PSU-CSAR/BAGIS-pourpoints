@@ -16625,6 +16625,22 @@
   ],
   "properties": {
     "name": "Logan R nr Logan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1903",
+    "countyname": "Cache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160102030307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Logan R nr Logan",
+    "elevation": "4680",
+    "basinarea": 214.0,
+    "awdb_id": "10109000",
+    "usgs_id": "10109000",
+    "usgsname": "LOGAN RIVER ABOVE STATE DAM, NEAR LOGAN, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "logan r nr logan",
+    "aoi_exist": true
   }
 }

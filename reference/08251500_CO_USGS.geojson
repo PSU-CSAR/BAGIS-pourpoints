@@ -105889,6 +105889,22 @@
   ],
   "properties": {
     "name": "Rio Grande nr Lobatos",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18941201",
+    "countyname": "Conejos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100021102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Grande nr Lobatos",
+    "elevation": "7428",
+    "basinarea": 7700.0,
+    "awdb_id": "08251500",
+    "usgs_id": "8251500",
+    "usgsname": "RIO GRANDE NEAR LOBATOS, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "rio grande nr lobatos obs usgs",
+    "aoi_exist": true
   }
 }

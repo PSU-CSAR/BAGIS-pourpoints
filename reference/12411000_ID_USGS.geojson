@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "NF Coeur D'Alene R nr Prichard, ID",
-    "source": "ref"
+    "name": "NF Coeur DAlene R nr Prichard, ID",
+    "source": "ref",
+    "begindate": "10/1/1950",
+    "countyname": "Shoshone",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170103010403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Coeur DAlene R nr Prichard, ID",
+    "elevation": "2485",
+    "basinarea": 335.0,
+    "awdb_id": "12411000",
+    "usgs_id": "12411000",
+    "usgsname": "NF COEUR D ALENE R AB SHOSHONE CK NR PRICHARD ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

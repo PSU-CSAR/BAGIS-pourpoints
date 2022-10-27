@@ -10441,6 +10441,22 @@
   ],
   "properties": {
     "name": "Oak Grove Fk ab Powerplant",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1909",
+    "countyname": "Clackamas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900110306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Oak Grove Fk ab Powerplant",
+    "elevation": "2100",
+    "basinarea": 124.0,
+    "awdb_id": "14209000",
+    "usgs_id": "14209000",
+    "usgsname": "OAK GROVE FORK ABOVE POWERPLANT INTAKE, OR.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Oak Grove Fk ab Powerplant",
+    "aoi_exist": true
   }
 }

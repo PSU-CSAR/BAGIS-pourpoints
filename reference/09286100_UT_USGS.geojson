@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Red Ck ab Res nr Fruitland",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1986",
+    "countyname": "Duchesne",
+    "enddate": "1998-10-01T07:00:00Z",
+    "active": false,
+    "huc": 140600040501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Red Ck ab Res nr Fruitland",
+    "elevation": "7320",
+    "basinarea": 31.4,
+    "awdb_id": "09286100",
+    "usgs_id": "9286100",
+    "usgsname": "RED CREEK ABOVE RESERVOIR, NEAR FRUITLAND, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

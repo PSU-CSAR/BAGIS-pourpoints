@@ -71785,6 +71785,22 @@
   ],
   "properties": {
     "name": "Sevier R bl Piute Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Piute",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300010608,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sevier R bl Piute Dam",
+    "elevation": "5920",
+    "basinarea": 2441.0,
+    "awdb_id": "10191500",
+    "usgs_id": "10191500",
+    "usgsname": "SEVIER RIVER BELOW PIUTE DAM, NEAR MARYSVALE, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": "sevier r bl piute dam",
+    "aoi_exist": true
   }
 }

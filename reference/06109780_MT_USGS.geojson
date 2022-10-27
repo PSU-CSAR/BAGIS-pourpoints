@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mf Judith nr Utica",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1972",
+    "countyname": "Judith Basin",
+    "enddate": "1979-10-10T07:00:00Z",
+    "active": false,
+    "huc": 100401030502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Judith nr Utica",
+    "elevation": "4940",
+    "basinarea": 171.0,
+    "awdb_id": "06109780",
+    "usgs_id": "6109780",
+    "usgsname": "Middle Fork Judith River near Utica MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

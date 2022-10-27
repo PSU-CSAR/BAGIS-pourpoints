@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Judith R nr Utica",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1919",
+    "countyname": "Judith Basin",
+    "enddate": "1975-10-02T07:00:00Z",
+    "active": false,
+    "huc": 100401030503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Judith R nr Utica",
+    "elevation": "4790",
+    "basinarea": 312.0,
+    "awdb_id": "06110000",
+    "usgs_id": "6110000",
+    "usgsname": "Judith River near Utica MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

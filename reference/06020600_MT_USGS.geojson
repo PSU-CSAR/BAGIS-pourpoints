@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ruby R Bel Res nr Alder",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1962",
+    "countyname": "Madison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200030501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ruby R Bel Res nr Alder",
+    "elevation": "5287",
+    "basinarea": 595.0,
+    "awdb_id": "06020600",
+    "usgs_id": "6020600",
+    "usgsname": "Ruby River below reservoir near Alder, MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

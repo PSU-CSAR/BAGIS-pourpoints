@@ -46393,6 +46393,22 @@
   ],
   "properties": {
     "name": "Carson R at Ft Churchill",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/13/1911",
+    "countyname": "Lyon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160502020404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Carson R at Ft Churchill",
+    "elevation": "4180",
+    "basinarea": 1302.0,
+    "awdb_id": "10312000",
+    "usgs_id": "10312000",
+    "usgsname": "CARSON RV NR FORT CHURCHILL, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "carson r at ft churchill",
+    "aoi_exist": true
   }
 }

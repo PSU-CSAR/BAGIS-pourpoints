@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clark Fk at Goldcreek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1977",
+    "countyname": "Powell",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102010807,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clark Fk at Goldcreek",
+    "elevation": "4173",
+    "basinarea": 1774.0,
+    "awdb_id": "12324680",
+    "usgs_id": "12324680",
+    "usgsname": "Clark Fork at Goldcreek MT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

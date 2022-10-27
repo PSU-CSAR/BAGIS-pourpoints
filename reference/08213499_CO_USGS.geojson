@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rio Grande Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Hinsdale",
+    "enddate": "2004-01-01T08:00:00Z",
+    "active": false,
+    "huc": 130100010106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Grande Reservoir Inflow",
+    "elevation": "9300",
+    "basinarea": null,
+    "awdb_id": "08213499",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

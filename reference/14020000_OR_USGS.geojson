@@ -12313,6 +12313,22 @@
   ],
   "properties": {
     "name": "Umatilla R ab Meacham Ck nr Gibbon",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1933",
+    "countyname": "Umatilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701030106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Umatilla R ab Meacham Ck nr Gibbon",
+    "elevation": "1855",
+    "basinarea": 131.0,
+    "awdb_id": "14020000",
+    "usgs_id": "14020000",
+    "usgsname": "UMATILLA RIVER ABOVE MEACHAM CREEK, NR GIBBON, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Umatilla R ab Meacham Ck nr Gibbon",
+    "aoi_exist": true
   }
 }

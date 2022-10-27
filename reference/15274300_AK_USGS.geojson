@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "NF Campbell C nr Anchorage AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1974",
+    "countyname": "Anchorage",
+    "enddate": "1984-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190204010603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Campbell C nr Anchorage AK",
+    "elevation": "300",
+    "basinarea": 13.1,
+    "awdb_id": "15274300",
+    "usgs_id": "15274300",
+    "usgsname": "NF CAMPBELL C NR ANCHORAGE AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

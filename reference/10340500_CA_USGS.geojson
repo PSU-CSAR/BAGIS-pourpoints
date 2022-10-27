@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Prosser Ck Res Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1942",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Prosser Ck Res Inflow",
+    "elevation": "5572",
+    "basinarea": 52.9,
+    "awdb_id": "10340500",
+    "usgs_id": "10340500",
+    "usgsname": "PROSSER C BL PROSSER C DAM NR TRUCKEE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -23937,6 +23937,22 @@
   ],
   "properties": {
     "name": "EF Carson R nr Gardnerville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18900101",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160502010204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "EF Carson R nr Gardnerville",
+    "elevation": "5000",
+    "basinarea": 356.0,
+    "awdb_id": "10309000",
+    "usgs_id": "10309000",
+    "usgsname": "E FK CARSON RV NR GARDNERVILLE, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "ef calrson r nr gardnerville",
+    "aoi_exist": true
   }
 }

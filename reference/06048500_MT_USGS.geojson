@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bridger Ck nr Bozeman",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1945",
+    "countyname": "Gallatin",
+    "enddate": "1987-08-31T07:00:00Z",
+    "active": false,
+    "huc": 100200080802,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bridger Ck nr Bozeman",
+    "elevation": "4960",
+    "basinarea": 62.3,
+    "awdb_id": "06048500",
+    "usgs_id": "6048500",
+    "usgsname": "Bridger Creek near Bozeman MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Wyoming Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1941",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800011002,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wyoming Canal",
+    "elevation": "5561",
+    "basinarea": null,
+    "awdb_id": "06226000",
+    "usgs_id": "6226000",
+    "usgsname": "WYOMING CANAL NEAR LENORE, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

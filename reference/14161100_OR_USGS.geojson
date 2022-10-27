@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Blue River blw Tidbits Crk",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1963",
+    "countyname": "Lane",
+    "enddate": "2004-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170900040401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blue River blw Tidbits Crk",
+    "elevation": "1387",
+    "basinarea": 45.8,
+    "awdb_id": "14161100",
+    "usgs_id": "14161100",
+    "usgsname": "BLUE RIVER BELOW TIDBITS CREEK, NR BLUE RIVER, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

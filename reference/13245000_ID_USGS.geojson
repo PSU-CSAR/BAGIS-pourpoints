@@ -30897,6 +30897,22 @@
   ],
   "properties": {
     "name": "NF Payette R at Cascade",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1941",
+    "countyname": "Valley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501230503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Payette R at Cascade",
+    "elevation": "4720",
+    "basinarea": 616.0,
+    "awdb_id": "13245000",
+    "usgs_id": "13245000",
+    "usgsname": "NF PAYETTE RIVER AT CASCADE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "NF Payette R at Cascade",
+    "aoi_exist": true
   }
 }

@@ -10089,6 +10089,22 @@
   ],
   "properties": {
     "name": "Ashley Ck nr Vernal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1914",
+    "countyname": "Uintah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600100805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ashley Ck nr Vernal",
+    "elevation": "6231",
+    "basinarea": 101.0,
+    "awdb_id": "09266500",
+    "usgs_id": "9266500",
+    "usgsname": "ASHLEY CREEK NEAR VERNAL, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "ashley ck nr vernal",
+    "aoi_exist": true
   }
 }

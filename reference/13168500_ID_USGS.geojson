@@ -57777,6 +57777,22 @@
   ],
   "properties": {
     "name": "Bruneau R nr Hot Spring",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Owyhee",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501021703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bruneau R nr Hot Spring",
+    "elevation": "2599",
+    "basinarea": 2686.0,
+    "awdb_id": "13168500",
+    "usgs_id": "13168500",
+    "usgsname": "BRUNEAU RIVER NR HOT SPRING ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Bruneau R nr Hot Spring",
+    "aoi_exist": true
   }
 }

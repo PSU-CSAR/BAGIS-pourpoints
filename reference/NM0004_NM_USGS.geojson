@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Philmont Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/2010",
+    "countyname": "Colfax",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800020109,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Philmont Ditch",
+    "elevation": "6750",
+    "basinarea": null,
+    "awdb_id": "NM0004",
+    "usgs_id": "NM0004",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

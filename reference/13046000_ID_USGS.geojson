@@ -40473,6 +40473,22 @@
   ],
   "properties": {
     "name": "Henrys Fk nr Ashton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18900401",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402030503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Henrys Fk nr Ashton",
+    "elevation": "5090",
+    "basinarea": 1097.0,
+    "awdb_id": "13046000",
+    "usgs_id": "13046000",
+    "usgsname": "HENRYS FORK NR ASHTON ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Henrys Fk nr Ashton",
+    "aoi_exist": true
   }
 }

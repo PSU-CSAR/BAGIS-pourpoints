@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Colorado - Hot Sulphur Spgs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1904",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500010205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Colorado - Hot Sulphur Spgs",
+    "elevation": "7670",
+    "basinarea": 825.0,
+    "awdb_id": "09034500",
+    "usgs_id": "9034500",
+    "usgsname": "COLORADO RIVER AT HOT SULPHUR SPRINGS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

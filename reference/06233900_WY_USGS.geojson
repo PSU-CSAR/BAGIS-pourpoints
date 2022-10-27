@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Popo Agie River nr Arapahoe",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1979",
+    "countyname": "Fremont",
+    "enddate": "1995-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800030212,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Popo Agie River nr Arapahoe",
+    "elevation": "4996",
+    "basinarea": 796.0,
+    "awdb_id": "06233900",
+    "usgs_id": "6233900",
+    "usgsname": "POPO AGIE RIVER NR ARAPAHOE, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Purgatoire River Below Trinidad Lake",
-    "source": "ref"
+    "name": "Purgatoire R bl Trinidad Lake",
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Las Animas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200100601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Purgatoire R bl Trinidad Lake",
+    "elevation": "6074",
+    "basinarea": 673.0,
+    "awdb_id": "07124410",
+    "usgs_id": "7124410",
+    "usgsname": "PURGATOIRE RIVER BELOW TRINIDAD LAKE, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

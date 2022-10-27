@@ -7553,6 +7553,22 @@
   ],
   "properties": {
     "name": "Slate R nr Crested Butte",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18890701",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200010206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Slate R nr Crested Butte",
+    "elevation": "8820",
+    "basinarea": 68.9,
+    "awdb_id": "09111500",
+    "usgs_id": "9111500",
+    "usgsname": "SLATE RIVER NEAR CRESTED BUTTE, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "slate r nr crested butte",
+    "aoi_exist": true
   }
 }

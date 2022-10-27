@@ -3377,6 +3377,22 @@
   ],
   "properties": {
     "name": "NF Little Butte Ck nr Lakecreek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1914",
+    "countyname": "Jackson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003070801,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Little Butte Ck nr Lakecreek",
+    "elevation": "4571",
+    "basinarea": 20.8,
+    "awdb_id": "14342500",
+    "usgs_id": "14342500",
+    "usgsname": "NO FK LITTLE BUTTE CR AT F L NR LAKECREEK,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "NF Little Butte Ck nr Lakecreek",
+    "aoi_exist": true
   }
 }

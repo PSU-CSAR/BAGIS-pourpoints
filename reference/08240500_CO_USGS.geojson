@@ -5609,6 +5609,22 @@
   ],
   "properties": {
     "name": "Trinchera Ck ab Turners Ranch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18941201",
+    "countyname": "Costilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100020603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Trinchera Ck ab Turners Ranch",
+    "elevation": "8520",
+    "basinarea": 45.0,
+    "awdb_id": "08240500",
+    "usgs_id": "8240500",
+    "usgsname": "TRINCHERA C AB TURNERS RANCH, NR FT GARLAND, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "trinchera ck ab turners ranch",
+    "aoi_exist": true
   }
 }

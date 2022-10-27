@@ -11753,6 +11753,22 @@
   ],
   "properties": {
     "name": "Mf Rock Ck nr Philipsburg",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1937",
+    "countyname": "Granite",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102020805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Rock Ck nr Philipsburg",
+    "elevation": "5444",
+    "basinarea": 121.0,
+    "awdb_id": "12332000",
+    "usgs_id": "12332000",
+    "usgsname": "Middle Fork Rock Cr nr Philipsburg MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Middle Fork Rock Cr nr Philipsburg MT",
+    "aoi_exist": true
   }
 }

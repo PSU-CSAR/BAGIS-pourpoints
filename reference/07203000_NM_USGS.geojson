@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Vermejo R nr Dawson",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1915",
+    "countyname": "Colfax",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800010401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Vermejo R nr Dawson",
+    "elevation": "6360",
+    "basinarea": 301.0,
+    "awdb_id": "07203000",
+    "usgs_id": "7203000",
+    "usgsname": "VERMEJO RIVER NEAR DAWSON, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "vermejo r nr dawson",
+    "aoi_exist": true
   }
 }

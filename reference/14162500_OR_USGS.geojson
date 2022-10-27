@@ -32577,6 +32577,22 @@
   ],
   "properties": {
     "name": "Mckenzie R nr Vida",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1910",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900040702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mckenzie R nr Vida",
+    "elevation": "856",
+    "basinarea": 930.0,
+    "awdb_id": "14162500",
+    "usgs_id": "14162500",
+    "usgsname": "MCKENZIE RIVER NEAR VIDA, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "McKenzie R nr Vida",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Willow Ck ab Willow Ck Lake nr Heppner",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1982",
+    "countyname": "Morrow",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701040105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willow Ck ab Willow Ck Lake nr Heppner",
+    "elevation": "2085",
+    "basinarea": 67.9,
+    "awdb_id": "14034470",
+    "usgs_id": "14034470",
+    "usgsname": "WILLOW CREEK ABV WILLOW CR LAKE, NR HEPPNER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

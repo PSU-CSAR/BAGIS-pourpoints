@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Box Elder Ck nr Boxelder",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1981",
+    "countyname": "Converse",
+    "enddate": "1984-10-01T07:00:00Z",
+    "active": false,
+    "huc": 101800071004,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Box Elder Ck nr Boxelder",
+    "elevation": "6080",
+    "basinarea": 136.0,
+    "awdb_id": "06647800",
+    "usgs_id": "6647800",
+    "usgsname": "BOX ELDER CREEK NEAR BOXELDER, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

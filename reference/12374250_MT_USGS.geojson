@@ -4329,6 +4329,22 @@
   ],
   "properties": {
     "name": "Mill Ck ab Bassoo Ck nr Niarada",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1982",
+    "countyname": "Sanders",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102120105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mill Ck ab Bassoo Ck nr Niarada",
+    "elevation": "3000",
+    "basinarea": 19.6,
+    "awdb_id": "12374250",
+    "usgs_id": "12374250",
+    "usgsname": "Mill Cr ab Bassoo Cr nr Niarada MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Mill Cr ab Bassoo Cr nr Niarada MT",
+    "aoi_exist": true
   }
 }

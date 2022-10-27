@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Silvies R nr Burns",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1903",
+    "countyname": "Harney",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171200020701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Silvies R nr Burns",
+    "elevation": "4195",
+    "basinarea": 934.0,
+    "awdb_id": "10393500",
+    "usgs_id": "10393500",
+    "usgsname": "SILVIES RIVER NEAR BURNS,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "silvies r nr burns",
+    "aoi_exist": true
   }
 }

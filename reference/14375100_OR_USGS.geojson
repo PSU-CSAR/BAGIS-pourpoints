@@ -9201,6 +9201,22 @@
   ],
   "properties": {
     "name": "Sucker Ck nr Holland",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Josephine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003110204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sucker Ck nr Holland",
+    "elevation": "1714",
+    "basinarea": 83.9,
+    "awdb_id": "14375100",
+    "usgs_id": "14375100",
+    "usgsname": "SUCKER CREEK BLW LITTLE GRAYBACK CK, NR HOLLAND,OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Sucker Ck bl Little Grayback Ck nr Holland",
+    "aoi_exist": true
   }
 }

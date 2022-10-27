@@ -14145,6 +14145,22 @@
   ],
   "properties": {
     "name": "Shell Ck nr Shell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1940",
+    "countyname": "Big Horn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800100107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Shell Ck nr Shell",
+    "elevation": "4370",
+    "basinarea": 145.0,
+    "awdb_id": "06278500",
+    "usgs_id": "6278500",
+    "usgsname": "SHELL CREEK NEAR SHELL, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "shell ck nr shell",
+    "aoi_exist": true
   }
 }

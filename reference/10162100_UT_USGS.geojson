@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Salt Lake Aqueduct",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1952",
+    "countyname": "Utah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202030504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salt Lake Aqueduct",
+    "elevation": "4922",
+    "basinarea": null,
+    "awdb_id": "10162100",
+    "usgs_id": "10162100",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

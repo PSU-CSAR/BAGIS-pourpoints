@@ -7273,6 +7273,22 @@
   ],
   "properties": {
     "name": "Platoro Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1951",
+    "countyname": "Conejos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100050109,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Platoro Reservoir Inflow",
+    "elevation": "9867",
+    "basinarea": 40.0,
+    "awdb_id": "08245000",
+    "usgs_id": "8245000",
+    "usgsname": "CONEJOS RIVER BELOW PLATORO RESERVOIR, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "conejos r bl platoro reservoir (2)",
+    "aoi_exist": true
   }
 }

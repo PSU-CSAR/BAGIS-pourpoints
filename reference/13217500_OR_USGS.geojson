@@ -24217,6 +24217,22 @@
   ],
   "properties": {
     "name": "NF Malheur R at Beulah",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Malheur",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501161305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Malheur R at Beulah",
+    "elevation": "3261",
+    "basinarea": 440.0,
+    "awdb_id": "13217500",
+    "usgs_id": "13217500",
+    "usgsname": "NORTH FORK MALHEUR RIVER AT BEULAH OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "NF Malheur R at Beulah",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Jasper Pike Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1935",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Jasper Pike Canal",
+    "elevation": "6600",
+    "basinarea": null,
+    "awdb_id": "UT0003",
+    "usgs_id": "UT0003",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

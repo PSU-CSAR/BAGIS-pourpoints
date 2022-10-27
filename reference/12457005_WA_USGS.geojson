@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Stemilt Ck nr Wenatchee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Chelan",
+    "enddate": "2016-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170200100310,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stemilt Ck nr Wenatchee",
+    "elevation": "3160",
+    "basinarea": null,
+    "awdb_id": "12457005",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

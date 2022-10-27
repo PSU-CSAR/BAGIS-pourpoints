@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fall Creek nr Lowell OR",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1959",
+    "countyname": "Lane",
+    "enddate": "2000-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170900010904,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fall Creek nr Lowell OR",
+    "elevation": "844",
+    "basinarea": 118.0,
+    "awdb_id": "14150300",
+    "usgs_id": "14150300",
+    "usgsname": "FALL CREEK NEAR LOWELL, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -14745,6 +14745,22 @@
   ],
   "properties": {
     "name": "Huntington Ck nr Huntington",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Emery",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600090105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Huntington Ck nr Huntington",
+    "elevation": "6450",
+    "basinarea": 178.0,
+    "awdb_id": "09317997",
+    "usgs_id": "9317997",
+    "usgsname": "HUNTINGTON CREEK NEAR HUNTINGTON, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "huntington ck nr huntington (2)",
+    "aoi_exist": true
   }
 }

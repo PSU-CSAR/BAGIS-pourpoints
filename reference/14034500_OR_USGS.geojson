@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Willow Ck at Heppner",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1951",
+    "countyname": "Morrow",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701040105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willow Ck at Heppner",
+    "elevation": "1953",
+    "basinarea": 96.8,
+    "awdb_id": "14034500",
+    "usgs_id": "14034500",
+    "usgsname": "WILLOW CREEK AT HEPPNER, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

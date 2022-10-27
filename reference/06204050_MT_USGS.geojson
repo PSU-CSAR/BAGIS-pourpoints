@@ -6857,6 +6857,22 @@
   ],
   "properties": {
     "name": "West Rosebud Ck nr Roscoe",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1965",
+    "countyname": "Stillwater",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100700050404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "West Rosebud Ck nr Roscoe",
+    "elevation": "6536",
+    "basinarea": 53.1,
+    "awdb_id": "06204050",
+    "usgs_id": "6204050",
+    "usgsname": "West Rosebud Creek near Roscoe MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "west rosebud ck nr roscoe",
+    "aoi_exist": true
   }
 }

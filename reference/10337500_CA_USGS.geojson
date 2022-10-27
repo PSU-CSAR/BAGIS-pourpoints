@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Truckee R at Tahoe City, CA",
-    "source": "ref"
+    "name": "Truckee R at Tahoe City",
+    "source": "ref",
+    "begindate": "18950701",
+    "countyname": "Placer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Truckee R at Tahoe City",
+    "elevation": "6217",
+    "basinarea": 507.0,
+    "awdb_id": "10337500",
+    "usgs_id": "10337500",
+    "usgsname": "TRUCKEE R A TAHOE CITY CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

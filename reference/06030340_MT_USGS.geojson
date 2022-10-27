@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "South Boulder R nr Harrison",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1973",
+    "countyname": "Madison",
+    "enddate": "1975-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100200050602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Boulder R nr Harrison",
+    "elevation": "5320",
+    "basinarea": null,
+    "awdb_id": "06030340",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

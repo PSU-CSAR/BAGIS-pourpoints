@@ -75073,6 +75073,22 @@
   ],
   "properties": {
     "name": "Green R at Fontenelle Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401011305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Green R at Fontenelle Dam",
+    "elevation": "6506",
+    "basinarea": 4280.0,
+    "awdb_id": "09211150",
+    "usgs_id": "9211150",
+    "usgsname": "FONTENELLE RESERVOIR NEAR FONTENELLE, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "fontenelle reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

@@ -10561,6 +10561,22 @@
   ],
   "properties": {
     "name": "Thunder Ck nr Newhalem",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1930",
+    "countyname": "Whatcom",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100050703,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Thunder Ck nr Newhalem",
+    "elevation": "1220",
+    "basinarea": 105.0,
+    "awdb_id": "12175500",
+    "usgs_id": "12175500",
+    "usgsname": "THUNDER CREEK NEAR NEWHALEM, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Thunder Creek nr Newhalem",
+    "aoi_exist": true
   }
 }

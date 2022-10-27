@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Willow Creek Near Willow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1978",
+    "countyname": "Matanuska-Susitna",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190205050605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willow Creek Near Willow",
+    "elevation": "350",
+    "basinarea": 167.0,
+    "awdb_id": "15294005",
+    "usgs_id": "15294005",
+    "usgsname": "WILLOW C NR WILLOW AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -7201,6 +7201,22 @@
   ],
   "properties": {
     "name": "Rio Pueblo De Taos nr Taos",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1913",
+    "countyname": "Taos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201010605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Pueblo De Taos nr Taos",
+    "elevation": "7380",
+    "basinarea": 66.6,
+    "awdb_id": "08269000",
+    "usgs_id": "8269000",
+    "usgsname": "RIO PUEBLO DE TAOS NEAR TAOS, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "rio pueblo de taos nr taos",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big Wood R at Stanton Xing",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Blaine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402190604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Wood R at Stanton Xing",
+    "elevation": "4830",
+    "basinarea": 748.0,
+    "awdb_id": "13140800",
+    "usgs_id": "13140800",
+    "usgsname": "BIG WOOD RIVER AT STANTON CROSSING NR BELLEVUE ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

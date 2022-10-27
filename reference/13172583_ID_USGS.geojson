@@ -4225,6 +4225,22 @@
   ],
   "properties": {
     "name": "Reynolds Ck at Tollgate",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1966",
+    "countyname": "Owyhee",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501030602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Reynolds Ck at Tollgate",
+    "elevation": "4626",
+    "basinarea": null,
+    "awdb_id": "13172583",
+    "usgs_id": "13172583",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "Reynolds Ck at Tollgate",
+    "aoi_exist": true
   }
 }

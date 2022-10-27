@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Stevens Village Local",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Yukon-Koyukuk",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190804040504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stevens Village Local",
+    "elevation": "230",
+    "basinarea": null,
+    "awdb_id": "15356001",
+    "usgs_id": "15356001",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

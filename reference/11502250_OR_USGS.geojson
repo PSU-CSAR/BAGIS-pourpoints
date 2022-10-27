@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Upper Williamson R",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1921",
+    "countyname": "Klamath",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180102010604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Upper Williamson R",
+    "elevation": "4175",
+    "basinarea": null,
+    "awdb_id": "11502250",
+    "usgs_id": "11502250",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

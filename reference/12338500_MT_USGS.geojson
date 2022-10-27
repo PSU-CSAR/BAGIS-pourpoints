@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Blackfoot R nr Ovando",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1940",
+    "countyname": "Powell",
+    "enddate": "1963-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102030907,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blackfoot R nr Ovando",
+    "elevation": "3917",
+    "basinarea": 1270.0,
+    "awdb_id": "12338500",
+    "usgs_id": "12338500",
+    "usgsname": "Blackfoot River near Ovando MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

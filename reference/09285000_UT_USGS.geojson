@@ -16065,6 +16065,22 @@
   ],
   "properties": {
     "name": "Strawberry R nr Soldier Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1942",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600040106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Strawberry R nr Soldier Springs",
+    "elevation": "7360",
+    "basinarea": 213.0,
+    "awdb_id": "09285000",
+    "usgs_id": "9285000",
+    "usgsname": "STRAWBERRY RIVER NEAR SOLDIER SPRINGS, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "strawberry r nr soldier springs (2)",
+    "aoi_exist": true
   }
 }

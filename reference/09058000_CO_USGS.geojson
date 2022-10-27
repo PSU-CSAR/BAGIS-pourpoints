@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "begindate": "1/1/1900",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010901,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Colorado R nr Kremmling",
+    "name": "Colorado R nr Kremmling",
+    "elevation": "7320",
+    "basinarea": 2379.0,
+    "awdb_id": "09058000",
+    "usgs_id": "9058000",
+    "usgsname": "COLORADO RIVER NEAR KREMMLING, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.439437900447,
+      40.0366706801232
+    ]
+  },
+  "id": "09058000:CO:USGS"
+}

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Stewart River at The Mouth",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1963",
+    "countyname": "UNKNOWN",
+    "enddate": "1983-10-01T07:00:00Z",
+    "active": false,
+    "huc": null,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stewart River at The Mouth",
+    "elevation": "1050",
+    "basinarea": null,
+    "awdb_id": "159DD003",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Duchesne Tunnel Near Kamas, Utah",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1953",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202030102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Duchesne Tunnel Near Kamas, Utah",
+    "elevation": "8099",
+    "basinarea": null,
+    "awdb_id": "09272500",
+    "usgs_id": "9272500",
+    "usgsname": "DUCHESNE TUNNEL NEAR KAMAS, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

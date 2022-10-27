@@ -11473,6 +11473,22 @@
   ],
   "properties": {
     "name": "La Jara Ck nr Capulin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1943",
+    "countyname": "Conejos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100020407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "La Jara Ck nr Capulin",
+    "elevation": "8130",
+    "basinarea": 98.0,
+    "awdb_id": "08238000",
+    "usgs_id": "8238000",
+    "usgsname": "LA JARA CREEK AT GALLEGOS RANCH, NR CAPULIN, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "la jara ck nr capulin",
+    "aoi_exist": true
   }
 }

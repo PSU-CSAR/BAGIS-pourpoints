@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Wolf Ck nr Wolf Point",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1908",
+    "countyname": "Roosevelt",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100600011103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wolf Ck nr Wolf Point",
+    "elevation": "2000",
+    "basinarea": 251.0,
+    "awdb_id": "06176500",
+    "usgs_id": "6176500",
+    "usgsname": "Wolf Creek near Wolf Point MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

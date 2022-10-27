@@ -27137,6 +27137,22 @@
   ],
   "properties": {
     "name": "Piedra R nr Arboles",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Archuleta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801020503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Piedra R nr Arboles",
+    "elevation": "6148",
+    "basinarea": 653.0,
+    "awdb_id": "09349800",
+    "usgs_id": "9349800",
+    "usgsname": "PIEDRA RIVER NEAR ARBOLES, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "piedra r nr arboles",
+    "aoi_exist": true
   }
 }

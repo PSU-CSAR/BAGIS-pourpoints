@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Boysen Reservoir Inflow-USBR",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1952",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800050608,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boysen Reservoir Inflow-USBR",
+    "elevation": "4609",
+    "basinarea": null,
+    "awdb_id": "06258999",
+    "usgs_id": "6258999",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "boysen reservoir inflow",
+    "aoi_exist": true
   }
 }

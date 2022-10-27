@@ -19825,6 +19825,22 @@
   ],
   "properties": {
     "name": "Blackfoot R ab Reservoir nr Henry",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/25/1914",
+    "countyname": "Caribou",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402070210,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blackfoot R ab Reservoir nr Henry",
+    "elevation": "6259",
+    "basinarea": 333.0,
+    "awdb_id": "13063000",
+    "usgs_id": "13063000",
+    "usgsname": "BLACKFOOT RIVER AB RESERVOIR NR HENRY ID",
+    "forecastpoint": false,
+    "bagis_aoiname": "Blackfoot R ab Reservoir nr Henry",
+    "aoi_exist": true
   }
 }

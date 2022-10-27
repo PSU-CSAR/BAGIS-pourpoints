@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Arkansas R nr Wellsville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1961",
+    "countyname": "Chaffee",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200010902,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Arkansas R nr Wellsville",
+    "elevation": "6883",
+    "basinarea": 1485.0,
+    "awdb_id": "07093700",
+    "usgs_id": "7093700",
+    "usgsname": "ARKANSAS RIVER NEAR WELLSVILLE, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

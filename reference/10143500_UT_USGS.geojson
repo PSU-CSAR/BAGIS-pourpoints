@@ -1848,7 +1848,23 @@
     }
   ],
   "properties": {
-    "name": "Centerville Ck",
-    "source": "ref"
+    "name": "Centerville Ck nr Centerville",
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Davis",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201020501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Centerville Ck nr Centerville",
+    "elevation": "4680",
+    "basinarea": 3.15,
+    "awdb_id": "10143500",
+    "usgs_id": "10143500",
+    "usgsname": "CENTERVILLE CREEK ABV DIV NR CENTERVILLE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "centerville ck",
+    "aoi_exist": true
   }
 }

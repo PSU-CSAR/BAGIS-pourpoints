@@ -11929,6 +11929,22 @@
   ],
   "properties": {
     "name": "Bear R nr Ut-Wy State Line",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1942",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160101010106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear R nr Ut-Wy State Line",
+    "elevation": "7965",
+    "basinarea": 172.0,
+    "awdb_id": "10011500",
+    "usgs_id": "10011500",
+    "usgsname": "BEAR RIVER NEAR UTAH-WYOMING STATE LINE",
+    "forecastpoint": true,
+    "bagis_aoiname": "bear r nr ut-wy state line",
+    "aoi_exist": true
   }
 }

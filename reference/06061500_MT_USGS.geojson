@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Prickly Pear Ck nr Clancy",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1908",
+    "countyname": "Jefferson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100301011308,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Prickly Pear Ck nr Clancy",
+    "elevation": "4067",
+    "basinarea": 192.0,
+    "awdb_id": "06061500",
+    "usgs_id": "6061500",
+    "usgsname": "Prickly Pear Creek near Clancy MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -42577,6 +42577,22 @@
   ],
   "properties": {
     "name": "Klickitat R nr Pitt",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1909",
+    "countyname": "Klickitat",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701060409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Klickitat R nr Pitt",
+    "elevation": "289",
+    "basinarea": 1297.0,
+    "awdb_id": "14113000",
+    "usgs_id": "14113000",
+    "usgsname": "KLICKITAT RIVER NEAR PITT, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Klickitat R nr Pitt",
+    "aoi_exist": true
   }
 }

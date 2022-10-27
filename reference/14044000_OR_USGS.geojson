@@ -30913,6 +30913,22 @@
   ],
   "properties": {
     "name": "Mf John Day R at Ritter",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1929",
+    "countyname": "Grant",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170702030503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf John Day R at Ritter",
+    "elevation": "2545",
+    "basinarea": 515.0,
+    "awdb_id": "14044000",
+    "usgs_id": "14044000",
+    "usgsname": "MIDDLE FORK JOHN DAY RIVER AT RITTER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "MF John Day R at Ritter",
+    "aoi_exist": true
   }
 }

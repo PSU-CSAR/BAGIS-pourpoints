@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Yuba R bl Englebright Dam nr Smartville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "Yuba",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201251002,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yuba R bl Englebright Dam nr Smartville",
+    "elevation": "279",
+    "basinarea": 1108.0,
+    "awdb_id": "11418000",
+    "usgs_id": "11418000",
+    "usgsname": "YUBA R BL ENGLEBRIGHT DAM NR SMARTSVILLE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

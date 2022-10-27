@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Red Rock R at Kennedy Rch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1936",
+    "countyname": "Beaverhead",
+    "enddate": "1968-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100200010204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Red Rock R at Kennedy Rch",
+    "elevation": "6596",
+    "basinarea": 321.0,
+    "awdb_id": "06011000",
+    "usgs_id": "6011000",
+    "usgsname": "Red Rock R at Kennedy Ranch nr Lakeview MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

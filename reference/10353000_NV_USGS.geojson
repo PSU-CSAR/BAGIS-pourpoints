@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "EF Quinn R nr Mcdermitt, NV",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1948",
+    "countyname": "Humboldt",
+    "enddate": "1981-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160402010409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "EF Quinn R nr Mcdermitt, NV",
+    "elevation": "4700",
+    "basinarea": 140.0,
+    "awdb_id": "10353000",
+    "usgs_id": "10353000",
+    "usgsname": "E FK QUINN RV NR MC DERMITT, NV",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Canadian River nr Sanchez",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1912",
+    "countyname": "San Miguel",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800030610,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Canadian River nr Sanchez",
+    "elevation": "4500",
+    "basinarea": 6015.0,
+    "awdb_id": "07221500",
+    "usgs_id": "7221500",
+    "usgsname": "CANADIAN RIVER NEAR SANCHEZ, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

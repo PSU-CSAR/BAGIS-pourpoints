@@ -27537,6 +27537,22 @@
   ],
   "properties": {
     "name": "NF Gunnison R nr Somerset",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1933",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200040403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "NF Gunnison R nr Somerset",
+    "elevation": "6280",
+    "basinarea": 525.0,
+    "awdb_id": "09132500",
+    "usgs_id": "9132500",
+    "usgsname": "NORTH FORK GUNNISON RIVER NEAR SOMERSET, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "north fork gunnison r nr somerset (2)",
+    "aoi_exist": true
   }
 }

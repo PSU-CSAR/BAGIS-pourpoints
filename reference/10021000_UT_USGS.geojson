@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Woodruff Ck nr Woodruff, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1937",
+    "countyname": "Rich",
+    "enddate": "1975-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160101010604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Woodruff Ck nr Woodruff, UT",
+    "elevation": "6600",
+    "basinarea": 56.8,
+    "awdb_id": "10021000",
+    "usgs_id": "10021000",
+    "usgsname": "WOODRUFF CREEK NEAR WOODRUFF, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

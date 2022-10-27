@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kern R A Kernville Ca (NWS)",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/31/1905",
+    "countyname": "Kern",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180300010605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kern R A Kernville Ca (NWS)",
+    "elevation": "2621",
+    "basinarea": null,
+    "awdb_id": "1118700N",
+    "usgs_id": "1118700N",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

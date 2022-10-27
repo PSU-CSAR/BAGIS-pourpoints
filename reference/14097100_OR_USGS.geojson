@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Warmsprings nr Kahneeta",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1972",
+    "countyname": "Wasco",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703060608,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Warmsprings nr Kahneeta",
+    "elevation": "1395",
+    "basinarea": 526.0,
+    "awdb_id": "14097100",
+    "usgs_id": "14097100",
+    "usgsname": "WARM SPRINGS RIVER NEAR KAHNEETA HOT SPRINGS, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

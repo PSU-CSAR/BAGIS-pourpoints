@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Boulder R nr Cardwell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1977",
+    "countyname": "Jefferson",
+    "enddate": "1979-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100200060507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boulder R nr Cardwell",
+    "elevation": "4440",
+    "basinarea": 756.0,
+    "awdb_id": "06033900",
+    "usgs_id": "6033900",
+    "usgsname": "Boulder River near Cardwell MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

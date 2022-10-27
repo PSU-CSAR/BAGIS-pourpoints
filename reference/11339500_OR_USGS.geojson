@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Drews Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Lake",
+    "enddate": "1982-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171200070105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Drews Reservoir Inflow",
+    "elevation": "4827",
+    "basinarea": 212.0,
+    "awdb_id": "11339500",
+    "usgs_id": "11339500",
+    "usgsname": "DREWS CREEK NEAR LAKEVIEW,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

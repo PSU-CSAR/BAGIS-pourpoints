@@ -39777,6 +39777,22 @@
   ],
   "properties": {
     "name": "Quinn R nr Mcdermitt",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1948",
+    "countyname": "Humboldt",
+    "enddate": "1985-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160402010409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Quinn R nr Mcdermitt",
+    "elevation": "4240",
+    "basinarea": 1100.0,
+    "awdb_id": "10353500",
+    "usgs_id": "10353500",
+    "usgsname": "QUINN RV NR MC DERMITT, NV",
+    "forecastpoint": false,
+    "bagis_aoiname": "quinn r nr mcdermitt",
+    "aoi_exist": true
   }
 }

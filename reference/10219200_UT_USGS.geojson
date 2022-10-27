@@ -5297,6 +5297,22 @@
   ],
   "properties": {
     "name": "Chicken Ck nr Levan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/5/1959",
+    "countyname": "Juab",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300050202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chicken Ck nr Levan",
+    "elevation": "5540",
+    "basinarea": 27.9,
+    "awdb_id": "10219200",
+    "usgs_id": "10219200",
+    "usgsname": "CHICKEN CREEK NEAR LEVAN, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": "chicken ck nr levan",
+    "aoi_exist": true
   }
 }

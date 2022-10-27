@@ -8609,6 +8609,22 @@
   ],
   "properties": {
     "name": "Florida R bl Lemon Reservoir nr Durango",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1956",
+    "countyname": "La Plata",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801040704,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Florida R bl Lemon Reservoir nr Durango",
+    "elevation": "7920",
+    "basinarea": 17.7,
+    "awdb_id": "09363100",
+    "usgs_id": "9363100",
+    "usgsname": "SALT CREEK NEAR OXFORD, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "lemon reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

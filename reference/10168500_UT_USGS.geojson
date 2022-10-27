@@ -7017,6 +7017,22 @@
   ],
   "properties": {
     "name": "Big Cottonwood Ck nr SLC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1930",
+    "countyname": "Salt Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202040205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Cottonwood Ck nr SLC",
+    "elevation": "4990",
+    "basinarea": 50.0,
+    "awdb_id": "10168500",
+    "usgs_id": "10168500",
+    "usgsname": "BIG COTTONWOOD CR NR SALT LAKE CITY UTAH",
+    "forecastpoint": true,
+    "bagis_aoiname": "big cottonwood ck nr slc",
+    "aoi_exist": true
   }
 }

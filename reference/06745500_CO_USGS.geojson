@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cameron Pass Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/25/1931",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800010503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cameron Pass Ditch",
+    "elevation": "10450",
+    "basinarea": null,
+    "awdb_id": "06745500",
+    "usgs_id": "6745500",
+    "usgsname": "CAMERON PASS DITCH AT CAMERON PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

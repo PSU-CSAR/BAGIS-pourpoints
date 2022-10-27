@@ -61121,6 +61121,22 @@
   ],
   "properties": {
     "name": "San Juan R nr Archuleta",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1947",
+    "countyname": "San Juan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801011901,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "San Juan R nr Archuleta",
+    "elevation": "5653",
+    "basinarea": null,
+    "awdb_id": "09355200",
+    "usgs_id": "9355200",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

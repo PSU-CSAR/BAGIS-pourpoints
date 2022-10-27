@@ -48025,6 +48025,22 @@
   ],
   "properties": {
     "name": "Gila R at Gila",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1927",
+    "countyname": "Grant",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150400010907,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gila R at Gila",
+    "elevation": "4655",
+    "basinarea": 1864.0,
+    "awdb_id": "09430500",
+    "usgs_id": "9430500",
+    "usgsname": "GILA RIVER NEAR GILA, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "gila r at gila",
+    "aoi_exist": true
   }
 }

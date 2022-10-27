@@ -5545,6 +5545,22 @@
   ],
   "properties": {
     "name": "Mill Ck nr SLC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Salt Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202040301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mill Ck nr SLC",
+    "elevation": "5050",
+    "basinarea": 21.7,
+    "awdb_id": "10170000",
+    "usgs_id": "10170000",
+    "usgsname": "MILL CREEK NEAR SALT LAKE CITY, UTAH",
+    "forecastpoint": true,
+    "bagis_aoiname": "mill ck nr slc",
+    "aoi_exist": true
   }
 }

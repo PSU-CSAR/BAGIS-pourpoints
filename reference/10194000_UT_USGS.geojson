@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sevier R abv Clear Ck nr Sevier, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/19/1911",
+    "countyname": "Sevier",
+    "enddate": "1995-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160300030208,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sevier R abv Clear Ck nr Sevier, UT",
+    "elevation": "5560",
+    "basinarea": 2707.0,
+    "awdb_id": "10194000",
+    "usgs_id": "10194000",
+    "usgsname": "SEVIER RIVER ABOVE CLEAR CREEK, NEAR SEVIER, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

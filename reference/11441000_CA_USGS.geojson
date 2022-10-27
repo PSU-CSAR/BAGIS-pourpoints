@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Silver C A Union Valley CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1924",
+    "countyname": "El Dorado",
+    "enddate": "1960-10-01T07:00:00Z",
+    "active": false,
+    "huc": 180201290203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Silver C A Union Valley CA",
+    "elevation": "4530",
+    "basinarea": 83.0,
+    "awdb_id": "11441000",
+    "usgs_id": "11441000",
+    "usgsname": "SILVER C A UNION VALLEY CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

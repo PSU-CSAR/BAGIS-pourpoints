@@ -16513,6 +16513,22 @@
   ],
   "properties": {
     "name": "Dorena Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900020205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dorena Lake Inflow",
+    "elevation": "685",
+    "basinarea": 270.0,
+    "awdb_id": "14155500",
+    "usgs_id": "14155500",
+    "usgsname": "ROW RIVER NEAR COTTAGE GROVE, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Dorena Lake Inflow",
+    "aoi_exist": true
   }
 }

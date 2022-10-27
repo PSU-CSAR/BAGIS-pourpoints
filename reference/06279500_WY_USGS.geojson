@@ -137681,6 +137681,22 @@
   ],
   "properties": {
     "name": "Bighorn R at Kane",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1928",
+    "countyname": "Big Horn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800100310,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bighorn R at Kane",
+    "elevation": "3660",
+    "basinarea": 15762.0,
+    "awdb_id": "06279500",
+    "usgs_id": "6279500",
+    "usgsname": "BIGHORN RIVER AT KANE, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "bighorn r at kane",
+    "aoi_exist": true
   }
 }

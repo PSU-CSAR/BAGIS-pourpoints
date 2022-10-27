@@ -13801,6 +13801,22 @@
   ],
   "properties": {
     "name": "Prospect Ck at Thompson Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Sanders",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102130607,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Prospect Ck at Thompson Falls",
+    "elevation": "2382",
+    "basinarea": 182.0,
+    "awdb_id": "12390700",
+    "usgs_id": "12390700",
+    "usgsname": "Prospect Creek at Thompson Falls MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Prospect Creek at Thompson Falls MT",
+    "aoi_exist": true
   }
 }

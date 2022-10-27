@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "South Santiam R bl Cascadia",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1935",
+    "countyname": "Linn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900060401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Santiam R bl Cascadia",
+    "elevation": "775",
+    "basinarea": 174.0,
+    "awdb_id": "14185000",
+    "usgs_id": "14185000",
+    "usgsname": "SOUTH SANTIAM RIVER BELOW CASCADIA, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

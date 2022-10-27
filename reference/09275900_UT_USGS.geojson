@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rhodes Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1988",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rhodes Tunnel",
+    "elevation": "7780",
+    "basinarea": null,
+    "awdb_id": "09275900",
+    "usgs_id": "9275900",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

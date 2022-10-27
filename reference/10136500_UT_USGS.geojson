@@ -49225,6 +49225,22 @@
   ],
   "properties": {
     "name": "Weber R at Gateway",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1919",
+    "countyname": "Morgan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201020407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weber R at Gateway",
+    "elevation": "4800",
+    "basinarea": 1627.0,
+    "awdb_id": "10136500",
+    "usgs_id": "10136500",
+    "usgsname": "WEBER RIVER AT GATEWAY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "weber r at gateway",
+    "aoi_exist": true
   }
 }

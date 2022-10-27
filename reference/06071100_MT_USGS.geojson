@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "L Prickly Pear Ck at Sieben Rch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1962",
+    "countyname": "Lewis and Clark",
+    "enddate": "1967-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100301011904,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "L Prickly Pear Ck at Sieben Rch",
+    "elevation": "3880",
+    "basinarea": 271.0,
+    "awdb_id": "06071100",
+    "usgs_id": "6071100",
+    "usgsname": "L Prickly Pear C at Sieben Rnch nr Wolf Cr MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

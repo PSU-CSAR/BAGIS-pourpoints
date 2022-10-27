@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Deschutes R bl Bend",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1915",
+    "countyname": "Deschutes",
+    "enddate": "2013-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170703010802,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deschutes R bl Bend",
+    "elevation": "3504",
+    "basinarea": 1899.0,
+    "awdb_id": "14070500",
+    "usgs_id": "14070500",
+    "usgsname": "DESCHUTES RIVER BELOW BEND,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

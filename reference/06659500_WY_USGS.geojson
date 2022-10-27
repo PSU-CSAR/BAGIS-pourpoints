@@ -24137,6 +24137,22 @@
   ],
   "properties": {
     "name": "Laramie R and Pioneer Cnl nr Woods Lndg",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1912",
+    "countyname": "Albany",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800100306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Laramie R and Pioneer Cnl nr Woods Lndg",
+    "elevation": "7389",
+    "basinarea": 434.0,
+    "awdb_id": "06659500",
+    "usgs_id": "6659500",
+    "usgsname": "LARAMIE R AND PIONEER CANAL NR WOODS LANDING, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "laramie r nr woods",
+    "aoi_exist": true
   }
 }

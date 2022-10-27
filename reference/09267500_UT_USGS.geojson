@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mosby Canal Near Lapoint, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1954",
+    "countyname": "Uintah",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600031301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mosby Canal Near Lapoint, UT",
+    "elevation": "9500",
+    "basinarea": 0.01,
+    "awdb_id": "09267500",
+    "usgs_id": "9267500",
+    "usgsname": "MOSBY CANAL NEAR LAPOINT, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

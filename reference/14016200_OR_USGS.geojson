@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pine Ck nr Weston",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1966",
+    "countyname": "Baker",
+    "enddate": "1986-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170502030503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pine Ck nr Weston",
+    "elevation": "2100",
+    "basinarea": 16.8,
+    "awdb_id": "14016200",
+    "usgs_id": "14016200",
+    "usgsname": "PINE CREEK NEAR WESTON,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

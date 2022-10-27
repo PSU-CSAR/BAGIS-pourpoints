@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Hardscrabble Ck nr Porterville, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "Morgan",
+    "enddate": "1970-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160201020105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hardscrabble Ck nr Porterville, UT",
+    "elevation": "5500",
+    "basinarea": 28.0,
+    "awdb_id": "10135000",
+    "usgs_id": "10135000",
+    "usgsname": "HARDSCRABBLE CREEK NEAR PORTERVILLE, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cherry C bl Valley Dam nr Hetch Hetchy C",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/1/1956",
+    "countyname": "Tuolumne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400090405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cherry C bl Valley Dam nr Hetch Hetchy C",
+    "elevation": "4337",
+    "basinarea": 118.0,
+    "awdb_id": "11277300",
+    "usgs_id": "11277300",
+    "usgsname": "CHERRY C BL VALLEY DAM NR HETCH HETCHY CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

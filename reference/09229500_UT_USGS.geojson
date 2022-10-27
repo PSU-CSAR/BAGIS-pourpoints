@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Henrys Fk nr Manila",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1928",
+    "countyname": "UNKNOWN",
+    "enddate": "2015-06-01T07:00:00Z",
+    "active": false,
+    "huc": 140401060303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Henrys Fk nr Manila",
+    "elevation": "6060",
+    "basinarea": 520.0,
+    "awdb_id": "09229500",
+    "usgs_id": "9229500",
+    "usgsname": "HENRYS FORK NEAR MANILA, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Dallas Creek nr Ridgway",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1922",
+    "countyname": "Ouray",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200060205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dallas Creek nr Ridgway",
+    "elevation": "6980",
+    "basinarea": 97.2,
+    "awdb_id": "09147000",
+    "usgs_id": "9147000",
+    "usgsname": "DALLAS CREEK NEAR RIDGWAY, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

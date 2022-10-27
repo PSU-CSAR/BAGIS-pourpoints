@@ -41737,6 +41737,22 @@
   ],
   "properties": {
     "name": "Teton R nr Dutton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1954",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302050905,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Teton R nr Dutton",
+    "elevation": "3235",
+    "basinarea": 1238.0,
+    "awdb_id": "06108000",
+    "usgs_id": "6108000",
+    "usgsname": "Teton River near Dutton MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "teton r nr dutton",
+    "aoi_exist": true
   }
 }

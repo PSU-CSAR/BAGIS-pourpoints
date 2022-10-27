@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gulkana R at Sourdough",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1972",
+    "countyname": "Valdez-Cordova",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190201020604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gulkana R at Sourdough",
+    "elevation": "1846",
+    "basinarea": 1760.0,
+    "awdb_id": "15200280",
+    "usgs_id": "15200280",
+    "usgsname": "GULKANA R AT SOURDOUGH AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

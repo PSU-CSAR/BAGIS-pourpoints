@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "East Fork Troublesome Ck nr Troublesome",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1937",
+    "countyname": "Grand",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 140100010605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "East Fork Troublesome Ck nr Troublesome",
+    "elevation": "7670",
+    "basinarea": 76.0,
+    "awdb_id": "09040000",
+    "usgs_id": "9040000",
+    "usgsname": "EAST FORK TROUBLESOME C NEAR TROUBLESOME, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

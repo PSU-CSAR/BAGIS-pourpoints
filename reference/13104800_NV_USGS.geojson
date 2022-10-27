@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Shoshone Creek nr San Jacinto, NV",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1982",
+    "countyname": "Elko",
+    "enddate": "1995-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170402130605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Shoshone Creek nr San Jacinto, NV",
+    "elevation": "5130",
+    "basinarea": 309.0,
+    "awdb_id": "13104800",
+    "usgs_id": "13104800",
+    "usgsname": "SHOSHONE CREEK AT MOUTH NR SAN JACINTO NV",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

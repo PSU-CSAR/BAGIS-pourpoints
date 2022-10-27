@@ -21825,6 +21825,22 @@
   ],
   "properties": {
     "name": "Badger Ck nr Browning",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1951",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Badger Ck nr Browning",
+    "elevation": "4179",
+    "basinarea": 153.0,
+    "awdb_id": "06093200",
+    "usgs_id": "6093200",
+    "usgsname": "Badger Cr bl Four Horns Canal nr Browning MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "badger ck nr browning",
+    "aoi_exist": true
   }
 }

@@ -10297,6 +10297,22 @@
   ],
   "properties": {
     "name": "Cottage Grove Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1939",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900020305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cottage Grove Lake Inflow",
+    "elevation": "711",
+    "basinarea": 104.0,
+    "awdb_id": "14153500",
+    "usgs_id": "14153500",
+    "usgsname": "COAST FORK WILLAMETTE R BLW COTTAGE GROVE DAM, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Cottage Grove Lake Inflow",
+    "aoi_exist": true
   }
 }

@@ -35617,6 +35617,22 @@
   ],
   "properties": {
     "name": "New Fork R nr Big Piney",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1954",
+    "countyname": "Sublette",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401020606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "New Fork R nr Big Piney",
+    "elevation": "6800",
+    "basinarea": 1230.0,
+    "awdb_id": "09205000",
+    "usgs_id": "9205000",
+    "usgsname": "NEW FORK RIVER NEAR BIG PINEY, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "new fork r nr big piney",
+    "aoi_exist": true
   }
 }

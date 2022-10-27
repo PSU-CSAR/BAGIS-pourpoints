@@ -38017,6 +38017,22 @@
   ],
   "properties": {
     "name": "Sevier R nr Kingston",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1914",
+    "countyname": "Piute",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sevier R nr Kingston",
+    "elevation": "5980",
+    "basinarea": 1131.0,
+    "awdb_id": "10183500",
+    "usgs_id": "10183500",
+    "usgsname": "SEVIER RIVER NEAR KINGSTON, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "sevier r nr kingston",
+    "aoi_exist": true
   }
 }

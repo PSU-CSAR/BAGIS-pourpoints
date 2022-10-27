@@ -37529,6 +37529,22 @@
   ],
   "properties": {
     "name": "Colville R at Kettle Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1922",
+    "countyname": "Stevens",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200030406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Colville R at Kettle Falls",
+    "elevation": "1400",
+    "basinarea": 1007.0,
+    "awdb_id": "12409000",
+    "usgs_id": "12409000",
+    "usgsname": "COLVILLE RIVER AT KETTLE FALLS, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Colville R at Kettle Falls",
+    "aoi_exist": true
   }
 }

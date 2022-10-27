@@ -5649,6 +5649,22 @@
   ],
   "properties": {
     "name": "Sheep Ck nr White Sulphur Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1941",
+    "countyname": "Meagher",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100301030401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sheep Ck nr White Sulphur Springs",
+    "elevation": "5820",
+    "basinarea": 43.1,
+    "awdb_id": "06077000",
+    "usgs_id": "6077000",
+    "usgsname": "Sheep Cr nr White Sulphur Springs MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "sheep ck nr white sulphur springs",
+    "aoi_exist": true
   }
 }

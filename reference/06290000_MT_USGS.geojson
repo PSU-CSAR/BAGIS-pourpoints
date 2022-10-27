@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pass Ck nr WyoLa",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1935",
+    "countyname": "Big Horn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800160209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pass Ck nr WyoLa",
+    "elevation": "3920",
+    "basinarea": 113.0,
+    "awdb_id": "06290000",
+    "usgs_id": "6290000",
+    "usgsname": "Pass Creek near Wyola MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

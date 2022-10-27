@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Green R nr Greendale",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Daggett",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401060805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Green R nr Greendale",
+    "elevation": "5594",
+    "basinarea": 19350.0,
+    "awdb_id": "09234500",
+    "usgs_id": "9234500",
+    "usgsname": "GREEN RIVER NEAR GREENDALE, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pass Ck nr Elk Mountain",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1957",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800021003,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pass Ck nr Elk Mountain",
+    "elevation": "7200",
+    "basinarea": 91.5,
+    "awdb_id": "06628900",
+    "usgs_id": "6628900",
+    "usgsname": "PASS CREEK NEAR ELK MOUNTAIN, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

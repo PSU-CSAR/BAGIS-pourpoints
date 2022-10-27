@@ -25137,6 +25137,22 @@
   ],
   "properties": {
     "name": "Green R at Warren Bridge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1931",
+    "countyname": "Sublette",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401010306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Green R at Warren Bridge",
+    "elevation": "7468",
+    "basinarea": 468.0,
+    "awdb_id": "09188500",
+    "usgs_id": "9188500",
+    "usgsname": "GREEN RIVER AT WARREN BRIDGE, NEAR DANIEL, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "green r at warren bridge",
+    "aoi_exist": true
   }
 }

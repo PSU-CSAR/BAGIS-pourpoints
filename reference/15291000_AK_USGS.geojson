@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Susitna River Near Denali AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1957",
+    "countyname": "Matanuska-Susitna",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190205010409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Susitna River Near Denali AK",
+    "elevation": "2440",
+    "basinarea": 917.0,
+    "awdb_id": "15291000",
+    "usgs_id": "15291000",
+    "usgsname": "SUSITNA R NR DENALI AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

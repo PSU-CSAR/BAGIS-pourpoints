@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Silver Lk Id Canal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1923",
+    "countyname": "Lake",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171200050207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Silver Lk Id Canal",
+    "elevation": "4400",
+    "basinarea": null,
+    "awdb_id": "10389500",
+    "usgs_id": "10389500",
+    "usgsname": "SILVER LK IRRIG DIST CA NR SILVER LAKE, OR.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

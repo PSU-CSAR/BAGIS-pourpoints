@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Missouri R nr Wolf Point",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1928",
+    "countyname": "McCone",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100600011403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Missouri R nr Wolf Point",
+    "elevation": "1959",
+    "basinarea": 80650.0,
+    "awdb_id": "06177000",
+    "usgs_id": "6177000",
+    "usgsname": "Missouri River near Wolf Point MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

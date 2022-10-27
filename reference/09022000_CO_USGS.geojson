@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fraser - Winter Park, Nr",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1968",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fraser - Winter Park, Nr",
+    "elevation": "9520",
+    "basinarea": 10.5,
+    "awdb_id": "09022000",
+    "usgs_id": "9022000",
+    "usgsname": "FRASER RIVER AT UPPER STA, NEAR WINTER PARK, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

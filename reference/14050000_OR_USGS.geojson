@@ -11281,6 +11281,22 @@
   ],
   "properties": {
     "name": "Deschutes R bl Snow Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1937",
+    "countyname": "Deschutes",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703010104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deschutes R bl Snow Ck",
+    "elevation": "4445",
+    "basinarea": 132.0,
+    "awdb_id": "14050000",
+    "usgs_id": "14050000",
+    "usgsname": "DESCHUTES RIVER BL SNOW CR NR LA PINE,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Deschutes R bl Snow Ck",
+    "aoi_exist": true
   }
 }

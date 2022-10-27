@@ -57825,6 +57825,22 @@
   ],
   "properties": {
     "name": "EF Sevier R nr Kingston",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1913",
+    "countyname": "Piute",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300020507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "EF Sevier R nr Kingston",
+    "elevation": "6160",
+    "basinarea": 1207.0,
+    "awdb_id": "10189000",
+    "usgs_id": "10189000",
+    "usgsname": "EAST FORK SEVIER RIVER NEAR KINGSTON, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "ef sevier r nr kingston",
+    "aoi_exist": true
   }
 }

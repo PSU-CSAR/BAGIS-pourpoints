@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Oso Diversion nr Chromo",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/1/1970",
+    "countyname": "Archuleta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Oso Diversion nr Chromo",
+    "elevation": "7795",
+    "basinarea": 96.4,
+    "awdb_id": "09344300",
+    "usgs_id": "9344300",
+    "usgsname": "NAVAJO RIVER ABOVE CHROMO, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sum Of Major Divs St Anthony To Rexburg",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402030504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sum Of Major Divs St Anthony To Rexburg",
+    "elevation": "4900",
+    "basinarea": null,
+    "awdb_id": "13056502",
+    "usgs_id": "13056502",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

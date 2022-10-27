@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Dolores Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1993",
+    "countyname": "Montezuma",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140802020103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dolores Tunnel",
+    "elevation": "6820",
+    "basinarea": null,
+    "awdb_id": "CO0043",
+    "usgs_id": "CO0043",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

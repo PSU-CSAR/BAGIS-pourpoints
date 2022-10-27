@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Burnt Fk Ck nr Stevensville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1920",
+    "countyname": "Ravalli",
+    "enddate": "1989-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102051305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Burnt Fk Ck nr Stevensville",
+    "elevation": "4270",
+    "basinarea": 73.5,
+    "awdb_id": "12351000",
+    "usgs_id": "12351000",
+    "usgsname": "Burnt Fork Bitterroot River nr Stevensville MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

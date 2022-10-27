@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Milk R Fresno Inflow nr Havre",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Hill",
+    "enddate": "1994-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100500020809,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Milk R Fresno Inflow nr Havre",
+    "elevation": "2575",
+    "basinarea": null,
+    "awdb_id": "06136500",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

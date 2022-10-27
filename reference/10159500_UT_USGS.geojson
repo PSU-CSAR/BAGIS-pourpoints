@@ -29761,6 +29761,22 @@
   ],
   "properties": {
     "name": "Provo R bl Deer Ck Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1952",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160202030405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Provo R bl Deer Ck Dam",
+    "elevation": "5270",
+    "basinarea": 547.0,
+    "awdb_id": "10159500",
+    "usgs_id": "10159500",
+    "usgsname": "PROVO RIVER BELOW DEER CREEK DAM, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "provo r bl deek ck dam",
+    "aoi_exist": true
   }
 }

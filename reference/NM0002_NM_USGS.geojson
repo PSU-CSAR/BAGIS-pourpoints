@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Diversion From Lake MayoLa",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/2011",
+    "countyname": "Colfax",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110800010101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Diversion From Lake MayoLa",
+    "elevation": "7936",
+    "basinarea": null,
+    "awdb_id": "NM0002",
+    "usgs_id": "NM0002",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

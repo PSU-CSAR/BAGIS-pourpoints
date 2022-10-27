@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pecos R ab Santa Rosa Lk",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Guadalupe",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130600011111,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pecos R ab Santa Rosa Lk",
+    "elevation": "4760",
+    "basinarea": 2340.0,
+    "awdb_id": "08382650",
+    "usgs_id": "8382650",
+    "usgsname": "PECOS RIVER ABOVE SANTA ROSA LAKE, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "santa rosa lake inflow (2)",
+    "aoi_exist": true
   }
 }

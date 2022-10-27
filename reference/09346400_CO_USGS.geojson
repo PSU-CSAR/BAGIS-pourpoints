@@ -39809,6 +39809,22 @@
   ],
   "properties": {
     "name": "San Juan R nr Carracas",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1961",
+    "countyname": "Archuleta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801010803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "San Juan R nr Carracas",
+    "elevation": "6090",
+    "basinarea": 1250.0,
+    "awdb_id": "09346400",
+    "usgs_id": "9346400",
+    "usgsname": "SAN JUAN RIVER NEAR CARRACAS, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "san juan r nr carracas (2)",
+    "aoi_exist": true
   }
 }

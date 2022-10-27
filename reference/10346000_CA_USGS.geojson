@@ -37625,6 +37625,22 @@
   ],
   "properties": {
     "name": "Truckee R at Farad",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1900",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Truckee R at Farad",
+    "elevation": "5153",
+    "basinarea": 932.0,
+    "awdb_id": "10346000",
+    "usgs_id": "10346000",
+    "usgsname": "TRUCKEE R A FARAD CA",
+    "forecastpoint": true,
+    "bagis_aoiname": "truckee r at farad",
+    "aoi_exist": true
   }
 }

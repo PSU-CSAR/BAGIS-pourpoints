@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Susitna R nr Palmer",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1948",
+    "countyname": "Matanuska-Susitna",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190205051202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Susitna R nr Palmer",
+    "elevation": "917",
+    "basinarea": 62.0,
+    "awdb_id": "15290000",
+    "usgs_id": "15290000",
+    "usgsname": "L SUSITNA R NR PALMER AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

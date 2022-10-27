@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "WF Duchesne R nr Hanna, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1921",
+    "countyname": "Duchesne",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 140600030103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "WF Duchesne R nr Hanna, UT",
+    "elevation": "7218",
+    "basinarea": 61.6,
+    "awdb_id": "09275500",
+    "usgs_id": "9275500",
+    "usgsname": "WEST FORK DUCHESNE RIVER NEAR HANNA, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

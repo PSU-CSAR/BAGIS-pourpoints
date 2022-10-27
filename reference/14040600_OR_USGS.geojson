@@ -5729,6 +5729,22 @@
   ],
   "properties": {
     "name": "Mountain Ck nr Mitchell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1966",
+    "countyname": "Wheeler",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170702011201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mountain Ck nr Mitchell",
+    "elevation": "4240",
+    "basinarea": 20.0,
+    "awdb_id": "14040600",
+    "usgs_id": "14040600",
+    "usgsname": "MOUNTAIN CREEK NEAR MITCHELL,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "Mountain Ck nr Mitchell",
+    "aoi_exist": true
   }
 }

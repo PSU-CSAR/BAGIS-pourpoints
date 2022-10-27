@@ -63785,6 +63785,22 @@
   ],
   "properties": {
     "name": "Gila R bl Blue Ck nr Virden",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1914",
+    "countyname": "Grant",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150400020702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gila R bl Blue Ck nr Virden",
+    "elevation": "3875",
+    "basinarea": 3203.0,
+    "awdb_id": "09432000",
+    "usgs_id": "9432000",
+    "usgsname": "GILA RIVER BELOW BLUE CREEK, NEAR VIRDEN, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "gila r nr virden",
+    "aoi_exist": true
   }
 }

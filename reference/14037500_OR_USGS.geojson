@@ -2545,6 +2545,22 @@
   ],
   "properties": {
     "name": "Strawberry Ck nr Prairie City",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1930",
+    "countyname": "Grant",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170702010601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Strawberry Ck nr Prairie City",
+    "elevation": "4910",
+    "basinarea": 7.0,
+    "awdb_id": "14037500",
+    "usgs_id": "14037500",
+    "usgsname": "STRAWBERRY CR AB SLIDE CR NR PRAIRIE CITY,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Strawberry Ck nr Prairie City",
+    "aoi_exist": true
   }
 }

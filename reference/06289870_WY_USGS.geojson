@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Twin Ck nr Parkman",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1982",
+    "countyname": "Sheridan",
+    "enddate": "1990-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800160207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Twin Ck nr Parkman",
+    "elevation": "4120",
+    "basinarea": 27.0,
+    "awdb_id": "06289870",
+    "usgs_id": "6289870",
+    "usgsname": "TWIN CR NR PARKMAN, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Stewart River at Stewart Crossing",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1961",
+    "countyname": "UNKNOWN",
+    "enddate": "1974-10-01T07:00:00Z",
+    "active": false,
+    "huc": null,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Stewart River at Stewart Crossing",
+    "elevation": "1570",
+    "basinarea": null,
+    "awdb_id": "159DD002",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -34985,6 +34985,22 @@
   ],
   "properties": {
     "name": "Priest R nr Priest River",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1903",
+    "countyname": "Bonner",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102150705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Priest R nr Priest River",
+    "elevation": "2090",
+    "basinarea": 902.0,
+    "awdb_id": "12395000",
+    "usgs_id": "12395000",
+    "usgsname": "PRIEST RIVER NR PRIEST RIVER ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

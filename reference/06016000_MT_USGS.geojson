@@ -81209,6 +81209,22 @@
   ],
   "properties": {
     "name": "Beaverhead R at Barretts",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1907",
+    "countyname": "Beaverhead",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200020404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaverhead R at Barretts",
+    "elevation": "5268",
+    "basinarea": 2730.0,
+    "awdb_id": "06016000",
+    "usgs_id": "6016000",
+    "usgsname": "Beaverhead River at Barretts MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "beaverhead r at barretts",
+    "aoi_exist": true
   }
 }

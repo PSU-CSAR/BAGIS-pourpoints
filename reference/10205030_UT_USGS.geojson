@@ -6377,6 +6377,22 @@
   ],
   "properties": {
     "name": "Salina Ck nr Emery",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1963",
+    "countyname": "Sevier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300030402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salina Ck nr Emery",
+    "elevation": "7000",
+    "basinarea": 51.8,
+    "awdb_id": "10205030",
+    "usgs_id": "10205030",
+    "usgsname": "SALINA CREEK NEAR EMERY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "salina ck nr emery",
+    "aoi_exist": true
   }
 }

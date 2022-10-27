@@ -12833,6 +12833,22 @@
   ],
   "properties": {
     "name": "La Prele Ck nr Douglas",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1919",
+    "countyname": "Converse",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800071203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "La Prele Ck nr Douglas",
+    "elevation": "5600",
+    "basinarea": 135.0,
+    "awdb_id": "06649000",
+    "usgs_id": "6649000",
+    "usgsname": "LA PRELE CREEK NEAR DOUGLAS, WYO.",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

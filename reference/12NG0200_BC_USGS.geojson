@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bull R nr Wardner, BC",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1914",
+    "countyname": "UNKNOWN",
+    "enddate": "1984-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170101010307,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bull R nr Wardner, BC",
+    "elevation": "2625",
+    "basinarea": null,
+    "awdb_id": "12NG0200",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

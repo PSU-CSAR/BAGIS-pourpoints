@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Trinchera Water Supply",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1957",
+    "countyname": "Costilla",
+    "enddate": "2000-09-30T07:00:00Z",
+    "active": false,
+    "huc": 130100020609,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Trinchera Water Supply",
+    "elevation": "7740",
+    "basinarea": 231.0,
+    "awdb_id": "08243000",
+    "usgs_id": "8243000",
+    "usgsname": "SANGRE DE CRISTO C AB SMITH RE, NEAR BLANCA, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -8913,6 +8913,22 @@
   ],
   "properties": {
     "name": "Bear Ck ab Evergreen",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1984",
+    "countyname": "Jefferson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900020804,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear Ck ab Evergreen",
+    "elevation": "7080",
+    "basinarea": 103.0,
+    "awdb_id": "06710385",
+    "usgs_id": "6710385",
+    "usgsname": "BEAR CREEK ABOVE EVERGREEN, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "bear ck ab evergreen",
+    "aoi_exist": true
   }
 }

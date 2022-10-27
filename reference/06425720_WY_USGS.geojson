@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Belle Fourche R blw Rattlesnake Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1975",
+    "countyname": "Campbell",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101202010304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Belle Fourche R blw Rattlesnake Ck",
+    "elevation": "4550",
+    "basinarea": 495.0,
+    "awdb_id": "06425720",
+    "usgs_id": "6425720",
+    "usgsname": "BELLE FOURCHE R BL RATTLESNAKE C, NR PINEY, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

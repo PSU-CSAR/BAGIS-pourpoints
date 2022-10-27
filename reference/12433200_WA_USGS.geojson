@@ -15897,6 +15897,22 @@
   ],
   "properties": {
     "name": "Chamokane Ck nr Long Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1971",
+    "countyname": "Stevens",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170103070204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chamokane Ck nr Long Lake",
+    "elevation": "1420",
+    "basinarea": 179.0,
+    "awdb_id": "12433200",
+    "usgs_id": "12433200",
+    "usgsname": "CHAMOKANE CREEK BELOW FALLS NEAR LONG LAKE, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "CHAMOKANE CREEK BELOW FALLS NEAR LONG LAKE, WA",
+    "aoi_exist": true
   }
 }

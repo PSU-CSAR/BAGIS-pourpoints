@@ -8465,6 +8465,22 @@
   ],
   "properties": {
     "name": "Rock Ck nr Buffalo",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1945",
+    "countyname": "Johnson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100902060201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rock Ck nr Buffalo",
+    "elevation": "5280",
+    "basinarea": 60.0,
+    "awdb_id": "06320000",
+    "usgs_id": "6320000",
+    "usgsname": "ROCK CREEK NEAR BUFFALO, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "rock ck nr buffalo",
+    "aoi_exist": true
   }
 }

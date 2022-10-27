@@ -17785,6 +17785,22 @@
   ],
   "properties": {
     "name": "Little Snake R nr Slater",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1942",
+    "countyname": "Routt",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500030110,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Snake R nr Slater",
+    "elevation": "6830",
+    "basinarea": 252.0,
+    "awdb_id": "09253000",
+    "usgs_id": "9253000",
+    "usgsname": "LITTLE SNAKE RIVER NEAR SLATER, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "little snake r nr slater",
+    "aoi_exist": true
   }
 }

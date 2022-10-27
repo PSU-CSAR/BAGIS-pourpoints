@@ -7521,6 +7521,22 @@
   ],
   "properties": {
     "name": "Hyalite Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1966",
+    "countyname": "Gallatin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200081001,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hyalite Reservoir Inflow",
+    "elevation": "5540",
+    "basinarea": null,
+    "awdb_id": "06049450",
+    "usgs_id": "6049450",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "Hyalite Reservoir Inflow",
+    "aoi_exist": true
   }
 }

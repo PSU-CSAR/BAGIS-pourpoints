@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ochoco Ck bl Marks Ck nr Prineville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/17/1999",
+    "countyname": "Crook",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703050402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ochoco Ck bl Marks Ck nr Prineville",
+    "elevation": "3330",
+    "basinarea": null,
+    "awdb_id": "14082550",
+    "usgs_id": "14082550",
+    "usgsname": "OCHOCO CREEK BLW MARKS CREEK NR PRINEVILLE, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

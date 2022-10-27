@@ -13201,6 +13201,22 @@
   ],
   "properties": {
     "name": "Mckenzie R bl Trail Bridge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1959",
+    "countyname": "Linn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900040206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mckenzie R bl Trail Bridge",
+    "elevation": "1980",
+    "basinarea": 184.0,
+    "awdb_id": "14158850",
+    "usgs_id": "14158850",
+    "usgsname": "MCKENZIE R BLW TRAIL BR DAM NR BELKNAP SPRINGS, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "McKenzie R bl Trail Bridge",
+    "aoi_exist": true
   }
 }

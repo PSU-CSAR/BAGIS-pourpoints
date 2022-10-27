@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Slate R ab Baxter Gl  at Hwy 135",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/2006",
+    "countyname": "Gunnison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200010206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Slate R ab Baxter Gl  at Hwy 135",
+    "elevation": "8810",
+    "basinarea": 73.4,
+    "awdb_id": "385106106571000",
+    "usgs_id": "3.85E+14",
+    "usgsname": "SLATE R AB BAXTER GL @HWY 135 NR CRESTED BUTTE, CO",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

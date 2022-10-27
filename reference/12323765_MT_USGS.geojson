@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Foster Ck nr Anaconda",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1976",
+    "countyname": "Deer Lodge",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102010305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Foster Ck nr Anaconda",
+    "elevation": "5250",
+    "basinarea": null,
+    "awdb_id": "12323765",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

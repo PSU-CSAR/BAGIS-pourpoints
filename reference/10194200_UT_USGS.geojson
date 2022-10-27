@@ -12665,6 +12665,22 @@
   ],
   "properties": {
     "name": "Clear Ck ab Diversions nr Sevier",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1957",
+    "countyname": "Sevier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160300030105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clear Ck ab Diversions nr Sevier",
+    "elevation": "5680",
+    "basinarea": 164.0,
+    "awdb_id": "10194200",
+    "usgs_id": "10194200",
+    "usgsname": "CLEAR CREEK ABOVE DIVERSIONS, NEAR SEVIER, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "clear ck ab diversions nr sevier",
+    "aoi_exist": true
   }
 }

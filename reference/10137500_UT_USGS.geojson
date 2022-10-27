@@ -11033,6 +11033,22 @@
   ],
   "properties": {
     "name": "SF Ogden R nr Huntsville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1921",
+    "countyname": "Weber",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201020205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Ogden R nr Huntsville",
+    "elevation": "5190",
+    "basinarea": 137.0,
+    "awdb_id": "10137500",
+    "usgs_id": "10137500",
+    "usgsname": "SOUTH FORK OGDEN RIVER NEAR HUNTSVILLE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "sf ogden r nr huntsville",
+    "aoi_exist": true
   }
 }

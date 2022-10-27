@@ -75337,6 +75337,22 @@
   ],
   "properties": {
     "name": "Baker R at Concrete",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Skagit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100051007,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Baker R at Concrete",
+    "elevation": "190",
+    "basinarea": 297.0,
+    "awdb_id": "12193500",
+    "usgs_id": "12193500",
+    "usgsname": "BAKER RIVER AT CONCRETE, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Baker Rv near Concrete",
+    "aoi_exist": true
   }
 }

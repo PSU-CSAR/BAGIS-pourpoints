@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Strawberry Aqueduct",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1981",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600040105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Strawberry Aqueduct",
+    "elevation": "7587",
+    "basinarea": null,
+    "awdb_id": "09282399",
+    "usgs_id": "9282399",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

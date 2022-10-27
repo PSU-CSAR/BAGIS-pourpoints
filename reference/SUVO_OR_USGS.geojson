@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Luckiamute River Near Suver",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/31/1905",
+    "countyname": "Polk",
+    "enddate": "2000-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170900030512,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Luckiamute River Near Suver",
+    "elevation": "180",
+    "basinarea": null,
+    "awdb_id": "SUVO",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

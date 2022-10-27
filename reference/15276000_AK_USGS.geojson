@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ship Ck nr Anchorage",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Anchorage",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190204010404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ship Ck nr Anchorage",
+    "elevation": "490",
+    "basinarea": 89.6,
+    "awdb_id": "15276000",
+    "usgs_id": "15276000",
+    "usgsname": "SHIP C NR ANCHORAGE AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

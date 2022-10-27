@@ -36857,6 +36857,22 @@
   ],
   "properties": {
     "name": "Teton R nr St Anthony",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18900101",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402040801,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Teton R nr St Anthony",
+    "elevation": "4880",
+    "basinarea": 876.0,
+    "awdb_id": "13055000",
+    "usgs_id": "13055000",
+    "usgsname": "TETON RIVER NR ST ANTHONY ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Teton R nr St Anthony",
+    "aoi_exist": true
   }
 }

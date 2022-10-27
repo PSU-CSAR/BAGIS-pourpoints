@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Wilson R nr Tillamook",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1916",
+    "countyname": "Tillamook",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171002030508,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wilson R nr Tillamook",
+    "elevation": "42",
+    "basinarea": 161.0,
+    "awdb_id": "14301500",
+    "usgs_id": "14301500",
+    "usgsname": "WILSON RIVER NEAR TILLAMOOK, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -27353,6 +27353,22 @@
   ],
   "properties": {
     "name": "Dolores R at Dolores",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18951001",
+    "countyname": "Montezuma",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140300020306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dolores R at Dolores",
+    "elevation": "6940",
+    "basinarea": 504.0,
+    "awdb_id": "09166500",
+    "usgs_id": "9166500",
+    "usgsname": "DOLORES RIVER AT DOLORES, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "dolores r at dolores",
+    "aoi_exist": true
   }
 }

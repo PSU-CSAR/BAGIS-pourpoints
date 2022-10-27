@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mf Feather R nr Clio, CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1925",
+    "countyname": "Plumas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201230404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Feather R nr Clio, CA",
+    "elevation": "4400",
+    "basinarea": 686.0,
+    "awdb_id": "11392500",
+    "usgs_id": "11392500",
+    "usgsname": "MF FEATHER R NR CLIO CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -16969,6 +16969,22 @@
   ],
   "properties": {
     "name": "SF Musselshell R ab Martinsdale",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1941",
+    "countyname": "Meagher",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100402010210,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Musselshell R ab Martinsdale",
+    "elevation": "4900",
+    "basinarea": 268.0,
+    "awdb_id": "06118500",
+    "usgs_id": "6118500",
+    "usgsname": "South Fork Musselshell R ab Martinsdale MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "SF Musselshell R ab Martinsdale",
+    "aoi_exist": true
   }
 }

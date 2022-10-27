@@ -16113,6 +16113,22 @@
   ],
   "properties": {
     "name": "Cle Elum Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1903",
+    "countyname": "Kittitas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300010106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cle Elum Lake Inflow",
+    "elevation": "2102",
+    "basinarea": 203.0,
+    "awdb_id": "12479000",
+    "usgs_id": "12479000",
+    "usgsname": "CLE ELUM RIVER NEAR ROSLYN, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Cle Elum Lake Inflow",
+    "aoi_exist": true
   }
 }

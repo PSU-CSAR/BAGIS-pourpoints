@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Pelly River at Pelly Crossing",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1952",
+    "countyname": "UNKNOWN",
+    "enddate": "1983-10-01T07:00:00Z",
+    "active": false,
+    "huc": null,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pelly River at Pelly Crossing",
+    "elevation": "1750",
+    "basinarea": null,
+    "awdb_id": "159BC001",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

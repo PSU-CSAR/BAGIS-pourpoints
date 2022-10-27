@@ -8385,6 +8385,22 @@
   ],
   "properties": {
     "name": "Bear Ck nr Wallowa",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1915",
+    "countyname": "Wallowa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170601050402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear Ck nr Wallowa",
+    "elevation": "3250",
+    "basinarea": 68.0,
+    "awdb_id": "13330500",
+    "usgs_id": "13330500",
+    "usgsname": "BEAR CREEK NEAR WALLOWA, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Bear Ck nr Wallowa",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Shields R at Clyde Park",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1921",
+    "countyname": "Park",
+    "enddate": "1967-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100700030406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Shields R at Clyde Park",
+    "elevation": "4780",
+    "basinarea": 539.0,
+    "awdb_id": "06193500",
+    "usgs_id": "6193500",
+    "usgsname": "Shields River at Clyde Park MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

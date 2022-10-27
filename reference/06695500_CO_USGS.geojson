@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "South Platte R nr Lake George",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1929",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900010605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Platte R nr Lake George",
+    "elevation": "8458",
+    "basinarea": 963.0,
+    "awdb_id": "06695500",
+    "usgs_id": "6695500",
+    "usgsname": "ELEVENMILE CANYON RE NEAR LAKE GEORGE, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

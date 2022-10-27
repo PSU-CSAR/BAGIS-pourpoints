@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Johnson Ck at Yellow Pine",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1928",
+    "countyname": "Valley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170602080108,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Johnson Ck at Yellow Pine",
+    "elevation": "4656",
+    "basinarea": 218.0,
+    "awdb_id": "13313000",
+    "usgs_id": "13313000",
+    "usgsname": "JOHNSON CREEK AT YELLOW PINE ID",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

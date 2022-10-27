@@ -24745,6 +24745,22 @@
   ],
   "properties": {
     "name": "Clackamas R ab Three Lynx",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1909",
+    "countyname": "Clackamas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900110401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clackamas R ab Three Lynx",
+    "elevation": "1092",
+    "basinarea": 479.0,
+    "awdb_id": "14209500",
+    "usgs_id": "14209500",
+    "usgsname": "CLACKAMAS RIVER ABOVE THREE LYNX CREEK, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Clackamas R above Three Lynx",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Silver C bl Camino Div Dam CA",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "El Dorado",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180201290205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Silver C bl Camino Div Dam CA",
+    "elevation": "2754",
+    "basinarea": 171.0,
+    "awdb_id": "11441900",
+    "usgs_id": "11441900",
+    "usgsname": "SILVER C BL CAMINO DIV DAM CA",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

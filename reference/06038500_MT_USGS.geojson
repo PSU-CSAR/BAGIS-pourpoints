@@ -38649,6 +38649,22 @@
   ],
   "properties": {
     "name": "Hebgen Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1909",
+    "countyname": "Gallatin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200070404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hebgen Lake Inflow",
+    "elevation": "6448",
+    "basinarea": 931.0,
+    "awdb_id": "06038500",
+    "usgs_id": "6038500",
+    "usgsname": "Madison River bl Hebgen Lake nr Grayling MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Hebgen Reservoir Inflow",
+    "aoi_exist": true
   }
 }

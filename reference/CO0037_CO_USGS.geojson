@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Williams Creek-Squaw Pass Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1948",
+    "countyname": "Hinsdale",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801020103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Williams Creek-Squaw Pass Ditch",
+    "elevation": "11280",
+    "basinarea": null,
+    "awdb_id": "CO0037",
+    "usgs_id": "CO0037",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

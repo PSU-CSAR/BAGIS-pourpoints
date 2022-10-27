@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Lost Ck nr Croyden",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Morgan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lost Ck nr Croyden",
+    "elevation": "5820",
+    "basinarea": 123.0,
+    "awdb_id": "10132500",
+    "usgs_id": "10132500",
+    "usgsname": "LOST CREEK NEAR CROYDEN, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

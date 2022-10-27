@@ -4529,6 +4529,22 @@
   ],
   "properties": {
     "name": "Big Ck nr Medical Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1962",
+    "countyname": "Union",
+    "enddate": "1980-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170502030702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Ck nr Medical Springs",
+    "elevation": "3800",
+    "basinarea": 29.6,
+    "awdb_id": "13285900",
+    "usgs_id": "13285900",
+    "usgsname": "BIG CREEK BL BURN CR NR MEDICAL SPRINGS,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": "Big Ck nr Medical Springs",
+    "aoi_exist": true
   }
 }

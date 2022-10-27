@@ -7425,6 +7425,22 @@
   ],
   "properties": {
     "name": "Rock Ck ab King Canyon Cnl nr Arlington",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1954",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800040104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rock Ck ab King Canyon Cnl nr Arlington",
+    "elevation": "7790",
+    "basinarea": 62.9,
+    "awdb_id": "06632400",
+    "usgs_id": "6632400",
+    "usgsname": "ROCK CREEK AB KING CANYON CANAL, NR ARLINGTON, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "rock ck nr arlington",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clearwater R ab Trap nr Toketee Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1927",
+    "countyname": "Douglas",
+    "enddate": "2014-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171003010303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clearwater R ab Trap nr Toketee Falls",
+    "elevation": "3863",
+    "basinarea": 41.6,
+    "awdb_id": "14314500",
+    "usgs_id": "14314500",
+    "usgsname": "CLEARWATER RIVER ABV TRAP CK NR TOKETEE FALLS, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big Dry Ck nr Van Norman Valier",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1939",
+    "countyname": "Garfield",
+    "enddate": "2014-07-01T07:00:00Z",
+    "active": false,
+    "huc": 100401050908,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Dry Ck nr Van Norman Valier",
+    "elevation": "2330",
+    "basinarea": 2551.0,
+    "awdb_id": "06131000",
+    "usgs_id": "6131000",
+    "usgsname": "Big Dry Creek near Van Norman MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

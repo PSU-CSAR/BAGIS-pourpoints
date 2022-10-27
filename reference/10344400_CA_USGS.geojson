@@ -14953,6 +14953,22 @@
   ],
   "properties": {
     "name": "L Truckee R ab Boca Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1900",
+    "countyname": "Nevada",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160501020107,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "L Truckee R ab Boca Reservoir",
+    "elevation": "5619",
+    "basinarea": 146.0,
+    "awdb_id": "10344400",
+    "usgs_id": "10344400",
+    "usgsname": "LITTLE TRUCKEE R AB BOCA RES NR TRUCKEE CA",
+    "forecastpoint": true,
+    "bagis_aoiname": "l truckee r ab boca reservoir",
+    "aoi_exist": true
   }
 }

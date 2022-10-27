@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Weminuche Pass Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1948",
+    "countyname": "Hinsdale",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801011101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weminuche Pass Ditch",
+    "elevation": "10598",
+    "basinarea": null,
+    "awdb_id": "CO0036",
+    "usgs_id": "CO0036",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

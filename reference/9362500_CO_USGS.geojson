@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Animas-La Plata Project Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/2008",
+    "countyname": "La Plata",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801040901,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Animas-La Plata Project Diversion",
+    "elevation": "6460",
+    "basinarea": null,
+    "awdb_id": "9362500",
+    "usgs_id": "9362500",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

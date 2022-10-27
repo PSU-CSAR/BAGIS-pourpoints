@@ -21041,6 +21041,22 @@
   ],
   "properties": {
     "name": "White R nr Buckley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1928",
+    "countyname": "King",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100140403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "White R nr Buckley",
+    "elevation": "840",
+    "basinarea": 401.0,
+    "awdb_id": "12098500",
+    "usgs_id": "12098500",
+    "usgsname": "WHITE RIVER NEAR BUCKLEY, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "White nr Buckley",
+    "aoi_exist": true
   }
 }

@@ -23369,6 +23369,22 @@
   ],
   "properties": {
     "name": "St. Mary R at Intl Boundary",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1902",
+    "countyname": "Glacier",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 90400010701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St. Mary R at Intl Boundary",
+    "elevation": "4116",
+    "basinarea": 462.0,
+    "awdb_id": "05020500",
+    "usgs_id": "5020500",
+    "usgsname": "St. Mary River at International Boundary",
+    "forecastpoint": true,
+    "bagis_aoiname": "St. Mary R at Int'l Boundary",
+    "aoi_exist": true
   }
 }

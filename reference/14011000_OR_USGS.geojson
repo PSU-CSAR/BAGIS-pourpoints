@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "N F Walla Walla River nr Milton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1930",
+    "countyname": "Umatilla",
+    "enddate": "1969-10-31T08:00:00Z",
+    "active": false,
+    "huc": 170701020104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "N F Walla Walla River nr Milton",
+    "elevation": "1467",
+    "basinarea": 43.8,
+    "awdb_id": "14011000",
+    "usgs_id": "14011000",
+    "usgsname": "NO FK WALLA WALLA RIVER NR MILTON, OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

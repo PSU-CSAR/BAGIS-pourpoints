@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Belle Fourche R at Wy-Sd State Line",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Brookings",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101202020110,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Belle Fourche R at Wy-Sd State Line",
+    "elevation": "3096",
+    "basinarea": 3232.0,
+    "awdb_id": "06428500",
+    "usgs_id": "6428500",
+    "usgsname": "BELLE FOURCHE R AT WY-SD STATE LINE",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

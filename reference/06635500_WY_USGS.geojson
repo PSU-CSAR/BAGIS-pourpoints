@@ -165208,7 +165208,23 @@
     }
   ],
   "properties": {
-    "name": "Seminoe Reservoir Inflow",
-    "source": "ref"
+    "name": "North Platte R bl Seminoe Reservoir",
+    "source": "ref",
+    "begindate": "1/1/1905",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101800030402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Platte R bl Seminoe Reservoir",
+    "elevation": "5930",
+    "basinarea": 7230.0,
+    "awdb_id": "06635500",
+    "usgs_id": "6635500",
+    "usgsname": "SEMINOE RESERVOIR NEAR LEO, WYO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Seminoe Reservoir Inflow",
+    "aoi_exist": true
   }
 }

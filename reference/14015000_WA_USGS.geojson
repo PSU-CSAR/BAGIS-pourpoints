@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mill Ck at Walla Walla",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/11/1941",
+    "countyname": "Walla Walla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701020701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mill Ck at Walla Walla",
+    "elevation": "1120",
+    "basinarea": 95.7,
+    "awdb_id": "14015000",
+    "usgs_id": "14015000",
+    "usgsname": "MILL CREEK AT WALLA WALLA, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": "Mill Ck nr Walla Walla",
+    "aoi_exist": true
   }
 }

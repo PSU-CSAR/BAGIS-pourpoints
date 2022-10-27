@@ -9177,6 +9177,22 @@
   ],
   "properties": {
     "name": "Flint Ck nr Southern Cross",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1940",
+    "countyname": "Granite",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102020105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Flint Ck nr Southern Cross",
+    "elevation": "5630",
+    "basinarea": 54.0,
+    "awdb_id": "12325500",
+    "usgs_id": "12325500",
+    "usgsname": "Flint Creek near Southern Cross MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Flint Creek near Southern Cross MT",
+    "aoi_exist": true
   }
 }

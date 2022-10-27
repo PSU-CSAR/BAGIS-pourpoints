@@ -10305,6 +10305,22 @@
   ],
   "properties": {
     "name": "Muddy Ck nr Emery",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Emery",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140700020204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Muddy Ck nr Emery",
+    "elevation": "6400",
+    "basinarea": 105.0,
+    "awdb_id": "09330500",
+    "usgs_id": "9330500",
+    "usgsname": "MUDDY CREEK NEAR EMERY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "muddy ck nr emery",
+    "aoi_exist": true
   }
 }

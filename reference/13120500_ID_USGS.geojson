@@ -25465,6 +25465,22 @@
   ],
   "properties": {
     "name": "Big Lost R at Howell Ranch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1904",
+    "countyname": "Custer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402180403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Lost R at Howell Ranch",
+    "elevation": "6622",
+    "basinarea": 440.0,
+    "awdb_id": "13120500",
+    "usgs_id": "13120500",
+    "usgsname": "BIG LOST RIVER AT HOWELL RANCH NR CHILLY ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Big Lost R at Howell Ranch",
+    "aoi_exist": true
   }
 }

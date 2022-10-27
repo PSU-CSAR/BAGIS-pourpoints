@@ -32537,6 +32537,22 @@
   ],
   "properties": {
     "name": "Naches R nr Naches",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1909",
+    "countyname": "Yakima",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300020312,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Naches R nr Naches",
+    "elevation": "1550",
+    "basinarea": 941.0,
+    "awdb_id": "12494000",
+    "usgs_id": "12494000",
+    "usgsname": "NACHES RIVER BELOW TIETON RIVER NEAR NACHES, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Naches R nr Naches",
+    "aoi_exist": true
   }
 }

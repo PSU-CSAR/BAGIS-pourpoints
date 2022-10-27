@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bear R nr Collinston, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1902",
+    "countyname": "Box Elder",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 160102040501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bear R nr Collinston, UT",
+    "elevation": "4276",
+    "basinarea": 6271.0,
+    "awdb_id": "10118000",
+    "usgs_id": "10118000",
+    "usgsname": "BEAR RIVER NEAR COLLINSTON, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

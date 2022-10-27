@@ -18657,6 +18657,22 @@
   ],
   "properties": {
     "name": "Rockport Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010404,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rockport Reservoir Inflow",
+    "elevation": "5900",
+    "basinarea": 335.0,
+    "awdb_id": "10129500",
+    "usgs_id": "10129500",
+    "usgsname": "WEBER RIVER NEAR WANSHIP, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "rockport reservoir inflow",
+    "aoi_exist": true
   }
 }

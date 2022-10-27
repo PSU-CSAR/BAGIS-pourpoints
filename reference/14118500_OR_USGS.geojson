@@ -10649,6 +10649,22 @@
   ],
   "properties": {
     "name": "WF Hood R nr Dee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1913",
+    "countyname": "Hood River",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701050603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "WF Hood R nr Dee",
+    "elevation": "802",
+    "basinarea": 95.6,
+    "awdb_id": "14118500",
+    "usgs_id": "14118500",
+    "usgsname": "WEST FORK HOOD RIVER NEAR DEE,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "WF Hood River nr Dee",
+    "aoi_exist": true
   }
 }

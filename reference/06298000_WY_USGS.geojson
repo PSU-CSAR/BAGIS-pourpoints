@@ -16401,6 +16401,22 @@
   ],
   "properties": {
     "name": "Tongue R nr Dayton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/1/1918",
+    "countyname": "Sheridan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100901010207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tongue R nr Dayton",
+    "elevation": "4060",
+    "basinarea": 206.0,
+    "awdb_id": "06298000",
+    "usgs_id": "6298000",
+    "usgsname": "TONGUE RIVER NEAR DAYTON, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "tongue r nr dayton",
+    "aoi_exist": true
   }
 }

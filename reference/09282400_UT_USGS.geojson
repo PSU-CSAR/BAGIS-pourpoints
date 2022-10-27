@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Syar Tunnel",
-    "source": "ref"
+    "name": "Syar Tunnel Inlet",
+    "source": "ref",
+    "begindate": "5/1/1932",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600040103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Syar Tunnel Inlet",
+    "elevation": "7587",
+    "basinarea": null,
+    "awdb_id": "09282400",
+    "usgs_id": "9282400",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

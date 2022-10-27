@@ -16521,6 +16521,22 @@
   ],
   "properties": {
     "name": "Uncompahgre R bl Ridgway Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18980401",
+    "countyname": "Ouray",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200060209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Uncompahgre R bl Ridgway Reservoir",
+    "elevation": "6650",
+    "basinarea": 265.0,
+    "awdb_id": "09147025",
+    "usgs_id": "9147025",
+    "usgsname": "UNCOMPAHGRE RIVER BELOW RIDGWAY RESERVOIR, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "ridgway reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

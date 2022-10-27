@@ -20457,6 +20457,22 @@
   ],
   "properties": {
     "name": "South Umpqua R at Tiller",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003020306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Umpqua R at Tiller",
+    "elevation": "992",
+    "basinarea": 449.0,
+    "awdb_id": "14308000",
+    "usgs_id": "14308000",
+    "usgsname": "SOUTH UMPQUA RIVER AT TILLER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "South Umpqua R at Tiller",
+    "aoi_exist": true
   }
 }

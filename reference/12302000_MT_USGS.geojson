@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fisher R nr Jennings",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1951",
+    "countyname": "Lincoln",
+    "enddate": "1969-10-09T07:00:00Z",
+    "active": false,
+    "huc": 170101020306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fisher R nr Jennings",
+    "elevation": "2434",
+    "basinarea": 784.0,
+    "awdb_id": "12302000",
+    "usgs_id": "12302000",
+    "usgsname": "Fisher River near Jennings MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

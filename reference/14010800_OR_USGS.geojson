@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "N F Walla Walla River nr Milton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "Umatilla",
+    "enddate": "1991-10-08T07:00:00Z",
+    "active": false,
+    "huc": 170701020104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "N F Walla Walla River nr Milton",
+    "elevation": "1940",
+    "basinarea": 34.4,
+    "awdb_id": "14010800",
+    "usgs_id": "14010800",
+    "usgsname": "NORTH FRK WALLA WALLA RIVER NR MILTON FREEWATER,OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

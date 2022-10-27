@@ -28729,6 +28729,22 @@
   ],
   "properties": {
     "name": "SF Payette R at Lowman",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1941",
+    "countyname": "Boise",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501200306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Payette R at Lowman",
+    "elevation": "3790",
+    "basinarea": 446.0,
+    "awdb_id": "13235000",
+    "usgs_id": "13235000",
+    "usgsname": "SOUTH FORK PAYETTE RIVER AT LOWMAN, ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "SF Payette R at Lowman",
+    "aoi_exist": true
   }
 }

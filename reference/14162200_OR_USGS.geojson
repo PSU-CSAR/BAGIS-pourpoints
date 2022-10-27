@@ -9281,6 +9281,22 @@
   ],
   "properties": {
     "name": "Blue Lake Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1966",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900040403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blue Lake Inflow",
+    "elevation": "1057",
+    "basinarea": 87.7,
+    "awdb_id": "14162200",
+    "usgs_id": "14162200",
+    "usgsname": "BLUE RIVER AT BLUE RIVER, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Blue Lake Inflow",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Moffat Water Tunnel at East Portal",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "6/1/1936",
+    "countyname": "Gilpin",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900050501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Moffat Water Tunnel at East Portal",
+    "elevation": "9422",
+    "basinarea": null,
+    "awdb_id": "09022500",
+    "usgs_id": "9022500",
+    "usgsname": "MOFFAT WATER TUNNEL AT EAST PORTAL, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

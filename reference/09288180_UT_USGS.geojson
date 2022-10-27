@@ -32145,6 +32145,22 @@
   ],
   "properties": {
     "name": "Strawberry R nr Duchesne",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1904",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600040805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Strawberry R nr Duchesne",
+    "elevation": "5722",
+    "basinarea": 917.0,
+    "awdb_id": "09288180",
+    "usgs_id": "9288180",
+    "usgsname": "STRAWBERRY RIVER NEAR DUCHESNE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "strawberry r nr duchesne (2)",
+    "aoi_exist": true
   }
 }

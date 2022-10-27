@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Susitna R at Gold Creek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1949",
+    "countyname": "Matanuska-Susitna",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190205012403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Susitna R at Gold Creek",
+    "elevation": "682",
+    "basinarea": 6130.0,
+    "awdb_id": "15292000",
+    "usgs_id": "15292000",
+    "usgsname": "SUSITNA R AT GOLD CREEK AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

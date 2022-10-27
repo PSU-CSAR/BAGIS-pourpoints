@@ -57793,6 +57793,22 @@
   ],
   "properties": {
     "name": "Rogue R at Grants Pass",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "Josephine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003080402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rogue R at Grants Pass",
+    "elevation": "884",
+    "basinarea": 2459.0,
+    "awdb_id": "14361500",
+    "usgs_id": "14361500",
+    "usgsname": "ROGUE RIVER AT GRANTS PASS, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Rogue R at Grants Pass",
+    "aoi_exist": true
   }
 }

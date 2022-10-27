@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rogue River nr Mcleod",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1965",
+    "countyname": "Jackson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003070701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rogue River nr Mcleod",
+    "elevation": "1489",
+    "basinarea": 938.0,
+    "awdb_id": "14337600",
+    "usgs_id": "14337600",
+    "usgsname": "ROGUE RIVER NEAR MCLEOD, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

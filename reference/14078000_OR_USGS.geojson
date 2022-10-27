@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Beaver Creek nr Paulina",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1942",
+    "countyname": "Grant",
+    "enddate": "1986-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171200020304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver Creek nr Paulina",
+    "elevation": "3690",
+    "basinarea": 450.0,
+    "awdb_id": "14078000",
+    "usgs_id": "14078000",
+    "usgsname": "BEAVER CREEK NEAR PAULINA,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

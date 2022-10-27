@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Willow Ck nr Glen",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1962",
+    "countyname": "Beaverhead",
+    "enddate": "1999-10-31T07:00:00Z",
+    "active": false,
+    "huc": 100200041302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Willow Ck nr Glen",
+    "elevation": "6020",
+    "basinarea": 36.1,
+    "awdb_id": "06025800",
+    "usgs_id": "6025800",
+    "usgsname": "Willow Creek near Glen MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

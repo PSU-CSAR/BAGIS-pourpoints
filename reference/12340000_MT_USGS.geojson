@@ -60369,6 +60369,22 @@
   ],
   "properties": {
     "name": "Blackfoot R nr Bonner",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18980701",
+    "countyname": "Missoula",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102031308,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Blackfoot R nr Bonner",
+    "elevation": "3345",
+    "basinarea": 2287.0,
+    "awdb_id": "12340000",
+    "usgs_id": "12340000",
+    "usgsname": "Blackfoot River near Bonner MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Blackfoot River near Bonner MT",
+    "aoi_exist": true
   }
 }

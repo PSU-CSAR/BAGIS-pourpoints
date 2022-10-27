@@ -17681,6 +17681,22 @@
   ],
   "properties": {
     "name": "Price R nr Scofield Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18890701",
+    "countyname": "Carbon",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600070206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Price R nr Scofield Reservoir",
+    "elevation": "7570",
+    "basinarea": 154.0,
+    "awdb_id": "09311000",
+    "usgs_id": "9311000",
+    "usgsname": "SCOFIELD RESERVOIR NEAR SCOFIELD, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "price river nr scofield reservoir (2)",
+    "aoi_exist": true
   }
 }

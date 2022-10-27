@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Wurtz Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1948",
+    "countyname": "Eagle",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100030201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wurtz Ditch",
+    "elevation": "10532",
+    "basinarea": null,
+    "awdb_id": "CO0040",
+    "usgs_id": "CO0040",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

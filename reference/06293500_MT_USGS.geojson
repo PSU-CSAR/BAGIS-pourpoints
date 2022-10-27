@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Bighorn R nr Crow Agency",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/11/1912",
+    "countyname": "Big Horn",
+    "enddate": "1960-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100800160504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Bighorn R nr Crow Agency",
+    "elevation": "3045",
+    "basinarea": 1175.0,
+    "awdb_id": "06293500",
+    "usgs_id": "6293500",
+    "usgsname": "Little Bighorn River nr Crow Agency MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

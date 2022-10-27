@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "N. Fk Flint Ck nr Anaconda",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1970",
+    "countyname": "Deer Lodge",
+    "enddate": "1983-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102010305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "N. Fk Flint Ck nr Anaconda",
+    "elevation": "5250",
+    "basinarea": null,
+    "awdb_id": "12324910",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

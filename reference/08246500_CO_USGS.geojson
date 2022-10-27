@@ -19857,6 +19857,22 @@
   ],
   "properties": {
     "name": "Conejos R nr Mogote",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1903",
+    "countyname": "Conejos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100050405,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Conejos R nr Mogote",
+    "elevation": "8274",
+    "basinarea": 282.0,
+    "awdb_id": "08246500",
+    "usgs_id": "8246500",
+    "usgsname": "CONEJOS RIVER NEAR MOGOTE, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "conejos r nr mogote (2)",
+    "aoi_exist": true
   }
 }

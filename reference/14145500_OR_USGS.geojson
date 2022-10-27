@@ -21177,6 +21177,22 @@
   ],
   "properties": {
     "name": "Hills Creek Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1913",
+    "countyname": "Lane",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170900010505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hills Creek Reservoir Inflow",
+    "elevation": "1208",
+    "basinarea": 392.0,
+    "awdb_id": "14145500",
+    "usgs_id": "14145500",
+    "usgsname": "MF WILLAMETTE RIVER ABV SALT CRK, NEAR OAKRIDGE,OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Hills Creek Reservoir Inflow",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Boreas Pass Ditch at Boreas Pass",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1932",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900010402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boreas Pass Ditch at Boreas Pass",
+    "elevation": "11485",
+    "basinarea": null,
+    "awdb_id": "09046000",
+    "usgs_id": "9046000",
+    "usgsname": "BOREAS PASS DITCH AT BOREAS PASS, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

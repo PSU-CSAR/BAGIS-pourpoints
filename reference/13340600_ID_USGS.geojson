@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "North Fork Clearwater R nr Canyon Rs, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1967",
+    "countyname": "Clearwater",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170603071002,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "North Fork Clearwater R nr Canyon Rs, ID",
+    "elevation": "1660",
+    "basinarea": 1296.0,
+    "awdb_id": "13340600",
+    "usgs_id": "13340600",
+    "usgsname": "NF CLEARWATER RIVER NR CANYON RANGER STATION ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

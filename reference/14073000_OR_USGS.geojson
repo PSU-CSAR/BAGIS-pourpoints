@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tumalo Ck nr Bend",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1913",
+    "countyname": "Deschutes",
+    "enddate": "2001-01-01T08:00:00Z",
+    "active": false,
+    "huc": 170703010502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tumalo Ck nr Bend",
+    "elevation": "3567",
+    "basinarea": 47.3,
+    "awdb_id": "14073000",
+    "usgs_id": "14073000",
+    "usgsname": "TUMALO CREEK NEAR BEND,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

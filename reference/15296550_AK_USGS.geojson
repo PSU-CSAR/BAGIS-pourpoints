@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Upper Thumb R nr Larsen Bay AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1974",
+    "countyname": "Kodiak Island",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190207010803,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Upper Thumb R nr Larsen Bay AK",
+    "elevation": "380",
+    "basinarea": 19.8,
+    "awdb_id": "15296550",
+    "usgs_id": "15296550",
+    "usgsname": "EAST FORK UPPER THUMB R BL N FORK NR LARSEN BAY AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

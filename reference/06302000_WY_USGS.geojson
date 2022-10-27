@@ -10897,6 +10897,22 @@
   ],
   "properties": {
     "name": "Big Goose Ck nr Sheridan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1930",
+    "countyname": "Sheridan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100901010104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Goose Ck nr Sheridan",
+    "elevation": "4505",
+    "basinarea": 120.0,
+    "awdb_id": "06302000",
+    "usgs_id": "6302000",
+    "usgsname": "BIG GOOSE CREEK NEAR SHERIDAN, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": "big goose ck nr sheridan",
+    "aoi_exist": true
   }
 }

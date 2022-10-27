@@ -19329,6 +19329,22 @@
   ],
   "properties": {
     "name": "Elwha at Mcdonald Bridge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18971001",
+    "countyname": "Clallam",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100200512,
+    "winter_start_month": 12,
+    "winter_end_month": 4,
+    "nwccname": "Elwha at Mcdonald Bridge",
+    "elevation": "200",
+    "basinarea": 269.0,
+    "awdb_id": "12045500",
+    "usgs_id": "12045500",
+    "usgsname": "ELWHA RIVER AT MCDONALD BR NEAR PORT ANGELES, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Elwha nr Port Angeles",
+    "aoi_exist": true
   }
 }

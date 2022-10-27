@@ -16441,6 +16441,22 @@
   ],
   "properties": {
     "name": "Little Bear R at Paradise",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "Cache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160102030105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Bear R at Paradise",
+    "elevation": "4740",
+    "basinarea": 182.0,
+    "awdb_id": "10105900",
+    "usgs_id": "10105900",
+    "usgsname": "LITTLE BEAR RIVER AT PARADISE, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "little bear at paradise",
+    "aoi_exist": true
   }
 }

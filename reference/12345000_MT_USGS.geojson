@@ -8073,6 +8073,22 @@
   ],
   "properties": {
     "name": "Como Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1922",
+    "countyname": "Ravalli",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102050805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Como Reservoir Inflow",
+    "elevation": "4070",
+    "basinarea": 54.4,
+    "awdb_id": "12345000",
+    "usgs_id": "12345000",
+    "usgsname": "Rock Creek near Darby MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Rock Creek near Darby MT",
+    "aoi_exist": true
   }
 }

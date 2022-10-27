@@ -110792,7 +110792,23 @@
     }
   ],
   "properties": {
-    "name": "Boysen Reservoir Inflow",
-    "source": "ref"
+    "name": "Wind R bl Boysen Reservoir",
+    "source": "ref",
+    "begindate": "1/1/1951",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800050607,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wind R bl Boysen Reservoir",
+    "elevation": "4609",
+    "basinarea": 7701.0,
+    "awdb_id": "06259000",
+    "usgs_id": "6259000",
+    "usgsname": "WIND RIVER BELOW BOYSEN RESERVOIR, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

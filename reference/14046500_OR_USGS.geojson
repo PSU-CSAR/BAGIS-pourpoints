@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "John Day R at Service Creek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1929",
+    "countyname": "Wheeler",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170702040201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "John Day R at Service Creek",
+    "elevation": "1632",
+    "basinarea": 5090.0,
+    "awdb_id": "14046500",
+    "usgs_id": "14046500",
+    "usgsname": "JOHN DAY RIVER AT SERVICE CREEK, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

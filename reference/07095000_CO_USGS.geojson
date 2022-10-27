@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Grape Ck nr Westcliffe",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1925",
+    "countyname": "Custer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200011213,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Grape Ck nr Westcliffe",
+    "elevation": "7690",
+    "basinarea": 320.0,
+    "awdb_id": "07095000",
+    "usgs_id": "7095000",
+    "usgsname": "GRAPE CREEK NEAR WESTCLIFFE, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "grape ck nr westcliffe",
+    "aoi_exist": true
   }
 }

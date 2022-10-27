@@ -28521,6 +28521,22 @@
   ],
   "properties": {
     "name": "Lima Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1911",
+    "countyname": "Beaverhead",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200011401,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lima Reservoir Inflow",
+    "elevation": "6530",
+    "basinarea": 566.0,
+    "awdb_id": "06012500",
+    "usgs_id": "6012500",
+    "usgsname": "Red Rock R bl Lima Reservoir nr Monida MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "lima reservoir inflow",
+    "aoi_exist": true
   }
 }

@@ -2008,7 +2008,23 @@
     }
   ],
   "properties": {
-    "name": "King Canyon Ck nr Carson City",
-    "source": "ref"
+    "name": "Kings Canyon Ck nr Carson City",
+    "source": "ref",
+    "begindate": "9/1/1916",
+    "countyname": "Carson City",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160502010505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kings Canyon Ck nr Carson City",
+    "elevation": "5180",
+    "basinarea": 4.06,
+    "awdb_id": "10311100",
+    "usgs_id": "10311100",
+    "usgsname": "KINGS CYN CK NR CARSON CITY, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "king canyon ck nr carson city",
+    "aoi_exist": true
   }
 }

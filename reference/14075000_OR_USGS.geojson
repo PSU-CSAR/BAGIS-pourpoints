@@ -8184,7 +8184,23 @@
     }
   ],
   "properties": {
-    "name": "Wychus Ck nr Sisters",
-    "source": "ref"
+    "name": "Whychus Ck nr Sisters",
+    "source": "ref",
+    "begindate": "1/1/1906",
+    "countyname": "Deschutes",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703010702,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Whychus Ck nr Sisters",
+    "elevation": "3490",
+    "basinarea": 45.2,
+    "awdb_id": "14075000",
+    "usgs_id": "14075000",
+    "usgsname": "WHYCHUS CREEK NEAR SISTERS, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

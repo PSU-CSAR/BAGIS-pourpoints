@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Spring City Tunnel Near Spring City, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Sanpete",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600090202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Spring City Tunnel Near Spring City, UT",
+    "elevation": "9838",
+    "basinarea": null,
+    "awdb_id": "09323000",
+    "usgs_id": "9323000",
+    "usgsname": "SPRING CITY TUNNEL NEAR SPRING CITY, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

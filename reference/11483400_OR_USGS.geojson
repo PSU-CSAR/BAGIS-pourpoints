@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gerber Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1904",
+    "countyname": "Klamath",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180102040508,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gerber Reservoir Inflow",
+    "elevation": "4835",
+    "basinarea": 220.0,
+    "awdb_id": "11483400",
+    "usgs_id": "11483400",
+    "usgsname": "GERBER RESERVOIR NEAR LORELLA,OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "gerber resvervoir inflow",
+    "aoi_exist": true
   }
 }

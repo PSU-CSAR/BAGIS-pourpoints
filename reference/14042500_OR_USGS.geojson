@@ -12593,6 +12593,22 @@
   ],
   "properties": {
     "name": "Camas Ck nr Ukiah",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1914",
+    "countyname": "Umatilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170702020505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Camas Ck nr Ukiah",
+    "elevation": "3589",
+    "basinarea": 121.0,
+    "awdb_id": "14042500",
+    "usgs_id": "14042500",
+    "usgsname": "CAMAS CREEK NEAR UKIAH, OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Camas Ck nr Ukiah",
+    "aoi_exist": true
   }
 }

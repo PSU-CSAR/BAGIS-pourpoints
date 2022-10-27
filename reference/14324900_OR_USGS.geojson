@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF Coquille R nr Powers",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1956",
+    "countyname": "Curry",
+    "enddate": "2016-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171003060202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Coquille R nr Powers",
+    "elevation": "5885",
+    "basinarea": 93.2,
+    "awdb_id": "14324900",
+    "usgs_id": "14324900",
+    "usgsname": "SF COQUILLE R NR POWERS OREG",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

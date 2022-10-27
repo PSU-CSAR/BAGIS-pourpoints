@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bighorn Lake (Yellowtail) Inflow-USBR",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1965",
+    "countyname": "Big Horn",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800150302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bighorn Lake (Yellowtail) Inflow-USBR",
+    "elevation": "3158",
+    "basinarea": null,
+    "awdb_id": "06286399",
+    "usgs_id": "6286399",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

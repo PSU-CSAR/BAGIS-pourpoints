@@ -11217,6 +11217,22 @@
   ],
   "properties": {
     "name": "Kinlichee Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1956",
+    "countyname": "Apache",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150200110108,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kinlichee Ck",
+    "elevation": "6570",
+    "basinarea": null,
+    "awdb_id": "KINLCHEE",
+    "usgs_id": "KINLCHEE",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "kinlichee ck",
+    "aoi_exist": true
   }
 }

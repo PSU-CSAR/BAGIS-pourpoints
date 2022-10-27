@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "WF Big Goose Ck nr Big Horn",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1953",
+    "countyname": "Sheridan",
+    "enddate": "2002-09-01T07:00:00Z",
+    "active": false,
+    "huc": 100901010102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "WF Big Goose Ck nr Big Horn",
+    "elevation": "8420",
+    "basinarea": 24.4,
+    "awdb_id": "06301500",
+    "usgs_id": "6301500",
+    "usgsname": "WEST FORK BIG GOOSE CREEK NEAR BIG HORN, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

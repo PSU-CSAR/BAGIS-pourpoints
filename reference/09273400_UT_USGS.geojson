@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Hades Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1987",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hades Diversion",
+    "elevation": "9193",
+    "basinarea": null,
+    "awdb_id": "09273400",
+    "usgs_id": "9273400",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

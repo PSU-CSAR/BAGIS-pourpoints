@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Don Pedro Reservoir Near La Grange, Ca (",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Amador",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180400091206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Don Pedro Reservoir Near La Grange, Ca (",
+    "elevation": "475",
+    "basinarea": null,
+    "awdb_id": "1128750N",
+    "usgs_id": "1128750N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

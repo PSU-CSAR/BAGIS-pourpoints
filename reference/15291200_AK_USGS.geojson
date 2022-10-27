@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Maclaren R nr Paxson AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1958",
+    "countyname": "Matanuska-Susitna",
+    "enddate": "1986-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190205010607,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Maclaren R nr Paxson AK",
+    "elevation": "2866",
+    "basinarea": 295.0,
+    "awdb_id": "15291200",
+    "usgs_id": "15291200",
+    "usgsname": "MACLAREN R NR PAXSON AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

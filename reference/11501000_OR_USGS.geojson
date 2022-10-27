@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sprague R nr Chiloquin",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1920",
+    "countyname": "Klamath",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180102020715,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sprague R nr Chiloquin",
+    "elevation": "4202",
+    "basinarea": 1565.0,
+    "awdb_id": "11501000",
+    "usgs_id": "11501000",
+    "usgsname": "SPRAGUE RIVER NEAR CHILOQUIN, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "sprague r nr chiloquin",
+    "aoi_exist": true
   }
 }

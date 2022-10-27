@@ -9409,6 +9409,22 @@
   ],
   "properties": {
     "name": "Lake Fk R ab Moon Lk nr Mountain Home",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1933",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lake Fk R ab Moon Lk nr Mountain Home",
+    "elevation": "8180",
+    "basinarea": 77.9,
+    "awdb_id": "09289500",
+    "usgs_id": "9289500",
+    "usgsname": "LAKE FORK RIVER AB MOON LAKE, NR MOUNTAIN HOME, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "lake fork r moon lake inflow",
+    "aoi_exist": true
   }
 }

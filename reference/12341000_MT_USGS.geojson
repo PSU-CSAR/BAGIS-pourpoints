@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rattle Snake Ck at MissouLa",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18990527",
+    "countyname": "Missoula",
+    "enddate": "1967-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102040104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rattle Snake Ck at MissouLa",
+    "elevation": "3220",
+    "basinarea": 80.7,
+    "awdb_id": "12341000",
+    "usgs_id": "12341000",
+    "usgsname": "Rattlesnake Creek at Missoula MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

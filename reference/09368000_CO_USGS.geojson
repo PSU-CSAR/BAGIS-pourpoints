@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Crystal Creek Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/1/1949",
+    "countyname": "Montezuma",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801070102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Crystal Creek Ditch",
+    "elevation": "9835",
+    "basinarea": 12900.0,
+    "awdb_id": "09368000",
+    "usgs_id": "9368000",
+    "usgsname": "SAN JUAN RIVER AT SHIPROCK, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

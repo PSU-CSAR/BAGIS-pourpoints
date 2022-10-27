@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Chapman Canal at State Line, nr Evanston",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Uinta",
+    "enddate": "1992-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160101010502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chapman Canal at State Line, nr Evanston",
+    "elevation": "6570",
+    "basinarea": 0.01,
+    "awdb_id": "10019500",
+    "usgs_id": "10019500",
+    "usgsname": "CHAPMAN CANAL AT STATE LINE NEAR EVANSTON, WYO",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sangre De Cristo Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1950",
+    "countyname": "Costilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100020605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sangre De Cristo Ditch",
+    "elevation": "7897",
+    "basinarea": null,
+    "awdb_id": "08241400",
+    "usgs_id": "8241400",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

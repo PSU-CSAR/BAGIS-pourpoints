@@ -24913,6 +24913,22 @@
   ],
   "properties": {
     "name": "Greybull R at Meeteetse",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1920",
+    "countyname": "Park",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800090304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Greybull R at Meeteetse",
+    "elevation": "5739",
+    "basinarea": 681.0,
+    "awdb_id": "06276500",
+    "usgs_id": "6276500",
+    "usgsname": "GREYBULL RIVER AT MEETEETSE, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "greybull r nr meeteetse",
+    "aoi_exist": true
   }
 }

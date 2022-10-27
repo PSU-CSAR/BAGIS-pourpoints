@@ -21449,6 +21449,22 @@
   ],
   "properties": {
     "name": "Elk R nr Milner",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1904",
+    "countyname": "Routt",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500010306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Elk R nr Milner",
+    "elevation": "6590",
+    "basinarea": 448.0,
+    "awdb_id": "09242500",
+    "usgs_id": "9242500",
+    "usgsname": "ELK RIVER NEAR MILNER, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "elk r nr milner",
+    "aoi_exist": true
   }
 }

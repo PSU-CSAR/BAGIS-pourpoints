@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Gunnison - Crystal Res",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/2004",
+    "countyname": "Montrose",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140200021101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gunnison - Crystal Res",
+    "elevation": "7346",
+    "basinarea": null,
+    "awdb_id": "09127600",
+    "usgs_id": "9127600",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

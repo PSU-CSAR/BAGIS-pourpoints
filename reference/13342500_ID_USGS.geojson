@@ -121769,6 +121769,22 @@
   ],
   "properties": {
     "name": "Clearwater R at Spalding",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Nez Perce",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170603061308,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clearwater R at Spalding",
+    "elevation": "770",
+    "basinarea": 9283.0,
+    "awdb_id": "13342500",
+    "usgs_id": "13342500",
+    "usgsname": "CLEARWATER RIVER AT SPALDING ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Clearwater R at Spalding",
+    "aoi_exist": true
   }
 }

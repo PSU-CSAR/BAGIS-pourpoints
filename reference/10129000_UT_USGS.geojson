@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Weber-Provo Divers Canal at Oakley, UT",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1938",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weber-Provo Divers Canal at Oakley, UT",
+    "elevation": "6500",
+    "basinarea": null,
+    "awdb_id": "10129000",
+    "usgs_id": "10129000",
+    "usgsname": "WEBER-PROVO DIVERSION CANAL AT OAKLEY, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

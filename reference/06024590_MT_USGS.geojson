@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Wise R nr Wise R",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/28/1972",
+    "countyname": "Beaverhead",
+    "enddate": "1985-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100200040908,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wise R nr Wise R",
+    "elevation": "6113",
+    "basinarea": 221.0,
+    "awdb_id": "06024590",
+    "usgs_id": "6024590",
+    "usgsname": "Wise River near Wise River MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -18097,6 +18097,22 @@
   ],
   "properties": {
     "name": "San Miguel R nr Placerville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "San Miguel",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140300030305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "San Miguel R nr Placerville",
+    "elevation": "7030",
+    "basinarea": 309.0,
+    "awdb_id": "09172500",
+    "usgs_id": "9172500",
+    "usgsname": "SAN MIGUEL RIVER NEAR PLACERVILLE, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "san miguel r nr placerville",
+    "aoi_exist": true
   }
 }

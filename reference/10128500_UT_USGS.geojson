@@ -12249,6 +12249,22 @@
   ],
   "properties": {
     "name": "Weber R nr Oakley",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1904",
+    "countyname": "Summit",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160201010206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weber R nr Oakley",
+    "elevation": "6640",
+    "basinarea": 162.0,
+    "awdb_id": "10128500",
+    "usgs_id": "10128500",
+    "usgsname": "WEBER RIVER NEAR OAKLEY, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "weber r nr oakley",
+    "aoi_exist": true
   }
 }

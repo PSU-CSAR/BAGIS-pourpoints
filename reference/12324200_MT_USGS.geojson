@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Clark Fk at Deer Lodge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1978",
+    "countyname": "Powell",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102010707,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Clark Fk at Deer Lodge",
+    "elevation": "4502",
+    "basinarea": 1001.0,
+    "awdb_id": "12324200",
+    "usgs_id": "12324200",
+    "usgsname": "Clark Fork at Deer Lodge MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

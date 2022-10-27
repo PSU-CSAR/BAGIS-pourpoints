@@ -37369,6 +37369,22 @@
   ],
   "properties": {
     "name": "Lewis R at Ariel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "7/1/1909",
+    "countyname": "Cowlitz",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170800020606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Lewis R at Ariel",
+    "elevation": "44",
+    "basinarea": 731.0,
+    "awdb_id": "14220500",
+    "usgs_id": "14220500",
+    "usgsname": "LEWIS RIVER AT ARIEL, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Lewis R at Ariel",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Church Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1952",
+    "countyname": "Jefferson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900040402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Church Ditch",
+    "elevation": "5700",
+    "basinarea": null,
+    "awdb_id": "200540",
+    "usgs_id": "200540",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

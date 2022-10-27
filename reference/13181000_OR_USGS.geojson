@@ -116089,6 +116089,22 @@
   ],
   "properties": {
     "name": "Owyhee R nr Rome",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1949",
+    "countyname": "Malheur",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170501070705,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Owyhee R nr Rome",
+    "elevation": "3344",
+    "basinarea": 8000.0,
+    "awdb_id": "13181000",
+    "usgs_id": "13181000",
+    "usgsname": "OWYHEE RIVER NR ROME OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Owyhee R nr Rome",
+    "aoi_exist": true
   }
 }

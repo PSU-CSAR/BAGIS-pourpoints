@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rathdrum Prairie Canal at Heutter, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1946",
+    "countyname": "Kootenai",
+    "enddate": "1993-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170103050200,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rathdrum Prairie Canal at Heutter, ID",
+    "elevation": "2272",
+    "basinarea": null,
+    "awdb_id": "12418000",
+    "usgs_id": "12418000",
+    "usgsname": "RATHDRUM PRAIRIE CANAL NR HUETTER ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

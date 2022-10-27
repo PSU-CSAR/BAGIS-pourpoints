@@ -31456,7 +31456,23 @@
     }
   ],
   "properties": {
-    "name": "Rock Ck nr Battle Mtn",
-    "source": "ref"
+    "name": "Rock Ck nr Battle Mountain",
+    "source": "ref",
+    "begindate": "4/1/1918",
+    "countyname": "Eureka",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401060507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rock Ck nr Battle Mountain",
+    "elevation": "4670",
+    "basinarea": 863.75,
+    "awdb_id": "10324500",
+    "usgs_id": "10324500",
+    "usgsname": "ROCK CK NR BATTLE MOUNTAIN, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "Rock Ck nr Battle Mtn",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Deer Creek Resv Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1952",
+    "countyname": "Wasatch",
+    "enddate": "2017-01-01T08:00:00Z",
+    "active": false,
+    "huc": 160202030503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deer Creek Resv Inflow",
+    "elevation": "5270",
+    "basinarea": 547.0,
+    "awdb_id": "10159501",
+    "usgs_id": "10159501",
+    "usgsname": "DUMMY STATION FOR JIM-DEER CREEK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -28897,6 +28897,22 @@
   ],
   "properties": {
     "name": "Yampa R at Steamboat Springs",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1904",
+    "countyname": "Routt",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140500010409,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Yampa R at Steamboat Springs",
+    "elevation": "6695",
+    "basinarea": 567.0,
+    "awdb_id": "09239500",
+    "usgs_id": "9239500",
+    "usgsname": "YAMPA RIVER AT STEAMBOAT SPRINGS, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "yampa r at steamboat springs (2)",
+    "aoi_exist": true
   }
 }

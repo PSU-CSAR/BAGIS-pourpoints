@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Fremont R nr Bicknell",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/13/1909",
+    "countyname": "Wayne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140700030301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Fremont R nr Bicknell",
+    "elevation": "6920",
+    "basinarea": 751.0,
+    "awdb_id": "09330000",
+    "usgs_id": "9330000",
+    "usgsname": "FREMONT RIVER NEAR BICKNELL, UT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

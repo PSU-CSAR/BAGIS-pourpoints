@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Piute Resv Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1937",
+    "countyname": "Piute",
+    "enddate": "2000-01-01T08:00:00Z",
+    "active": false,
+    "huc": 160300010608,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Piute Resv Inflow",
+    "elevation": "5870",
+    "basinarea": null,
+    "awdb_id": "10191501",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

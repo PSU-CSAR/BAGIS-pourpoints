@@ -9361,6 +9361,22 @@
   ],
   "properties": {
     "name": "East Clear Ck bl Blue Ridge Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "9/1/1936",
+    "countyname": "Coconino",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150200080303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "East Clear Ck bl Blue Ridge Reservoir",
+    "elevation": "6620",
+    "basinarea": 71.1,
+    "awdb_id": "09398300",
+    "usgs_id": "9398300",
+    "usgsname": "CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)",
+    "forecastpoint": true,
+    "bagis_aoiname": "blue ridge reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

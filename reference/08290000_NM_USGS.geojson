@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rio Chama nr Chamita",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1912",
+    "countyname": "Rio Arriba",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201021604,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Chama nr Chamita",
+    "elevation": "5654",
+    "basinarea": 3144.0,
+    "awdb_id": "08290000",
+    "usgs_id": "8290000",
+    "usgsname": "RIO CHAMA NEAR CHAMITA, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

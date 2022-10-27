@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Malad River at Woodruff,id",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/19/1938",
+    "countyname": "Oneida",
+    "enddate": "1983-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160102040302,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Malad River at Woodruff,id",
+    "elevation": "4355",
+    "basinarea": 472.0,
+    "awdb_id": "10125500",
+    "usgs_id": "10125500",
+    "usgsname": "MALAD RIVER AT WOODRUFF ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

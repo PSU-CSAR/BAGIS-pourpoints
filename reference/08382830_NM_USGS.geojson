@@ -57937,6 +57937,22 @@
   ],
   "properties": {
     "name": "Pecos R bl Santa Rosa Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18931101",
+    "countyname": "Guadalupe",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130600011111,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pecos R bl Santa Rosa Dam",
+    "elevation": "4640",
+    "basinarea": 2430.0,
+    "awdb_id": "08382830",
+    "usgs_id": "8382830",
+    "usgsname": "PECOS RIVER BELOW SANTA ROSA DAM, NM",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

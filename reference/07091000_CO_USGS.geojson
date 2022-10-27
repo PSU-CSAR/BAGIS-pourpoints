@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Chalk Ck nr Nathrop",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1949",
+    "countyname": "Chaffee",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200010502,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chalk Ck nr Nathrop",
+    "elevation": "8113",
+    "basinarea": 82.7,
+    "awdb_id": "07091000",
+    "usgs_id": "7091000",
+    "usgsname": "CHALK CREEK NEAR NATHROP, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "chalk ck nr nathrop",
+    "aoi_exist": true
   }
 }

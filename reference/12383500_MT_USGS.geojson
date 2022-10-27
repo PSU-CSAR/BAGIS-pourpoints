@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Big Knife Ck nr Arlee",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1910",
+    "countyname": "Lake",
+    "enddate": "2010-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102120707,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Knife Ck nr Arlee",
+    "elevation": "3720",
+    "basinarea": 6.86,
+    "awdb_id": "12383500",
+    "usgs_id": "12383500",
+    "usgsname": "Big Knife Creek near Arlee MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

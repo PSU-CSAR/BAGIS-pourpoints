@@ -155537,6 +155537,22 @@
   ],
   "properties": {
     "name": "Flaming Gorge Resvr Local bl Fontenelle",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/1/1962",
+    "countyname": "Daggett",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401060805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Flaming Gorge Resvr Local bl Fontenelle",
+    "elevation": "5594",
+    "basinarea": null,
+    "awdb_id": "09234300",
+    "usgs_id": "9234300",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "flaming gorge reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

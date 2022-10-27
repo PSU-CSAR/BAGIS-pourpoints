@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sultan River blw Chaplain Cr nr Sultan,",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1974",
+    "countyname": "Snohomish",
+    "enddate": "1984-10-16T07:00:00Z",
+    "active": false,
+    "huc": 171100090503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sultan River blw Chaplain Cr nr Sultan,",
+    "elevation": "300",
+    "basinarea": 92.6,
+    "awdb_id": "12138150",
+    "usgs_id": "12138150",
+    "usgsname": "SULTAN RIVER BELOW CHAPLAIN CREEK NEAR SULTAN, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

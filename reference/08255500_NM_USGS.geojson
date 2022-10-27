@@ -14833,6 +14833,22 @@
   ],
   "properties": {
     "name": "Costilla Ck nr Costilla",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/7/1936",
+    "countyname": "Taos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201010106,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Costilla Ck nr Costilla",
+    "elevation": "7936",
+    "basinarea": 195.0,
+    "awdb_id": "08255500",
+    "usgs_id": "8255500",
+    "usgsname": "COSTILLA CREEK NEAR COSTILLA, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "costilla ck nr costilla (2)",
+    "aoi_exist": true
   }
 }

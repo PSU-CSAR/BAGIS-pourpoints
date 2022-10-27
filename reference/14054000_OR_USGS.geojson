@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Deschutes R bl Crane Prairie",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1922",
+    "countyname": "Deschutes",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703010207,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deschutes R bl Crane Prairie",
+    "elevation": "4420",
+    "basinarea": 254.0,
+    "awdb_id": "14054000",
+    "usgs_id": "14054000",
+    "usgsname": "DESCHUTES R BL CRANE PRAIRIE RES NR LA PINE,OREG",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

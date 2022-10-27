@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "St Mary Ca at Hudson Bay nr Browning",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1917",
+    "countyname": "Glacier",
+    "enddate": "1984-08-01T07:00:00Z",
+    "active": false,
+    "huc": 100500010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "St Mary Ca at Hudson Bay nr Browning",
+    "elevation": "4380",
+    "basinarea": null,
+    "awdb_id": "05019000",
+    "usgs_id": "5019000",
+    "usgsname": "St. Mary Canal at Hudson Bay Divide nr Browning",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

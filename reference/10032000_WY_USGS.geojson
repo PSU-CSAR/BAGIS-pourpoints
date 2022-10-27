@@ -12065,6 +12065,22 @@
   ],
   "properties": {
     "name": "Smiths Fk nr Border",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1942",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160101020105,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Smiths Fk nr Border",
+    "elevation": "6650",
+    "basinarea": 165.0,
+    "awdb_id": "10032000",
+    "usgs_id": "10032000",
+    "usgsname": "SMITHS FORK NEAR BORDER, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "smit fk nr border",
+    "aoi_exist": true
   }
 }

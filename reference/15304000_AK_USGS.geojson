@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kuskokwim R at Crooked Creek",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1951",
+    "countyname": "Bethel",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190305011102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kuskokwim R at Crooked Creek",
+    "elevation": "150",
+    "basinarea": 31100.0,
+    "awdb_id": "15304000",
+    "usgs_id": "15304000",
+    "usgsname": "KUSKOKWIM R AT CROOKED CREEK AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

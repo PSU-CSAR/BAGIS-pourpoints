@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Eagle Ck nr Eagleville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1961",
+    "countyname": "Modoc",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180800010306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Eagle Ck nr Eagleville",
+    "elevation": "4750",
+    "basinarea": 6.36,
+    "awdb_id": "10360230",
+    "usgs_id": "10360230",
+    "usgsname": "EAGLE C A EAGLEVILLE CA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

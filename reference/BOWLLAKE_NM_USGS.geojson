@@ -4521,6 +4521,22 @@
   ],
   "properties": {
     "name": "Bowl Canyon Ck ab Asaayi Lake",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "3/1/1979",
+    "countyname": "McKinley",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 150200060301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bowl Canyon Ck ab Asaayi Lake",
+    "elevation": "7520",
+    "basinarea": null,
+    "awdb_id": "BOWLLAKE",
+    "usgs_id": "BOWLLAKE",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "bowl canyon ck ab asaayi lake",
+    "aoi_exist": true
   }
 }

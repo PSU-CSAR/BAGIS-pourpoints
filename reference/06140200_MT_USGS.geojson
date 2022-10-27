@@ -13121,6 +13121,22 @@
   ],
   "properties": {
     "name": "Beaver Ck nr Havre",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1918",
+    "countyname": "Hill",
+    "enddate": "2001-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100500040103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Beaver Ck nr Havre",
+    "elevation": "2700",
+    "basinarea": null,
+    "awdb_id": "06140200",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": "Beaver Ck nr Havre",
+    "aoi_exist": true
   }
 }

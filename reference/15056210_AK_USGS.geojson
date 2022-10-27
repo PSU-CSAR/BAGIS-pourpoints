@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Taiya R nr Skagway",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1969",
+    "countyname": "Skagway",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190103030104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Taiya R nr Skagway",
+    "elevation": "50",
+    "basinarea": 178.0,
+    "awdb_id": "15056210",
+    "usgs_id": "15056210",
+    "usgsname": "TAIYA R NR SKAGWAY AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

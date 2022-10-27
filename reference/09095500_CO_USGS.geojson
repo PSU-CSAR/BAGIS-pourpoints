@@ -131417,6 +131417,22 @@
   ],
   "properties": {
     "name": "Colorado R nr Cameo",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1933",
+    "countyname": "Mesa",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100051407,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Colorado R nr Cameo",
+    "elevation": "4814",
+    "basinarea": 7986.0,
+    "awdb_id": "09095500",
+    "usgs_id": "9095500",
+    "usgsname": "COLORADO RIVER NEAR CAMEO, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "colorado r nr cameo (2)",
+    "aoi_exist": true
   }
 }

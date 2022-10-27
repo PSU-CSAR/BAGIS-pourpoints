@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Coeur D'Alene Local & Evap",
-    "source": "ref"
+    "name": "Coeur DAlene Local  Evap",
+    "source": "ref",
+    "begindate": "10/1/1912",
+    "countyname": "Kootenai",
+    "enddate": "2003-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170103050304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Coeur DAlene Local  Evap",
+    "elevation": "2050",
+    "basinarea": 14.8,
+    "awdb_id": "12415400",
+    "usgs_id": "12415400",
+    "usgsname": "COUGAR CREEK NR COEUR D ALENE ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

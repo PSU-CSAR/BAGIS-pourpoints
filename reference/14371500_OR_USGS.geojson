@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Grave Ck at Pease Bridge",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1940",
+    "countyname": "Jackson",
+    "enddate": "1990-01-01T08:00:00Z",
+    "active": false,
+    "huc": 171003100301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Grave Ck at Pease Bridge",
+    "elevation": "2354",
+    "basinarea": 22.1,
+    "awdb_id": "14371500",
+    "usgs_id": "14371500",
+    "usgsname": "GRAVE CREEK AT PEASE BRIDGE,NEAR PLACER,OREG.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -18657,6 +18657,22 @@
   ],
   "properties": {
     "name": "Big Thompson R at Canyon Mouth",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1927",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900060603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Big Thompson R at Canyon Mouth",
+    "elevation": "5305",
+    "basinarea": 305.0,
+    "awdb_id": "06738000",
+    "usgs_id": "6738000",
+    "usgsname": "BIG THOMPSON RIVER AT MOUTH OF CANYON NR DRAKE, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "big thompson r at canyon mouth",
+    "aoi_exist": true
   }
 }

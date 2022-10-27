@@ -19785,6 +19785,22 @@
   ],
   "properties": {
     "name": "WF Bitterroot R nr Conner",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1941",
+    "countyname": "Ravalli",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170102050301,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "WF Bitterroot R nr Conner",
+    "elevation": "4581",
+    "basinarea": 317.0,
+    "awdb_id": "12342500",
+    "usgs_id": "12342500",
+    "usgsname": "West Fork Bitterroot River nr Conner MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "West Fork Bitterroot River nr Conner MT",
+    "aoi_exist": true
   }
 }

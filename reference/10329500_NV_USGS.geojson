@@ -13384,7 +13384,23 @@
     }
   ],
   "properties": {
-    "name": "Martin Ck nr Paradise",
-    "source": "ref"
+    "name": "Martin Ck nr Paradise Valley",
+    "source": "ref",
+    "begindate": "10/1/1921",
+    "countyname": "Humboldt",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401090506,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Martin Ck nr Paradise Valley",
+    "elevation": "4700",
+    "basinarea": 175.25,
+    "awdb_id": "10329500",
+    "usgs_id": "10329500",
+    "usgsname": "MARTIN CK NR PARADISE VALLEY, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "Martin Ck nr Paradise",
+    "aoi_exist": true
   }
 }

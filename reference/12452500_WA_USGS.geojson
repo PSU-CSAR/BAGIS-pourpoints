@@ -39865,6 +39865,22 @@
   ],
   "properties": {
     "name": "Chelan R at Chelan",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "11/1/1903",
+    "countyname": "Chelan",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170200090305,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Chelan R at Chelan",
+    "elevation": "1090",
+    "basinarea": 924.0,
+    "awdb_id": "12452500",
+    "usgs_id": "12452500",
+    "usgsname": "CHELAN RIVER AT CHELAN, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Chelan R at Chelan",
+    "aoi_exist": true
   }
 }

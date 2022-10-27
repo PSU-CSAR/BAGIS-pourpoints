@@ -99153,6 +99153,22 @@
   ],
   "properties": {
     "name": "Humboldt R at Palisade",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1902",
+    "countyname": "Eureka",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 160401011206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Humboldt R at Palisade",
+    "elevation": "4826",
+    "basinarea": 5053.0,
+    "awdb_id": "10322500",
+    "usgs_id": "10322500",
+    "usgsname": "HUMBOLDT RV AT PALISADE, NV",
+    "forecastpoint": true,
+    "bagis_aoiname": "Humboldt R at Palisades",
+    "aoi_exist": true
   }
 }

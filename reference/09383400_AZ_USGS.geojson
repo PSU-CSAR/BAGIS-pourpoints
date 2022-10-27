@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Colorado River at Greer",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "8/1/1960",
+    "countyname": "Apache",
+    "enddate": "2017-04-10T07:00:00Z",
+    "active": false,
+    "huc": 150200010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Colorado River at Greer",
+    "elevation": "8283",
+    "basinarea": 29.1,
+    "awdb_id": "09383400",
+    "usgs_id": "9383400",
+    "usgsname": "LITTLE COLORADO RIVER AT GREER, AZ",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

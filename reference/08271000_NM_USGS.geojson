@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Rio Lucero nr Arroyo Seco",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1913",
+    "countyname": "Taos",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201010603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Lucero nr Arroyo Seco",
+    "elevation": "8051",
+    "basinarea": 16.6,
+    "awdb_id": "08271000",
+    "usgs_id": "8271000",
+    "usgsname": "RIO LUCERO NEAR ARROYO SECO, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

@@ -23441,6 +23441,22 @@
   ],
   "properties": {
     "name": "Ruby R Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1938",
+    "countyname": "Madison",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200030308,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ruby R Reservoir Inflow",
+    "elevation": "5400",
+    "basinarea": 534.0,
+    "awdb_id": "06019500",
+    "usgs_id": "6019500",
+    "usgsname": "Ruby River above reservoir near Alder, MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "ruby r reservoir inflow",
+    "aoi_exist": true
   }
 }

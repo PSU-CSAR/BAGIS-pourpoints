@@ -13457,6 +13457,22 @@
   ],
   "properties": {
     "name": "Rock Ck nr Mountain Home",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18890701",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rock Ck nr Mountain Home",
+    "elevation": "7250",
+    "basinarea": 147.0,
+    "awdb_id": "09279000",
+    "usgs_id": "9279000",
+    "usgsname": "ROCK CREEK NEAR MOUNTAIN HOME, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": "rock ck nr mountain home (2)",
+    "aoi_exist": true
   }
 }

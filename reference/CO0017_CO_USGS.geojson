@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Otero Pump Station",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "12/1/1985",
+    "countyname": "Chaffee",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200010406,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Otero Pump Station",
+    "elevation": "8000",
+    "basinarea": null,
+    "awdb_id": "CO0017",
+    "usgs_id": "CO0017",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

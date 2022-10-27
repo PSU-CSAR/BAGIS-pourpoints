@@ -12633,6 +12633,22 @@
   ],
   "properties": {
     "name": "Sangre De Cristo Ck",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1916",
+    "countyname": "Costilla",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100020605,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sangre De Cristo Ck",
+    "elevation": "7900",
+    "basinarea": 190.0,
+    "awdb_id": "08241500",
+    "usgs_id": "8241500",
+    "usgsname": "SANGRE DE CRISTO CREEK NEAR FORT GARLAND, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "sangre de cristo ck (2)",
+    "aoi_exist": true
   }
 }

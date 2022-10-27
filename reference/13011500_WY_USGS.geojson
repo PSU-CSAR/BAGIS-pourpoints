@@ -16945,6 +16945,22 @@
   ],
   "properties": {
     "name": "Pacific Ck at Moran",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1917",
+    "countyname": "Teton",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170401010304,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Pacific Ck at Moran",
+    "elevation": "6720",
+    "basinarea": 169.0,
+    "awdb_id": "13011500",
+    "usgs_id": "13011500",
+    "usgsname": "PACIFIC CREEK AT MORAN WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "Pacific Ck at Moran",
+    "aoi_exist": true
   }
 }

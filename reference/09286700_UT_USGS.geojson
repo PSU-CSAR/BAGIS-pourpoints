@@ -5929,6 +5929,22 @@
   ],
   "properties": {
     "name": "Currant Ck bl Currant Ck Dam",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1945",
+    "countyname": "Wasatch",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600040402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Currant Ck bl Currant Ck Dam",
+    "elevation": "7550",
+    "basinarea": 48.0,
+    "awdb_id": "09286700",
+    "usgs_id": "9286700",
+    "usgsname": "CURRANT CRK BLW CURRANT CRK DAM, NR FRUITLAND, UT",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

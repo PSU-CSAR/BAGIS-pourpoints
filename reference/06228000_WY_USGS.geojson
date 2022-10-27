@@ -64849,6 +64849,22 @@
   ],
   "properties": {
     "name": "Wind R at Riverton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1912",
+    "countyname": "Fremont",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100800011004,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Wind R at Riverton",
+    "elevation": "4902",
+    "basinarea": 2309.0,
+    "awdb_id": "06228000",
+    "usgs_id": "6228000",
+    "usgsname": "WIND RIVER AT RIVERTON, WY",
+    "forecastpoint": true,
+    "bagis_aoiname": "wind r at riverton",
+    "aoi_exist": true
   }
 }

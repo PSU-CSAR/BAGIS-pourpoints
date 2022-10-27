@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Moulton Resv Inflow nr Butte",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Silver Bow",
+    "enddate": "1990-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170102010203,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Moulton Resv Inflow nr Butte",
+    "elevation": "6800",
+    "basinarea": null,
+    "awdb_id": "12323100",
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

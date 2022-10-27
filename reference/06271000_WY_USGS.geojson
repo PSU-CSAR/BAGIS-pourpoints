@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Tensleep Ck nr Ten Sleep",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1910",
+    "countyname": "Washakie",
+    "enddate": "1972-10-26T07:00:00Z",
+    "active": false,
+    "huc": 100800080306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Tensleep Ck nr Ten Sleep",
+    "elevation": "4540",
+    "basinarea": 247.0,
+    "awdb_id": "06271000",
+    "usgs_id": "6271000",
+    "usgsname": "TENSLEEP CREEK NEAR TENSLEEP, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

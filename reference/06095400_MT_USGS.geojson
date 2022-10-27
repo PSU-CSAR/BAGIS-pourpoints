@@ -14345,6 +14345,22 @@
   ],
   "properties": {
     "name": "Dupuyer Ck nr Valier",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1947",
+    "countyname": "Pondera",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100302010504,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Dupuyer Ck nr Valier",
+    "elevation": "3920",
+    "basinarea": null,
+    "awdb_id": "06095400",
+    "usgs_id": "6095400",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "dupuyer ck nr valier",
+    "aoi_exist": true
   }
 }

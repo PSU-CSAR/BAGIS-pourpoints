@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Salmon River at Riggins, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1951",
+    "countyname": "Idaho",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170602100505,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Salmon River at Riggins, ID",
+    "elevation": "1760",
+    "basinarea": 576.0,
+    "awdb_id": "13316500",
+    "usgs_id": "13316500",
+    "usgsname": "LITTLE SALMON RIVER AT RIGGINS ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

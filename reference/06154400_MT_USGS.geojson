@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Peoples Ck nr Hays",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1966",
+    "countyname": "Blaine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100500090206,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Peoples Ck nr Hays",
+    "elevation": "2714",
+    "basinarea": 227.0,
+    "awdb_id": "06154400",
+    "usgs_id": "6154400",
+    "usgsname": "Peoples Creek near Hays MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -8985,6 +8985,22 @@
   ],
   "properties": {
     "name": "Gallinas Ck nr Montezuma",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1926",
+    "countyname": "San Miguel",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130600010805,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Gallinas Ck nr Montezuma",
+    "elevation": "6880",
+    "basinarea": 84.0,
+    "awdb_id": "08380500",
+    "usgs_id": "8380500",
+    "usgsname": "GALLINAS CREEK NEAR MONTEZUMA, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "gallinas ck nr montezuma",
+    "aoi_exist": true
   }
 }

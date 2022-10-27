@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Koyukuk R at Hughes AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/16/1960",
+    "countyname": "Yukon-Koyukuk",
+    "enddate": "1982-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190901080606,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Koyukuk R at Hughes AK",
+    "elevation": "250",
+    "basinarea": 17990.0,
+    "awdb_id": "15564900",
+    "usgs_id": "15564900",
+    "usgsname": "KOYUKUK R AT HUGHES AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

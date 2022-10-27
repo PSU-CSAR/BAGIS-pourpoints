@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Vat Diversion",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1985",
+    "countyname": "Duchesne",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140600030103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Vat Diversion",
+    "elevation": "7750",
+    "basinarea": null,
+    "awdb_id": "09274898",
+    "usgs_id": "9274898",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

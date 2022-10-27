@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mccloud R ab Shasta Lk Ca (NWS)",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/31/1945",
+    "countyname": "Shasta",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 180200040501,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mccloud R ab Shasta Lk Ca (NWS)",
+    "elevation": "1100",
+    "basinarea": null,
+    "awdb_id": "1136800N",
+    "usgs_id": "1136800N",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

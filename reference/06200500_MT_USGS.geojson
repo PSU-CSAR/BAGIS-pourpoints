@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Sweet Grass Ck abv Melville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1913",
+    "countyname": "Sweet Grass",
+    "enddate": "1969-10-01T07:00:00Z",
+    "active": false,
+    "huc": 100700021202,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Sweet Grass Ck abv Melville",
+    "elevation": "5490",
+    "basinarea": 60.4,
+    "awdb_id": "06200500",
+    "usgs_id": "6200500",
+    "usgsname": "Sweet Grass Creek above Melville MT",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

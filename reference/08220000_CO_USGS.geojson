@@ -41297,6 +41297,22 @@
   ],
   "properties": {
     "name": "Rio Grande nr Del Norte",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "18900101",
+    "countyname": "Rio Grande",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130100011306,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Grande nr Del Norte",
+    "elevation": "7980",
+    "basinarea": 1320.0,
+    "awdb_id": "08220000",
+    "usgs_id": "8220000",
+    "usgsname": "RIO GRANDE NEAR DEL NORTE, CO",
+    "forecastpoint": true,
+    "bagis_aoiname": "rio grande nr del norte (2)",
+    "aoi_exist": true
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Kadashan R nr Tenakee, AK",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1964",
+    "countyname": "Sitka",
+    "enddate": "1979-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190102110310,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Kadashan R nr Tenakee, AK",
+    "elevation": "3",
+    "basinarea": 38.3,
+    "awdb_id": "15107000",
+    "usgs_id": "15107000",
+    "usgsname": "KADASHAN R NR TENAKEE AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

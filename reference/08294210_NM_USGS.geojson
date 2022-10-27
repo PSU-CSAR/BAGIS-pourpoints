@@ -6241,6 +6241,22 @@
   ],
   "properties": {
     "name": "Rio Nambe bl Nambe Falls Dam nr Nambe",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1935",
+    "countyname": "Santa Fe",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 130201011201,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rio Nambe bl Nambe Falls Dam nr Nambe",
+    "elevation": "6840",
+    "basinarea": 34.1,
+    "awdb_id": "08294210",
+    "usgs_id": "8294210",
+    "usgsname": "RIO NAMBE BELOW NAMBE FALLS DAM NEAR NAMBE, NM",
+    "forecastpoint": true,
+    "bagis_aoiname": "nambe falls reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

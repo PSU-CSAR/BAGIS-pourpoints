@@ -9,7 +9,23 @@
     ]
   },
   "properties": {
-    "name": "Trinidad Lake Inflow",
-    "source": "ref"
+    "name": "Purgatoire R at Trinidad",
+    "source": "ref",
+    "begindate": "18961001",
+    "countyname": "Las Animas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 110200100601,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Purgatoire R at Trinidad",
+    "elevation": "5980",
+    "basinarea": 749.0,
+    "awdb_id": "07124500",
+    "usgs_id": "7124500",
+    "usgsname": "PURGATOIRE RIVER AT TRINIDAD, CO.",
+    "forecastpoint": true,
+    "bagis_aoiname": "trinidad lake inflow",
+    "aoi_exist": true
   }
 }

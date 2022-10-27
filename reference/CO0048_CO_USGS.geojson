@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Weber Reservoir Outlet",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1900",
+    "countyname": "Montezuma",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140801070101,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Weber Reservoir Outlet",
+    "elevation": "8200",
+    "basinarea": null,
+    "awdb_id": "CO0048",
+    "usgs_id": "CO0048",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Ochoco Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "2/10/1920",
+    "countyname": "Crook",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170703050403,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Ochoco Reservoir Inflow",
+    "elevation": "3050",
+    "basinarea": 300.0,
+    "awdb_id": "14085100",
+    "usgs_id": "14085100",
+    "usgsname": "OCHOCO RESERVOIR NEAR PRINEVILLE, OR",
+    "forecastpoint": true,
+    "bagis_aoiname": "Ochoco Reservoir Inflow",
+    "aoi_exist": true
   }
 }

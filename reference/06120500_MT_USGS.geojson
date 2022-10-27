@@ -31297,6 +31297,22 @@
   ],
   "properties": {
     "name": "Musselshell R at Harlowton",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1907",
+    "countyname": "Wheatland",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100402011003,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Musselshell R at Harlowton",
+    "elevation": "4171",
+    "basinarea": 1108.0,
+    "awdb_id": "06120500",
+    "usgs_id": "6120500",
+    "usgsname": "Musselshell River at Harlowton MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "Musselshell R at Harlowton",
+    "aoi_exist": true
   }
 }

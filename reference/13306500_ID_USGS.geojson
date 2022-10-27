@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Panther Creek Near Shoup, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1944",
+    "countyname": "Lemhi",
+    "enddate": "1978-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170602031204,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Panther Creek Near Shoup, ID",
+    "elevation": "3150",
+    "basinarea": 521.0,
+    "awdb_id": "13306500",
+    "usgs_id": "13306500",
+    "usgsname": "PANTHER CREEK NR SHOUP ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

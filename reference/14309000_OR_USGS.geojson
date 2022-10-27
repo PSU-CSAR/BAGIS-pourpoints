@@ -8609,6 +8609,22 @@
   ],
   "properties": {
     "name": "Cow Ck nr Azalea",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1926",
+    "countyname": "Douglas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171003020701,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cow Ck nr Azalea",
+    "elevation": "1694",
+    "basinarea": 78.0,
+    "awdb_id": "14309000",
+    "usgs_id": "14309000",
+    "usgsname": "COW CREEK NEAR AZALEA, OR",
+    "forecastpoint": false,
+    "bagis_aoiname": "Cow Ck nr Azalea",
+    "aoi_exist": true
   }
 }

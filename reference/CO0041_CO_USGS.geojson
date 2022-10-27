@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "August P Gumlick Tunnel",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1946",
+    "countyname": "Grand",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140100010402,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "August P Gumlick Tunnel",
+    "elevation": "10450",
+    "basinarea": null,
+    "awdb_id": "CO0041",
+    "usgs_id": "CO0041",
+    "usgsname": null,
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

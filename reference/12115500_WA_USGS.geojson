@@ -3201,6 +3201,22 @@
   ],
   "properties": {
     "name": "Rex R nr Cedar Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1945",
+    "countyname": "King",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100120102,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Rex R nr Cedar Falls",
+    "elevation": "1700",
+    "basinarea": 13.4,
+    "awdb_id": "12115500",
+    "usgs_id": "12115500",
+    "usgsname": "REX RIVER NEAR CEDAR FALLS, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Rex Rv near Cedar Falls",
+    "aoi_exist": true
   }
 }

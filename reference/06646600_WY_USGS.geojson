@@ -19633,6 +19633,22 @@
   ],
   "properties": {
     "name": "Deer Ck at Glenrock",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1961",
+    "countyname": "Converse",
+    "enddate": "1992-09-30T07:00:00Z",
+    "active": false,
+    "huc": 101800070905,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Deer Ck at Glenrock",
+    "elevation": "4980",
+    "basinarea": 213.0,
+    "awdb_id": "06646600",
+    "usgs_id": "6646600",
+    "usgsname": "DEER CREEK BELOW MILLAR WASTEWAY, AT GLENROCK, WY",
+    "forecastpoint": false,
+    "bagis_aoiname": "deer ck at glenrock",
+    "aoi_exist": true
   }
 }

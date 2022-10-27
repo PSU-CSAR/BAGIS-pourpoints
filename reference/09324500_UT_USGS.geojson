@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Cottonwood Ck nr Orangeville",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1909",
+    "countyname": "Emery",
+    "enddate": "2014-09-01T07:00:00Z",
+    "active": false,
+    "huc": 140600090209,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cottonwood Ck nr Orangeville",
+    "elevation": "6050",
+    "basinarea": 208.0,
+    "awdb_id": "09324500",
+    "usgs_id": "9324500",
+    "usgsname": "COTTONWOOD CREEK NEAR ORANGEVILLE, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "So Fk Ahtanum Cr at Conrad Rnch N Tampic",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1915",
+    "countyname": "Yakima",
+    "enddate": "1993-10-01T07:00:00Z",
+    "active": false,
+    "huc": 170300030103,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "So Fk Ahtanum Cr at Conrad Rnch N Tampic",
+    "elevation": "2400",
+    "basinarea": 24.8,
+    "awdb_id": "12501000",
+    "usgs_id": "12501000",
+    "usgsname": "SF AHTANUM CREEK AT CONRAD RANCH NR TAMPICO, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

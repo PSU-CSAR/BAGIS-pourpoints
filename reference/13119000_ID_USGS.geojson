@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Little Lost River Near Howe, ID",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/13/1921",
+    "countyname": "Butte",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402170704,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Lost River Near Howe, ID",
+    "elevation": "5700",
+    "basinarea": 697.0,
+    "awdb_id": "13119000",
+    "usgs_id": "13119000",
+    "usgsname": "LITTLE LOST RIVER NR HOWE, ID",
+    "forecastpoint": false,
+    "bagis_aoiname": "Little Lost R nr Howe",
+    "aoi_exist": true
   }
 }

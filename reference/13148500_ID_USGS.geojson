@@ -16769,6 +16769,22 @@
   ],
   "properties": {
     "name": "Little Wood R nr Carey",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1925",
+    "countyname": "Blaine",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170402210603,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Little Wood R nr Carey",
+    "elevation": "4991",
+    "basinarea": 310.0,
+    "awdb_id": "13148500",
+    "usgs_id": "13148500",
+    "usgsname": "LITTLE WOOD RIVER NR CAREY ID",
+    "forecastpoint": true,
+    "bagis_aoiname": "Little Wood R nr Carey",
+    "aoi_exist": true
   }
 }

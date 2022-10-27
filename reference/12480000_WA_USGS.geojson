@@ -12665,6 +12665,22 @@
   ],
   "properties": {
     "name": "Teanaway R bl Forks nr Cle Elum",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1967",
+    "countyname": "Kittitas",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170300010205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Teanaway R bl Forks nr Cle Elum",
+    "elevation": "2160",
+    "basinarea": 172.0,
+    "awdb_id": "12480000",
+    "usgs_id": "12480000",
+    "usgsname": "TEANAWAY RIVER BELOW FORKS NEAR CLE ELUM, WA",
+    "forecastpoint": true,
+    "bagis_aoiname": "Teanaway R bl Forks nr Cle Elum",
+    "aoi_exist": true
   }
 }

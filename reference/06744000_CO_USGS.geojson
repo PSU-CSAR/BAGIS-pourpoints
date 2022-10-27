@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Bob Creek Ditch",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "5/1/1940",
+    "countyname": "Larimer",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 101900070205,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Bob Creek Ditch",
+    "elevation": "10164",
+    "basinarea": 831.0,
+    "awdb_id": "06744000",
+    "usgs_id": "6744000",
+    "usgsname": "BIG THOMPSON RIVER AT MOUTH, NEAR LA SALLE, CO.",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

@@ -16945,6 +16945,22 @@
   ],
   "properties": {
     "name": "Butter Ck nr Pine City",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1926",
+    "countyname": "Morrow",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170701030907,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Butter Ck nr Pine City",
+    "elevation": "1400",
+    "basinarea": 291.0,
+    "awdb_id": "14032000",
+    "usgs_id": "14032000",
+    "usgsname": "BUTTER CREEK NEAR PINE CITY, OREG.",
+    "forecastpoint": true,
+    "bagis_aoiname": "Butter Ck nr Pine City",
+    "aoi_exist": true
   }
 }

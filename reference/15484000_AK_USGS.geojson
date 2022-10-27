@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Salcha R nr Salchaket",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1948",
+    "countyname": "Fairbanks North Star",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 190803050807,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Salcha R nr Salchaket",
+    "elevation": "632",
+    "basinarea": 2200.0,
+    "awdb_id": "15484000",
+    "usgs_id": "15484000",
+    "usgsname": "SALCHA R NR SALCHAKET AK",
+    "forecastpoint": true,
+    "bagis_aoiname": null,
+    "aoi_exist": false
   }
 }

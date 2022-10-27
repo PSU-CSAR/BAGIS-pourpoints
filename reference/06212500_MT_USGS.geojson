@@ -14313,6 +14313,22 @@
   ],
   "properties": {
     "name": "Cooney Reservoir Inflow",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1937",
+    "countyname": "Carbon",
+    "enddate": "2003-07-01T07:00:00Z",
+    "active": false,
+    "huc": 100700060806,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cooney Reservoir Inflow",
+    "elevation": "4139",
+    "basinarea": 205.0,
+    "awdb_id": "06212500",
+    "usgs_id": "6212500",
+    "usgsname": "Red Lodge Cr bl Cooney Reservoir nr Boyd MT",
+    "forecastpoint": false,
+    "bagis_aoiname": "cooney reservoir inflow",
+    "aoi_exist": true
   }
 }

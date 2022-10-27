@@ -20353,6 +20353,22 @@
   ],
   "properties": {
     "name": "Boulder R nr Boulder",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "1/1/1929",
+    "countyname": "Jefferson",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 100200060503,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Boulder R nr Boulder",
+    "elevation": "4810",
+    "basinarea": 381.0,
+    "awdb_id": "06033000",
+    "usgs_id": "6033000",
+    "usgsname": "Boulder River near Boulder MT",
+    "forecastpoint": true,
+    "bagis_aoiname": "boulder r nr boulder",
+    "aoi_exist": true
   }
 }

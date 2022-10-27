@@ -15273,6 +15273,22 @@
   ],
   "properties": {
     "name": "Hams Fk bl Viva Naughton Reservoir",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1960",
+    "countyname": "Lincoln",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 140401070507,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Hams Fk bl Viva Naughton Reservoir",
+    "elevation": "7160",
+    "basinarea": null,
+    "awdb_id": "09223100",
+    "usgs_id": "9223100",
+    "usgsname": null,
+    "forecastpoint": true,
+    "bagis_aoiname": "viva naughton reservoir inflow (2)",
+    "aoi_exist": true
   }
 }

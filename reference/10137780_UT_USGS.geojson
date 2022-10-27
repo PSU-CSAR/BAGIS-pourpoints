@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "Mf Ogden R abv Diversions",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1963",
+    "countyname": "Weber",
+    "enddate": "1974-10-01T07:00:00Z",
+    "active": false,
+    "huc": 160201020303,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Mf Ogden R abv Diversions",
+    "elevation": "5400",
+    "basinarea": 31.3,
+    "awdb_id": "10137780",
+    "usgs_id": "10137780",
+    "usgsname": "MIDDLE FK OGDEN RIVER AB DIV NR HUNTSVILLE, UTAH",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

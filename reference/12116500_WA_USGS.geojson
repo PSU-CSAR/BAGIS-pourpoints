@@ -11033,6 +11033,22 @@
   ],
   "properties": {
     "name": "Cedar R at Cedar Falls",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "4/1/1914",
+    "countyname": "King",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 171100120104,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "Cedar R at Cedar Falls",
+    "elevation": "902",
+    "basinarea": 84.2,
+    "awdb_id": "12116500",
+    "usgs_id": "12116500",
+    "usgsname": "CEDAR RIVER AT CEDAR FALLS, WA",
+    "forecastpoint": false,
+    "bagis_aoiname": "Cedar Rv at Cedar Falls",
+    "aoi_exist": true
   }
 }

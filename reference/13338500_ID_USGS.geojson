@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "South Fork Clearwater River at Stites, I",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1911",
+    "countyname": "Idaho",
+    "enddate": "2100-01-01T08:00:00Z",
+    "active": true,
+    "huc": 170603050903,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "South Fork Clearwater River at Stites, I",
+    "elevation": "1300",
+    "basinarea": 1168.0,
+    "awdb_id": "13338500",
+    "usgs_id": "13338500",
+    "usgsname": "SF CLEARWATER RIVER AT STITES ID",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }

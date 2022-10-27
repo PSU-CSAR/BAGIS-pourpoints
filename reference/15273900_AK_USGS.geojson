@@ -10,6 +10,22 @@
   },
   "properties": {
     "name": "SF Campbell C at Canyon Mth nr Anchorage",
-    "source": "ref"
+    "source": "ref",
+    "begindate": "10/1/1966",
+    "countyname": "Anchorage",
+    "enddate": "2014-10-01T07:00:00Z",
+    "active": false,
+    "huc": 190204010602,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": "SF Campbell C at Canyon Mth nr Anchorage",
+    "elevation": "520",
+    "basinarea": 25.9,
+    "awdb_id": "15273900",
+    "usgs_id": "15273900",
+    "usgsname": "SF CAMPBELL C AT CANYON MTH NR ANCHORAGE AK",
+    "forecastpoint": false,
+    "bagis_aoiname": null,
+    "aoi_exist": null
   }
 }
