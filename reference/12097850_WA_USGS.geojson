@@ -17,7 +17,8 @@
     "usgsname": "WHITE RIVER BELOW CLEARWATER RIVER NR BUCKLEY, WA",
     "forecastpoint": true,
     "bagis_aoiname": null,
-    "aoi_exist": false
+    "aoi_exist": false,
+    "source": "ref"
   },
   "geometry": {
     "type": "Point",

@@ -17,7 +17,8 @@
     "usgsname": "CLARK FORK RIVER BELOW CABINET GORGE DAM ID",
     "forecastpoint": true,
     "bagis_aoiname": null,
-    "aoi_exist": false
+    "aoi_exist": false,
+    "source": "ref"
   },
   "geometry": {
     "type": "Point",

@@ -72,6 +72,7 @@ def process_pourpoint(feature, reference_dir):
     else:
         print(f'Processing {feature_id} (ADD)...')
         ref_feature = feature
+        ref_feature['properties']['source'] = 'ref'
 
     write_reference(ref_file, ref_feature)
 

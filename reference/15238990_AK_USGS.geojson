@@ -17,7 +17,8 @@
     "usgsname": "UPPER BRADLEY R NR NUKA GLACIER NR HOMER AK",
     "forecastpoint": false,
     "bagis_aoiname": null,
-    "aoi_exist": null
+    "aoi_exist": null,
+    "source": "ref"
   },
   "geometry": {
     "type": "Point",

@@ -17,7 +17,8 @@
     "usgsname": "BEAR RIVER BELOW RESERVOIR, NEAR WOODRUFF, UT",
     "forecastpoint": false,
     "bagis_aoiname": null,
-    "aoi_exist": null
+    "aoi_exist": null,
+    "source": "ref"
   },
   "geometry": {
     "type": "Point",
