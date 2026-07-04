@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "id": "09UTGSLR:UT:BOR",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.213560000148,
+      40.7313299998958
+    ]
+  },
+  "properties": {
+    "name": "Great Salt Lake Rise",
+    "source": "ref",
+    "begindate": "10/1/1989",
+    "countyname": "Salt Lake",
+    "enddate": "2100-01-01T00:00:00Z",
+    "active": null,
+    "huc": 160203100200,
+    "winter_start_month": 11,
+    "winter_end_month": 3,
+    "nwccname": null,
+    "elevation": "4200",
+    "basinarea": null,
+    "awdb_id": null,
+    "usgs_id": null,
+    "usgsname": null,
+    "forecastpoint": null,
+    "bagis_aoiname": null,
+    "aoi_exist": null
+  }
+}

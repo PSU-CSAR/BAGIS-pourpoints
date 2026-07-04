@@ -4,8 +4,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -121.17338573927,
-      45.6073343762255
+      -121.189920000245,
+      45.6082700000693
     ]
   },
   "properties": {
@@ -20,7 +20,7 @@
     "winter_end_month": 3,
     "nwccname": "Columbia R at The Dalles-NWS",
     "elevation": "120",
-    "basinarea": 237000.0,
+    "basinarea": 237000,
     "awdb_id": "14105700",
     "usgs_id": "14105700",
     "usgsname": "COLUMBIA RIVER AT THE DALLES, OR",

@@ -5,8 +5,8 @@
     {
       "type": "Point",
       "coordinates": [
-        -117.44489616502,
-        46.6676539234091
+        -117.44490999997,
+        46.6676600003217
       ]
     },
     {
@@ -587275,7 +587275,7 @@
     "winter_end_month": 3,
     "nwccname": "Snake R bl Lower Granite Dam-NWS",
     "elevation": "675",
-    "basinarea": 103500.0,
+    "basinarea": 103500,
     "awdb_id": "13343600",
     "usgs_id": "13343600",
     "usgsname": "SNAKE RIVER BELOW LOWER GRANITE DAM, WA",

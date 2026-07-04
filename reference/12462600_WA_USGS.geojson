@@ -4,8 +4,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -120.081155545305,
-      47.3323441547071
+      -120.081179999652,
+      47.3323499998625
     ]
   },
   "properties": {
@@ -20,7 +20,7 @@
     "winter_end_month": 3,
     "nwccname": "Columbia R bl Rock Island Dam-NWS",
     "elevation": "500",
-    "basinarea": 89400.0,
+    "basinarea": 89400,
     "awdb_id": "12462600",
     "usgs_id": "12462600",
     "usgsname": "COLUMBIA RIVER BELOW ROCK ISLAND DAM, WA",

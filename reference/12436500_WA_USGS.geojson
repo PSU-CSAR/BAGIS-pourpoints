@@ -4,8 +4,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -118.982785588771,
-      47.9654239976624
+      -118.982799999595,
+      47.9654299998579
     ]
   },
   "properties": {
@@ -20,7 +20,7 @@
     "winter_end_month": 3,
     "nwccname": "Columbia R at Grand Coulee-NWS",
     "elevation": "900",
-    "basinarea": 74700.0,
+    "basinarea": 74700,
     "awdb_id": "12436500",
     "usgs_id": "12436500",
     "usgsname": "COLUMBIA RIVER AT GRAND COULEE, WA",
