@@ -69,29 +69,43 @@ station triplet should also be used for the `id`.
 
 For new reference records place the geojson file in the `reference` directory.
 
-Reference pourpoints need to be updated with the master list properies. After
-adding new records, run the script `bin/update-from-master-list.py`, which will
-pull the master list and iterate through all the reference pourpoint files,
-updating them with the master list properties. Note that the geometries will
-not be updated from the master list.
+Reference pourpoints need to be updated from the source ArcGIS feature
+services. After adding new records, run the script
+`bin/update-from-feature-services.py`, which pulls three feeds and iterates
+through all the reference pourpoint files:
+
+* **Base list** (`master_aoi_list_fs`): drives which records exist and their
+  properties. New points here are added to the reference set with a `source`
+  of `ref`.
+* **Point locations** (`stations_FCST_ACTIVE`): the source of truth for point
+  coordinates. Where a triplet matches, the reference file's point geometry is
+  overwritten from this service. Stations present here but absent from the base
+  list are added as new reference records from this feed's (narrower) schema,
+  with the base-only properties left `null` for later completion.
+* **Basin polygons** (`master_FCST_AOI_polygons`): where a triplet matches, the
+  reference file is enriched with the basin polygon (becoming a
+  `GeometryCollection`). Any polygon with no matching pourpoint in either point
+  feed is written to the `unmatched` directory for manual review.
 
 Review all changes from the update script via `git diff` to ensure nothing
 unexpected has happened.
 
-### New point-only record from master list
+### New point-only record from the base list
 
-When running the update script, any new points on the master list will be added
+When running the update script, any new points on the base list will be added
 to the reference set with a `source` of `ref`.
 
 ### Updating an existing record with a geometry
 
 Simply overwrite the existing file per the "Adding a new record" above. If the
-new record does not have all the properties from the master list, the update
-from the master list will resolve that.
+new record does not have all the properties from the base list, the update from
+the base list will resolve that. Note that point coordinates and basin polygons
+are refreshed from their feature services on each run, so any manual geometry
+edits to records present in those services will be overwritten.
 
 ### User pourpoints
 
-For pourpoints added by user request that do not match stations in the master
+For pourpoints added by user request that do not match stations in the base
 list, add them to the `user` directory. Ensure the file extension is `.geojson`
 and use the same format as detailed above. For the `source` property use
 `user`.
